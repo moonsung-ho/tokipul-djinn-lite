@@ -63,6 +63,6 @@ jobs:
             echo "변경된 상태 파일 없음 — 커밋 생략"
           fi
 
-          - name: 기록 페이지 생성
+      - name: 기록 페이지 생성
         run: python -m djinn_lite.site
 
