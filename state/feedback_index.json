@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260820190855051",
+    "message_ts": "1787285404.134639",
+    "posted_at_iso": "2026-08-21T04:10:04.369611+00:00",
+    "priority": "하",
+    "reason": "인조잔디 자재 선정 업체 신청 절차로 학생 생활규칙과 무관한 시설 자재 조달 행정이다.",
+    "title": "2026년 3분기 인조잔디 자재 선정 안내 및 참가 신청서 제출 요청",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260820190855051"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260820153039425",
+    "message_ts": "1787285404.428129",
+    "posted_at_iso": "2026-08-21T04:10:04.629039+00:00",
+    "priority": "하",
+    "reason": "교원 대상 콘텐츠 공모로 학생 당사자의 권리나 일상에 직접 영향을 주지 않는다.",
+    "title": "(교육연수원) 「내가 만든 콘텐츠가 직무연수로」 2026 인공지능(AI) 및 디지털 활용 마이크로러닝 콘텐츠 공모 안내",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260820153039425"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260820101857127",
+    "message_ts": "1787285404.699359",
+    "posted_at_iso": "2026-08-21T04:10:04.911589+00:00",
+    "priority": "하",
+    "reason": "교육행정지원센터 운영위원회 폐지 등 내부 행정규정 개정으로 학생 생활과 직접 관련이 없다.",
+    "title": "「서울특별시교육청 교육행정지원센터 운영 규정 일부개정규정」 발령",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260820101857127"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260820101607745",
+    "message_ts": "1787285404.972859",
+    "posted_at_iso": "2026-08-21T04:10:05.265360+00:00",
+    "priority": "하",
+    "reason": "교육청 자체 성과평가 체계 정비에 관한 내부 행정규칙으로 학생 당사자에게 규칙 변화로 와닿지 않는다.",
+    "title": "「서울특별시교육청 성과평가 등에 관한 규칙」 공포",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260820101607745"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260819085102776",
+    "message_ts": "1787285405.324649",
+    "posted_at_iso": "2026-08-21T04:10:05.537237+00:00",
+    "priority": "하",
+    "reason": "용역 제안서 평가위원 모집 공고로 학생 권리·의무와 무관한 행정 조달 절차이다.",
+    "title": "[재공고]쎈(SEN) 진학상담 프로그램 고도화를 위한 정보화전략계획(ISP) 수립 감리 용역 제안서평가위원(후보자) 모집 안내",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260819085102776"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-notice-20260818084408786",
+    "message_ts": "1787285405.636829",
+    "posted_at_iso": "2026-08-21T04:10:05.870443+00:00",
+    "priority": "하",
+    "reason": "영어 연수 용역 평가위원 모집으로 학생 당사자에게 직접 영향을 주지 않는 행정 절차이다.",
+    "title": "「2026 영어 수업·평가 전문성 신장 심화 연수」용역 제안서 평가위원(후보자) 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260818084408786"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-press-192002",
+    "message_ts": "1787285405.938099",
+    "posted_at_iso": "2026-08-21T04:10:06.171647+00:00",
+    "priority": "중",
+    "reason": "학생맞춤통합지원법 시행에 따른 학생 복지·심리지원 확대로 학생 삶에 영향을 주지만 대상이 528명으로 제한적이며 배경 취재가 더 필요하다.",
+    "title": "서울시교육청, 원스톱 학생맞춤통합지원으로 상반기 528명 지원, 전년 동기간...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192002&step1=3&step2=1"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-press-191986",
+    "message_ts": "1787285406.231519",
+    "posted_at_iso": "2026-08-21T04:10:06.433676+00:00",
+    "priority": "하",
+    "reason": "유아·교원 대상 독서교육 연수로 중학생 독자와 직접 관련이 없다.",
+    "title": "서울시교육청, 첫 전국 단위  ‘유아 독서교육 중점 시범기관 교원 연수’ 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=191986&step1=3&step2=1"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-press-191985",
+    "message_ts": "1787285406.494579",
+    "posted_at_iso": "2026-08-21T04:10:06.696317+00:00",
+    "priority": "상",
+    "reason": "학교 시설 개선 예산의 우선순위를 정하는 검증단 운영으로 학교 환경·안전과 예산 공정성에 직접 영향을 주며 검증단·96개 학교 명단 등 구체적 취재 단서가 있다.",
+    "title": "학교 시설, 시민의 눈으로 직접 살핀다! 서울시교육청 「시민참여 현장검증단...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=191985&step1=3&step2=1"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-press-191984",
+    "message_ts": "1787285406.756959",
+    "posted_at_iso": "2026-08-21T04:10:06.963358+00:00",
+    "priority": "중",
+    "reason": "농촌유학 참여 확대는 서울 학생 선택권과 관련 있지만 참여 인원이 569명으로 제한적인 특정 프로그램 소개성 보도자료이다.",
+    "title": "서울시교육청,  2026학년도 2학기 농촌유학 569명 참여한다",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=191984&step1=3&step2=1"
+  },
+  {
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "item_id": "sen-press-191974",
+    "message_ts": "1787285407.036279",
+    "posted_at_iso": "2026-08-21T04:10:07.256976+00:00",
+    "priority": "하",
+    "reason": "공무원 인사·포상에 관한 내용으로 학생 당사자와 무관한 내부 행정 사안이다.",
+    "title": "서울시교육청,  상반기 적극행정 우수공무원 8명 선발",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=191974&step1=3&step2=1"
+  }
+]
