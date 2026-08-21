@@ -361,5 +361,61 @@
     "reason": "을지연습 연계 청사 테러 대응훈련은 기관 자체 훈련으로 또래 일상과 무관하다",
     "title": "북부지방산림청, 을지연습 연계 청사 테러 대응 훈련 실시",
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775116&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-21&endDate=2026-08-21&srchWord=&period="
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-21",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙"
+    ],
+    "item_id": "korea-kr-156775146",
+    "message_ts": "1787329061.017849",
+    "posted_at_iso": "2026-08-21T16:17:41.356581+00:00",
+    "priority": "하",
+    "reason": "주택공급 정책 간담회로 청소년의 권리·일상과도, 또래가 알아야 할 사회적 사안과도 연결되지 않는다.",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 주택공급 관련 서울 구청장 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775146&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-22&endDate=2026-08-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-21",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156775145",
+    "message_ts": "1787329061.493879",
+    "posted_at_iso": "2026-08-21T16:17:41.836285+00:00",
+    "priority": "하",
+    "reason": "고시원 건축 규정 재검토는 성인 주거 정책으로 청소년의 일상이나 관심사와 직접 연결되지 않는다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 고시원 내 욕조 설치 완화 규정, 국민 의견 수렴하여 재검토",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775145&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-22&endDate=2026-08-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-21",
+    "dept": "법무부",
+    "entities": [],
+    "item_id": "korea-kr-156775148",
+    "message_ts": "1787329061.958729",
+    "posted_at_iso": "2026-08-21T16:17:42.299515+00:00",
+    "priority": "하",
+    "reason": "외국인 계절근로자 인권 점검은 성인 노동 이슈로 청소년 당사자성도 관심사 연결도 없다.",
+    "source": "정책브리핑(법무부)",
+    "title": "법무부, 외국인 계절근로자 인권·근로보호를 위한 실태점검 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775148&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-22&endDate=2026-08-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
