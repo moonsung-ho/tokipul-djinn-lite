@@ -95,15 +95,43 @@ def fetch_and_classify_new_items():
     posted_count = 0
     min_rank = config.PRIORITY_ORDER[config.MIN_PRIORITY_TO_POST]
 
+    # 우선순위가 높은 것부터, 같은 등급 안에서는 최신 글부터 올린다.
+    # 채널을 위에서부터 읽으면 중요한 것이 먼저 눈에 들어오게 하기 위함이다.
+    def sort_key(it):
+        v = verdicts.get(it["id"]) or {}
+        rank = config.PRIORITY_ORDER.get(v.get("priority", "중"), 1)
+        return (-rank, -it["date"].toordinal(), it["title"])
+
+    new_items = sorted(new_items, key=sort_key)
+
+    # 올릴 것이 있으면 머리말을 먼저 붙인다.
+    to_post = [
+        it
+        for it in new_items
+        if config.PRIORITY_ORDER.get((verdicts.get(it["id"]) or {}).get("priority", "중"), 1)
+        >= min_rank
+    ]
+    if to_post:
+        counts = {}
+        for it in to_post:
+            p = (verdicts.get(it["id"]) or {}).get("priority", "중")
+            counts[p] = counts.get(p, 0) + 1
+        when = datetime.date.today().strftime("%m월 %d일")
+        try:
+            htext, hblocks = slack_client.format_digest_header(counts, len(to_post), when)
+            slack_client.post_message(htext, blocks=hblocks)
+        except Exception as e:
+            print(f"[경고] 머리말 전송 실패: {e}")
+
     for it in new_items:
         v = verdicts.get(it["id"]) or {"priority": "중", "reason": "", "entities": []}
         priority, reason = v["priority"], v.get("reason", "")
         rank = config.PRIORITY_ORDER.get(priority, 1)
 
         if rank >= min_rank:
-            text = slack_client.format_alert(it, v)
+            text, blocks = slack_client.format_alert(it, v)
             try:
-                posted = slack_client.post_message(text)
+                posted = slack_client.post_message(text, blocks=blocks)
                 slack_client.add_reaction(posted["channel_id"], posted["message_ts"], "thumbsup")
                 slack_client.add_reaction(posted["channel_id"], posted["message_ts"], "thumbsdown")
                 feedback_index.append(
