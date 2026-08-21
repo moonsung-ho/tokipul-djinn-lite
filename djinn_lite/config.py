@@ -107,3 +107,26 @@ ENTITY_STOPWORDS = {
     "서울특별시교육청", "서울시교육청", "교육부", "행정안전부",
 }
 MAX_ENTITIES_SHOWN = 4
+
+# ── 평점 계산 ────────────────────────────────────────────────
+# 이트롬쇠의 진은 카드에 "Rating: 9.22/10" 처럼 소수점 점수를 띄웁니다.
+# 그 점수는 중앙 모델과 지역 모델의 확신도를 아래 집계 함수로 합친 값입니다.
+#
+#   R = R_l·R_c + R_l²(1−R_c) + R_c²(1−R_l)
+#
+# 둘 중 하나만 높아도 최종 점수가 높아지도록 설계되어 있습니다. 논문의 설명대로
+# 거짓 음성이 거짓 양성보다 나쁘기 때문입니다. 우리는 모델 두 개 대신 두 관점
+# (당사자성·또래 관심사)의 등급을 확신도로 바꿔 같은 공식에 넣습니다.
+GRADE_CONFIDENCE = {"상": 0.90, "중": 0.55, "하": 0.15}
+
+
+def rating(stake: str, interest: str) -> float:
+    """두 관점 등급을 논문의 집계 함수로 합쳐 0~10 점수를 돌려준다."""
+    rl = GRADE_CONFIDENCE.get(stake, 0.55)
+    rc = GRADE_CONFIDENCE.get(interest, 0.55)
+    r = rl * rc + (rl**2) * (1 - rc) + (rc**2) * (1 - rl)
+    return round(min(max(r, 0.0), 1.0) * 10, 2)
+
+
+# 슬랙 메시지 바로가기 주소를 만들 때 쓰는 작업공간 이름.
+SLACK_WORKSPACE = os.environ.get("SLACK_WORKSPACE", "tokipul")

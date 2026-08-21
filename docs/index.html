@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="토끼풀이 공공기관 공고에서 골라낸 취재 단서 기록">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=IBM+Plex+Sans+KR:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<title>진이 찾아둔 취재 단서</title>
+<style>
+/* 흰 바탕 한 가지로 통일한 화면입니다. 이트롬쇠의 진 원본이 흰 배경에 옅은
+   회색 선으로만 구획을 나누는 방식이라 그대로 따랐습니다. 어두운 배색은 두지
+   않되, 모든 색을 토큰으로 명시해 어떤 환경에서도 같은 화면이 나오게 합니다.
+   회색은 중성 회색 대신 강조색인 초록 쪽으로 아주 살짝 기울여 두었습니다. */
+:root{
+  color-scheme:light;
+  --bg:#FFFFFF; --surface:#FFFFFF; --surface-2:#F7F9F8; --surface-3:#FBFCFB;
+  --ink:#17211D; --ink-2:#5A6560; --ink-3:#949D99;
+  --line:#E4E8E5; --line-2:#F0F3F1;
+  --clover:#1F6B47; --clover-soft:#EAF4EE;
+  --hot:#B0452A; --hot-soft:#FBEEE9;
+  --warm:#8A6714; --warm-soft:#FAF3E4;
+  --radius:8px;
+  --shadow:0 1px 2px rgba(23,33,29,.04);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font-family:"IBM Plex Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+ font-weight:400;line-height:1.65;-webkit-font-smoothing:antialiased;font-size:15px}
+
+/* ── 상단 막대 ───────────────────────────── */
+.topbar{background:var(--bg);border-bottom:1px solid var(--line);
+ padding:.85rem 0;position:sticky;top:0;z-index:30}
+.topbar .in{max-width:76rem;margin:0 auto;padding:0 1.5rem;
+ display:flex;align-items:center;gap:1rem}
+.brand{display:flex;align-items:center;gap:.55rem;font-family:"Gowun Batang",serif;
+ font-weight:700;font-size:1.15rem;letter-spacing:.02em;color:var(--ink)}
+.brand svg{width:22px;height:22px;flex:none;color:var(--clover)}
+.topnav{margin-left:auto;display:flex;gap:1.1rem;font-size:.82rem;color:var(--ink-2)}
+.topnav a{color:inherit;text-decoration:none}
+.topnav a:hover{color:var(--clover)}
+
+/* ── 도구 줄 ────────────────────────────── */
+.wrap{max-width:76rem;margin:0 auto;padding:1.5rem 1.5rem 6rem;background:var(--bg)}
+.tools{display:flex;gap:.6rem;flex-wrap:wrap;align-items:flex-end;margin-bottom:1rem}
+.field{display:flex;flex-direction:column;gap:.28rem}
+.field label{font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);
+ font-family:"IBM Plex Mono",monospace}
+/* 높이를 못박아 둔다. 그냥 두면 body의 line-height 1.65가 입력칸에도 먹혀
+   드롭다운보다 세로로 훨씬 커진다. 사파리가 검색칸에 덧붙이는 기본 장식도 끈다. */
+select,input[type=search]{font-family:inherit;font-size:.86rem;
+ height:2.2rem;padding:0 .7rem;line-height:normal;
+ border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);
+ color:var(--ink);-webkit-appearance:none;appearance:none}
+input[type=search]::-webkit-search-decoration,
+input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none}
+select{padding-right:1.6rem;
+ background-image:linear-gradient(45deg,transparent 50%,var(--ink-3) 50%),
+  linear-gradient(135deg,var(--ink-3) 50%,transparent 50%);
+ background-position:calc(100% - 15px) 50%,calc(100% - 10px) 50%;
+ background-size:5px 5px,5px 5px;background-repeat:no-repeat}
+select:hover,input[type=search]:hover{border-color:var(--ink-3)}
+select:focus-visible,input:focus-visible{outline:2px solid var(--clover);outline-offset:1px}
+/* 검색칸 폭. .field가 세로 방향 flex 상자라서 여기에 flex-basis를 주면
+   폭이 아니라 높이로 먹힌다. 반드시 width로 지정할 것. */
+#q{width:15rem;max-width:100%}
+@media (max-width:560px){ .field.grow{flex:1 1 100%} #q{width:100%} }
+#q::placeholder{color:var(--ink-3)}
+.chips{display:flex;gap:.3rem;flex-wrap:wrap}
+.chip{font-family:inherit;font-size:.85rem;cursor:pointer;height:2.2rem;
+ min-width:2.9rem;padding:0 .8rem;line-height:normal;border-radius:var(--radius);
+ border:1px solid var(--line);background:var(--surface);color:var(--ink-2)}
+.chip:hover{border-color:var(--ink-3);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--clover-soft);border-color:var(--clover);
+ color:var(--clover);font-weight:500}
+.chip:focus-visible{outline:2px solid var(--clover);outline-offset:2px}
+.hits{font-size:.85rem;color:var(--ink-2);margin:.2rem 0 1rem;font-variant-numeric:tabular-nums}
+.hits b{color:var(--ink);font-weight:600}
+
+/* ── 카드 ───────────────────────────────── */
+.deck{display:flex;flex-direction:column;gap:.9rem}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+ box-shadow:var(--shadow);display:grid;grid-template-columns:11rem minmax(0,1fr) 17rem;
+ overflow:hidden}
+.card:hover{border-color:#D6DCD8}
+@media (max-width:900px){ .card{grid-template-columns:1fr} }
+
+/* 왼쪽: 평점 */
+.rate{padding:1.1rem;border-right:1px solid var(--line-2);background:var(--surface-3);
+ display:flex;flex-direction:column;gap:.55rem;align-items:flex-start}
+@media (max-width:900px){ .rate{border-right:0;border-bottom:1px solid var(--line-2);
+ flex-direction:row;align-items:center;gap:.9rem} }
+.rate .num{font-family:"IBM Plex Mono",monospace;font-size:1.55rem;font-weight:500;
+ line-height:1.1;font-variant-numeric:tabular-nums;color:var(--ink)}
+.rate .num s{text-decoration:none;font-size:.8rem;color:var(--ink-3)}
+.rate .lab{font-family:"IBM Plex Mono",monospace;font-size:.64rem;letter-spacing:.12em;
+ text-transform:uppercase;color:var(--ink-3)}
+.gauge{width:100%;height:4px;background:var(--line);border-radius:99px;overflow:hidden}
+@media (max-width:900px){ .gauge{width:6rem} }
+.gauge i{display:block;height:100%;width:var(--w);border-radius:99px;background:var(--clover)}
+.card[data-p="상"] .num{color:var(--hot)}
+.card[data-p="상"] .gauge i{background:var(--hot)}
+.card[data-p="중"] .num{color:var(--warm)}
+.card[data-p="중"] .gauge i{background:var(--warm)}
+.card[data-p="하"] .num{color:var(--ink-3)}
+.card[data-p="하"] .gauge i{background:var(--ink-3)}
+
+/* 가운데: 본문 */
+.body{padding:1.1rem 1.25rem;display:flex;flex-direction:column;gap:.6rem;min-width:0;
+ background:var(--surface)}
+.body h2{font-family:"Gowun Batang",serif;font-weight:700;font-size:1.1rem;line-height:1.45;
+ margin:0;letter-spacing:-.005em;text-wrap:balance;color:var(--ink)}
+.body h2 a{color:inherit;text-decoration:none}
+.body h2 a:hover{color:var(--clover);text-decoration:underline;text-underline-offset:3px}
+.body h2 a:focus-visible{outline:2px solid var(--clover);outline-offset:3px;border-radius:2px}
+.new{display:inline-block;font-size:.66rem;font-weight:600;color:var(--clover);
+ background:var(--clover-soft);border-radius:99px;padding:.05rem .45rem;vertical-align:.15em;
+ margin-left:.35rem;letter-spacing:.02em}
+.body p{margin:0;font-size:.88rem;color:var(--ink-2);font-weight:300;line-height:1.7}
+.pills{display:flex;gap:.3rem;flex-wrap:wrap;margin-top:.15rem}
+.pill{font-size:.74rem;padding:.14rem .6rem;border-radius:99px;background:var(--surface-2);
+ color:var(--ink-2);border:1px solid var(--line)}
+
+/* 오른쪽: 상세 */
+.side{padding:1.1rem 1.25rem;border-left:1px solid var(--line-2);background:var(--surface);
+ display:flex;flex-direction:column;gap:.7rem;min-width:0}
+@media (max-width:900px){ .side{border-left:0;border-top:1px solid var(--line-2)} }
+.side h3{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);
+ margin:0;font-family:"IBM Plex Mono",monospace;font-weight:400}
+dl{margin:0;display:grid;grid-template-columns:4.6rem minmax(0,1fr);gap:.24rem .5rem;font-size:.78rem}
+dt{color:var(--ink-3);white-space:nowrap}
+dd{margin:0;color:var(--ink-2);word-break:break-word}
+.ask{margin-top:auto;padding-top:.7rem;border-top:1px dashed var(--line);
+ display:flex;flex-direction:column;gap:.45rem}
+.ask span{font-size:.78rem;color:var(--ink-2)}
+.btns{display:flex;gap:.4rem}
+.btn{font-family:inherit;font-size:.8rem;padding:.35rem .85rem;border-radius:var(--radius);
+ border:1px solid var(--line);background:var(--surface);color:var(--ink-2);text-decoration:none;
+ display:inline-flex;align-items:center;gap:.3rem}
+.btn:hover{border-color:var(--clover);color:var(--clover)}
+.btn:focus-visible{outline:2px solid var(--clover);outline-offset:2px}
+.done{font-size:.8rem;font-weight:500;padding:.3rem .7rem;border-radius:var(--radius);
+ display:inline-block}
+.done.yes{color:var(--clover);background:var(--clover-soft)}
+.done.no{color:var(--hot);background:var(--hot-soft)}
+.done.none{color:var(--ink-3);background:var(--surface-2)}
+
+.empty{text-align:center;color:var(--ink-3);font-weight:300;padding:5rem 0;font-size:.92rem}
+footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);
+ font-family:"IBM Plex Mono",monospace;font-size:.72rem;color:var(--ink-3);line-height:1.9}
+</style>
+</head>
+<body>
+<div class="topbar"><div class="in">
+  <span class="brand"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-7"/><path d="M12 14c0-2.2-1.8-4-4-4a3 3 0 1 0 0 6c2.2 0 4-.9 4-2z"/><path d="M12 14c0-2.2 1.8-4 4-4a3 3 0 1 1 0 6c-2.2 0-4-.9-4-2z"/><path d="M12 14c-2.2 0-4-1.8-4-4a3 3 0 1 1 6 0c0 2.2-.9 4-2 4z"/></svg>DJINN</span>
+  <nav class="topnav">
+    <a href="https://www.tokipul.net" target="_blank" rel="noopener">토끼풀</a>
+    <a href="#deck">기록</a>
+  </nav>
+</div></div>
+
+<div class="wrap">
+<div class="tools">
+  <div class="field"><label for="per">기간</label>
+    <select id="per"><option value="전체">전체</option><option value="오늘">오늘</option>
+    <option value="7일">최근 7일</option><option value="30일">최근 30일</option></select></div>
+  <div class="field"><label for="src">출처</label><select id="src"><option value="전체">모든 출처</option></select></div>
+  <div class="field grow"><label for="q">검색</label>
+    <input id="q" type="search" placeholder="제목·기관으로 찾기"></div>
+  <div class="field"><label for="sort">정렬</label>
+    <select id="sort"><option value="rating">평점 높은 순</option>
+    <option value="date">최신 순</option></select></div>
+  <div class="field"><label>등급</label><div class="chips"><button class="chip" type="button" data-pf="상" aria-pressed="true">상</button><button class="chip" type="button" data-pf="중" aria-pressed="true">중</button><button class="chip" type="button" data-pf="하" aria-pressed="true">하</button></div></div>
+</div>
+
+<p class="hits">전체 0건 중 <b id="shown">0</b>건 · 갱신 2026.08.22 01:03</p>
+
+<div class="deck" id="deck">
+
+</div>
+<p class="empty" id="empty" hidden>조건에 맞는 문서가 없습니다.</p>
+
+<footer>
+  진(DJINN)-lite · 노르웨이 이트롬쇠의 Djinn 시스템을 학생 언론 규모로 옮긴 것입니다.<br>
+  평점은 두 관점(당사자성·또래 관심사)을 논문의 집계 함수로 합친 값입니다.
+  AI는 기사를 쓰지 않고 취재 단서만 찾습니다. 판단 이유는 틀릴 수 있으니 원문을 여세요.
+</footer>
+</div>
+<script>
+const cards = Array.from(document.querySelectorAll('.card'));
+const state = {p:new Set(['상','중','하']), s:'전체', d:'전체', q:'', sort:'rating'};
+const deck = document.getElementById('deck');
+
+function apply(){
+  const now = Date.now();
+  const days = {'오늘':1,'7일':7,'30일':30}[state.d];
+  cards.forEach(c => {
+    const okP = state.p.has(c.dataset.p);
+    const okS = state.s === '전체' || c.dataset.s === state.s;
+    const okQ = !state.q || c.dataset.t.includes(state.q.toLowerCase());
+    let okD = true;
+    if (days) {
+      const t = Date.parse(c.dataset.when);
+      okD = !isNaN(t) && (now - t) <= days * 864e5;
+    }
+    c.hidden = !(okP && okS && okQ && okD);
+  });
+  const vis = cards.filter(c => !c.hidden);
+  vis.sort((a,b) => state.sort === 'rating'
+    ? b.dataset.r - a.dataset.r
+    : Date.parse(b.dataset.when) - Date.parse(a.dataset.when));
+  vis.forEach(c => deck.appendChild(c));
+  document.getElementById('shown').textContent = vis.length;
+  document.getElementById('empty').hidden = vis.length > 0;
+}
+
+document.querySelectorAll('[data-pf]').forEach(b => b.addEventListener('click', () => {
+  const v = b.dataset.pf;
+  state.p.has(v) ? state.p.delete(v) : state.p.add(v);
+  b.setAttribute('aria-pressed', String(state.p.has(v)));
+  apply();
+}));
+document.getElementById('src').addEventListener('change', e => { state.s = e.target.value; apply(); });
+document.getElementById('per').addEventListener('change', e => { state.d = e.target.value; apply(); });
+document.getElementById('sort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
+document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim(); apply(); });
+apply();
+</script>
+</body>
+</html>
