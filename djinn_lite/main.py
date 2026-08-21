@@ -15,7 +15,7 @@ from __future__ import annotations
 import datetime
 import sys
 
-from . import classify, config, slack_client, sources, state
+from . import classify, config, dedupe, slack_client, sources, state
 
 
 def collect_pending_feedback():
@@ -78,10 +78,15 @@ def fetch_and_classify_new_items():
     print("게시판을 확인하는 중...")
     all_items = sources.fetch_all(with_body=True)
     new_items = [it for it in all_items if it["id"] not in seen and it["date"] >= cutoff]
-
     print(f"전체 {len(all_items)}건 중 새 글 {len(new_items)}건 발견.")
     if not new_items:
         return
+
+    # 같은 내용을 여러 기관이 낸 경우 한 건으로 묶는다.
+    before = len(new_items)
+    new_items = dedupe.group_duplicates(new_items)
+    if before != len(new_items):
+        print(f"중복 {before - len(new_items)}건을 묶어 {len(new_items)}건으로 정리했습니다.")
 
     print("AI로 취재 가치를 판단하는 중...")
     verdicts = classify.classify_items(new_items)
@@ -91,12 +96,12 @@ def fetch_and_classify_new_items():
     min_rank = config.PRIORITY_ORDER[config.MIN_PRIORITY_TO_POST]
 
     for it in new_items:
-        v = verdicts.get(it["id"], {"priority": "중", "reason": ""})
-        priority, reason = v["priority"], v["reason"]
+        v = verdicts.get(it["id"]) or {"priority": "중", "reason": "", "entities": []}
+        priority, reason = v["priority"], v.get("reason", "")
         rank = config.PRIORITY_ORDER.get(priority, 1)
 
         if rank >= min_rank:
-            text = slack_client.format_alert(it, priority, reason)
+            text = slack_client.format_alert(it, v)
             try:
                 posted = slack_client.post_message(text)
                 slack_client.add_reaction(posted["channel_id"], posted["message_ts"], "thumbsup")
@@ -123,7 +128,11 @@ def fetch_and_classify_new_items():
             print(f"[건너뜀] ({priority}) {it['title'][:40]}")
 
         # 올렸든 안 올렸든, 다시 검토하지 않도록 seen에 기록한다.
-        seen[it["id"]] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        # 중복으로 묶인 문서들도 함께 기록해야 다음 실행 때 되살아나지 않는다.
+        now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
+        seen[it["id"]] = now_iso
+        for merged in it.get("merged_ids", []):
+            seen[merged] = now_iso
 
     state.save_seen(seen)
     state.save_feedback_index(feedback_index)
