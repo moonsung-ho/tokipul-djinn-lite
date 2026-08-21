@@ -39,9 +39,6 @@ jobs:
           SLACK_WORKSPACE: ${{ vars.SLACK_WORKSPACE }}
         run: python -m djinn_lite.main
 
-      - name: 기록 페이지 생성
-        run: python -m djinn_lite.site
-
       - name: 상태 파일과 페이지 커밋
         run: |
           git config user.name "djinn-lite-bot"
@@ -65,3 +62,7 @@ jobs:
           else
             echo "변경된 상태 파일 없음 — 커밋 생략"
           fi
+
+          - name: 기록 페이지 생성
+        run: python -m djinn_lite.site
+
