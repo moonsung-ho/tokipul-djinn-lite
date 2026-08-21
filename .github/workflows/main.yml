@@ -3,7 +3,7 @@ name: 진(DJINN)-lite 일일 실행
 on:
   schedule:
     # 매일 한국시간 오전 9시 (UTC 00:00)
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: {}  # Actions 탭에서 수동으로도 실행해볼 수 있게
 
 permissions:
@@ -34,7 +34,25 @@ jobs:
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
           SLACK_CHANNEL_ID: ${{ vars.SLACK_CHANNEL_ID }}
+          NEWSWIRE_RSS_URL: ${{ secrets.NEWSWIRE_RSS_URL }}
+          KOREA_KR_MINISTRY_FILTER: ${{ vars.KOREA_KR_MINISTRY_FILTER }}
+          SLACK_WORKSPACE: ${{ vars.SLACK_WORKSPACE }}
         run: python -m djinn_lite.main
+
+      - name: 기록 페이지 생성
+        run: python -m djinn_lite.site
+
+      - name: 상태 파일과 페이지 커밋
+        run: |
+          git config user.name "djinn-lite-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/ docs/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 진(DJINN)-lite 상태·페이지 업데이트 ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          else
+            echo "변경된 파일 없음 — 커밋 생략"
+          fi
 
       - name: 상태 파일 변경사항 커밋
         run: |
