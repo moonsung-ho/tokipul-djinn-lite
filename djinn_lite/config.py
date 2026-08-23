@@ -34,11 +34,14 @@ KOREA_KR_MINISTRY_FILTER = os.environ.get("KOREA_KR_MINISTRY_FILTER", "")
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "3"))
 
 # 슬랙에는 이 우선순위 이상만 올립니다. ("상", "중", "하" 중 선택)
-# 지금은 분류 기준 자체를 다듬는 단계라, AI가 낮게 매긴 것도 사람이 직접
-# 눈으로 훑어보고 👍/👎로 검증할 수 있도록 "하"까지 전부 올립니다.
-# 나중에 feedback_log.csv가 충분히 쌓이고 분류 기준을 신뢰할 수 있게 되면
-# "중"으로 올려서 절차성 공고를 자동으로 숨기는 것을 검토하세요.
-MIN_PRIORITY_TO_POST = os.environ.get("MIN_PRIORITY_TO_POST", "하")
+# 268건을 판정해 기준을 다섯 차례 고친 뒤 "중"으로 올렸습니다. 용역 평가위원
+# 모집이나 기관 훈련 같은 절차성 공고가 채널을 채우지 않게 하기 위함입니다.
+#
+# 다만 "하"로 분류된 문서도 기록 페이지(docs/index.html)에는 그대로 남습니다.
+# 이트롬쇠의 진이 교정 피드백으로 모델을 다듬듯, "AI는 하로 봤는데 사실
+# 기사감이었다"는 사례를 계속 찾아낼 수 있어야 기준을 고칠 수 있기 때문입니다.
+# 실제로 AI가 놓쳤던 15건 대부분이 그런 경우였습니다.
+MIN_PRIORITY_TO_POST = os.environ.get("MIN_PRIORITY_TO_POST", "중")
 PRIORITY_ORDER = {"하": 0, "중": 1, "상": 2}
 
 # 피드백(리액션) 수집 대상: 올린 지 이만큼 지난 메시지부터 집계합니다.

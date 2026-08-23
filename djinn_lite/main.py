@@ -19,24 +19,31 @@ from . import classify, config, dedupe, slack_client, sources, state
 
 
 def collect_pending_feedback():
-    index = state.load_feedback_index()
-    if not index:
+    """아직 반응을 집계하지 않은 알림의 👍/👎 개수를 세어 기록으로 남긴다.
+
+    feedback_index.json은 지워지지 않는 누적 기록이다. 집계가 끝난 항목도
+    그대로 남겨야 기록 페이지가 지난 달치까지 보여줄 수 있고, "그때 이걸
+    기사감이라고 했었지" 하고 되짚어볼 수 있다. 여기서 하는 일은 목록을
+    솎아내는 것이 아니라 collected 표시를 켜는 것뿐이다."""
+    archive = state.load_feedback_index()
+    if not archive:
         return
     now = datetime.datetime.now(datetime.timezone.utc)
-    still_pending = []
-    for entry in index:
-        if entry.get("collected"):
+    for entry in archive:
+        # 이미 집계했거나 슬랙에 안 보낸 항목은 건너뛴다. 목록에서 빼지는 않는다.
+        if entry.get("collected") or not entry.get("message_ts"):
             continue
-        posted_at = datetime.datetime.fromisoformat(entry["posted_at_iso"])
+        try:
+            posted_at = datetime.datetime.fromisoformat(entry["posted_at_iso"])
+        except (KeyError, ValueError):
+            continue
         age_hours = (now - posted_at).total_seconds() / 3600
         if age_hours < config.FEEDBACK_COLLECT_AFTER_HOURS:
-            still_pending.append(entry)
             continue
         try:
             counts = slack_client.get_reaction_counts(entry["channel_id"], entry["message_ts"])
         except Exception as e:
             print(f"[경고] 리액션 집계 실패 (id={entry['item_id']}): {e}")
-            still_pending.append(entry)
             continue
 
         up, down = counts["thumbsup"], counts["thumbsdown"]
@@ -62,12 +69,11 @@ def collect_pending_feedback():
             }
         )
         print(f"[피드백 집계] {entry['title'][:40]} -> 👍{up} 👎{down} ({verdict})")
-        # collected=True로 표시해두되, 목록에서 완전히 지우지 않고 남겨
-        # 감사(audit) 기록으로 활용한다.
         entry["collected"] = True
-        still_pending.append(entry)
+        entry["thumbsup"] = up
+        entry["thumbsdown"] = down
 
-    state.save_feedback_index(still_pending)
+    state.save_feedback_index(archive)
 
 
 def fetch_and_classify_new_items():
@@ -95,12 +101,13 @@ def fetch_and_classify_new_items():
     posted_count = 0
     min_rank = config.PRIORITY_ORDER[config.MIN_PRIORITY_TO_POST]
 
-    # 우선순위가 높은 것부터, 같은 등급 안에서는 최신 글부터 올린다.
-    # 채널을 위에서부터 읽으면 중요한 것이 먼저 눈에 들어오게 하기 위함이다.
+    # 평점이 높은 것부터, 같은 점수면 최신 글부터 올린다. 등급 세 단계보다
+    # 촘촘해서 같은 "중" 안에서도 볼 만한 것이 위로 온다.
     def sort_key(it):
         v = verdicts.get(it["id"]) or {}
-        rank = config.PRIORITY_ORDER.get(v.get("priority", "중"), 1)
-        return (-rank, -it["date"].toordinal(), it["title"])
+        score = config.rating(v.get("당사자성") or v.get("priority", "중"), v.get("관심사") or "하")
+        v["rating"] = score  # 알림에서 다시 계산하지 않도록 여기서 채워둔다
+        return (-score, -it["date"].toordinal(), it["title"])
 
     new_items = sorted(new_items, key=sort_key)
 
@@ -161,7 +168,28 @@ def fetch_and_classify_new_items():
                 print(f"[오류] 슬랙 전송 실패 (id={it['id']}): {e}")
                 continue
         else:
-            print(f"[건너뜀] ({priority}) {it['title'][:40]}")
+            # 슬랙에는 안 보내지만 기록 페이지에는 남긴다. 나중에 "하로 분류했는데
+            # 사실 기사감이었다"는 사례를 찾아내야 기준을 고칠 수 있기 때문이다.
+            feedback_index.append(
+                {
+                    "item_id": it["id"],
+                    "title": it["title"],
+                    "url": it["url"],
+                    "priority": priority,
+                    "reason": reason,
+                    "source": it.get("source", ""),
+                    "dept": it.get("dept") or "",
+                    "date": it["date"].isoformat(),
+                    "당사자성": v.get("당사자성", ""),
+                    "관심사": v.get("관심사", ""),
+                    "entities": v.get("entities", []),
+                    "also_from": it.get("also_from", []),
+                    "posted_at_iso": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+                    "slack_skipped": True,
+                    "collected": True,  # 슬랙 메시지가 없으니 반응 집계 대상에서 뺀다
+                }
+            )
+            print(f"[슬랙 생략] ({priority}) {it['title'][:40]}")
 
         # 올렸든 안 올렸든, 다시 검토하지 않도록 seen에 기록한다.
         # 중복으로 묶인 문서들도 함께 기록해야 다음 실행 때 되살아나지 않는다.

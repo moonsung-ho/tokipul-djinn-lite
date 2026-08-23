@@ -94,12 +94,19 @@ def format_alert(item: dict, verdict: dict) -> tuple[str, list]:
     title = _mrkdwn_escape(item["title"])
     dept = f" · {item['dept']}" if item.get("dept") else ""
 
+    # 평점은 논문의 집계 함수로 계산한 0~10 점수다. 등급 세 단계보다 촘촘해서
+    # 같은 "중"이라도 어느 쪽이 더 볼 만한지 한눈에 구분된다.
+    stake, interest = verdict.get("당사자성"), verdict.get("관심사")
+    score = verdict.get("rating")
+    if score is None:
+        score = config.rating(stake or priority, interest or "하")
+
     blocks = [
         {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
-                "text": f"{badge} *<{item['url']}|{title}>*",
+                "text": f"{badge} `{score:.2f}`　*<{item['url']}|{title}>*",
             },
         }
     ]
@@ -123,9 +130,8 @@ def format_alert(item: dict, verdict: dict) -> tuple[str, list]:
     # 두 관점 점수와 개체명. 어느 관점이 등급을 끌어올렸는지 보이면
     # 기자가 판단 근거를 바로 확인할 수 있다.
     tail = []
-    stake, interest = verdict.get("당사자성"), verdict.get("관심사")
     if stake and interest:
-        tail.append(f"당사자성 `{stake}`  ·  또래 관심사 `{interest}`")
+        tail.append(f"평점 `{score:.2f}/10`  ←  당사자성 `{stake}` · 또래 관심사 `{interest}`")
     if verdict.get("entities"):
         tail.append("🏷 " + _mrkdwn_escape(" · ".join(verdict["entities"])))
     if tail:
@@ -142,7 +148,7 @@ def format_alert(item: dict, verdict: dict) -> tuple[str, list]:
     blocks.append({"type": "divider"})
 
     # 알림 배너와 검색에 쓰일 대체 텍스트.
-    fallback = f"{badge} [{priority}] {item['title']}"
+    fallback = f"{badge} {score:.2f} {item['title']}"
     return fallback, blocks
 
 
@@ -150,10 +156,11 @@ def format_digest_header(counts: dict, total: int, when: str) -> tuple[str, list
     """그날의 알림 맨 앞에 붙는 머리말. 몇 건을 어떤 등급으로 걸렀는지 한 줄로 보여준다."""
     parts = [f"{BADGE[g]} {g} *{counts.get(g, 0)}*" for g in ("상", "중", "하") if counts.get(g)]
     summary = "　　".join(parts) if parts else "새 글 없음"
+    # "하" 등급은 슬랙에 보내지 않고 기록 페이지에만 남긴다.
     text = f"*{when} 새 공고·보도자료 {total}건*"
     blocks = [
         {"type": "section", "text": {"type": "mrkdwn", "text": text}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": summary + "　·　우선순위 높은 순"}]},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": summary + "　·　평점 높은 순　·　하 등급은 기록 페이지에만"}]},
         {"type": "divider"},
     ]
     return f"{when} 새 공고·보도자료 {total}건", blocks

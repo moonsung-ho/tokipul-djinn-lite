@@ -180,7 +180,7 @@ footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);
 
 SCRIPT = """
 const cards = Array.from(document.querySelectorAll('.card'));
-const state = {p:new Set(['상','중','하']), s:'전체', d:'전체', q:'', sort:'rating'};
+const state = {p:new Set(['상','중']), s:'전체', d:'전체', q:'', sort:'rating'};
 const deck = document.getElementById('deck');
 
 function apply(){
@@ -216,6 +216,8 @@ document.getElementById('src').addEventListener('change', e => { state.s = e.tar
 document.getElementById('per').addEventListener('change', e => { state.d = e.target.value; apply(); });
 document.getElementById('sort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
 document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim(); apply(); });
+const mon = document.getElementById('mon');
+if (mon) mon.addEventListener('change', e => { location.href = e.target.value; });
 apply();
 """
 
@@ -280,7 +282,11 @@ def _card(rec: dict, reactions: dict, now: datetime.datetime) -> str:
         rows.append(("중복 게시", ", ".join(rec["also_from"])))
     dl = "".join(f"<dt>{_esc(k)}</dt><dd>{_esc(v)}</dd>" for k, v in rows)
 
-    r = reactions.get(rec.get("item_id"), {})
+    # 반응 수치는 기록 자체에 붙어 있으면 그것을 쓰고, 없으면 CSV로 보완한다.
+    if rec.get("thumbsup") is not None or rec.get("thumbsdown") is not None:
+        r = {"up": rec.get("thumbsup", 0), "down": rec.get("thumbsdown", 0)}
+    else:
+        r = reactions.get(rec.get("item_id"), {})
     link = _slack_link(rec)
     if r.get("up", 0) > r.get("down", 0):
         ask = f'<span class="done yes">기자 판정: 기사감 👍 {r["up"]}</span>'
@@ -294,6 +300,8 @@ def _card(rec: dict, reactions: dict, now: datetime.datetime) -> str:
             f'<div class="btns"><a class="btn" href="{_esc(link)}" target="_blank" '
             'rel="noopener">슬랙에서 판정하기 →</a></div>'
         )
+    elif rec.get("slack_skipped"):
+        ask = '<span class="done none">하 등급 · 슬랙 미발송</span>'
     else:
         ask = '<span class="done none">아직 판정 전</span>'
 
@@ -321,7 +329,24 @@ def _card(rec: dict, reactions: dict, now: datetime.datetime) -> str:
 </article>"""
 
 
-def build(records: list[dict] | None = None, fragment: bool = False) -> str:
+def month_of(rec: dict) -> str:
+    """기록이 속한 연월(YYYY-MM). 슬랙에 올린 시각을 기준으로 한다."""
+    when = (rec.get("posted_at_iso") or rec.get("date") or "")[:7]
+    return when if len(when) == 7 else "날짜미상"
+
+
+def build(
+    records: list[dict] | None = None,
+    fragment: bool = False,
+    months: list[str] | None = None,
+    current: str = "",
+    note: str = "",
+) -> str:
+    """기록 한 묶음을 페이지 하나로 만든다.
+
+    months를 주면 상단에 월별 보관 페이지로 가는 목록이 붙는다. 기록은 계속
+    쌓이므로 한 페이지에 다 담으면 언젠가 열리지 않을 만큼 무거워진다. 그래서
+    첫 화면에는 최근치만 싣고 나머지는 월별로 나눠 둔다."""
     if records is None:
         records = state.load_feedback_index()
     reactions = _load_reactions()
@@ -338,18 +363,32 @@ def build(records: list[dict] | None = None, fragment: bool = False) -> str:
     opts = '<option value="전체">모든 출처</option>' + "".join(
         f'<option value="{_esc(s)}">{_esc(s)}</option>' for s in sources
     )
+    # "하"는 슬랙에 보내지 않는 등급이라 페이지에서도 처음엔 접어둔다.
+    # 다만 목록에는 남겨서, 잘못 낮춰 분류한 사례를 찾아낼 수 있게 한다.
     chips = "".join(
-        f'<button class="chip" type="button" data-pf="{g}" aria-pressed="true">{g}</button>'
+        f'<button class="chip" type="button" data-pf="{g}" '
+        f'aria-pressed="{"false" if g == "하" else "true"}">{g}</button>'
         for g in ("상", "중", "하")
     )
     total = len(records)
     stamp = now.astimezone(KST).strftime("%Y.%m.%d %H:%M")
 
+    month_nav = ""
+    if months:
+        opts_m = ['<option value="index.html"%s>최근 기록</option>'
+                  % ("" if not current else "")]
+        for mm in months:
+            sel = " selected" if mm == current else ""
+            opts_m.append(f'<option value="{_esc(mm)}.html"{sel}>{_esc(mm)}</option>')
+        month_nav = (
+            '<select id="mon" aria-label="월별 기록">' + "".join(opts_m) + "</select>"
+        )
+
     content = f"""<div class="topbar"><div class="in">
   <span class="brand">{LOGO}DJINN</span>
   <nav class="topnav">
+    {month_nav}
     <a href="https://www.tokipul.net" target="_blank" rel="noopener">토끼풀</a>
-    <a href="#deck">기록</a>
   </nav>
 </div></div>
 
@@ -367,7 +406,7 @@ def build(records: list[dict] | None = None, fragment: bool = False) -> str:
   <div class="field"><label>등급</label><div class="chips">{chips}</div></div>
 </div>
 
-<p class="hits">전체 {total}건 중 <b id="shown">{total}</b>건 · 갱신 {stamp}</p>
+<p class="hits">{_esc(note)}{"" if not note else " · "}이 페이지 {total}건 중 <b id="shown">{total}</b>건 · 갱신 {stamp}</p>
 
 <div class="deck" id="deck">
 {cards}
@@ -386,7 +425,7 @@ def build(records: list[dict] | None = None, fragment: bool = False) -> str:
         '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?'
         "family=Gowun+Batang:wght@400;700&family=IBM+Plex+Sans+KR:wght@300;400;500;600&"
         'family=IBM+Plex+Mono:wght@400;500&display=swap">\n'
-        "<title>진이 찾아둔 취재 단서</title>\n"
+        f"<title>진이 찾아둔 취재 단서{' · ' + current if current else ''}</title>\n"
         f"<style>{STYLE}</style>"
     )
     if fragment:
@@ -399,16 +438,52 @@ def build(records: list[dict] | None = None, fragment: bool = False) -> str:
     )
 
 
+# 첫 화면에 싣는 최근 기록 수. 넘어가는 분량은 월별 보관 페이지에서 본다.
+RECENT_ON_INDEX = int(os.environ.get("RECENT_ON_INDEX", "300"))
+
+
 def main():
     if "--fragment" in sys.argv:
         sys.stdout.write(build(fragment=True))
         return
+
+    records = state.load_feedback_index()
     os.makedirs(OUT_DIR, exist_ok=True)
-    path = os.path.join(OUT_DIR, "index.html")
-    page = build()
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(page)
-    print(f"{path} 생성 완료 ({len(page):,}바이트)")
+
+    # 월별로 갈라 보관 페이지를 만든다. 최신 달이 앞에 오게 정렬한다.
+    by_month: dict[str, list] = {}
+    for rec in records:
+        by_month.setdefault(month_of(rec), []).append(rec)
+    months = sorted(by_month, reverse=True)
+
+    written = []
+    for mm in months:
+        page = build(
+            records=by_month[mm],
+            months=months,
+            current=mm,
+            note=f"{mm} 보관 기록",
+        )
+        path = os.path.join(OUT_DIR, f"{mm}.html")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(page)
+        written.append(f"{mm}.html({len(by_month[mm])}건)")
+
+    # 첫 화면에는 최근 것만 싣는다. 전체를 한 페이지에 담으면 기록이 쌓일수록
+    # 열리지 않을 만큼 무거워지기 때문이다.
+    recent = sorted(
+        records, key=lambda r: (r.get("posted_at_iso") or r.get("date") or ""), reverse=True
+    )[:RECENT_ON_INDEX]
+    note = f"전체 {len(records)}건 중 최근"
+    if len(records) <= RECENT_ON_INDEX:
+        note = "전체 기록"
+    index = build(records=recent, months=months, current="", note=note)
+    with open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8") as f:
+        f.write(index)
+
+    print(f"index.html 생성 ({len(recent)}건 / 전체 {len(records)}건)")
+    if written:
+        print("월별 보관: " + ", ".join(written))
 
 
 if __name__ == "__main__":

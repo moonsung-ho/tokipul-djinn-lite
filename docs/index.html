@@ -153,8 +153,8 @@ footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);
 <div class="topbar"><div class="in">
   <span class="brand"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21v-7"/><path d="M12 14c0-2.2-1.8-4-4-4a3 3 0 1 0 0 6c2.2 0 4-.9 4-2z"/><path d="M12 14c0-2.2 1.8-4 4-4a3 3 0 1 1 0 6c-2.2 0-4-.9-4-2z"/><path d="M12 14c-2.2 0-4-1.8-4-4a3 3 0 1 1 6 0c0 2.2-.9 4-2 4z"/></svg>DJINN</span>
   <nav class="topnav">
+    
     <a href="https://www.tokipul.net" target="_blank" rel="noopener">토끼풀</a>
-    <a href="#deck">기록</a>
   </nav>
 </div></div>
 
@@ -169,10 +169,10 @@ footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);
   <div class="field"><label for="sort">정렬</label>
     <select id="sort"><option value="rating">평점 높은 순</option>
     <option value="date">최신 순</option></select></div>
-  <div class="field"><label>등급</label><div class="chips"><button class="chip" type="button" data-pf="상" aria-pressed="true">상</button><button class="chip" type="button" data-pf="중" aria-pressed="true">중</button><button class="chip" type="button" data-pf="하" aria-pressed="true">하</button></div></div>
+  <div class="field"><label>등급</label><div class="chips"><button class="chip" type="button" data-pf="상" aria-pressed="true">상</button><button class="chip" type="button" data-pf="중" aria-pressed="true">중</button><button class="chip" type="button" data-pf="하" aria-pressed="false">하</button></div></div>
 </div>
 
-<p class="hits">전체 0건 중 <b id="shown">0</b>건 · 갱신 2026.08.22 01:03</p>
+<p class="hits">전체 기록 · 이 페이지 0건 중 <b id="shown">0</b>건 · 갱신 2026.08.22 21:23</p>
 
 <div class="deck" id="deck">
 
@@ -187,7 +187,7 @@ footer{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);
 </div>
 <script>
 const cards = Array.from(document.querySelectorAll('.card'));
-const state = {p:new Set(['상','중','하']), s:'전체', d:'전체', q:'', sort:'rating'};
+const state = {p:new Set(['상','중']), s:'전체', d:'전체', q:'', sort:'rating'};
 const deck = document.getElementById('deck');
 
 function apply(){
@@ -223,6 +223,8 @@ document.getElementById('src').addEventListener('change', e => { state.s = e.tar
 document.getElementById('per').addEventListener('change', e => { state.d = e.target.value; apply(); });
 document.getElementById('sort').addEventListener('change', e => { state.sort = e.target.value; apply(); });
 document.getElementById('q').addEventListener('input', e => { state.q = e.target.value.trim(); apply(); });
+const mon = document.getElementById('mon');
+if (mon) mon.addEventListener('change', e => { location.href = e.target.value; });
 apply();
 </script>
 </body>
