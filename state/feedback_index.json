@@ -923,5 +923,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775174&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "재정경제부",
+    "entities": [
+      "탄자니아",
+      "대외경제협력기금"
+    ],
+    "item_id": "korea-kr-156775203",
+    "posted_at_iso": "2026-08-23T10:22:35.161386+00:00",
+    "priority": "하",
+    "reason": "탄자니아 대상 대외원조 사업으로 국내 청소년의 권리·일상과도, 또래가 알아야 할 사안과도 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775203&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
