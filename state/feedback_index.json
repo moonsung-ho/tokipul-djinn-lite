@@ -709,5 +709,219 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775169&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "와이즈"
+    ],
+    "item_id": "korea-kr-156775180",
+    "message_ts": "1787470436.408559",
+    "posted_at_iso": "2026-08-23T07:33:56.857416+00:00",
+    "priority": "중",
+    "reason": "국제 가뭄·홍수 예측 플랫폼 개발은 기후·과학기술 성과로 관심사이나 대상이 농업 전문가라 각도가 간접적이다",
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "전 세계 가뭄·홍수,  케이-농업 디지털 플랫폼 '와이즈'가 예측한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775180&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "고용노동부",
+    "entities": [
+      "한국기술교육대학교",
+      "STEP"
+    ],
+    "item_id": "korea-kr-156775190",
+    "posted_at_iso": "2026-08-23T07:33:56.857439+00:00",
+    "priority": "하",
+    "reason": "대학생·직업훈련생 대상 공모전으로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"STEP으로 키운 역량 공유해요\" 한국기술교육대 'STEP 학습 우수사례 공모전'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775190&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775182",
+    "posted_at_iso": "2026-08-23T07:33:56.857448+00:00",
+    "priority": "하",
+    "reason": "양파 재배 농업기술 정보로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"건강한 양파 모종, 씨 뿌리는 시기·초기 싹 틔우기가 좌우\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775182&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775178",
+    "posted_at_iso": "2026-08-23T07:33:56.857458+00:00",
+    "priority": "하",
+    "reason": "양봉업계 대상 카페 메뉴 공모전으로 성인·업계 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"꿀의 맛과 향 살린 카페 음료·후식, 도전하세요!\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775178&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775184",
+    "posted_at_iso": "2026-08-23T07:33:56.857465+00:00",
+    "priority": "하",
+    "reason": "말 사육 농가 대상 축산 기술정보로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"폭염에 지친 망아지, 체온 39도℃ 넘으면 열사병 위험!\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775184&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "재외동포협력센터"
+    ],
+    "item_id": "korea-kr-156775191",
+    "posted_at_iso": "2026-08-23T07:33:56.857470+00:00",
+    "priority": "하",
+    "reason": "재외동포협력센터 조직 통합·고용 이슈로 성인 행정 사안이라 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "[보도설명자료] 재외동포협력센터 통합은 여야 공감대를 거쳐 추진한 사안이며, 센터 직원의 고용안정과 공정한 채용 절차의 원칙하에 추진 중입니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775191&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775188",
+    "posted_at_iso": "2026-08-23T07:33:56.857485+00:00",
+    "priority": "하",
+    "reason": "노동감독관 내부 수사역량 교육으로 절차성 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775188&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775189",
+    "posted_at_iso": "2026-08-23T07:33:56.857492+00:00",
+    "priority": "하",
+    "reason": "성인 근로자의 난임치료휴가 제도로 청소년의 권리·일상과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "난임치료휴가, 11월부터 '유급기간 4일로 확대'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775189&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "합천군",
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775186",
+    "posted_at_iso": "2026-08-23T07:33:56.857497+00:00",
+    "priority": "하",
+    "reason": "산란계 농가 대상 폭염 경영지원 사안으로 성인 농업인 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농식품부·합천군·축산원 힘 모아 산란계 농가 폭염 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775186&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775176",
+    "posted_at_iso": "2026-08-23T07:33:56.857503+00:00",
+    "priority": "하",
+    "reason": "농업기술대상 후보자 추천 공모로 성인 대상 절차성 공고다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 2026년도 농업기술대상 후보자 추천 공모",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775176&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-23",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156775174",
+    "posted_at_iso": "2026-08-23T07:33:56.857508+00:00",
+    "priority": "하",
+    "reason": "농촌진흥청 자체 기관 내부 민방위 훈련으로 전국 훈련 공지가 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 공습 대비 민방위 훈련 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775174&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
