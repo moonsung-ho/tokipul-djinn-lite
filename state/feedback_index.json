@@ -943,5 +943,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775203&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "섬진강",
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156775204",
+    "posted_at_iso": "2026-08-23T21:20:28.245744+00:00",
+    "priority": "하",
+    "reason": "섬진강 생태계 조사·홍보 행사로 청소년의 규칙이나 일상에 직접 닿지 않고 또래가 특별히 알아야 할 사안도 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "국민과 함께 섬진강 생태계 가치 재조명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775204&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
