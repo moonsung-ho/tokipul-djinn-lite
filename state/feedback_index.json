@@ -963,5 +963,26 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775204&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "소방청",
+    "entities": [
+      "경남 거제",
+      "통영",
+      "의용소방대"
+    ],
+    "item_id": "korea-kr-156775205",
+    "posted_at_iso": "2026-08-23T22:20:17.539285+00:00",
+    "priority": "하",
+    "reason": "특정 지역 수해복구를 위한 의용소방대 활동으로, 청소년의 권리·일상과 직결되지 않고 전국적 재난·안전 이슈로 보기도 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "전국 의용소방대, 경남 거제․통영 수해복구 지원 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775205&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
