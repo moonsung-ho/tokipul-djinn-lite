@@ -480,5 +480,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775157&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-22&endDate=2026-08-22&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-23",
+    "dept": "교육부",
+    "entities": [
+      "재외교육기관포털"
+    ],
+    "item_id": "korea-kr-156775159",
+    "message_ts": "1787447396.612099",
+    "posted_at_iso": "2026-08-23T01:09:57.240792+00:00",
+    "priority": "하",
+    "reason": "재외교육기관포털 소개용 데이터 발간물로 국내 또래의 권리·일상과도, 즉각적인 관심사와도 직접 연결되지 않는 행정 통계 자료다.",
+    "source": "정책브리핑(교육부)",
+    "title": "데이터로 읽는 우리 교육 제12호 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775159&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-23&endDate=2026-08-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
