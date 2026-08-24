@@ -2403,5 +2403,39 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775331&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156775336",
+    "posted_at_iso": "2026-08-24T21:28:03.845583+00:00",
+    "priority": "하",
+    "reason": "철도기관사·관제사 자격시험과 운전면허시험 수수료 감면은 성인 대상 제도로 중학생 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775336&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "기후에너지환경부",
+    "entities": [],
+    "item_id": "korea-kr-156775337",
+    "posted_at_iso": "2026-08-24T21:28:03.845603+00:00",
+    "priority": "하",
+    "reason": "지하수 분야 국제표준 기술위원회 승격은 전문 행정·산업 표준화 사안으로 또래의 일상이나 관심사와 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "지하수 분야 국제표준 기술위원회 승격 추진… 우리나라가 주도한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775337&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
