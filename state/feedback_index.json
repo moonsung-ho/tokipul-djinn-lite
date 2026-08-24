@@ -2120,5 +2120,162 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775291&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "고용노동부",
+    "entities": [
+      "전국기능경기대회",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775304",
+    "message_ts": "1787558266.040819",
+    "posted_at_iso": "2026-08-24T07:57:46.591371+00:00",
+    "priority": "상",
+    "reason": "서울 직업계고 학생들이 출전하는 전국기능경기대회 개회식 보도자료로 동일 사안의 또래 성취다.",
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"기술의 가치, 미래의 꿈을 잇다\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775304&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "",
+    "entities": [
+      "전국기능경기대회"
+    ],
+    "item_id": "sen-press-192016",
+    "message_ts": "1787558266.778359",
+    "posted_at_iso": "2026-08-24T07:57:47.393631+00:00",
+    "priority": "상",
+    "reason": "서울 직업계고 학생 99명이 전국기능경기대회에 출전하는 또래의 실제 성취 사안이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울 직업계고 학생들,  숙련기술인의 꿈을 향해 전국 무대로!",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192016&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "",
+    "entities": [
+      "서울아주초등학교"
+    ],
+    "item_id": "sen-press-191994",
+    "message_ts": "1787558267.582139",
+    "posted_at_iso": "2026-08-24T07:57:48.186049+00:00",
+    "priority": "중",
+    "reason": "학교폭력 예방은 학생 인권 주제이지만 특정 초등학교의 자체 기념행사로 대상이 좁다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울아주초등학교, 학교폭력 없는  사랑의 학교 1,000일 기념 행사 실시",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=191994&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156775296",
+    "posted_at_iso": "2026-08-24T07:57:48.186083+00:00",
+    "priority": "하",
+    "reason": "고속도로 터널 안전점검은 운전자 대상 사안으로 또래의 일상과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰, 고속도로 터널 안전 정밀점검  사고 예방 총력 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775296&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "산림청",
+    "entities": [
+      "국립수목원",
+      "한국산림과학회"
+    ],
+    "item_id": "korea-kr-156775298",
+    "posted_at_iso": "2026-08-24T07:57:48.186100+00:00",
+    "priority": "하",
+    "reason": "산림 전문가 대상 학술 세미나로 또래와 연결되는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립수목원, 한국산림과학회에서 산림OECM 관리·확산 전략 마련을 위한 특별 세미나 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775298&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156775303",
+    "posted_at_iso": "2026-08-24T07:57:48.186109+00:00",
+    "priority": "하",
+    "reason": "전자상거래 통관플랫폼은 성인 소비자·사업자 대상 행정으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "더 안전하게 지키고, 더 편하게 누리는  국민 맞춤형 통관의 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775303&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156775302",
+    "posted_at_iso": "2026-08-24T07:57:48.186117+00:00",
+    "priority": "하",
+    "reason": "산지 이용 규제 완화는 지역 개발·산업 종사자 대상으로 청소년과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 지역 활력 높이고 현장 부담 줄이는 산지 이용 규제 합리화 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775302&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "행정안전부",
+    "entities": [
+      "해남군"
+    ],
+    "item_id": "korea-kr-156775300",
+    "posted_at_iso": "2026-08-24T07:57:48.186124+00:00",
+    "priority": "하",
+    "reason": "특정 지역 지진 대비를 위한 전문가 회의 개최로 실제 학생 대상 조치나 전국적 영향이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "해남군 지진 대비태세 점검을 위한 전문가 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775300&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
