@@ -1350,5 +1350,87 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775229&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "고려인"
+    ],
+    "item_id": "korea-kr-156775236",
+    "message_ts": "1787534648.091839",
+    "posted_at_iso": "2026-08-24T01:24:08.570732+00:00",
+    "priority": "중",
+    "reason": "고교생 대상 금융교육으로 당사자성은 있으나 고려인 고교생 15명이라는 좁은 특정 집단 프로그램이라 간접적이다",
+    "source": "정책브리핑(재외동포청)",
+    "title": "\"장학금 받고 금융생활도 배운다\"...고려인 고교생 15명 금융 교육",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775236&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "김포",
+      "시흥",
+      "청양"
+    ],
+    "item_id": "korea-kr-156775237",
+    "posted_at_iso": "2026-08-24T01:24:08.570757+00:00",
+    "priority": "하",
+    "reason": "성인 주민 대상 민원 청취 행사로 청소년의 권리·일상과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "'달리는 국민신문고', 김포·시흥·청양 찾아 주민 목소리 듣는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775237&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156775235",
+    "posted_at_iso": "2026-08-24T01:24:08.570765+00:00",
+    "priority": "하",
+    "reason": "개인정보 보호 관련 시상식으로 본문 확인이 어렵고 성인·기업 대상 행사로 보여 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 제3회 '개인정보 고래상' 시상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775235&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가보훈부",
+    "entities": [
+      "임정기념관",
+      "김구"
+    ],
+    "item_id": "korea-kr-156775238",
+    "posted_at_iso": "2026-08-24T01:24:08.570771+00:00",
+    "priority": "하",
+    "reason": "역사 기념 전시로 특정 대상 없이 일반 대중을 향한 문화 행사라 또래와 직접 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "임정기념관  김구 탄생 150주년 기념 미디어특별전 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775238&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
