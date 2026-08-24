@@ -2277,5 +2277,61 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775300&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156775327",
+    "message_ts": "1787567821.539869",
+    "posted_at_iso": "2026-08-24T10:37:01.797342+00:00",
+    "priority": "중",
+    "reason": "방송 규제기구의 정례 위원회 결과이나 구체적 안건(재허가·처분 등)이 명시되지 않아 언론 당사자성 여부를 확인할 취재가 더 필요하다",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제30차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775327&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "외교부",
+    "entities": [],
+    "item_id": "korea-kr-156775330",
+    "posted_at_iso": "2026-08-24T10:37:01.797371+00:00",
+    "priority": "하",
+    "reason": "AI 공급망 기업 간담회는 기업·산업 정책으로 청소년의 권리나 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제2차관, AI 공급망 기업 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775330&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "외교부",
+    "entities": [
+      "멕시코"
+    ],
+    "item_id": "korea-kr-156775305",
+    "posted_at_iso": "2026-08-24T10:37:01.797381+00:00",
+    "priority": "하",
+    "reason": "외교장관 간 회담·오찬은 성인 외교 사안으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한멕 외교장관 회담 및 오찬 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775305&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
