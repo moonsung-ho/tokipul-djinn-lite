@@ -2437,5 +2437,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775337&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "소방장비 긴급정비지원단"
+    ],
+    "item_id": "korea-kr-156775338",
+    "posted_at_iso": "2026-08-24T22:24:34.490038+00:00",
+    "priority": "하",
+    "reason": "소방장비 정비 지원체계 구성이라는 행정 조직 소식으로 학생 일상이나 광범위한 재난 안전 이슈와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "대형 재난현장 소방력 공백 예방(제로화)에 기여… 민·관 협업 「소방장비 긴급정비지원단」",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775338&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
