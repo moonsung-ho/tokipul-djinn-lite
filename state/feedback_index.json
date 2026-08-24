@@ -1432,5 +1432,303 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775238&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "통일부",
+    "entities": [
+      "평화공존 정책과 남북인권협력 국제회의",
+      "통일부"
+    ],
+    "item_id": "korea-kr-156775260",
+    "message_ts": "1787540594.785949",
+    "posted_at_iso": "2026-08-24T03:03:15.038474+00:00",
+    "priority": "중",
+    "reason": "남북 인권·평화 관련 국제회의는 정치·국제 현안으로 또래가 알아둘 만하지만 규칙으로 닿지는 않는다.",
+    "source": "정책브리핑(통일부)",
+    "title": "'평화공존 정책과 남북인권협력 국제회의' 개최(8.25.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775260&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "대한민국 인공지능 윤리원칙"
+    ],
+    "item_id": "korea-kr-156775263",
+    "message_ts": "1787540595.100769",
+    "posted_at_iso": "2026-08-24T03:03:15.334019+00:00",
+    "priority": "중",
+    "reason": "AI 윤리원칙 제정은 사회 전반에 영향을 미치는 정책이나 청소년에게 직접 닿는 규칙 변화는 아니다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775263&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-24",
+    "dept": "농림축산식품부",
+    "entities": [
+      "잔류농약",
+      "중금속",
+      "식중독균"
+    ],
+    "item_id": "korea-kr-156775252",
+    "message_ts": "1787540595.399549",
+    "posted_at_iso": "2026-08-24T03:03:15.628714+00:00",
+    "priority": "중",
+    "reason": "식품 안전 검사 강화는 일반 소비자 대상 식품안전 사안으로 또래도 관심 가질 만하나 학교 급식처럼 직접적이지 않다.",
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "우리 집 밥상에 오르기 전,  잔류농약·중금속·식중독균 깐깐하게 가려낸다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775252&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "산업통상부",
+    "entities": [
+      "전북"
+    ],
+    "item_id": "korea-kr-156775257",
+    "posted_at_iso": "2026-08-24T03:03:15.628748+00:00",
+    "priority": "하",
+    "reason": "지역 AI 행사 홍보로 청소년과의 접점이 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "AI로 여는 대한민국의 미래, 전북에서 한바탕 펼치다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775257&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775256",
+    "posted_at_iso": "2026-08-24T03:03:15.628764+00:00",
+    "priority": "하",
+    "reason": "금융고객정보 연계 개선은 성인 금융 행정 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 개인정보 변경 시 금융고객정보 연계 개선 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775256&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가유산청",
+    "entities": [
+      "경복궁",
+      "경회루",
+      "향원정"
+    ],
+    "item_id": "korea-kr-156775249",
+    "posted_at_iso": "2026-08-24T03:03:15.628774+00:00",
+    "priority": "하",
+    "reason": "경복궁 특별관람 안내는 단순 문화행사 홍보로 뉴스 가치가 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "가을빛 물든 경복궁, '2026년 경회루·향원정 특별관람' 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775249&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가유산청",
+    "entities": [
+      "국립가야문화유산연구소",
+      "국립가야역사문화센터"
+    ],
+    "item_id": "korea-kr-156775245",
+    "posted_at_iso": "2026-08-24T03:03:15.628781+00:00",
+    "priority": "하",
+    "reason": "고고과학 학술 토론회는 전문가 대상 행사로 또래 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "고고과학으로 풀어보는 '개와 인간의 오랜 동행'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775245&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가유산청",
+    "entities": [
+      "파주 용상사지",
+      "국립서울문화유산연구소"
+    ],
+    "item_id": "korea-kr-156775243",
+    "posted_at_iso": "2026-08-24T03:03:15.628788+00:00",
+    "priority": "하",
+    "reason": "역사 유적 학술 포럼은 전문 연구자 대상으로 청소년 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "고려 왕의 안식처, '파주 용상사지' 학술적 조명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775243&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가유산청",
+    "entities": [
+      "국립해양유산연구소",
+      "섬지기 시민강좌"
+    ],
+    "item_id": "korea-kr-156775247",
+    "posted_at_iso": "2026-08-24T03:03:15.628795+00:00",
+    "priority": "하",
+    "reason": "시민강좌는 일반 성인 대상 교양 프로그램으로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "국립해양유산연구소, '2026 섬지기 시민강좌' 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775247&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농식품 빅데이터"
+    ],
+    "item_id": "korea-kr-156775251",
+    "posted_at_iso": "2026-08-24T03:03:15.628997+00:00",
+    "priority": "하",
+    "reason": "농식품 빅데이터 클라우드 전환은 산업 인프라 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부, 민간 클라우드로 농식품 빅데이터 문을 연다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775251&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "제12회 과학기술관계장관회의"
+    ],
+    "item_id": "korea-kr-156775261",
+    "posted_at_iso": "2026-08-24T03:03:15.629005+00:00",
+    "priority": "하",
+    "reason": "장관회의 개최 소식은 구체적 성과 없는 회의 안내로 또래가 알아야 할 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "미래기술의 씨앗을 성장동력으로첨단기술 실증·사업화와  인공지능 신뢰 기반 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775261&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "해양수산부",
+    "entities": [
+      "선박안전법 시행규칙"
+    ],
+    "item_id": "korea-kr-156775254",
+    "posted_at_iso": "2026-08-24T03:03:15.629012+00:00",
+    "priority": "하",
+    "reason": "소형선박 검사 규칙 개정은 선박 소유자 대상 규제로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "소형선박 선박검사 부담 대폭 낮춘다 선박안전법 시행규칙 개정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775254&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "해양수산부",
+    "entities": [
+      "블루푸드테크"
+    ],
+    "item_id": "korea-kr-156775253",
+    "posted_at_iso": "2026-08-24T03:03:15.629019+00:00",
+    "priority": "하",
+    "reason": "블루푸드테크 전문인력 배출은 성인 직업교육 성과로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "수산 식품산업 혁신 이끌블루푸드테크 전문인력 첫 배출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775253&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "생성형 인공지능",
+      "신산업 규제"
+    ],
+    "item_id": "korea-kr-156775262",
+    "posted_at_iso": "2026-08-24T03:03:15.629026+00:00",
+    "priority": "하",
+    "reason": "신산업 규제 확인 서비스는 기업 대상 행정 서비스로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "신산업 규제, 생성형 인공지능으로 빠르고 간편하게 확인한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775262&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-24",
+    "dept": "국가유산청",
+    "entities": [
+      "부안 내소사 대웅보전",
+      "부여 123사비 레지던스"
+    ],
+    "item_id": "korea-kr-156775241",
+    "posted_at_iso": "2026-08-24T03:03:15.629032+00:00",
+    "priority": "하",
+    "reason": "전통 단청 작품 전시는 문화 행사 홍보로 뉴스 가치가 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "전통안료와 기법으로 재현한 「부안 내소사 대웅보전」 단청 소재 작품 24점 전시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775241&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-24&endDate=2026-08-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
