@@ -2457,5 +2457,384 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775338&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "2027학년도 대학수학능력시험",
+      "한국교육과정평가원"
+    ],
+    "item_id": "korea-kr-156775395",
+    "message_ts": "1787629741.691969",
+    "posted_at_iso": "2026-08-25T03:49:01.928859+00:00",
+    "priority": "상",
+    "reason": "2027학년도 수능 모의평가는 현재 중학생이 장차 치를 시험 체제와 직결되는 사안이다",
+    "source": "정책브리핑(교육부)",
+    "title": "2027학년도 대학수학능력시험 9월 모의평가 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775395&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "2027학년도 수시모집"
+    ],
+    "item_id": "korea-kr-156775393",
+    "message_ts": "1787629742.003829",
+    "posted_at_iso": "2026-08-25T03:49:02.254554+00:00",
+    "priority": "중",
+    "reason": "수시모집 원서접수 안내는 현재 고3 대상 절차 공지로 중학생에게는 미래 입시 정보로서만 참고가 된다",
+    "source": "정책브리핑(교육부)",
+    "title": "2027학년도 수시모집 대입 원서접수 미리 작성!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775393&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "이주배경학생",
+      "맞춤형 한국어 진단도구"
+    ],
+    "item_id": "korea-kr-156775394",
+    "message_ts": "1787629742.319779",
+    "posted_at_iso": "2026-08-25T03:49:02.556472+00:00",
+    "priority": "중",
+    "reason": "이주배경학생 대상 한국어 진단도구는 학교 현장에 실제 적용되는 지원책이나 대상이 특정 학생군으로 좁다",
+    "source": "정책브리핑(교육부)",
+    "title": "늘어나는 이주배경학생, '맞춤형 한국어 진단도구'로 공교육 적응 돕는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775394&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "어린이통학버스"
+    ],
+    "item_id": "korea-kr-156775396",
+    "message_ts": "1787629742.625989",
+    "posted_at_iso": "2026-08-25T03:49:02.861268+00:00",
+    "priority": "중",
+    "reason": "통학 안전은 학생 안전 사안이지만 대상이 영유아·어린이통학버스로 중학생 일상과는 거리가 있다",
+    "source": "정책브리핑(교육부)",
+    "title": "영유아 통학안전 강화, 어린이통학버스 3,089대 상반기 합동점검 완료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775396&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "서울대학교 역사교육지원연구센터"
+    ],
+    "item_id": "korea-kr-156775398",
+    "message_ts": "1787629743.451449",
+    "posted_at_iso": "2026-08-25T03:49:03.702885+00:00",
+    "priority": "중",
+    "reason": "학교 역사교육을 지원하는 거점 기관 개소로 교육과정 운영에 영향을 줄 수 있으나 아직 구체적 규칙 변경은 아니다",
+    "source": "정책브리핑(교육부)",
+    "title": "학교 역사교육 활성화 지원 거점, 서울대학교 역사교육지원연구센터 개소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775398&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [
+      "외교부"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "교육부",
+    "entities": [
+      "아태교육원",
+      "세계시민교육 국제회의"
+    ],
+    "item_id": "korea-kr-156775397",
+    "message_ts": "1787629743.779859",
+    "posted_at_iso": "2026-08-25T03:49:04.008038+00:00",
+    "priority": "중",
+    "reason": "세계시민교육은 교육 의제이나 이번 회의는 전문가·기관 간 국제 행사로 학생 직접 참여나 규칙 변화가 보이지 않는다",
+    "source": "정책브리핑(교육부)",
+    "title": "교육부.외교부.아태교육원, 제11회 세계시민교육 국제회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775397&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "팔공산",
+      "담비",
+      "참매"
+    ],
+    "item_id": "korea-kr-156775390",
+    "message_ts": "1787629744.071199",
+    "posted_at_iso": "2026-08-25T03:49:04.294022+00:00",
+    "priority": "중",
+    "reason": "멸종위기종 복귀는 환경 회복을 보여주는 전국적 생태 사안으로 또래의 관심사가 될 수 있다",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "불법시설물 걷어낸 팔공산 계곡… 멸종위기 야생생물 담비·참매 돌아왔다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775390&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "행정안전부",
+    "entities": [
+      "AI 분석모델 개발 경진대회"
+    ],
+    "item_id": "korea-kr-156775402",
+    "posted_at_iso": "2026-08-25T03:49:04.294047+00:00",
+    "priority": "하",
+    "reason": "민간 AI 경진대회는 성인·기업 참가자 대상 행사로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "\"민간 AI 역량 모아 공공문제 해결한다\" 행안부 '2026년 AI 분석모델 개발 경진대회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775402&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처",
+      "연금통계"
+    ],
+    "item_id": "korea-kr-156775392",
+    "posted_at_iso": "2026-08-25T03:49:04.294229+00:00",
+    "priority": "하",
+    "reason": "연금통계는 성인·고령층 대상 사회보장 지표로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2024년 연금통계 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775392&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156775385",
+    "posted_at_iso": "2026-08-25T03:49:04.294237+00:00",
+    "priority": "하",
+    "reason": "경쟁제한적 규제 개선은 기업·시장 대상 경제정책으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "2026년 상반기 경쟁제한적 규제 개선방안 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775385&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "행정안전부",
+    "entities": [
+      "행정안전통계연보"
+    ],
+    "item_id": "korea-kr-156775400",
+    "posted_at_iso": "2026-08-25T03:49:04.294245+00:00",
+    "priority": "하",
+    "reason": "행정안전통계연보는 행정 실무 지표로 사회의 모습을 보여주는 데이터라 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "2026년 행정안전통계연보 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775400&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156775383",
+    "posted_at_iso": "2026-08-25T03:49:04.294252+00:00",
+    "priority": "하",
+    "reason": "산업·기술안보망 구축은 관계부처 성인 정책 사안으로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "관계부처가 힘을 합쳐,  튼튼한 산업·기술안보망 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775383&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156775391",
+    "posted_at_iso": "2026-08-25T03:49:04.294286+00:00",
+    "priority": "하",
+    "reason": "반도체 기업과의 재생에너지 조달 논의는 산업 정책으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후부, 세계적인 반도체 기업들과재생에너지 조달 해법 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775391&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "행정안전부",
+    "entities": [
+      "필리핀",
+      "지방자치인재개발원"
+    ],
+    "item_id": "korea-kr-156775404",
+    "posted_at_iso": "2026-08-25T03:49:04.294299+00:00",
+    "priority": "하",
+    "reason": "필리핀 공무원 대상 행정 혁신 교류로 청소년과 무관한 성인 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "디지털 행정서비스와 행정 혁신 경험을 필리핀 공무원과 공유한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775404&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산업통상부",
+    "entities": [
+      "시험인증정책과"
+    ],
+    "item_id": "korea-kr-156775384",
+    "posted_at_iso": "2026-08-25T03:49:04.294310+00:00",
+    "priority": "하",
+    "reason": "시험인증 산업 포럼 출범은 성인 산업계 대상 사안으로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "시험인증 산업 경쟁력 강화를 위한 포럼 출범",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775384&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "고용노동부",
+    "entities": [
+      "안전보건공단",
+      "동서발전"
+    ],
+    "item_id": "korea-kr-156775382",
+    "posted_at_iso": "2026-08-25T03:49:04.294322+00:00",
+    "priority": "하",
+    "reason": "발전 현장 안전 협약은 성인 노동자 대상 사안으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "안전보건공단-동서발전, 안전한 발전 현장 조성을 위한 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775382&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "에이전트형 인공지능 재단(AAIF)"
+    ],
+    "item_id": "korea-kr-156775386",
+    "posted_at_iso": "2026-08-25T03:49:04.294333+00:00",
+    "priority": "하",
+    "reason": "AI 표준화 국제협력은 산업·기술 정책으로 청소년 일상과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775386&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [
+      "인천",
+      "노후계획도시정비"
+    ],
+    "item_id": "korea-kr-156775381",
+    "posted_at_iso": "2026-08-25T03:49:04.294345+00:00",
+    "priority": "하",
+    "reason": "노후계획도시정비 선도지구 선정은 주택·도시계획 사안으로 성인 대상이며 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "인천 노후계획도시정비 선도지구 1만 6,267호 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775381&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156775389",
+    "posted_at_iso": "2026-08-25T03:49:04.294354+00:00",
+    "priority": "하",
+    "reason": "공공부문 인력 확충은 행정 내부 사안으로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "정부, 공공부문 개인정보 보호 역량 강화 위한 인력 확충한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775389&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
