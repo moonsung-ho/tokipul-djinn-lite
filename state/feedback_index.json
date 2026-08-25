@@ -3410,5 +3410,64 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775450&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "우주항공청",
+    "entities": [
+      "누리호",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156775455",
+    "message_ts": "1787657232.975499",
+    "posted_at_iso": "2026-08-25T11:27:13.456754+00:00",
+    "priority": "상",
+    "reason": "누리호 발사는 과학·우주 성과로 또래가 관심 가질 만한 소식이다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "한국형발사체(누리호) 5호기 발사 승인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775455&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산림청",
+    "entities": [
+      "서부지방산림청"
+    ],
+    "item_id": "korea-kr-156775457",
+    "posted_at_iso": "2026-08-25T11:27:13.456780+00:00",
+    "priority": "하",
+    "reason": "산림유전자원보호구역 관리 강화는 행정 실무 소식으로 청소년 당사자성이나 또래의 관심을 끌 만한 요소가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "서부지방산림청, 산림유전자원보호구역 관리 강화로 산림생태계 보전",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775457&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "외교부",
+    "entities": [
+      "쿠웨이트"
+    ],
+    "item_id": "korea-kr-156775458",
+    "posted_at_iso": "2026-08-25T11:27:13.456788+00:00",
+    "priority": "하",
+    "reason": "정례적 외교장관회담 결과로 청소년의 일상이나 또래의 관심사와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-쿠웨이트 외교장관회담(8.25.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775458&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
