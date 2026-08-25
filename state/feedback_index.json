@@ -2875,5 +2875,96 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775407&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156775420",
+    "posted_at_iso": "2026-08-25T05:30:56.720858+00:00",
+    "priority": "하",
+    "reason": "근로자 퇴직연금(IRP) 확산 캠페인으로 대상이 성인 근로자다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"공단에서 먼저 가입하고,  국민과 함께 키운다\" 근로복지공단, 푸른씨앗 IRP 확산 본격화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775420&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156775417",
+    "posted_at_iso": "2026-08-25T05:30:56.720875+00:00",
+    "priority": "하",
+    "reason": "연명의료결정과 수기 공모전은 성인 대상 의료 정책으로 청소년과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "'당신의 마지막 문장은 누가 씁니까' 2026 연명의료결정제도 수기 공모전 시상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775417&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156775416",
+    "posted_at_iso": "2026-08-25T05:30:56.720880+00:00",
+    "priority": "하",
+    "reason": "양곡 수급계획은 농업 행정 실무 사안으로 청소년의 일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "2026년 공공비축 시행계획 및 2027 양곡연도 정부관리양곡 수급계획 국무회의 의결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775416&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156775419",
+    "posted_at_iso": "2026-08-25T05:30:56.720884+00:00",
+    "priority": "하",
+    "reason": "산학연 협력을 통한 항공기 개발 청사진은 산업 R&D 사안으로 또래의 직접적 관심사나 과학 성과 발표로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "국내 5인승급 하이브리드 수직이착륙기 청사진, 산·학·연이 함께 그린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775419&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "고용노동부",
+    "entities": [
+      "폴리텍대학"
+    ],
+    "item_id": "korea-kr-156775415",
+    "posted_at_iso": "2026-08-25T05:30:56.720890+00:00",
+    "priority": "하",
+    "reason": "폴리텍대학의 중소기업 시제품 제작 지원은 성인 대상 산업지원 사업이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775415&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
