@@ -2836,5 +2836,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775389&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "K-문샷 AI 휴머노이드 미션"
+    ],
+    "item_id": "korea-kr-156775406",
+    "message_ts": "1787632679.080569",
+    "posted_at_iso": "2026-08-25T04:37:59.299016+00:00",
+    "priority": "중",
+    "reason": "AI 휴머노이드 기술 정책은 과학기술 관심사로 볼 여지는 있으나 현장소통 수준이라 구체적 성과나 학생 연결고리가 약하다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 「K-문샷 AI 휴머노이드 미션」 현장소통",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775406&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소기업창업 지원법 시행령"
+    ],
+    "item_id": "korea-kr-156775407",
+    "posted_at_iso": "2026-08-25T04:37:59.299044+00:00",
+    "priority": "하",
+    "reason": "개인사업자 재창업 규제 완화로 성인 창업자 대상 정책이라 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775407&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
