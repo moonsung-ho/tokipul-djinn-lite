@@ -3542,5 +3542,105 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775483&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156775488",
+    "message_ts": "1787700337.656879",
+    "posted_at_iso": "2026-08-25T23:25:37.878934+00:00",
+    "priority": "상",
+    "reason": "어린이·청소년을 대상으로 한 식생활 교육 확산 정책이라 또래의 일상(학교 식습관 교육)과 직접 닿는다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 국·영·수만큼 중요한 식습관…식약처, 어린이·청소년 대상 식생활 교육 확산 노력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775488&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "중국산 배추"
+    ],
+    "item_id": "korea-kr-156775485",
+    "message_ts": "1787700337.951269",
+    "posted_at_iso": "2026-08-25T23:25:38.170309+00:00",
+    "priority": "중",
+    "reason": "식품 안전 사안이지만 학교 급식 등 학생과 직접 연결되지 않고 이상無 결과라 후속 취재 각도가 약하다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, 통관단계 중국산 배추 검사 결과 포름알데히드 불검출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775485&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156775486",
+    "posted_at_iso": "2026-08-25T23:25:38.170334+00:00",
+    "priority": "하",
+    "reason": "바이오산업 정책 발표로 산업·성인 대상 사안이며 학생과 연결점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, '바이오 대도약'을 향한 길을 열다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775486&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "국제비즈니스어워즈"
+    ],
+    "item_id": "korea-kr-156775487",
+    "posted_at_iso": "2026-08-25T23:25:38.170343+00:00",
+    "priority": "하",
+    "reason": "기관 홍보 캠페인의 수상 소식으로 학생의 권리나 관심사와 무관한 성인 대상 PR 뉴스다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, '안심 PLAY' 디지털 소통 캠페인으로 2026 국제비즈니스어워즈(IBA) 은상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775487&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "부산국제마케팅광고제"
+    ],
+    "item_id": "korea-kr-156775484",
+    "posted_at_iso": "2026-08-25T23:25:38.170350+00:00",
+    "priority": "하",
+    "reason": "부산 지역 성인·업계 대상 광고제 행사로 서울 중학생의 일상이나 참여와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "인공지능과 인간의 상상력 결합, '2026 부산국제마케팅광고제' 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775484&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
