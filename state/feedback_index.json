@@ -3469,5 +3469,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775458&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처",
+      "한-일본 양자협력회의"
+    ],
+    "item_id": "korea-kr-156775480",
+    "posted_at_iso": "2026-08-25T15:42:15.166655+00:00",
+    "priority": "하",
+    "reason": "국가 통계기관 간 양자협력회의로 성인·행정 실무 사안이며 또래의 권리나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "국가데이터처, 제63차 한-일본 양자협력회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775480&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
