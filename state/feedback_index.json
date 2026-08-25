@@ -3313,5 +3313,102 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775443&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "",
+    "entities": [],
+    "item_id": "sen-press-192019",
+    "message_ts": "1787647232.432389",
+    "posted_at_iso": "2026-08-25T08:40:32.917328+00:00",
+    "priority": "중",
+    "reason": "고입 진로와 2028 대입 개편이라는 실제 정책 변화를 다루지만 학생이 아닌 학부모 대상 설명회 행사라 간접적이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청,  2026 학부모 고입진로설명회 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192019&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "김윤덕",
+      "뉴홈"
+    ],
+    "item_id": "korea-kr-156775446",
+    "posted_at_iso": "2026-08-25T08:40:32.917358+00:00",
+    "priority": "하",
+    "reason": "성인 대상 주택청약·모기지 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 김윤덕 장관, 뉴홈 청약자 간담회를 통해 전용 모기지 적용 방안 확정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775446&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156775448",
+    "posted_at_iso": "2026-08-25T08:40:32.917366+00:00",
+    "priority": "하",
+    "reason": "임업 장비 시연회로 청소년의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 무선 풀베기 장비 시연회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775448&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국유림 자원화 상생협의체"
+    ],
+    "item_id": "korea-kr-156775454",
+    "posted_at_iso": "2026-08-25T08:40:32.917372+00:00",
+    "priority": "하",
+    "reason": "산촌 주민·임업 관계자 대상 국유림 정책 협의체로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 산촌 현장 목소리 담아 국유림 정책 다듬는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775454&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "산림청",
+    "entities": [
+      "영암국유림관리소"
+    ],
+    "item_id": "korea-kr-156775450",
+    "posted_at_iso": "2026-08-25T08:40:32.917378+00:00",
+    "priority": "하",
+    "reason": "기관 내부 청렴 교육 행사로 청소년의 권리나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영암국유림관리소, 청렴유적지 방문으로 청렴의 가치 되새겨",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775450&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
