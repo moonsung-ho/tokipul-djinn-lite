@@ -2966,5 +2966,352 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775415&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156775432",
+    "message_ts": "1787643855.854409",
+    "posted_at_iso": "2026-08-25T07:44:16.665768+00:00",
+    "priority": "중",
+    "reason": "보이스피싱 피해 감소는 청소년도 표적이 될 수 있는 전국 단위 안전 통계로 사회 모습을 보여준다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "7월 보이스피싱 피해액 올해 최저,  신종 스캠도 감소세 뚜렷",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775432&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-25",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "유엔사막화방지협약"
+    ],
+    "item_id": "korea-kr-156775424",
+    "message_ts": "1787643856.905349",
+    "posted_at_iso": "2026-08-25T07:44:17.770638+00:00",
+    "priority": "중",
+    "reason": "유엔사막화방지협약 총회 참석은 국제 기후·환경 사안으로 또래가 알 만한 소식이다.",
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 제17차 유엔사막화방지협약 당사국총회 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775424&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156775428",
+    "posted_at_iso": "2026-08-25T07:44:17.770669+00:00",
+    "priority": "하",
+    "reason": "학·연 전문가 간 수치예보 혁신 논의는 전문가 회의 성격이라 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "\"급변하는 날씨 잡을 케이(K)-기상예측모델\" 기상청, 학·연 전문가와 수치예보 혁신에 머리 맞댄다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775428&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "기획예산처",
+    "entities": [
+      "GTX-C",
+      "부전~마산선"
+    ],
+    "item_id": "korea-kr-156775435",
+    "posted_at_iso": "2026-08-25T07:44:17.770679+00:00",
+    "priority": "하",
+    "reason": "민간투자사업 심의 통과는 인프라 투자 절차로 청소년의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "GTX-C, 부전~마산선 등 4개 민간투자사업 민투심 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775435&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775444",
+    "posted_at_iso": "2026-08-25T07:44:17.770872+00:00",
+    "priority": "하",
+    "reason": "AI 기반 민원행정 혁신 포럼은 행정 실무자 대상 행사로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] AI기반 민원행정 혁신을 위한 공공AX 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775444&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국무조정실",
+    "entities": [
+      "국가기후위기대응위원회"
+    ],
+    "item_id": "korea-kr-156775422",
+    "posted_at_iso": "2026-08-25T07:44:17.770890+00:00",
+    "priority": "하",
+    "reason": "기후대응위의 민관협업 MOU 체결은 구체적 처분 없는 절차성 발표로 알맹이가 부족하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 기후대응위, 국민참여 캠페인 민관협업 추진을 위한 MOU 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775422&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [
+      "GTX-C"
+    ],
+    "item_id": "korea-kr-156775434",
+    "posted_at_iso": "2026-08-25T07:44:17.770901+00:00",
+    "priority": "하",
+    "reason": "GTX-C 실시협약 변경 심의 통과는 철도 사업 행정 절차로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] GTX C노선 실시협약 변경(안) 민간투자사업심의위원회 통과 하반기 착공 목표에 한 걸음 더",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775434&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [
+      "무안"
+    ],
+    "item_id": "korea-kr-156775437",
+    "posted_at_iso": "2026-08-25T07:44:17.770933+00:00",
+    "priority": "하",
+    "reason": "국가산업단지 후보지 지정은 지역 경제개발 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 무안 신규 국가산업단지 후보지 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775437&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "과학기술정보통신부",
+    "entities": [],
+    "item_id": "korea-kr-156775426",
+    "posted_at_iso": "2026-08-25T07:44:17.770942+00:00",
+    "priority": "하",
+    "reason": "기본연구 복원 정책은 초기 연구자(성인) 대상 지원으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 기본연구 복원으로  초기 연구자 성장기회 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775426&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "인천",
+      "ICT콤플렉스"
+    ],
+    "item_id": "korea-kr-156775439",
+    "posted_at_iso": "2026-08-25T07:44:17.770949+00:00",
+    "priority": "하",
+    "reason": "ICT콤플렉스 인재양성 거점 개소는 대학·성인 인력 양성 시설로 보여 청소년 직접 대상이 확인되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 인천지역 AI·SW인재양성 거점, 「ICT콤플렉스」 개소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775439&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국가기후위기대응위원회",
+    "entities": [
+      "국가기후위기대응위원회"
+    ],
+    "item_id": "korea-kr-156775421",
+    "posted_at_iso": "2026-08-25T07:44:17.770955+00:00",
+    "priority": "하",
+    "reason": "그린이득 캠페인 업무협약은 MOU 체결 단계로 실제 정책 변화가 확인되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가기후위기대응위원회)",
+    "title": "국가기후위기대응위원회, 그린이득 켐페인 업무협약",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775421&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "질병관리청"
+    ],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156775430",
+    "posted_at_iso": "2026-08-25T07:44:17.770962+00:00",
+    "priority": "하",
+    "reason": "AI 민주정부 실현 추진은 정부 행정 디지털화 정책으로 청소년의 규칙이나 일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "국민이 주인 되는 정부, AI로 만든다  「AI 민주정부」 실현 본격 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775430&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "송파",
+      "ICT 보안 클러스터"
+    ],
+    "item_id": "korea-kr-156775433",
+    "posted_at_iso": "2026-08-25T07:44:17.770969+00:00",
+    "priority": "하",
+    "reason": "ICT 보안 클러스터 착공은 산업단지 개발 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "대한민국 ICT 보안의 미래, '송파 ICT 보안 클러스터' 1단계 사업 착공",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775433&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156775431",
+    "posted_at_iso": "2026-08-25T07:44:17.770975+00:00",
+    "priority": "하",
+    "reason": "법인 보유 고가주택 세무조사는 성인·기업 대상 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "법인 보유 고가주택 등 사적사용 제1차 50개 업체 세무조사 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775431&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국토교통부",
+    "entities": [
+      "부전",
+      "마산"
+    ],
+    "item_id": "korea-kr-156775440",
+    "posted_at_iso": "2026-08-25T07:44:17.770982+00:00",
+    "priority": "하",
+    "reason": "복선전철 부분 개통은 지역 교통 인프라 사안으로 청소년의 규칙이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "부전~마산 복선전철, '27년 4월 1일 목표로 '부분 개통' 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775440&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "홈플러스"
+    ],
+    "item_id": "korea-kr-156775438",
+    "posted_at_iso": "2026-08-25T07:44:17.770989+00:00",
+    "priority": "하",
+    "reason": "홈플러스 협력업체 경영안정 지원은 성인 대상 경제정책으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부, 홈플러스 협력·입점업체  경영안정 지원에 나선다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775438&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "국민통합위원회",
+    "entities": [
+      "국민통합위원회"
+    ],
+    "item_id": "korea-kr-156775427",
+    "posted_at_iso": "2026-08-25T07:44:17.770995+00:00",
+    "priority": "하",
+    "reason": "음악 행사 관련 국민통합 캠페인 보도는 청소년과 직접 연결되는 규칙이나 사안이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민통합위원회)",
+    "title": "통합위, 「음악으로 만나는 국민통합」 행사 성황리에 마쳐",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775427&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-25",
+    "dept": "행정안전부",
+    "entities": [
+      "거제시"
+    ],
+    "item_id": "korea-kr-156775443",
+    "posted_at_iso": "2026-08-25T07:44:17.771007+00:00",
+    "priority": "하",
+    "reason": "행안부의 수해복구 봉사활동 보도로 성인 민간단체 협력 사안이며 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행정안전부, 민간단체와 거제시  수해복구 봉사 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775443&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-25&endDate=2026-08-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
