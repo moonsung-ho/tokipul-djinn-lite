@@ -3508,5 +3508,39 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775481&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "소방청",
+    "entities": [],
+    "item_id": "korea-kr-156775482",
+    "posted_at_iso": "2026-08-25T22:25:17.676147+00:00",
+    "priority": "하",
+    "reason": "화재안전기술기준 개정은 소방·건축 분야 기술 규정으로 학교나 학생 대상이 아니며 또래의 관심사로 보기도 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "국민 목소리 담은 화재안전기술기준, 개정 마무리 단계 접어들어",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775482&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "소방청",
+    "entities": [],
+    "item_id": "korea-kr-156775483",
+    "posted_at_iso": "2026-08-25T22:25:17.676165+00:00",
+    "priority": "하",
+    "reason": "데이터센터 화재안전조사로 대상이 시설 운영자이며 또래의 일상이나 관심사와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 화재 안전 살핀다… 전국 데이터센터 163개소 화재안전조사 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775483&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
