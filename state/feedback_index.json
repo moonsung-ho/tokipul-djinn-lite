@@ -3916,5 +3916,389 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775497&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "특수교육과",
+    "entities": [
+      "특수교육과"
+    ],
+    "item_id": "sen-notice-20260826092314500",
+    "message_ts": "1787713465.976949",
+    "posted_at_iso": "2026-08-26T03:04:26.638293+00:00",
+    "priority": "상",
+    "reason": "특수교육대상자의 고등학교 입학 선정·배치 계획은 현재 중학생 당사자의 진학 절차를 직접 규정한다",
+    "source": "서울시교육청 공지사항",
+    "title": "2027학년도 고등학교 입학 특수교육대상자 선정·배치 계획 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260826092314500",
+    "관심사": "하",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [
+      "우주항공청"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "기상청",
+    "entities": [
+      "천리안위성 5호",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156775533",
+    "message_ts": "1787713466.817749",
+    "posted_at_iso": "2026-08-26T03:04:27.409521+00:00",
+    "priority": "상",
+    "reason": "천리안위성 부품 국산화는 과학·우주 성과로 또래의 관심사에 해당한다",
+    "source": "정책브리핑(기상청)",
+    "title": "천리안위성 5호, 부품 국산화로 우주산업 체계 바꾼다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775533&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156775532",
+    "message_ts": "1787713467.595909",
+    "posted_at_iso": "2026-08-26T03:04:28.180785+00:00",
+    "priority": "상",
+    "reason": "해양열파 급증 데이터는 기후위기를 보여주는 전국 통계로 또래가 알아야 할 환경 사안이다",
+    "source": "정책브리핑(기상청)",
+    "title": "최근 10년 우리 바다 해양열파 평년 대비 3.7배 증가, 미래에는 더 잦고 강해진다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775532&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775526",
+    "message_ts": "1787713468.352439",
+    "posted_at_iso": "2026-08-26T03:04:28.935602+00:00",
+    "priority": "중",
+    "reason": "세계 습지의 날은 환경 캠페인으로 기후·생태 관심사에 해당하나 구체적 각도는 약하다",
+    "source": "정책브리핑(해양수산부)",
+    "title": "2026년 세계 습지의 날,습지보호로 우리의 미래를 약속하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775526&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775527",
+    "message_ts": "1787713469.115339",
+    "posted_at_iso": "2026-08-26T03:04:29.724574+00:00",
+    "priority": "중",
+    "reason": "바다거북 방류는 생태 복원 소식으로 또래가 흥미를 가질 수 있으나 정책적 무게는 약하다",
+    "source": "정책브리핑(해양수산부)",
+    "title": "생명을 바다로, 희망을 미래로! 바다거북, 자연으로 돌아가다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775527&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청"
+    ],
+    "item_id": "korea-kr-156775537",
+    "posted_at_iso": "2026-08-26T03:04:29.724595+00:00",
+    "priority": "하",
+    "reason": "재외 한인 여성 동포정책 행사는 성인 대상 사안으로 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "\"세계 한인 여성의 목소리, 동포정책으로 잇는다\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775537&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156775535",
+    "posted_at_iso": "2026-08-26T03:04:29.724605+00:00",
+    "priority": "하",
+    "reason": "유통업체 매출 동향은 경제 실무 지표로 또래의 삶을 보여주지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "'26년 7월 주요 유통업체 매출 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775535&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "모두의카드"
+    ],
+    "item_id": "korea-kr-156775528",
+    "posted_at_iso": "2026-08-26T03:04:29.724612+00:00",
+    "priority": "하",
+    "reason": "모두의카드 부정수급 관리 강화는 대중교통 지원제도 운영 실무로 청소년 특정 사안이 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'꼼수 환급' 막는다 모두의카드 부정수급 관리 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775528&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775529",
+    "posted_at_iso": "2026-08-26T03:04:29.724623+00:00",
+    "priority": "하",
+    "reason": "미국 인프라 협력사업 소개는 산업·외교 실무로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "G2G가 여는 미국 인프라 시장, 우리 기업에 미국 인프라 협력사업 소개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775529&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실",
+      "강원"
+    ],
+    "item_id": "korea-kr-156775536",
+    "posted_at_iso": "2026-08-26T03:04:29.724633+00:00",
+    "priority": "하",
+    "reason": "생명지킴 관련 지역 간담회는 성인 대상 정책 소통 행사로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 생명지킴추진본부, 강원지역 천명지킴 현장소통 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775536&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775523",
+    "posted_at_iso": "2026-08-26T03:04:29.724639+00:00",
+    "priority": "하",
+    "reason": "농안법 시행은 농산물 수급관리 정책으로 농가 대상이라 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농안법 시행, 농산물의 선제적 수급관리와 농가 경영안정 기반 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775523&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775525",
+    "posted_at_iso": "2026-08-26T03:04:29.724645+00:00",
+    "priority": "하",
+    "reason": "러닝 기부 캠페인은 일반 성인 참여 행사로 청소년 당사자성이나 사회적 의제성이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "달리기만 해도 기부가 된다!  러닝 기부 캠페인 '커멍 애니런' 출발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775525&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청"
+    ],
+    "item_id": "korea-kr-156775539",
+    "posted_at_iso": "2026-08-26T03:04:29.724652+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 방제 단속은 학생의 일상이나 관심사와 무관한 산림 행정 실무다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "동부지방산림청, 소나무류 무단이동 합동단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775539&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "공정거래위원회",
+    "entities": [
+      "듀오정보(주)"
+    ],
+    "item_id": "korea-kr-156775540",
+    "posted_at_iso": "2026-08-26T03:04:29.724844+00:00",
+    "priority": "하",
+    "reason": "결혼정보업체 광고 제재로 청소년의 권리나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "듀오정보(주)의 부당한 광고행위 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775540&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775522",
+    "posted_at_iso": "2026-08-26T03:04:29.724852+00:00",
+    "priority": "하",
+    "reason": "양곡관리법 시행은 시장 수급 조절 정책으로 농가·시장 대상이라 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "양곡관리법 시행, 선제적 수급 조절 정책을 통한 시장 안정 도모",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775522&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156775524",
+    "posted_at_iso": "2026-08-26T03:04:29.724857+00:00",
+    "priority": "하",
+    "reason": "가을 여행 홍보 캠페인은 성인 관광객 대상으로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "올가을 가장 완벽한 쉼, 가을 여행 철 맞이 촌캉스 떠나세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775524&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156775521",
+    "posted_at_iso": "2026-08-26T03:04:29.724864+00:00",
+    "priority": "하",
+    "reason": "전통주 품평회 결과는 성인 대상 주류 산업 소식으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "올해의 원픽(One-Pick) 우리술은? ...2026년 대한민국 우리술 품평회 결과발표(공개)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775521&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "LH"
+    ],
+    "item_id": "korea-kr-156775530",
+    "posted_at_iso": "2026-08-26T03:04:29.724871+00:00",
+    "priority": "하",
+    "reason": "청년·신혼부부 대상 매입임대주택 공급은 성인 주거정책으로 청소년 당사자성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "지연된 PF 사업장을 청년·신혼부부 보금자리로 신속하게 공급합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775530&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775520",
+    "posted_at_iso": "2026-08-26T03:04:29.724878+00:00",
+    "priority": "하",
+    "reason": "직불금 농외소득 기준 상향은 농가 소득 정책으로 성인 대상이라 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "직불금 지급 제한이 되는 농외소득 기준금액을17년 만에 4,700만 원으로 상향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775520&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156775534",
+    "posted_at_iso": "2026-08-26T03:04:29.724884+00:00",
+    "priority": "하",
+    "reason": "무역구제 관련 청년 시각 자료는 대상이 대학생·청년층 실무진이라 중학생과 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "청년의 시각에서 바라본 무역구제",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775534&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
