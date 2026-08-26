@@ -5052,5 +5052,124 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775590&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "행정안전부",
+    "entities": [
+      "윤호중",
+      "제주"
+    ],
+    "item_id": "korea-kr-156775597",
+    "message_ts": "1787737196.921769",
+    "posted_at_iso": "2026-08-26T09:39:57.600732+00:00",
+    "priority": "중",
+    "reason": "제주 실종사건에 대한 경찰 긴급 대책회의는 공공안전 사안으로 또래가 알아야 할 사회 뉴스이나 세부 피해자·경위가 불분명해 배경 취재가 필요하다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "윤호중 행안부 장관, 긴급 경찰 지휘부 회의 개최, 제주 실종사건 등 대책 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775597&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775618",
+    "posted_at_iso": "2026-08-26T09:39:57.600754+00:00",
+    "priority": "하",
+    "reason": "국토 개발 전략 전반에 관한 정책으로 청소년의 권리·일상이나 뚜렷한 사회적 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도참고자료] 대한민국 국토대전환 추진전략",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775618&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "자율주행차법",
+      "화물자동차법",
+      "도로법",
+      "철도지하화통합개발법"
+    ],
+    "item_id": "korea-kr-156775620",
+    "posted_at_iso": "2026-08-26T09:39:57.600763+00:00",
+    "priority": "하",
+    "reason": "자율주행차·화물차·도로·철도 관련 법 개정으로 성인 교통·인프라 정책이며 청소년 일상과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고]  「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」   개정안 국회 본회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775620&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "보건복지부",
+    "entities": [
+      "약사법"
+    ],
+    "item_id": "korea-kr-156775619",
+    "posted_at_iso": "2026-08-26T09:39:57.600770+00:00",
+    "priority": "하",
+    "reason": "약국 판매 환경 개선을 위한 약사법 개정으로 성인 대상 유통·판매 규제이며 청소년 특정 조항은 확인되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "건전한 약국 판매 환경 조성 위한 약사법 개정안 국회 본회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775619&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국방부",
+    "entities": [
+      "장병e음"
+    ],
+    "item_id": "korea-kr-156775598",
+    "posted_at_iso": "2026-08-26T09:39:57.600777+00:00",
+    "priority": "하",
+    "reason": "군 장병 대상 플랫폼의 수상 소식으로 청소년 일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부 「장병e음」 플랫폼, ICT 어워드 최고상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775598&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156775599",
+    "posted_at_iso": "2026-08-26T09:39:57.600784+00:00",
+    "priority": "하",
+    "reason": "사이버보안 AI 모델 개발 사업 공모 결과로 연구개발 지원 행정 절차이며 또래의 관심을 끌 과학적 성과나 학생 연계가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "｢사이버 보안 특화 AI 파운데이션 모델 개발｣ 사업 공모 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775599&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
