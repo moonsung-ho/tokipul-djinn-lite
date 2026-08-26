@@ -3642,5 +3642,279 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775484&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청",
+      "쯔쯔가무시증"
+    ],
+    "item_id": "korea-kr-156775494",
+    "message_ts": "1787706549.437859",
+    "posted_at_iso": "2026-08-26T01:09:09.673191+00:00",
+    "priority": "상",
+    "reason": "쯔쯔가무시증 유행 시기와 전국 감시 시작은 야외활동을 하는 또래도 알아야 할 계절성 감염병 안전 정보다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "쯔쯔가무시증 유행시기 다가온다, 전국 털진드기 감시 시작(8.26.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775494&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156775496",
+    "posted_at_iso": "2026-08-26T01:09:09.673220+00:00",
+    "priority": "하",
+    "reason": "AI 기술평가 실증은 조달 행정 내부 절차성 자료로 알맹이가 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "\"AI는 평가위원 조력자\"…조달청, AI 기술평가 실증 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775496&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156775493",
+    "posted_at_iso": "2026-08-26T01:09:09.673231+00:00",
+    "priority": "하",
+    "reason": "전기차 충전구역 이중주차 신고 규정 개선은 성인 운전자 대상 생활 민원 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"전기차 충전구역 이중주차 신고했는데, 반려?\"… '적극행정국민신청' 통해 규정 개선",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775493&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156775506",
+    "posted_at_iso": "2026-08-26T01:09:09.673240+00:00",
+    "priority": "하",
+    "reason": "보훈문화교육 수업안 경진대회는 교사·교육자 대상 공모전으로 학생에게 직접 규칙이나 정보가 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "2026 보훈문화교육 수업안 경진대회 및 시상식 27일 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775506&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156775490",
+    "posted_at_iso": "2026-08-26T01:09:09.673247+00:00",
+    "priority": "하",
+    "reason": "동물대체시험법 학술대회 공동 개최는 연구자·규제기관 대상 전문 학술 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 동물대체시험법 학술대회 공동 개최로 글로벌 규제 선도",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775490&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156775491",
+    "posted_at_iso": "2026-08-26T01:09:09.673254+00:00",
+    "priority": "하",
+    "reason": "한약제제 허가 제출자료 간소화는 제약업체 대상 행정 규제 개선 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 한약(생약)제제 허가 시 제출자료 간소화 제형 명확화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775491&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "용산어린이정원"
+    ],
+    "item_id": "korea-kr-156775489",
+    "posted_at_iso": "2026-08-26T01:09:09.673271+00:00",
+    "priority": "하",
+    "reason": "용산어린이정원 이용객 관련 보도 해명은 언론 대응 설명자료로 학생에게 새로운 정보나 규칙이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 용산어린이정원 이용객 관련 보도에 대해 설명드립니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775489&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775504",
+    "posted_at_iso": "2026-08-26T01:09:09.673280+00:00",
+    "priority": "하",
+    "reason": "마트배송 직종 표준계약서는 성인 노동자 대상 고용 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "공정한 계약 관행 조성을 위한 마트배송 직종 표준계약서 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775504&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156775503",
+    "posted_at_iso": "2026-08-26T01:09:09.673289+00:00",
+    "priority": "하",
+    "reason": "임도 조성과 목재 수확 비용 절감은 임업 경제성에 관한 산업 통계로 청소년과 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국산 목재 경쟁력 확보의 열쇠 '임도'… 수확 비용 실질적 감소 효과 확인 - 국립산림과학원, 임도 조성 시 국산 목재 수확 비용 최대 70% 절감",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775503&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국토교통부"
+    ],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "보건복지부",
+    "entities": [
+      "닥터헬기",
+      "국토교통부",
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156775508",
+    "posted_at_iso": "2026-08-26T01:09:09.673296+00:00",
+    "priority": "하",
+    "reason": "닥터헬기 조종사 훈련 협약으로 청소년의 규칙이나 일상과 무관한 성인 대상 전문 훈련 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "닥터헬기 조종사 모의비행훈련장치로 역량 강화 복지부？국토부？경찰청 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775508&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156775495",
+    "posted_at_iso": "2026-08-26T01:09:09.673305+00:00",
+    "priority": "하",
+    "reason": "대미 통상현안 대응은 관계부처 실무 대응으로 구체적 정책 내용이 드러나지 않는 원론적 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "대미 통상현안,  관계부처 원팀으로 총력 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775495&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156775492",
+    "posted_at_iso": "2026-08-26T01:09:09.673313+00:00",
+    "priority": "하",
+    "reason": "지방행정 감사관 회의는 행정 내부 협의체로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "부패없는 청렴한 민선 9기 지방행정을 위해 감사관들이 한자리에 모인다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775492&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156775505",
+    "posted_at_iso": "2026-08-26T01:09:09.673320+00:00",
+    "priority": "하",
+    "reason": "석유유통업 대리점계약서 개정은 성인 사업자 간 거래 관행 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "석유유통업종 표준대리점계약서 개정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775505&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156775497",
+    "posted_at_iso": "2026-08-26T01:09:09.673326+00:00",
+    "priority": "하",
+    "reason": "공사대금 조기지급 등 추석 민생대책은 기업·소상공인 대상 경제 지원책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 공사대금 조기지급 등 추석 민생대책 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775497&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
