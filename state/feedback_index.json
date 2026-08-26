@@ -4744,5 +4744,141 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775568&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "탄소중립기본법",
+      "기후적응법"
+    ],
+    "item_id": "korea-kr-156775574",
+    "message_ts": "1787730331.730929",
+    "posted_at_iso": "2026-08-26T07:45:32.143743+00:00",
+    "priority": "상",
+    "reason": "기후위기 대응 법률의 국회 통과는 토끼풀이 지속적으로 다뤄온 기후·환경 주제로 또래가 알아야 할 사안이다",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "(참고) 기후위기 대응을 위한 탄소중립기본법 개정안, 기후적응법 제정안 국회 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775574&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "경찰청",
+    "entities": [
+      "특별수사단",
+      "12·29 여객기 참사"
+    ],
+    "item_id": "korea-kr-156775572",
+    "message_ts": "1787730332.245569",
+    "posted_at_iso": "2026-08-26T07:45:32.604659+00:00",
+    "priority": "상",
+    "reason": "전 국민적 참사인 여객기 사고의 수사 결과 발표는 재난·안전 사안으로 또래가 알아야 할 사회적 관심사다",
+    "source": "정책브리핑(경찰청)",
+    "title": "특별수사단, 「12·29 여객기 참사」 사건  중간 수사 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775572&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "외교부",
+    "entities": [
+      "한·중앙아시아 정상회의"
+    ],
+    "item_id": "korea-kr-156775571",
+    "posted_at_iso": "2026-08-26T07:45:32.604682+00:00",
+    "priority": "하",
+    "reason": "정상회의 홍보 행사로 외교 실무성 자료이며 청소년과의 연결이 억지로 이어야만 가능하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2026년 제1차 한·중앙아시아 정상회의 홍보 행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775571&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "강릉 ITS 세계총회"
+    ],
+    "item_id": "korea-kr-156775578",
+    "posted_at_iso": "2026-08-26T07:45:32.604694+00:00",
+    "priority": "하",
+    "reason": "교통기술 국제총회 준비 점검으로 청소년의 권리나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 홍지선 제2차관, \"강릉 ITS 세계총회, 성공 개최에 총력\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775578&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국민통합위원회",
+    "entities": [
+      "국민통합위원회"
+    ],
+    "item_id": "korea-kr-156775577",
+    "posted_at_iso": "2026-08-26T07:45:32.604704+00:00",
+    "priority": "하",
+    "reason": "성인 대상 문학공모전 시상식으로 청소년 당사자성도 관심사도 낮다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민통합위원회)",
+    "title": "「제1회 국민통합 문학공모전」 시상식 성료...대상은 단편소설 <7센티미터>",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775577&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "국민AI서비스혁신추진단"
+    ],
+    "item_id": "korea-kr-156775573",
+    "posted_at_iso": "2026-08-26T07:45:32.604915+00:00",
+    "priority": "하",
+    "reason": "국민 대상 AI서비스 조직 신설로 청소년에 직결되는 규칙 변화나 구체적 관심사 각도가 보이지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국민이 체감하는 인공지능 서비스 신속하게 구현한다 과기정통부, 국민AI서비스혁신추진단 신설",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775573&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156775576",
+    "posted_at_iso": "2026-08-26T07:45:32.604924+00:00",
+    "priority": "하",
+    "reason": "물류시설 화재안전 점검으로 학생의 일상이나 학교시설과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "대형 물류시설 화재안전 합동점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775576&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
