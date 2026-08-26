@@ -5171,5 +5171,166 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775599&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "",
+    "entities": [
+      "정근식",
+      "학생인권조례",
+      "서울특별시의회"
+    ],
+    "item_id": "sen-press-192024",
+    "message_ts": "1787755453.236729",
+    "posted_at_iso": "2026-08-26T14:44:13.492747+00:00",
+    "priority": "상",
+    "reason": "교육감이 직접 학생인권조례 존치 의미를 밝힌 입장문으로 학생 권리에 직결된다.",
+    "source": "서울시교육청 보도자료",
+    "title": "「서울특별시 학생인권 조례 폐지 조례안」 재의 부결 서울시교육감 입장",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192024&step1=3&step2=1",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "",
+    "entities": [
+      "서울특별시의회",
+      "정근식",
+      "학생인권조례"
+    ],
+    "item_id": "sen-press-192025",
+    "message_ts": "1787755453.555349",
+    "posted_at_iso": "2026-08-26T14:44:13.810266+00:00",
+    "priority": "상",
+    "reason": "학생인권조례 폐지조례안 재의 부결로 학생의 권리구제 체계가 유지되는 직접적 당사자 사안이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 서울시의회  「학생인권 조례 폐지조례안」 재의 부결 환영",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192025&step1=3&step2=1",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "김윤덕",
+      "베트남"
+    ],
+    "item_id": "korea-kr-156775621",
+    "posted_at_iso": "2026-08-26T14:44:13.810295+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 외교 면담 자료로 학생과 무관한 성인 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 김윤덕 장관, 베트남 건설부 장관과 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775621&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "",
+    "entities": [
+      "서울시교육청유아교육진흥원",
+      "고문영"
+    ],
+    "item_id": "sen-press-192022",
+    "posted_at_iso": "2026-08-26T14:44:13.810306+00:00",
+    "priority": "하",
+    "reason": "3~5세 유아 대상 문화예술 체험 프로그램으로 중학생과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "‘공연으로 즐기고 책으로 배우고’ 서울시교육청유아교육진흥원-어린이도서...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192022&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "국제원자력기구",
+      "ATLAS"
+    ],
+    "item_id": "korea-kr-156775622",
+    "posted_at_iso": "2026-08-26T14:44:13.810315+00:00",
+    "priority": "하",
+    "reason": "해상 원자력 국제협력 출범식 참석으로 전문·외교 성격이 강해 또래 관심사로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국제원자력기구(IAEA) ATLAS 출범식 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775622&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "",
+    "entities": [
+      "서울시교육청유아교육진흥원",
+      "서울시교육청 어린이도서관"
+    ],
+    "item_id": "sen-press-192039",
+    "posted_at_iso": "2026-08-26T14:44:13.810351+00:00",
+    "priority": "하",
+    "reason": "본문은 3~5세 유아 대상 문화예술 프로그램으로 제목과 달리 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울공고, 말레이시아 현직교사와 함께  삶을 잇는 세계시민교육 운영",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192039&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "",
+    "entities": [],
+    "item_id": "sen-press-192023",
+    "posted_at_iso": "2026-08-26T14:44:13.810360+00:00",
+    "priority": "하",
+    "reason": "지방공무원 9급 임용시험 합격자 발표로 성인 채용 절차이며 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울특별시교육청, 2026년도 지방공무원 9급 공개(경력)경쟁임용시험 최종합...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192023&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "네팔"
+    ],
+    "item_id": "korea-kr-156775623",
+    "posted_at_iso": "2026-08-26T14:44:13.810367+00:00",
+    "priority": "하",
+    "reason": "네팔 홍수 관련 재외국민보호 회의로 국내 또래의 일상이나 관심사와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 조현 장관 주재 네팔 홍수 관련 재외국민보호대책본부 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775623&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
