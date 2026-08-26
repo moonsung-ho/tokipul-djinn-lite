@@ -4665,5 +4665,84 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775559&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "시외·고속버스"
+    ],
+    "item_id": "korea-kr-156775566",
+    "message_ts": "1787726705.844699",
+    "posted_at_iso": "2026-08-26T06:45:06.078267+00:00",
+    "priority": "중",
+    "reason": "시외·고속버스 운임은 학생들도 통학·이동에 이용하는 교통비 정책이라 간접적으로 관련되나 구체 대상과 인상폭 등 추가 확인이 필요하다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 시외·고속버스 운임 상한 조정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775566&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부",
+      "유엔해양총회"
+    ],
+    "item_id": "korea-kr-156775569",
+    "posted_at_iso": "2026-08-26T06:45:06.078289+00:00",
+    "priority": "하",
+    "reason": "2028년 국제 해양총회 개최를 위한 법적 절차 마련으로 구체적 내용이 없고 외교·행정 절차성 사안이라 또래와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "2028년 제4차 유엔해양총회 성공 개최를 위한 토대 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775569&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775570",
+    "posted_at_iso": "2026-08-26T06:45:06.078298+00:00",
+    "priority": "하",
+    "reason": "재개발·재건축 용적률 정책은 성인 대상 부동산 사안으로 청소년의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 민간 정비사업 용적률 1.2배 완화 관련 검토 방향 등은 정해진바 없습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775570&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "산림청",
+    "entities": [
+      "서부지방산림청"
+    ],
+    "item_id": "korea-kr-156775568",
+    "posted_at_iso": "2026-08-26T06:45:06.078306+00:00",
+    "priority": "하",
+    "reason": "임업인을 대상으로 한 규제 완화 과제 발굴로 성인 산업 정책이며 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "서부지방산림청, 임업인 현장목소리 듣고 규제합리화 과제 발굴",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775568&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
