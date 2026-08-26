@@ -5332,5 +5332,42 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775623&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-26&endDate=2026-08-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "기초과학연구원"
+    ],
+    "item_id": "korea-kr-156775624",
+    "message_ts": "1787761091.149369",
+    "posted_at_iso": "2026-08-26T16:18:11.654906+00:00",
+    "priority": "상",
+    "reason": "알츠하이머 발병 기전을 밝힌 과학 연구 성과는 규칙으로 닿지 않아도 또래가 관심 가질 만한 과학 소식이다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "알츠하이머 악순환 끊을 핵심 스위치 찾았다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775624&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-26",
+    "dept": "법무부",
+    "entities": [],
+    "item_id": "korea-kr-156775626",
+    "posted_at_iso": "2026-08-26T16:18:11.654932+00:00",
+    "priority": "하",
+    "reason": "'청년' 대상 양성평등정책 의견수렴으로 보이며 중고생이 아닌 성인 청년을 대상으로 한 사업이라 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부 양성평등정책, 청년의 시선을 담는다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775626&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
