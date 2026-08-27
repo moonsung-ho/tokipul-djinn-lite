@@ -6161,5 +6161,264 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775742&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "",
+    "entities": [
+      "등·하교 알림서비스"
+    ],
+    "item_id": "sen-press-192029",
+    "message_ts": "1787838383.013379",
+    "posted_at_iso": "2026-08-27T13:46:23.652821+00:00",
+    "priority": "상",
+    "reason": "초등학생 32만 명의 등하교 안전과 학부모 부담이 직접 바뀌는 학생 안전 정책이다",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 9월부터 초등학생 32만여 명 등·하교 알림서비스 전면 무상 ...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192029&step1=3&step2=1",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부",
+      "적조"
+    ],
+    "item_id": "korea-kr-156775784",
+    "message_ts": "1787838383.845919",
+    "posted_at_iso": "2026-08-27T13:46:24.485196+00:00",
+    "priority": "상",
+    "reason": "적조 위기경보 발령은 규칙으로 닿진 않아도 해양 생태계·환경 재난으로 또래가 알아야 할 안전 사안이다",
+    "source": "정책브리핑(해양수산부)",
+    "title": "적조 위기경보 '경계'단계 발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775784&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "",
+    "entities": [
+      "검정고시"
+    ],
+    "item_id": "sen-press-192044",
+    "message_ts": "1787838384.672429",
+    "posted_at_iso": "2026-08-27T13:46:25.304886+00:00",
+    "priority": "중",
+    "reason": "검정고시는 학교밖청소년·학업중단 청소년의 학력 취득과 직결되지만 정기 발표성 자료로 특별한 취재각도는 약하다",
+    "source": "서울시교육청 보도자료",
+    "title": "서울특별시교육청, ‘2026년도 제2회 검정고시 합격자 발표’",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192044&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "유네스코 아태교육원",
+      "청소년 세계시민 포토에세이 공모전"
+    ],
+    "item_id": "korea-kr-156775818",
+    "message_ts": "1787838385.508649",
+    "posted_at_iso": "2026-08-27T13:46:26.156029+00:00",
+    "priority": "중",
+    "reason": "청소년 세계시민 공모전 시상식은 또래의 성취를 다루지만 이미 종료된 행사라 취재 각도가 제한적이다",
+    "source": "정책브리핑(외교부)",
+    "title": "외교부·유네스코 아태교육원, 청소년 세계시민 포토에세이 공모전 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775818&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156775825",
+    "posted_at_iso": "2026-08-27T13:46:26.156059+00:00",
+    "priority": "하",
+    "reason": "AI 파운데이션 모델 평가 결과는 산업·연구 성과 발표로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "(보도참고) ｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과를 상세히 공개합니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775825&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775786",
+    "posted_at_iso": "2026-08-27T13:46:26.156069+00:00",
+    "priority": "하",
+    "reason": "부동산 불법행위 대응협의회는 성인 대상 부동산 정책 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제19차 부동산 불법행위 대응협의회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775786&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775789",
+    "posted_at_iso": "2026-08-27T13:46:26.156077+00:00",
+    "priority": "하",
+    "reason": "공공누리집 UI/UX 위원회 위촉식은 행정 내부 절차로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 공공누리집 UI/UX 위원회 위촉식 및 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775789&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156775788",
+    "posted_at_iso": "2026-08-27T13:46:26.156084+00:00",
+    "priority": "하",
+    "reason": "데이터관계장관회의는 정부 부처 간 정책 조율로 청소년과 직접 관련이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 데이터관계장관회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775788&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156775787",
+    "posted_at_iso": "2026-08-27T13:46:26.156090+00:00",
+    "priority": "하",
+    "reason": "공공데이터 개방은 AI 산업 경쟁력 정책으로 대상이 기업·연구자다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "공공데이터 TOP100 조기개방… \"글로벌 AI 경쟁력 확보의 핵심\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775787&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "산업통상부"
+    ],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "문화체육관광부",
+    "entities": [
+      "국민성장펀드"
+    ],
+    "item_id": "korea-kr-156775822",
+    "posted_at_iso": "2026-08-27T13:46:26.156098+00:00",
+    "priority": "하",
+    "reason": "로봇산업·K-콘텐츠 펀드 지원은 산업정책으로 대상이 기업·성인이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "국민성장펀드가 로봇산업의 경쟁력 강화와'케이-콘텐츠'의 세계 영토 확장을 지원합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775822&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156775827",
+    "posted_at_iso": "2026-08-27T13:46:26.156105+00:00",
+    "priority": "하",
+    "reason": "산림사업지 시설 점검은 청소년의 권리나 관심사와 무관한 산림청 내부 재난대비 행정이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 호우·태풍 대비 산림사업지 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775827&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "산림청",
+    "entities": [
+      "울진국유림관리소",
+      "울진군청"
+    ],
+    "item_id": "korea-kr-156775791",
+    "posted_at_iso": "2026-08-27T13:46:26.156112+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 공동방제 협약은 지자체·산림기관 간 행정 협력으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소-울진군청, '소나무재선충병 공동방제' 위해 손잡았다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775791&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "외교부",
+    "entities": [
+      "네팔"
+    ],
+    "item_id": "korea-kr-156775792",
+    "posted_at_iso": "2026-08-27T13:46:26.156118+00:00",
+    "priority": "하",
+    "reason": "외교장관 간 통화는 성인 외교 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-네팔 외교장관 통화(8.27.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775792&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
