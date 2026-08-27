@@ -5369,5 +5369,420 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775626&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "국가아동권리보장원",
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156775674",
+    "message_ts": "1787799332.979599",
+    "posted_at_iso": "2026-08-27T02:55:33.410646+00:00",
+    "priority": "상",
+    "reason": "실종아동·입양인의 개인정보가 국가기관에서 유출된 사건으로 아동 인권 침해라는 점에서 또래가 알아야 할 사회 이슈다.",
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "실종아동과 입양인 개인정보 유출한 국가아동권리보장원 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775674&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "우주항공청",
+    "entities": [
+      "누리호",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156775682",
+    "message_ts": "1787799333.531689",
+    "posted_at_iso": "2026-08-27T02:55:33.988023+00:00",
+    "priority": "상",
+    "reason": "누리호 발사는 학생 권리와 무관해도 과학 성과로서 또래가 관심 가질 만한 소식이다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "누리호 5차, 10월 7일 발사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775682&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "국토교통부",
+    "entities": [
+      "KTX",
+      "SRT",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775667",
+    "message_ts": "1787799334.105279",
+    "posted_at_iso": "2026-08-27T02:55:34.557318+00:00",
+    "priority": "중",
+    "reason": "고속철도 통합은 일반 대중교통 정책으로 학생 일상과 직접 닿지 않으나 대중적 관심 사안이다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "\"KTX·SRT 고속철도 통합, 안전하고 빈틈없이 준비한다\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775667&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "수도전기공고",
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156775685",
+    "message_ts": "1787799334.678069",
+    "posted_at_iso": "2026-08-27T02:55:35.107394+00:00",
+    "priority": "중",
+    "reason": "특성화고 발전방안 논의로 해당 학교 학생에게 영향이 있으나 아직 협의 단계에 그친다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "(참고) 에너지산업 미래 인재 양성을 위한 수도전기공고 발전방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775685&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "중국산 배추김치"
+    ],
+    "item_id": "korea-kr-156775684",
+    "message_ts": "1787799335.221339",
+    "posted_at_iso": "2026-08-27T02:55:35.705458+00:00",
+    "priority": "중",
+    "reason": "학교 급식에도 쓰일 수 있는 김치의 안전성 검사 결과로 식품안전 관심사에 해당하나 급식 연계는 직접 언급되지 않았다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "국내 유통 중인 중국산 배추김치 등 포름알데히드 검사...82건 모두 불검출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775684&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-27",
+    "dept": "보건복지부",
+    "entities": [
+      "지역의사선발전형",
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156775689",
+    "message_ts": "1787799335.825199",
+    "posted_at_iso": "2026-08-27T02:55:36.289192+00:00",
+    "priority": "중",
+    "reason": "지역의사선발전형 거주요건 변경은 입시 제도 변경이지만 특정 의대 진학 희망자로 대상이 좁다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "둘 이상 진료권에 걸친 학교군의 지역의사선발전형 거주요건 기준 보완",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775689&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청"
+    ],
+    "item_id": "korea-kr-156775679",
+    "posted_at_iso": "2026-08-27T02:55:36.289227+00:00",
+    "priority": "하",
+    "reason": "임업직불금은 농업인 대상 제도로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "\"임업직불금, 알기 쉽게 알려드려요\" 동부지방산림청, 민·관 합동 홍보 캠페인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775679&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156775676",
+    "posted_at_iso": "2026-08-27T02:55:36.289249+00:00",
+    "priority": "하",
+    "reason": "금융분야 주민번호 처리 관행 개선은 성인 금융거래 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 금융분야 불필요한 주민등록번호 처리 관행 개선",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775676&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "HD현대그룹",
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156775675",
+    "posted_at_iso": "2026-08-27T02:55:36.289263+00:00",
+    "priority": "하",
+    "reason": "HD현대그룹 개인정보 안전조치 위반 제재는 기업 대상 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 안전조치 의무를 위반한 HD현대그룹 소속 2개 사업자 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775675&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775662",
+    "posted_at_iso": "2026-08-27T02:55:36.289280+00:00",
+    "priority": "하",
+    "reason": "농지전용 규제 완화는 농업인 대상 행정 개편으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농사짓다 화장실 가려면 농지전용? 이제 달라집니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775662&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산검역본부"
+    ],
+    "item_id": "korea-kr-156775663",
+    "posted_at_iso": "2026-08-27T02:55:36.289294+00:00",
+    "priority": "하",
+    "reason": "식물검역 미래인재 행사는 전문가·대학생 대상으로 중고생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "식물병해충 전문가를 꿈꾸다!식물검역 미래 인재들 한자리에",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775663&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "아세안"
+    ],
+    "item_id": "korea-kr-156775688",
+    "posted_at_iso": "2026-08-27T02:55:36.289315+00:00",
+    "priority": "하",
+    "reason": "아세안 대상 K-상표 보호 사업으로 기업·성인 대상 정책이라 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "아세안에서 K-지식재산 전파, K-상표 보호에 앞장선다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775688&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "산림청",
+    "entities": [
+      "국립산림품종관리센터"
+    ],
+    "item_id": "korea-kr-156775681",
+    "posted_at_iso": "2026-08-27T02:55:36.289325+00:00",
+    "priority": "하",
+    "reason": "종자채취 전문기관 대상 안전교육으로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "종자채취 앞두고 '안전'부터 챙긴다…국립산림품종관리센터, 전문기관 합동교육",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775681&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "중등교육과",
+    "entities": [
+      "중등교육과"
+    ],
+    "item_id": "sen-notice-20260827092546649",
+    "posted_at_iso": "2026-08-27T02:55:36.289499+00:00",
+    "priority": "하",
+    "reason": "임용시험 업무보조 기간제 채용 공고로 학생 권리·일상과 무관한 절차성 인사 공고다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "중등교육과 교원임용관리팀 기간제근로자 채용 공고 (8명)",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260827092546649",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156775686",
+    "posted_at_iso": "2026-08-27T02:55:36.289507+00:00",
+    "priority": "하",
+    "reason": "지식재산처 내부 인공지능 업무혁신은 기관 내부 행정으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, '직접 만들고 함께 쓰는' 인공지능 업무혁신 본격화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775686&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156775673",
+    "posted_at_iso": "2026-08-27T02:55:36.289513+00:00",
+    "priority": "하",
+    "reason": "국제개발협력 청년 공모전은 대학생·청년층 대상으로 중고생과 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "청년이 만드는 국제개발협력 청사진 - 외교부, 국제개발협력 청년 공모전 개최 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775673&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "국립한밭대"
+    ],
+    "item_id": "korea-kr-156775683",
+    "posted_at_iso": "2026-08-27T02:55:36.289520+00:00",
+    "priority": "하",
+    "reason": "대학(국립한밭대) 대상 청렴 인재양성 협약으로 중고생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "청렴한 미래 인재 양성,  국민권익위와 국립한밭대가 함께 합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775683&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775666",
+    "posted_at_iso": "2026-08-27T02:55:36.289526+00:00",
+    "priority": "하",
+    "reason": "해양환경 특강 참여 대상이 불명확하고 청소년 특정 대상 언급이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "친환경 선박부터 해양 AI 기술까지,해양환경 특강을 라이브로 즐겨요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775666&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775665",
+    "posted_at_iso": "2026-08-27T02:55:36.289533+00:00",
+    "priority": "하",
+    "reason": "친환경선박·녹색해운항로는 해운 산업정책으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "친환경선박 확산으로 '녹색해운항로' 시대를 향해",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775665&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156775687",
+    "posted_at_iso": "2026-08-27T02:55:36.289540+00:00",
+    "priority": "하",
+    "reason": "지역기업 특허 성과 홍보로 기업 대상 사안이라 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "특허가 매출·수출·기업상장으로…지역기업 키우는 지식재산",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775687&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-27",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775664",
+    "posted_at_iso": "2026-08-27T02:55:36.289546+00:00",
+    "priority": "하",
+    "reason": "가을철 해양사고예방 대책은 일반 해양 안전 대책으로 학생 대상 언급이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "해수부, 가을철 취약 해양사고예방을 위한 맞춤형 대책 시행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775664&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
