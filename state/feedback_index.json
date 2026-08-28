@@ -6890,5 +6890,127 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775949&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "검정고시"
+    ],
+    "item_id": "korea-kr-156775967",
+    "message_ts": "1787949813.587899",
+    "posted_at_iso": "2026-08-28T20:43:34.063930+00:00",
+    "priority": "중",
+    "reason": "검정고시는 학업 중단 청소년도 포함되는 대안 교육경로이나 이 보도자료는 특정 개인 사례 소개에 그친다",
+    "source": "정책브리핑(법무부)",
+    "title": "\"다시 공부하니, 나에게도 꿈이 생겼어요\" 검정고시, '시험'이 아닌 '삶을 바꾸는 기회'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775967&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "외교부",
+    "entities": [
+      "네팔",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156775960",
+    "message_ts": "1787949814.181579",
+    "posted_at_iso": "2026-08-28T20:43:34.621054+00:00",
+    "priority": "중",
+    "reason": "국제 재난·안전 사안이지만 특정 국가 여행주의보로 또래 일상과의 연결이 약하다",
+    "source": "정책브리핑(외교부)",
+    "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775960&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156775956",
+    "posted_at_iso": "2026-08-28T20:43:34.621072+00:00",
+    "priority": "하",
+    "reason": "현금영수증 캠페인 홍보로 성인 소비자 대상 실무 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "'20년, 10배, 193조 원... 그리고 국민의 60초'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775956&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "외교부",
+    "entities": [
+      "이란",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156775959",
+    "posted_at_iso": "2026-08-28T20:43:34.621080+00:00",
+    "priority": "하",
+    "reason": "국제 정치 사안이나 유관기관 회의 개최 알림 수준으로 알맹이가 없는 절차성 보도자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775959&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "교정시설"
+    ],
+    "item_id": "korea-kr-156775966",
+    "posted_at_iso": "2026-08-28T20:43:34.621087+00:00",
+    "priority": "하",
+    "reason": "교정시설 부지 선정은 성인 대상 시설 공모로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부, 「교정시설 조성 부지 선정 공모」 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775966&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "산림청",
+    "entities": [
+      "청양군",
+      "국립산림과학원",
+      "다래"
+    ],
+    "item_id": "korea-kr-156775958",
+    "posted_at_iso": "2026-08-28T20:43:34.621108+00:00",
+    "priority": "하",
+    "reason": "농가 소득 지원 사업으로 청소년의 권리·관심사 어느 쪽과도 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "제철 맞은 '다래', 현장 중심 연구로 지역 대표 안정적 소득 품목 육성 지원 - 국립산림과학원, 청양군 다래 농가 현장 애로 해결 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775958&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
