@@ -6811,5 +6811,84 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775948&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "와이티엔",
+      "연합뉴스티브이",
+      "방송법"
+    ],
+    "item_id": "korea-kr-156775953",
+    "message_ts": "1787911647.324639",
+    "posted_at_iso": "2026-08-28T10:07:27.788147+00:00",
+    "priority": "상",
+    "reason": "당사자성 관점에서 지상파 방송사에 대한 실제 처분(승인 유효기간 단축)으로 언론 규제 사안이며 토끼풀 스스로도 언론 자유의 당사자다",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "와이티엔·연합뉴스티브이, 사장추천위원회 관련 「방송법」 위반으로 승인 유효기간 단축 3개월",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775953&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "국무조정실",
+    "entities": [
+      "후쿠시마"
+    ],
+    "item_id": "korea-kr-156775950",
+    "message_ts": "1787911647.960859",
+    "posted_at_iso": "2026-08-28T10:07:28.467897+00:00",
+    "priority": "상",
+    "reason": "관심사 관점에서 규칙으로 직접 닿지는 않지만 방사능 오염수 방류는 또래가 알아야 할 환경·안전 사안이다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(333차)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775950&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "방송미디어통신위원회",
+    "entities": [],
+    "item_id": "korea-kr-156775951",
+    "posted_at_iso": "2026-08-28T10:07:28.467928+00:00",
+    "priority": "하",
+    "reason": "위원회 정례 결과 브리핑으로 구체적 의결 내용이 드러나지 않아 어느 관점으로도 기사 각도가 보이지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제31차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775951&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "국방부",
+    "entities": [
+      "광주",
+      "무안군 망운면"
+    ],
+    "item_id": "korea-kr-156775949",
+    "posted_at_iso": "2026-08-28T10:07:28.467940+00:00",
+    "priority": "하",
+    "reason": "군 공항 이전지 선정은 지역 성인 주민과 국방 행정에 관한 사안으로 청소년의 권리·일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "광주 군 공항 이전후보지, 무안군 망운면 일대로 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775949&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
