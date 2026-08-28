@@ -6420,5 +6420,396 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775792&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-27&endDate=2026-08-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "행정안전부",
+    "entities": [
+      "호우 대비 대책회의"
+    ],
+    "item_id": "korea-kr-156775931",
+    "message_ts": "1787907500.745679",
+    "posted_at_iso": "2026-08-28T08:58:21.464759+00:00",
+    "priority": "상",
+    "reason": "호우 대비 대책회의는 등하교와 휴교 여부에 영향을 줄 수 있는 재난 안전 사안이다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "8.29~31일 호우 대비 관계기관 대책회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775931&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "사면재해"
+    ],
+    "item_id": "korea-kr-156775929",
+    "message_ts": "1787907501.713949",
+    "posted_at_iso": "2026-08-28T08:58:22.366296+00:00",
+    "priority": "상",
+    "reason": "집중호우 사면재해 대응은 학교 주변 산사태 위험과 연결될 수 있는 재난·안전 사안으로 또래가 알아야 한다",
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 집중호우에 따른 사면재해 대응 위해 관계기관 협업 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775929&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-28",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회",
+      "후쿠시마 오염수"
+    ],
+    "item_id": "korea-kr-156775924",
+    "message_ts": "1787907502.598969",
+    "posted_at_iso": "2026-08-28T08:58:23.324119+00:00",
+    "priority": "상",
+    "reason": "규칙으로 직접 닿지 않아도 후쿠시마 오염수 방류는 또래가 알아야 할 환경·안전 사안이다",
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "[보도참고자료] (공동) 후쿠시마 오염수 방류 대응 브리핑(333차)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775924&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "장애인증명서"
+    ],
+    "item_id": "korea-kr-156775925",
+    "posted_at_iso": "2026-08-28T08:58:23.324315+00:00",
+    "priority": "하",
+    "reason": "재외동포 대상 장애인증명서 온라인 제출 서비스로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "\"장애인증명서 해외 제출, 온라인으로 간편하게!\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775925&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "충남 천안시",
+      "공장 화재"
+    ],
+    "item_id": "korea-kr-156775941",
+    "posted_at_iso": "2026-08-28T08:58:23.324334+00:00",
+    "priority": "하",
+    "reason": "공장 화재 사고수습 지시로 성인 산업재해 대응이며 또래 일상과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775941&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "보세판매장 특허심사위원회"
+    ],
+    "item_id": "korea-kr-156775945",
+    "posted_at_iso": "2026-08-28T08:58:23.324344+00:00",
+    "priority": "하",
+    "reason": "보세판매장 특허심사 결과로 기업 대상 행정 처분이며 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "2026년 제5회 보세판매장 특허심사위원회 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775945&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "국토교통부",
+    "entities": [
+      "김이탁",
+      "남양주",
+      "왕숙"
+    ],
+    "item_id": "korea-kr-156775947",
+    "posted_at_iso": "2026-08-28T08:58:23.324352+00:00",
+    "priority": "하",
+    "reason": "국토부 차관동정으로 성인 대상 주택공급 정책이며 학생과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 김이탁 1차관, \"남양주 도심·왕숙 주택공급 속도 높여 국민 체감 앞당길 것\" 강조",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775947&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "학생역량·혁신교육과",
+    "entities": [
+      "학생역량·혁신교육과",
+      "질문이 있는 탐구기반 수업·평가 실천역량 강화 직무연수"
+    ],
+    "item_id": "sen-notice-20260828082955311",
+    "posted_at_iso": "2026-08-28T08:58:23.324360+00:00",
+    "priority": "하",
+    "reason": "직무연수 제안서 평가위원 후보자 모집으로 절차성 공고에 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "「2026 질문이 있는 탐구기반 수업·평가 실천역량 강화 직무연수(기본)」 제안서 평가위원(후보자) 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260828082955311",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부",
+      "청년일자리 회복방안"
+    ],
+    "item_id": "korea-kr-156775932",
+    "posted_at_iso": "2026-08-28T08:58:23.324368+00:00",
+    "priority": "하",
+    "reason": "청년일자리 회복방안 발표로 대상이 청년(성인)이며 중학생과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "「청년일자리 회복방안」 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775932&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "경찰청",
+    "entities": [
+      "경찰대학",
+      "한국경찰법학회"
+    ],
+    "item_id": "korea-kr-156775923",
+    "posted_at_iso": "2026-08-28T08:58:23.324374+00:00",
+    "priority": "하",
+    "reason": "경찰대학과 학회 간 업무협약으로 전문기관 간 사안이며 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰대학 경찰법센터, 한국경찰법학회와 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775923&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "적극행정 우수사례"
+    ],
+    "item_id": "korea-kr-156775944",
+    "posted_at_iso": "2026-08-28T08:58:23.324380+00:00",
+    "priority": "하",
+    "reason": "관세청 내부 적극행정 우수사례로 기관 자체 홍보성 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "국민과 함께 뽑은 '26년 관세청 적극행정 우수사례",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775944&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "공동영농",
+      "스마트 APC"
+    ],
+    "item_id": "korea-kr-156775946",
+    "posted_at_iso": "2026-08-28T08:58:23.324386+00:00",
+    "priority": "하",
+    "reason": "농식품부 차관의 산업 현장 점검으로 성인 농업 정책 실무이며 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 차관, 공동영농 및 스마트 APC 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775946&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부",
+      "청년 예산"
+    ],
+    "item_id": "korea-kr-156775938",
+    "posted_at_iso": "2026-08-28T08:58:23.324393+00:00",
+    "priority": "하",
+    "reason": "고립은둔 청년·양육 지원 예산으로 대상이 성인 청년이며 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "아이 양육이 어렵지 않도록, 고립은둔 청년에 나아갈 힘이 되도록, 2027년 핵심 청년 예산 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775938&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "임도"
+    ],
+    "item_id": "korea-kr-156775919",
+    "posted_at_iso": "2026-08-28T08:58:23.324399+00:00",
+    "priority": "하",
+    "reason": "임도 설치·관리 전문가 토론회로 전문가 대상 행정 사안이며 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "안전하고 견고한 임도 설치-관리를 위한 전문가 토론회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775919&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "정책기획관",
+    "entities": [
+      "정근식교육감",
+      "서울특별시교육감직인수위원회"
+    ],
+    "item_id": "sen-notice-20260828173311369",
+    "posted_at_iso": "2026-08-28T08:58:23.324405+00:00",
+    "priority": "하",
+    "reason": "교육감 인수위 활동 백서 공개로 절차성 보고에 그치고 구체적 정책 변경 내용은 확인되지 않는다",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "제24대 정근식교육감 공약추진위원회 활동 백서 공개",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260828173311369",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "청년일자리 회복방안"
+    ],
+    "item_id": "korea-kr-156775942",
+    "posted_at_iso": "2026-08-28T08:58:23.324412+00:00",
+    "priority": "하",
+    "reason": "청년일자리 회복방안으로 대상이 취업 연령 청년이며 중학생과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "첫출발-일자리-경력·성장까지 전주기 밀착지원 - ？청년일자리 회복방안？ 발표 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775942&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "기획예산처",
+      "국토교통부",
+      "고용노동부"
+    ],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "문화체육관광부",
+    "entities": [
+      "청년 예산 언박싱 2027",
+      "기획예산처",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775935",
+    "posted_at_iso": "2026-08-28T08:58:23.324419+00:00",
+    "priority": "하",
+    "reason": "청년 예산 발표로 대상이 청년(성인)이며 중학생 정책이 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "청년의 잠재력에 국가가 투자합니다! 청년 예산 언박싱(UNBOXING) 2027, '청년 성장단계별 종합투자 추진전략' 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775935&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국가숲길 챌린지",
+      "박은식"
+    ],
+    "item_id": "korea-kr-156775937",
+    "posted_at_iso": "2026-08-28T08:58:23.324428+00:00",
+    "priority": "하",
+    "reason": "대학생 국가숲길 챌린지 수료식으로 대상이 대학생이며 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "청춘의 발걸음,  국가숲길의 새로운 이야기를 만들다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775937&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-28",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "해외안전여행 대학생 서포터스"
+    ],
+    "item_id": "korea-kr-156775948",
+    "posted_at_iso": "2026-08-28T08:58:23.324434+00:00",
+    "priority": "하",
+    "reason": "대학생 서포터스 캠페인으로 대상이 대학생이며 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "해외안전여행, 대학생 서포터스가 함께 합니다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775948&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-28&endDate=2026-08-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
