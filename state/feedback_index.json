@@ -7012,5 +7012,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775958&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-29",
+    "dept": "국토교통부",
+    "entities": [
+      "의왕역",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775970",
+    "posted_at_iso": "2026-08-29T03:06:40.880002+00:00",
+    "priority": "하",
+    "reason": "철도 작업자 사망사고 조사·대책으로 성인 노동자 산업안전 사안이며 청소년의 규칙이나 일상, 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 의왕역 작업자 사망사고를 철저히 조사, 엄중 조치하고 근본적 대책을 마련하겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775970&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
