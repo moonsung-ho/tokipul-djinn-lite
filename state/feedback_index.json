@@ -7032,5 +7032,65 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775970&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-29&endDate=2026-08-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-29",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "의왕역"
+    ],
+    "item_id": "korea-kr-156775981",
+    "message_ts": "1788017426.700269",
+    "posted_at_iso": "2026-08-29T15:30:27.352942+00:00",
+    "priority": "상",
+    "reason": "의왕역 철도사고는 인명피해와 안전 문제가 걸린 재난·안전 사안으로 또래도 알아야 할 소식이다",
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 홍지선 제2차관, \"철저한 사고원인 조사를 통해 근본적 재발방지 대책을 마련할 것\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775981&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-29",
+    "dept": "국무조정실",
+    "entities": [
+      "기후시민회의"
+    ],
+    "item_id": "korea-kr-156775979",
+    "message_ts": "1788017427.578399",
+    "posted_at_iso": "2026-08-29T15:30:28.168061+00:00",
+    "priority": "중",
+    "reason": "기후 관련 시민 토론회는 관심사이지만 제목만으로는 구체적 내용과 청소년 연관성이 드러나지 않아 배경 취재가 더 필요하다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 기후시민회의 토론회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775979&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-29",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙"
+    ],
+    "item_id": "korea-kr-156775978",
+    "posted_at_iso": "2026-08-29T15:30:28.168090+00:00",
+    "priority": "하",
+    "reason": "성인 대상 재개발 사업 현장점검으로 청소년의 권리·일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 서울 민간재개발 사업 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775978&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
