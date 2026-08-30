@@ -7463,5 +7463,48 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775984&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-30",
+    "dept": "행정안전부",
+    "entities": [
+      "중앙재난안전대책본부"
+    ],
+    "item_id": "korea-kr-156776038",
+    "message_ts": "1788096755.532149",
+    "posted_at_iso": "2026-08-30T13:32:36.065809+00:00",
+    "priority": "상",
+    "reason": "규칙으로 직접 닿지는 않지만 폭우로 인한 재난 대응은 또래의 안전과 직결되는 관심사다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "8.29~31일 호우 대처 중대본 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776038&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-30",
+    "dept": "행정안전부",
+    "entities": [
+      "전남",
+      "광주",
+      "울산",
+      "전북"
+    ],
+    "item_id": "korea-kr-156776036",
+    "message_ts": "1788096756.264609",
+    "posted_at_iso": "2026-08-30T13:32:36.874733+00:00",
+    "priority": "상",
+    "reason": "호우특보로 중대본 1단계가 가동된 것은 해당 지역 또래의 등하교와 안전에 영향을 줄 수 있는 재난 안전 사안이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "전남광주·울산·전북·경북지역 호우특보, 중앙재난안전대책본부 1단계 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776036&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
   }
 ]
