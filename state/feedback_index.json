@@ -7506,5 +7506,100 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776036&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
     "관심사": "상",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156776040",
+    "posted_at_iso": "2026-08-30T23:10:43.676369+00:00",
+    "priority": "하",
+    "reason": "주택 매매·거래 통계로 성인 대상 부동산 지표이며 학생 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'26년 7월 주택통계",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776040&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156776041",
+    "posted_at_iso": "2026-08-30T23:10:43.676391+00:00",
+    "priority": "하",
+    "reason": "각국 공무원 대상 온실가스 보고 역량강화 실무 교육으로 청소년 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776041&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156776042",
+    "posted_at_iso": "2026-08-30T23:10:43.676400+00:00",
+    "priority": "하",
+    "reason": "소방청 내부 적극행정 우수사례 선정으로 청소년과 직접 연결되지 않는 절차성 홍보다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "국민 안전 높인 적극행정 한자리에… 소방청, 올해의 적극행정 우수사례 10건 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776042&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156776039",
+    "posted_at_iso": "2026-08-30T23:10:43.676407+00:00",
+    "priority": "하",
+    "reason": "해양수산 현장 종사자 대상 규제개혁 아이디어 공모로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "국민이 느낀 해양수산현장 불편 규제, 국민 아이디어로 바꾼다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776039&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "성평등가족부",
+    "entities": [
+      "성평등가족부"
+    ],
+    "item_id": "korea-kr-156776045",
+    "posted_at_iso": "2026-08-30T23:10:43.676413+00:00",
+    "priority": "하",
+    "reason": "성별 기대에 대한 청년(20~30대) 대상 설문 결과로 중학생 당사자와는 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(성평등가족부)",
+    "title": "청년들이 꼽은  '바꾸고 싶은 성별 기대'는?",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776045&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
