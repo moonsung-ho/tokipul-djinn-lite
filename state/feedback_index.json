@@ -7092,5 +7092,376 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775978&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-30",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "낙동강"
+    ],
+    "item_id": "korea-kr-156775994",
+    "message_ts": "1788076366.539849",
+    "posted_at_iso": "2026-08-30T07:52:47.479832+00:00",
+    "priority": "중",
+    "reason": "낙동강 녹조 예방 환경 대응은 지역 환경 이슈로 또래가 알 만하나 성인 농가·행정 중심 예방조치라 직접성은 약하다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "민관이 함께 야적퇴비 정비… 낙동강 녹조 예방에 힘 모은다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775994&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-30",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775987",
+    "message_ts": "1788076367.728389",
+    "posted_at_iso": "2026-08-30T07:52:48.660177+00:00",
+    "priority": "중",
+    "reason": "전국 환승센터 구축 계획은 대중교통 이용자 전반에 관련되나 청소년 배제·포함 여부가 명시되지 않아 직접성은 약하다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "환승센터 구축으로 전국을 더 편리하고 가깝게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775987&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156775988",
+    "posted_at_iso": "2026-08-30T07:52:48.660203+00:00",
+    "priority": "하",
+    "reason": "주택 정비사업 정책설명회로 성인 주택 소유자·조합 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'주택 신속공급 방안' 후속조치 본격화,  9월 1일부터 정비사업 정책설명회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775988&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "공정거래위원회",
+    "entities": [
+      "경동나비엔",
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156775989",
+    "posted_at_iso": "2026-08-30T07:52:48.660213+00:00",
+    "priority": "하",
+    "reason": "기업 하도급법 위반 제재로 성인·기업 간 거래 문제다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775989&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "고용노동부",
+    "entities": [
+      "푸른씨앗",
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156775998",
+    "posted_at_iso": "2026-08-30T07:52:48.660221+00:00",
+    "priority": "하",
+    "reason": "중소기업 퇴직연금기금 운용기관 선정으로 근로자·성인 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "1.9조원까지 성장한 '푸른씨앗' 검증된 전문 운용체계 이어간다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775998&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "재정경제부",
+    "entities": [
+      "구윤철",
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156776002",
+    "posted_at_iso": "2026-08-30T07:52:48.660236+00:00",
+    "priority": "하",
+    "reason": "장관의 해외 출장 동정 보도로 청소년과 무관한 인사성 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "[보도참고] 구윤철 부총리 겸 재정경제부 장관은 G20 재무장관회의 참석을 위해  예정대로 정상 출국 하였습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776002&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156775990",
+    "posted_at_iso": "2026-08-30T07:52:48.660410+00:00",
+    "priority": "하",
+    "reason": "통신품질 미흡지역 재점검은 일반 소비자 인프라 이슈로 학생 규칙 변화나 뚜렷한 관심사로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 통신품질 미흡지역 재점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775990&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "재정경제부",
+    "entities": [
+      "구윤철",
+      "G20"
+    ],
+    "item_id": "korea-kr-156776001",
+    "posted_at_iso": "2026-08-30T07:52:48.660418+00:00",
+    "priority": "하",
+    "reason": "G20 재무장관회의 참석을 위한 출국 동정 보도로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "구윤철 부총리, 8월 주요 20개국(G20) 재무장관회의 참석 위해 미국으로 출국",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776001&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "국세청",
+    "entities": [
+      "국세청",
+      "글로벌최저한세"
+    ],
+    "item_id": "korea-kr-156776000",
+    "posted_at_iso": "2026-08-30T07:52:48.660426+00:00",
+    "priority": "하",
+    "reason": "국제 조세행정 협력 성과로 성인·기업 대상 정책이라 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "글로벌최저한세, 한국 국세청의 선진 세정경험 수출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776000&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "기상청",
+    "entities": [
+      "기상청",
+      "국립기상과학원"
+    ],
+    "item_id": "korea-kr-156775996",
+    "posted_at_iso": "2026-08-30T07:52:48.660433+00:00",
+    "priority": "하",
+    "reason": "기관 내부 인사발령으로 알맹이가 없는 절차성 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "기상청 국립기상과학원 인사발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775996&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156775993",
+    "posted_at_iso": "2026-08-30T07:52:48.660439+00:00",
+    "priority": "하",
+    "reason": "기업 대상 자연자본공시 지원 사업으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기업의 자연자본공시, 준비부터 작성까지 자세히 돕는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775993&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156775992",
+    "posted_at_iso": "2026-08-30T07:52:48.660446+00:00",
+    "priority": "하",
+    "reason": "건강보험 본인부담상한제 환급으로 전국민 대상이나 학생과 직접 연결되지 않는 행정 집행 보도다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "의료비 부담 완화 위해 226만 명에게본인부담상한액 초과금 3조 760억 원 환급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775992&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156775983",
+    "posted_at_iso": "2026-08-30T07:52:48.660453+00:00",
+    "priority": "하",
+    "reason": "AI 기반 신선식품 유통구조 개선은 기업·산업 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "인공지능(AI)으로 신선식품 수급 최적화 데이터 기반 유통구조 개선으로 부가가치 창출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775983&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156775991",
+    "posted_at_iso": "2026-08-30T07:52:48.660460+00:00",
+    "priority": "하",
+    "reason": "장애인증명서 발급 절차 개선으로 특정 성인 행정서비스에 국한된다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "장애인증명서 국외 제출용 인증서, 온라인으로 빠르게 발급받는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775991&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156775997",
+    "posted_at_iso": "2026-08-30T07:52:48.660466+00:00",
+    "priority": "하",
+    "reason": "제조업 사업장 안전점검으로 대상이 성인 근로자에 한정된다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "제조업 \"중대재해 고위험 기계·기구\" 지게차, 크레인, 컨베이어 집중점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775997&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775985",
+    "posted_at_iso": "2026-08-30T07:52:48.660472+00:00",
+    "priority": "하",
+    "reason": "건설현장 임금 지급 점검으로 성인 근로자 대상 노동행정이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "추석명절 전 항만·연안정비 건설현장 하도급 대금 및 임금 지급실태 점검한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775985&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "문화체육관광부",
+    "entities": [
+      "북한산",
+      "프랑스"
+    ],
+    "item_id": "korea-kr-156775982",
+    "posted_at_iso": "2026-08-30T07:52:48.660480+00:00",
+    "priority": "하",
+    "reason": "외국인 관광객 대상 도보여행 홍보로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "프랑스 랑도네협회 회원들, 북한산 걸으며 '케이-도보 여행' 매력 만끽",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775982&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "해양수산부",
+    "entities": [
+      "베트남",
+      "하노이"
+    ],
+    "item_id": "korea-kr-156775986",
+    "posted_at_iso": "2026-08-30T07:52:48.660486+00:00",
+    "priority": "하",
+    "reason": "해외 산업 협력거점 구축으로 성인·기업 대상 산업정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "한-베트남 해양플랜트 서비스산업 협력거점, 하노이에 구축한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775986&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-30",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156775984",
+    "posted_at_iso": "2026-08-30T07:52:48.660493+00:00",
+    "priority": "하",
+    "reason": "항만 설계실무자 대상 전문교육으로 성인 실무자에 국한된다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "해수부, 폭풍해일에 강한 항만 만들기 위한 설계실무자 역량강화 전문교육 실시한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156775984&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-30&endDate=2026-08-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
