@@ -7997,5 +7997,408 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776167&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-31",
+    "dept": "",
+    "entities": [
+      "서울특별시남부교육지원청",
+      "서울특별시교육청학생교육원"
+    ],
+    "item_id": "sen-press-192060",
+    "message_ts": "1788172313.319269",
+    "posted_at_iso": "2026-08-31T10:31:53.945573+00:00",
+    "priority": "상",
+    "reason": "다문화·정서위기 학생을 위한 학교 현장체험학습 지원 사업으로 학생 일상과 직결되는 정책이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "다름을 품고, 마음을 잇는 여정 다정한 남부 공동체 프로젝트 운영",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192060&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-31",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156776230",
+    "message_ts": "1788172314.147329",
+    "posted_at_iso": "2026-08-31T10:31:54.785654+00:00",
+    "priority": "중",
+    "reason": "호우 피해지역 재난지원금 교부는 재난 대응 관심사이나 구체적 학교나 학생 연결은 드러나지 않는다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "8.15.~18. 호우 피해지역 재난지원금 66억 원 우선 교부",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776230&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-31",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156776228",
+    "message_ts": "1788172314.983899",
+    "posted_at_iso": "2026-08-31T10:31:55.566808+00:00",
+    "priority": "중",
+    "reason": "가습기살균제 피해자 의견수렴은 사회적 환경안전 이슈이나 대상이 성인 피해자다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "가습기살균제 배상체계 전환 앞두고 피해자 의견 듣는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776228&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "산림유전자원보호구역"
+    ],
+    "item_id": "korea-kr-156776232",
+    "message_ts": "1788172315.779329",
+    "posted_at_iso": "2026-08-31T10:31:56.368813+00:00",
+    "priority": "중",
+    "reason": "희귀식물 서식지 보호구역 지정은 환경 이슈로 관심사이나 학생과 직접 연결되지 않는다.",
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 희귀식물 자생지 등 5천여 ha, 산림유전자원보호구역으로 보호한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776232&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-08-31",
+    "dept": "기획예산처",
+    "entities": [
+      "자발적 탄소시장법"
+    ],
+    "item_id": "korea-kr-156776247",
+    "message_ts": "1788172316.553119",
+    "posted_at_iso": "2026-08-31T10:31:57.168882+00:00",
+    "priority": "중",
+    "reason": "기후 관련 입법 토론회로 관심사이지만 전문가 대상 초기 논의 단계라 간접적이다.",
+    "source": "정책브리핑(기획예산처)",
+    "title": "자발적 탄소시장법 제정 방향 국회 토론회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776247&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "국무조정실",
+    "entities": [
+      "전남광주통합특별시"
+    ],
+    "item_id": "korea-kr-156776257",
+    "posted_at_iso": "2026-08-31T10:31:57.168911+00:00",
+    "priority": "하",
+    "reason": "행정구역 통합 지원위원회 구성 행사로 청소년 일상이나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 전남광주통합특별시 지원위원회 위촉식 및 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776257&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "외교부",
+    "entities": [
+      "군축·비확산 청년사절단"
+    ],
+    "item_id": "korea-kr-156776252",
+    "posted_at_iso": "2026-08-31T10:31:57.168922+00:00",
+    "priority": "하",
+    "reason": "군축·비확산 청년사절단은 대학생·청년 대상 해단식으로 중학생과 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "「2026 군축·비확산 청년사절단」 해단식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776252&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "고용노동부",
+    "entities": [
+      "건설근로자공제회",
+      "한국세무사회"
+    ],
+    "item_id": "korea-kr-156776236",
+    "posted_at_iso": "2026-08-31T10:31:57.168931+00:00",
+    "priority": "하",
+    "reason": "건설노동자 대상 세무 상담 협약으로 성인 노동자 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "건설근로자공제회, 한국세무사회와 「건설노동자 무료 세무 상담」 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776236&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "고용노동부",
+    "entities": [],
+    "item_id": "korea-kr-156776235",
+    "posted_at_iso": "2026-08-31T10:31:57.168939+00:00",
+    "priority": "하",
+    "reason": "고용노동부 내부 포상·워크숍 동정 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "국민과 더 가까이 소통하고 공감하며 노동자의 권익을 더욱 든든히 보호하겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776235&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "캄보디아"
+    ],
+    "item_id": "korea-kr-156776258",
+    "posted_at_iso": "2026-08-31T10:31:57.168947+00:00",
+    "priority": "하",
+    "reason": "재외동포 성인 사회 현안으로 청소년과 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "김경협 재외동포청장, 캄보디아 동포사회 현안 듣고 지원 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776258&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청",
+      "철원"
+    ],
+    "item_id": "korea-kr-156776227",
+    "posted_at_iso": "2026-08-31T10:31:57.169116+00:00",
+    "priority": "하",
+    "reason": "지역 국유림 상생 협의로 지역 행정 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 철원 국유림 지역 상생 방안을 논의하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776227&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156776244",
+    "posted_at_iso": "2026-08-31T10:31:57.169124+00:00",
+    "priority": "하",
+    "reason": "추석 성수품 수급 대책으로 일반 소비자 대상 행정 홍보성 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 추석 성수품 수급 안정 위해 총력!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776244&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "산촌 이음 숲여행 10대 코스"
+    ],
+    "item_id": "korea-kr-156776238",
+    "posted_at_iso": "2026-08-31T10:31:57.169132+00:00",
+    "priority": "하",
+    "reason": "산촌 여행코스 발굴 국민참여단 모집으로 성인 참여 프로그램에 가깝다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "우리 함께 떠나는 '산촌 이음 숲여행 10대 코스' 발굴 국민참여단 2기 모집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776238&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [],
+    "item_id": "korea-kr-156776242",
+    "posted_at_iso": "2026-08-31T10:31:57.169139+00:00",
+    "priority": "하",
+    "reason": "임업·농업 직불금 신청 안내로 대상이 농업인 성인이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "임업직불금과 농업직불금,  둘 다 신청하셨나요? 꼭 확인하세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776242&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156776250",
+    "posted_at_iso": "2026-08-31T10:31:57.169147+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 방제 완료 소식으로 지역 산림 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, '소나무재선충병 지상 방제 ' 성공적 마무리",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776250&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "농림축산식품부",
+    "entities": [
+      "양곡수급관리위원회"
+    ],
+    "item_id": "korea-kr-156776253",
+    "posted_at_iso": "2026-08-31T10:31:57.169155+00:00",
+    "priority": "하",
+    "reason": "양곡 수급 관련 위원회 출범으로 대상이 농업 종사자·성인이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "제1기 양곡수급관리위원회 출범",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776253&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "외교부",
+    "entities": [
+      "서울 중동문제 국제회의"
+    ],
+    "item_id": "korea-kr-156776246",
+    "posted_at_iso": "2026-08-31T10:31:57.169162+00:00",
+    "priority": "하",
+    "reason": "전문가·외교관 대상 국제회의로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제2차 서울 중동문제 국제회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776246&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "산림청",
+    "entities": [
+      "중부지방산림청"
+    ],
+    "item_id": "korea-kr-156776256",
+    "posted_at_iso": "2026-08-31T10:31:57.169170+00:00",
+    "priority": "하",
+    "reason": "기관장 인사 발령으로 내용상 알맹이가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "제33대 도재영 중부지방산림청장 취임",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776256&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156776245",
+    "posted_at_iso": "2026-08-31T10:31:57.169177+00:00",
+    "priority": "하",
+    "reason": "조달청 내부 직원 특강으로 절차성 동정 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 직원 대상 AI 활용 역량 향상을 위한 전문가 특강 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776245&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "외교부",
+    "entities": [
+      "파키스탄",
+      "발루치스탄"
+    ],
+    "item_id": "korea-kr-156776254",
+    "posted_at_iso": "2026-08-31T10:31:57.169184+00:00",
+    "priority": "하",
+    "reason": "특정 해외 지역 여행금지 발령으로 학생 대상성이나 사회 전반 관심사로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "파키스탄 발루치스탄州 여행금지 발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776254&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-08-31",
+    "dept": "외교부",
+    "entities": [
+      "네팔"
+    ],
+    "item_id": "korea-kr-156776248",
+    "posted_at_iso": "2026-08-31T10:31:57.169199+00:00",
+    "priority": "하",
+    "reason": "외교장관 간 통화 결과로 성인 외교 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-네팔 외교장관 통화(8.31.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776248&pageIndex=1&repCodeType=&repCode=&startDate=2025-08-31&endDate=2026-08-31&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
