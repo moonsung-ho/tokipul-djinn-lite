@@ -8439,5 +8439,391 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776285&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-01",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부",
+      "퇴장방지의약품"
+    ],
+    "item_id": "korea-kr-156776334",
+    "message_ts": "1788226789.474439",
+    "posted_at_iso": "2026-09-01T01:39:49.947720+00:00",
+    "priority": "중",
+    "reason": "희귀질환 치료제 보험적용 확대는 소아·청소년 환자도 포함될 수 있는 건강보험 정책이지만 대상이 특정되지 않아 간접적이다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "중증·희귀질환 치료제 보험적용 확대 및 퇴장방지의약품 안정 공급 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776334&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-01",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "네팔",
+      "KDRT"
+    ],
+    "item_id": "korea-kr-156776318",
+    "message_ts": "1788226790.083779",
+    "posted_at_iso": "2026-09-01T01:39:50.568036+00:00",
+    "priority": "중",
+    "reason": "네팔 홍수라는 국제 재난에 대한 정부 대응으로 또래가 알 만한 국제 사안이지만 국내 청소년과 직접 연결되지는 않는다.",
+    "source": "정책브리핑(외교부)",
+    "title": "네팔 홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 파견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776318&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-01",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "화성 마하리 고분군"
+    ],
+    "item_id": "korea-kr-156776305",
+    "message_ts": "1788226790.702169",
+    "posted_at_iso": "2026-09-01T01:39:51.225007+00:00",
+    "priority": "중",
+    "reason": "백제 한성기 최대 지방고분군 발굴은 역사·고고학적 성과로 또래의 지적 관심을 끌 만하다.",
+    "source": "정책브리핑(국가유산청)",
+    "title": "베일 벗는 백제 한성기 최대 지방고분군 '화성 마하리 고분군'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776305&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156776336",
+    "posted_at_iso": "2026-09-01T01:39:51.225235+00:00",
+    "priority": "하",
+    "reason": "고위직 대상 내부 성희롱 예방교육으로 기관 내부 행정에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "\"책임과 실천으로\"...해경청, 고위직 대상 맞춤형 성희롱·성폭력 예방 교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776336&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156776326",
+    "posted_at_iso": "2026-09-01T01:39:51.225253+00:00",
+    "priority": "하",
+    "reason": "수출입 통계는 거시경제 지표로 청소년의 일상이나 관심사와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "2026년 8월 수출입 현황 [잠정치]",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776326&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "법제처",
+    "entities": [
+      "법제처"
+    ],
+    "item_id": "korea-kr-156776322",
+    "posted_at_iso": "2026-09-01T01:39:51.225263+00:00",
+    "priority": "하",
+    "reason": "소방공무원 손해배상 관련 시행법령 영문 소개로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "Strengthening Damage Compensation Guarantee System for Firefighters' On-Site Response",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776322&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156776312",
+    "posted_at_iso": "2026-09-01T01:39:51.225271+00:00",
+    "priority": "하",
+    "reason": "노동교육 전문가 100명 양성 사업으로 성인 대상 인력양성 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "[고용노동교육 2.0 시대] 생애주기별 노동교육 전문가 100명 양성한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776312&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156776325",
+    "posted_at_iso": "2026-09-01T01:39:51.225277+00:00",
+    "priority": "하",
+    "reason": "관세청 내부 조직문화 개선 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 직원 참여로 '수평적 조직문화' 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776325&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156776324",
+    "posted_at_iso": "2026-09-01T01:39:51.225284+00:00",
+    "priority": "하",
+    "reason": "원산지표시 단속은 유통업계 대상 행정으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 추석 명절 원산지표시 위반 특별단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776324&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156776313",
+    "posted_at_iso": "2026-09-01T01:39:51.225291+00:00",
+    "priority": "하",
+    "reason": "임금체불 근로자 지원은 성인 근로자 대상 정책으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "근로복지공단,  추석 앞두고 임금체불 근로자 지원 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776313&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "법제처",
+    "entities": [
+      "법제처"
+    ],
+    "item_id": "korea-kr-156776321",
+    "posted_at_iso": "2026-09-01T01:39:51.225298+00:00",
+    "priority": "하",
+    "reason": "소방공무원 손해배상 및 개인정보 유출 대응 의무 확대는 성인 실무자·기관 대상 법령으로 청소년과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776321&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청",
+      "국정원"
+    ],
+    "item_id": "korea-kr-156776335",
+    "posted_at_iso": "2026-09-01T01:39:51.225305+00:00",
+    "priority": "하",
+    "reason": "전문가 대상 위성활용 콘퍼런스 개최 소식으로 과학적 성과라기보다 행사 공동 개최에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "우주항공청·국정원, '위성활용 콘퍼런스 2026' 공동 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776335&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156776319",
+    "posted_at_iso": "2026-09-01T01:39:51.225312+00:00",
+    "priority": "하",
+    "reason": "국가유공자 특별공급 관련 보도설명자료로 성인 주택정책 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "유공자특별공급 관련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776319&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156776332",
+    "posted_at_iso": "2026-09-01T01:39:51.225318+00:00",
+    "priority": "하",
+    "reason": "조달청 맞춤형서비스 시설공사 안전기준으로 학교 시설과의 연관이 명시되지 않아 일반 공공시설 조달로 보인다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청 맞춤형서비스 시설공사, 더 안전하고 튼튼하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776332&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156776320",
+    "posted_at_iso": "2026-09-01T01:39:51.225325+00:00",
+    "priority": "하",
+    "reason": "조달청과 민간투자기관의 혁신제품 발굴 협력으로 산업 지원 행정에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 신산업·민간투자 전문기관과 손잡고 혁신제품 발굴에 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776320&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청"
+    ],
+    "item_id": "korea-kr-156776316",
+    "posted_at_iso": "2026-09-01T01:39:51.225331+00:00",
+    "priority": "하",
+    "reason": "전통예술 공연 소개로 특정 소공연장 성인 관객 대상 행사에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "조선의 궁중무희 '리진', 판소리와 가곡으로 만나다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776316&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "보건복지부",
+    "entities": [
+      "한국의료분쟁조정중재원",
+      "이창훈"
+    ],
+    "item_id": "korea-kr-156776333",
+    "posted_at_iso": "2026-09-01T01:39:51.225338+00:00",
+    "priority": "하",
+    "reason": "기관장 인사 발령으로 절차성 소식일 뿐 청소년과 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "한국의료분쟁조정중재원장 이창훈 신임 원장 임명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776333&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청",
+      "수상구조법"
+    ],
+    "item_id": "korea-kr-156776337",
+    "posted_at_iso": "2026-09-01T01:39:51.225363+00:00",
+    "priority": "하",
+    "reason": "해상 구조대원의 법적 보호를 다루는 법으로 청소년의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "해상 구조활동 법적 보호 강화... ｢수상구조법｣ 국회 본회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776337&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156776328",
+    "posted_at_iso": "2026-09-01T01:39:51.225370+00:00",
+    "priority": "하",
+    "reason": "청년인턴 채용은 대학 졸업 이상 청년 대상으로 중학생과 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부 92명의 청년인턴,  공직사회에서 새로운 도전 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776328&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156776330",
+    "posted_at_iso": "2026-09-01T01:39:51.225377+00:00",
+    "priority": "하",
+    "reason": "행정·공공기관 클라우드 전산 실태조사로 청소년과 무관한 행정 내부 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부, 모든 행정·공공기관 대상 '클라우드컴퓨팅 총조사' 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776330&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
