@@ -9187,5 +9187,404 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776351&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-01&endDate=2026-09-01&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-01",
+    "dept": "외교부",
+    "entities": [
+      "네팔",
+      "해외긴급구호대",
+      "KDRT"
+    ],
+    "item_id": "korea-kr-156777170",
+    "message_ts": "1788284257.925709",
+    "posted_at_iso": "2026-09-01T17:37:38.424648+00:00",
+    "priority": "중",
+    "reason": "국제 재난 대응 파견 소식으로 또래가 알 만한 국제 사안이지만 국내 안전과 직결되지 않아 간접적이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "네팔 홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 출국",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777170&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156776748",
+    "posted_at_iso": "2026-09-01T17:37:38.424855+00:00",
+    "priority": "하",
+    "reason": "과기정통부 예산안 발표는 산업·기술 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "\"AI와 첨단기술로 대체불가 대한민국으로의 대도약을 견인하겠습니다\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776748&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처",
+      "청년정책"
+    ],
+    "item_id": "korea-kr-156776745",
+    "posted_at_iso": "2026-09-01T17:37:38.424865+00:00",
+    "priority": "하",
+    "reason": "청년정책은 대상이 청년층 성인이며 중학생과는 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "(보도참고) 2027년 청년정책 주요내용 개요도",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776745&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "병무청",
+    "entities": [
+      "병무청",
+      "카투사"
+    ],
+    "item_id": "korea-kr-156776744",
+    "posted_at_iso": "2026-09-01T17:37:38.424873+00:00",
+    "priority": "하",
+    "reason": "카투사 공개선발은 입영대상자(성인) 정책으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(병무청)",
+    "title": "2027년도 입영대상 카투사(KATUSA) 공개선발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776744&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실",
+      "자살예방관"
+    ],
+    "item_id": "korea-kr-156776749",
+    "posted_at_iso": "2026-09-01T17:37:38.424880+00:00",
+    "priority": "하",
+    "reason": "자살예방관 정책협력회의는 광역지방정부·성인 실무자 대상 회의로 대상이 청소년이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국무조정실장 주재 광역지방정부 자살예방관 정책협력회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776749&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국토대전환"
+    ],
+    "item_id": "korea-kr-156777164",
+    "posted_at_iso": "2026-09-01T17:37:38.424888+00:00",
+    "priority": "하",
+    "reason": "국토대전환 범정부 협의회는 성인 국토정책 회의로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 제4차 국토대전환 범정부 추진협의회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777164&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "국토교통부",
+    "entities": [
+      "김윤덕",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156776750",
+    "posted_at_iso": "2026-09-01T17:37:38.424903+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 외교 협력 논의로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 김윤덕 장관, 일본 국토교통대신과  한-일 국토교통 협력 확대 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776750&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156776969",
+    "posted_at_iso": "2026-09-01T17:37:38.424913+00:00",
+    "priority": "하",
+    "reason": "고용보험 제도개편은 노동시장 성인 대상 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "노·사 및 전문가, 9개월간 논의 거쳐 「고용보험 제도개선 TF 논의결과」 도출 저출생·고령화, 산업전환에 대비해 지속가능한 「고용보험 제도개편 방안」 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776969&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "배경훈",
+      "G20"
+    ],
+    "item_id": "korea-kr-156777166",
+    "posted_at_iso": "2026-09-01T17:37:38.424920+00:00",
+    "priority": "하",
+    "reason": "G20 혁신 장관회의 참석은 성인 정책·외교 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "배경훈 부총리, G20 혁신 장관회의 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777166&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "양성평등 주간"
+    ],
+    "item_id": "korea-kr-156777169",
+    "posted_at_iso": "2026-09-01T17:37:38.424928+00:00",
+    "priority": "하",
+    "reason": "성평등 캠페인·공모전 시상식 홍보성 보도자료로 구체적 취재 각도가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부, 국민과 함께 그리는 성평등한 내일",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777169&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "서대문독립공원"
+    ],
+    "item_id": "korea-kr-156776968",
+    "posted_at_iso": "2026-09-01T17:37:38.424935+00:00",
+    "priority": "하",
+    "reason": "무궁화 명소 선정은 단순 관광 정보로 또래와 이어지는 뉴스 각도가 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 올해 최고의 무궁화 명소 4곳 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776968&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "울진"
+    ],
+    "item_id": "korea-kr-156776964",
+    "posted_at_iso": "2026-09-01T17:37:38.424942+00:00",
+    "priority": "하",
+    "reason": "산불 피해목 재활용 기술대전 결과는 전문 실무 사안으로 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산불 피해목, 다시 숲을 살리는 재료가 되다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776964&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156776970",
+    "posted_at_iso": "2026-09-01T17:37:38.424949+00:00",
+    "priority": "하",
+    "reason": "산업부-지재처 업무협약은 산업·기업 대상 협력으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "산업부-지재처, 업무협약 체결 산업기술·지식재산 경쟁력 강화에 맞손",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776970&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청",
+      "수림산업"
+    ],
+    "item_id": "korea-kr-156777046",
+    "posted_at_iso": "2026-09-01T17:37:38.424956+00:00",
+    "priority": "하",
+    "reason": "지역 투자 협약으로 경제·기업 사안이며 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금개발청, 수림산업(주)과 90억 원 투자 협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777046&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "",
+    "entities": [
+      "도봉도서관",
+      "동대문도서관"
+    ],
+    "item_id": "sen-press-192067",
+    "posted_at_iso": "2026-09-01T17:37:38.424963+00:00",
+    "priority": "하",
+    "reason": "전 세대 대상 도서관 독서 프로그램 안내로 학생 규칙 변화나 또래 특유의 뉴스 가치가 뚜렷하지 않다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, ‘그냥 좋아서(書)’    온 가족이 함께 여는 9월 독서의 달",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192067&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부",
+      "양자클러스터"
+    ],
+    "item_id": "korea-kr-156776743",
+    "posted_at_iso": "2026-09-01T17:37:38.424970+00:00",
+    "priority": "하",
+    "reason": "양자클러스터 지정은 지역 산업 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "양자기술 산업화를 견인할 3대 지역 거점, '양자클러스터' 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776743&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "도시숲 설계공모대전"
+    ],
+    "item_id": "korea-kr-156776966",
+    "posted_at_iso": "2026-09-01T17:37:38.425007+00:00",
+    "priority": "하",
+    "reason": "설계공모대전 수상작 발표는 전문 공모전 결과로 또래 관련성이 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "제18회 도시숲 설계공모대전 수상작 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776966&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "화학무기금지협약"
+    ],
+    "item_id": "korea-kr-156776747",
+    "posted_at_iso": "2026-09-01T17:37:38.425020+00:00",
+    "priority": "하",
+    "reason": "화학무기금지협약 실무 국제회의로 또래와 연결되는 각도가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제24차 화학무기금지협약 아시아지역 국가담당기관 회의(9.1.-9.3.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776747&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156777134",
+    "posted_at_iso": "2026-09-01T17:37:38.425031+00:00",
+    "priority": "하",
+    "reason": "기업 지식재산·기술 협력 사안으로 대상이 기업이며 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처-산업통상부,  기업 지식재산·기술 경쟁력 강화를 위해 전방위 협력 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777134&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-01",
+    "dept": "교육부",
+    "entities": [
+      "거점국립대학"
+    ],
+    "item_id": "korea-kr-156776959",
+    "posted_at_iso": "2026-09-01T17:37:38.425041+00:00",
+    "priority": "하",
+    "reason": "거점국립대학 선정은 대학 대상 정책으로 중학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776959&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
