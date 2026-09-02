@@ -10304,5 +10304,101 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777702&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-02",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156777862",
+    "message_ts": "1788327022.651419",
+    "posted_at_iso": "2026-09-02T05:30:23.137031+00:00",
+    "priority": "상",
+    "reason": "이공계 진로 체험 프로그램은 학생이 직접 참여하는 진로 교육 정책으로 당사자성이 크다.",
+    "source": "정책브리핑(교육부)",
+    "title": "교실 밖 이공계 현장으로, 내 진로를 만나러 갑니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777862&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-02",
+    "dept": "산림청",
+    "entities": [
+      "DMZ"
+    ],
+    "item_id": "korea-kr-156778235",
+    "message_ts": "1788327023.278879",
+    "posted_at_iso": "2026-09-02T05:30:23.759760+00:00",
+    "priority": "중",
+    "reason": "DMZ 생물다양성 국제 포럼은 환경·국제 관심사이지만 학생 일상에 직접 닿는 규칙 변화는 없다.",
+    "source": "정책브리핑(산림청)",
+    "title": "DMZ 생물다양성, 국제사회와 평화의 미래를 논한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778235&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156778233",
+    "posted_at_iso": "2026-09-02T05:30:23.759789+00:00",
+    "priority": "하",
+    "reason": "석·박사급 인재 육성 정책은 대학원생 대상으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, '창업가형 석·박사급 고급인재 육성' 본격 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778233&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "박인규",
+      "경상국립대"
+    ],
+    "item_id": "korea-kr-156778232",
+    "posted_at_iso": "2026-09-02T05:30:23.759800+00:00",
+    "priority": "하",
+    "reason": "고위직 동정 성격의 대학생 현장 소통으로 중학생과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "박인규 과학기술혁신본부장, 경상국립대 항공우주 청년들과 현장 소통",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778232&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "산업통상부",
+    "entities": [
+      "탄소국경조정제도"
+    ],
+    "item_id": "korea-kr-156778132",
+    "posted_at_iso": "2026-09-02T05:30:23.759966+00:00",
+    "priority": "하",
+    "reason": "탄소국경조정제도 대응 설명회는 산업계·기업 실무자 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "탄소국경조정제도(CBAM) 대응역량 강화를 위한 정부 합동설명회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156778132&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
