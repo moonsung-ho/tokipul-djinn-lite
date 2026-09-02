@@ -9586,5 +9586,352 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776959&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-02",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156777276",
+    "message_ts": "1788310793.899819",
+    "posted_at_iso": "2026-09-02T00:59:54.271010+00:00",
+    "priority": "상",
+    "reason": "아동학대 대응체계 개편은 미성년자 안전·인권과 직결되는 정책 변화다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "아동학대 근절 위해 아동 정보신속히 공유하고 적극 대응한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777276&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-02",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "지역아동센터"
+    ],
+    "item_id": "korea-kr-156777178",
+    "message_ts": "1788310794.389789",
+    "posted_at_iso": "2026-09-02T00:59:54.797563+00:00",
+    "priority": "중",
+    "reason": "지역아동센터 보조금 부당 배제는 아동복지시설 운영에 영향을 주는 구체적 판단 사례다.",
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"지방정부 말 믿고 지역아동센터 이전 준비했는데\"… 보조금 지원 제외는 '부당'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777178&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-02",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156777242",
+    "message_ts": "1788310794.908529",
+    "posted_at_iso": "2026-09-02T00:59:55.289334+00:00",
+    "priority": "중",
+    "reason": "에볼라 대응지침 개정은 공중보건 안전 이슈이나 현재 국내 발생 상황이 아니라 간접적이다.",
+    "source": "정책브리핑(질병관리청)",
+    "title": "에볼라 현장 대응 더욱 촘촘하게, 바이러스성출혈열 대응지침 신속 개정(9.2.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777242&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "재정경제부"
+    ],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "국가데이터처",
+    "entities": [],
+    "item_id": "korea-kr-156777172",
+    "posted_at_iso": "2026-09-02T00:59:55.289581+00:00",
+    "priority": "하",
+    "reason": "소비자물가동향은 거시경제 지표로 또래의 삶을 구체적으로 보여주지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 8월 소비자물가동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777172&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156777514",
+    "posted_at_iso": "2026-09-02T00:59:55.289606+00:00",
+    "priority": "하",
+    "reason": "산림청 예산안 편성은 행정 재정 사안으로 학생 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "2027년 산림청 예산안 3조 1,582억원 편성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777514&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156777264",
+    "posted_at_iso": "2026-09-02T00:59:55.289618+00:00",
+    "priority": "하",
+    "reason": "농축산물 소비자물가 통계는 거시경제 지표로 또래의 삶을 구체적으로 보여주지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "8월 농축산물 소비자물가 전년대비 3.5% 하락, 안정적 물가 관리 지속",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777264&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "국민통합위원회",
+    "entities": [
+      "국민통합위원회"
+    ],
+    "item_id": "korea-kr-156777510",
+    "posted_at_iso": "2026-09-02T00:59:55.289627+00:00",
+    "priority": "하",
+    "reason": "부동산·주거 대토론은 성인 대상 정책 논의이며 실제 처분이 아닌 토론회다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민통합위원회)",
+    "title": "경제 양극화 해법, '부동산 및 주거 안정화' 대토론",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777510&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "금융위원회",
+    "entities": [
+      "금융위원회"
+    ],
+    "item_id": "korea-kr-156777508",
+    "posted_at_iso": "2026-09-02T00:59:55.289635+00:00",
+    "priority": "하",
+    "reason": "금융생활 캠페인은 일반 국민 대상 홍보로 학생 특정 내용이 확인되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(금융위원회)",
+    "title": "국민의 건전한 금융·투자 역량을 강화하는  \"안전한 금융생활\" 캠페인을 추진합니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777508&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "뉴욕"
+    ],
+    "item_id": "korea-kr-156777173",
+    "posted_at_iso": "2026-09-02T00:59:55.289681+00:00",
+    "priority": "하",
+    "reason": "뉴욕 도서전은 출판 산업 해외 진출 사안으로 또래 일상과 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "뉴욕에서 '찾아가는 도서전'으로  '케이-북'의 미국 시장 진출 기회 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777173&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156777180",
+    "posted_at_iso": "2026-09-02T00:59:55.289692+00:00",
+    "priority": "하",
+    "reason": "물가관계부처회의는 일반 소비자 물가 대응 회의로 학생과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "물가관계부처회의 겸 제1차 민생침해 범정부 합동대응반 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777180&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156777177",
+    "posted_at_iso": "2026-09-02T00:59:55.289702+00:00",
+    "priority": "하",
+    "reason": "밀원숲 연구협력은 산림 연구기관 간 협력 사안으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "밀원숲 함께 가꾸고, 청렴숲 함께 키운다! - 국립산림과학원, 지역 산림연구기관과 청렴 실천·밀원숲 연구협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777177&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "몽골"
+    ],
+    "item_id": "korea-kr-156776294",
+    "posted_at_iso": "2026-09-02T00:59:55.289713+00:00",
+    "priority": "하",
+    "reason": "몽골 재난대응 ODA 연수는 국제 행정 협력 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 몽골 재난대응 역량강화 공적 개발 원조(ODA) 2차년도 현지연수 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156776294&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156777339",
+    "posted_at_iso": "2026-09-02T00:59:55.289724+00:00",
+    "priority": "하",
+    "reason": "소비자기본법 시행령은 일반 소비자 대상 규정으로 학생 특유의 문제와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "소비자기본법 시행령 개정안 국무회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777339&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "금융위원회",
+    "entities": [
+      "금융위원회"
+    ],
+    "item_id": "korea-kr-156777424",
+    "posted_at_iso": "2026-09-02T00:59:55.289735+00:00",
+    "priority": "하",
+    "reason": "소상공인 대출 확대는 성인 사업자 대상 금융정책으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(금융위원회)",
+    "title": "소상공인의 금융접근성이 높아집니다.   - 이제 미래 성장성이 높은 소상공인은 은행에서 더 많은 대출을 받으실 수 있게 됩니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777424&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156777175",
+    "posted_at_iso": "2026-09-02T00:59:55.289746+00:00",
+    "priority": "하",
+    "reason": "WHO 협력센터 지정은 국제 규제 행정 성과로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, '세계보건기구 규제시스템 역량강화 및 훈련 분야 협력센터' 세계 최초 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777175&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156777174",
+    "posted_at_iso": "2026-09-02T00:59:55.289757+00:00",
+    "priority": "하",
+    "reason": "흑염소 제품 거짓 표시 적발은 일반 소비자 제품 문제로 학교 급식과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, 흑염소 함량 거짓 표시·광고한 업체 등 15곳 적발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777174&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156777512",
+    "posted_at_iso": "2026-09-02T00:59:55.289768+00:00",
+    "priority": "하",
+    "reason": "직장 내 괴롭힘·공직기강은 내부 조직문화 사안으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "직장 내 괴롭힘 근절과 공직기강 확립 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777512&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-02",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156777171",
+    "posted_at_iso": "2026-09-02T00:59:55.289781+00:00",
+    "priority": "하",
+    "reason": "항공업계 안전투자 통계는 산업 실무 지표로 또래 일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "항공업계, '25년 안전에 13.3조원 투자",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156777171&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-02&endDate=2026-09-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
