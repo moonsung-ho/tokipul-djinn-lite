@@ -11868,5 +11868,24 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780132&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-03&endDate=2026-09-03&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-03",
+    "dept": "외교부",
+    "entities": [
+      "네팔"
+    ],
+    "item_id": "korea-kr-156780180",
+    "posted_at_iso": "2026-09-03T16:57:48.908104+00:00",
+    "priority": "하",
+    "reason": "네팔 현지 홍수에 대한 외교부의 재외국민 보호 관련 상황점검으로 국내 청소년의 일상이나 안전과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 네팔 홍수 관련  본부-현지 합동 상황점검회의 개최(9.3.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780180&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
