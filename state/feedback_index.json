@@ -11887,5 +11887,65 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780180&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-04",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "국토위성센터"
+    ],
+    "item_id": "korea-kr-156780183",
+    "message_ts": "1788473880.426439",
+    "posted_at_iso": "2026-09-03T22:18:01.074634+00:00",
+    "priority": "상",
+    "reason": "국토위성 3·4호 개발과 2030년 발사 추진은 국가 우주개발 성과로 또래의 과학·우주 관심사에 해당한다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "예비타당성조사 통과… 경제적 타당성 확보로 국토위성의 활용 가치 입증",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780183&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156780184",
+    "posted_at_iso": "2026-09-03T22:18:01.074662+00:00",
+    "priority": "하",
+    "reason": "예산 편성 방향을 알리는 원론적 보도자료로 구체적 정책 내용이나 청소년 접점이 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780184&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "위험물안전 중앙조사단"
+    ],
+    "item_id": "korea-kr-156780185",
+    "posted_at_iso": "2026-09-03T22:18:01.074670+00:00",
+    "priority": "하",
+    "reason": "대규모 위험물시설 대상 소방검사로 산업시설 안전 행정이라 학생 일상이나 또래 관심사와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, '2026년 위험물안전 중앙조사단' 운영… 대규모 위험물시설 대상 소방검사 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780185&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
