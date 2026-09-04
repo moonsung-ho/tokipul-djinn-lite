@@ -12297,5 +12297,411 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780249&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-04",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156780326",
+    "message_ts": "1788518160.512789",
+    "posted_at_iso": "2026-09-04T10:36:01.362464+00:00",
+    "priority": "상",
+    "reason": "호우 피해 특별재난지역 선포는 재난·안전 사안으로 또래도 피해 지역과 대응을 알아야 한다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "8.15.~18. 호우 피해 특별재난지역 추가 선포",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780326&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-04",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회",
+      "2026 아시안게임"
+    ],
+    "item_id": "korea-kr-156780309",
+    "message_ts": "1788518161.586509",
+    "posted_at_iso": "2026-09-04T10:36:02.384166+00:00",
+    "priority": "중",
+    "reason": "아시안게임 보편적 시청권은 학생 시청자에게도 영향이 있지만 강제력 없는 권고 수준이라 간접적이다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "\"2026 아시안게임, 보편적 시청권 보장\" 권고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780309&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156780323",
+    "posted_at_iso": "2026-09-04T10:36:02.384194+00:00",
+    "priority": "하",
+    "reason": "벼농사 방제 농약 등록 기준은 농업 실무 사안으로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"일손 부족에 도움\" 벼 무인항공 방제 농약 등록 기준 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780323&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156780305",
+    "posted_at_iso": "2026-09-04T10:36:02.384203+00:00",
+    "priority": "하",
+    "reason": "청년 해기사 취업률 회의는 대학생·구직 성인 대상 사안으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 황종우 해수부 장관, 청년 해기사 취업률 제고를 위한 관계기관 회의 주재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780305&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "",
+    "entities": [
+      "용산고등학교"
+    ],
+    "item_id": "sen-press-192076",
+    "posted_at_iso": "2026-09-04T10:36:02.384211+00:00",
+    "priority": "하",
+    "reason": "특정 고교의 개교기념 음악회 홍보성 행사로 학생 규칙 변화나 또래 전반의 관심사와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "100억 장학기금, 선순환 동문애로 이어온 80년... 용산고, ‘100년의 약속’ ...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192076&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156780311",
+    "posted_at_iso": "2026-09-04T10:36:02.384228+00:00",
+    "priority": "하",
+    "reason": "정기 위원회 결과 공지로 구체적 내용이 드러나지 않는 절차성 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제33차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780311&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156780308",
+    "posted_at_iso": "2026-09-04T10:36:02.384237+00:00",
+    "priority": "하",
+    "reason": "자살예방 콘서트는 유족·현장 관계자 등 성인 대상 행사로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 천명지킴 생명대사 초승, 콘서트에 자살유족 및 자살예방 현장 관계자 초청",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780308&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156780307",
+    "posted_at_iso": "2026-09-04T10:36:02.384244+00:00",
+    "priority": "하",
+    "reason": "국가스포츠정책위원회 위촉식은 성인 정책기구 구성 소식으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 국가스포츠정책위원회 위촉식 및 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780307&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "새만금"
+    ],
+    "item_id": "korea-kr-156780297",
+    "posted_at_iso": "2026-09-04T10:36:02.384250+00:00",
+    "priority": "하",
+    "reason": "장관 동정으로 R&D 참여 확대 현장 방문 소식이라 청소년과 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 김윤덕 장관, 전북 · 새만금 국토교통 R&D 참여 확대 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780297&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156780301",
+    "posted_at_iso": "2026-09-04T10:36:02.384257+00:00",
+    "priority": "하",
+    "reason": "과장급 인사 발령은 순수 행정 인사로 기사감이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과학기술정보통신부 인사(과장급 전보)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780301&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156780313",
+    "posted_at_iso": "2026-09-04T10:36:02.384263+00:00",
+    "priority": "하",
+    "reason": "농업과학도서관의 전문가 강연은 성인 대상 프로그램으로 또래와 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청 농업과학도서관, 9월 '독서의 달' 전문가 초청 강연 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780313&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "보성"
+    ],
+    "item_id": "korea-kr-156780319",
+    "posted_at_iso": "2026-09-04T10:36:02.384270+00:00",
+    "priority": "하",
+    "reason": "풀사료 3모작 재배 현장 점검은 농업 실무 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 전남 보성 풀사료 3모작 재배 현장 살펴",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780319&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156780321",
+    "posted_at_iso": "2026-09-04T10:36:02.384434+00:00",
+    "priority": "하",
+    "reason": "기관 내부 유공 표창 수여로 절차성 인사 소식에 불과하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 지식재산의 날 기념 유공 표창 3명 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780321&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156780317",
+    "posted_at_iso": "2026-09-04T10:36:02.384448+00:00",
+    "priority": "하",
+    "reason": "콩 병해충 방제 당부는 농업 실무 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 콩 생육 후기 병해충 방제 철저 당부",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780317&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156780315",
+    "posted_at_iso": "2026-09-04T10:36:02.384454+00:00",
+    "priority": "하",
+    "reason": "예초기 안전 수칙은 성인 대상 벌초 작업 안전 안내로 또래 일상과 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "벌초·풀베기 작업 전, 예초기 안전 사용 수칙 꼭 알아두세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780315&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청",
+      "KAIA"
+    ],
+    "item_id": "korea-kr-156780299",
+    "posted_at_iso": "2026-09-04T10:36:02.384459+00:00",
+    "priority": "하",
+    "reason": "국토교통 R&D 설명회는 기업·연구자 대상 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청·KAIA, R&D 활성화를 위한 '전북·새만금 국토교통 R&D 설명회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780299&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156780298",
+    "posted_at_iso": "2026-09-04T10:36:02.384466+00:00",
+    "priority": "하",
+    "reason": "아동학대 대응인력 힐링캠프는 성인 실무자 대상 소진예방 프로그램으로 청소년 당사자 사안이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "아동학대 대응인력 마음건강 돌본다 소진예방프로그램 '힐링캠프' 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780298&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "고용노동부",
+    "entities": [
+      "제주",
+      "호텔리조트업"
+    ],
+    "item_id": "korea-kr-156780330",
+    "posted_at_iso": "2026-09-04T10:36:02.384472+00:00",
+    "priority": "하",
+    "reason": "제주 호텔리조트업 원하청 상생협약은 성인 노동시장 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "제주 관광산업의 얼굴 호텔리조트업, 함께 웃는 일터로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780330&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "행정안전부",
+    "entities": [
+      "중수청장후보추천위원회"
+    ],
+    "item_id": "korea-kr-156780328",
+    "posted_at_iso": "2026-09-04T10:36:02.384477+00:00",
+    "priority": "하",
+    "reason": "신설 기구 청장 후보자 추천은 성인 행정 인사 절차로 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "중수청장후보추천위원회, 초대 청장 후보자 4명 추천",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780328&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "태국",
+      "튀르키예"
+    ],
+    "item_id": "korea-kr-156780306",
+    "posted_at_iso": "2026-09-04T10:36:02.384483+00:00",
+    "priority": "하",
+    "reason": "특별여행주의보 연장·해제는 정기적 여행 안내로 또래를 특정해 겨냥하지 않는 일반 공지다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "태국, 튀르키예 등 15개국 특별여행주의보 연장 및 해제",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780306&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-04",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156780304",
+    "posted_at_iso": "2026-09-04T10:36:02.384488+00:00",
+    "priority": "하",
+    "reason": "한중 청년 교류단 해단식은 성인·대학생급 참가자 대상 행사로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한중 청년들의 교류, 우정의 매듭으로 단단해지다! <제4회 한중 청년 미래 우호증진단> 해단식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780304&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
