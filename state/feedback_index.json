@@ -12819,5 +12819,45 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780333&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-04&endDate=2026-09-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-05",
+    "dept": "산업통상부",
+    "entities": [
+      "루이지애나",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156780341",
+    "posted_at_iso": "2026-09-04T23:44:45.793309+00:00",
+    "priority": "하",
+    "reason": "한미 철강·자동차 산업 공급망 협력에 관한 산업 정책으로 청소년과 직접적 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)미 루이지애나 저탄소 제철소 첫 삽  한-미 철강·자동차 공급망 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780341&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-05&endDate=2026-09-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-05",
+    "dept": "문화체육관광부",
+    "entities": [
+      "디비전리그",
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156780342",
+    "posted_at_iso": "2026-09-04T23:44:45.793331+00:00",
+    "priority": "하",
+    "reason": "성인 동호인 생활체육 리그 소식으로 청소년의 규칙이나 일상, 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "동호인이 주인공인 무대, 디비전리그로 생활체육 저변 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780342&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-05&endDate=2026-09-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
