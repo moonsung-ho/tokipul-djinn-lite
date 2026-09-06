@@ -13207,5 +13207,24 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780370&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-06&endDate=2026-09-06&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-07",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "유역물관리위원회"
+    ],
+    "item_id": "korea-kr-156780404",
+    "posted_at_iso": "2026-09-06T22:03:06.624805+00:00",
+    "priority": "하",
+    "reason": "유역물관리위원회 구성·가동은 행정 거버넌스 사안으로 청소년의 규칙이나 일상에 직접 닿지 않고 재난·환경 안전 이슈처럼 또래가 알아야 할 구체적 사건도 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "국가와 유역을 잇다… 제3기 유역물관리위원회 본격 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780404&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-07&endDate=2026-09-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
