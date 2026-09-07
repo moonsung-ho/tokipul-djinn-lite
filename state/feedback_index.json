@@ -14219,5 +14219,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780553&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-07&endDate=2026-09-07&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "수도권"
+    ],
+    "item_id": "korea-kr-156780581",
+    "posted_at_iso": "2026-09-07T21:57:29.840317+00:00",
+    "priority": "하",
+    "reason": "수도권 주택 공급·토지 비축 정책으로 성인 주거·부동산 시장 대상이라 청소년의 권리·일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "수도권 주택수요에 대비한 유휴부지, 5,000억원 규모로 미리 확보한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780581&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
