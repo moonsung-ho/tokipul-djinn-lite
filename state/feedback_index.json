@@ -15480,5 +15480,105 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780751&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-09",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "기후위기적응법"
+    ],
+    "item_id": "korea-kr-156780758",
+    "message_ts": "1788909248.383519",
+    "posted_at_iso": "2026-09-08T23:14:08.852301+00:00",
+    "priority": "중",
+    "reason": "기후위기적응법 하위법령 준비는 기후 대응이라는 또래 관심 주제이지만 아직 절차 진행 단계라 구체적 각도가 약하다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후회복력 강화을 위한 기후위기적응법 제정··· 하위법령 마련 등 차질 없이 준비",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780758&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "K-AI 시티"
+    ],
+    "item_id": "korea-kr-156780756",
+    "posted_at_iso": "2026-09-08T23:14:08.852327+00:00",
+    "priority": "하",
+    "reason": "AI 도시 실행전략은 도시계획·모빌리티 정책 구상으로 청소년 일상 규칙과 직접 닿지 않고 추상적 국정과제 수준이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "AI가 잇는 도시의 미래, 「K-AI 시티 실행전략」에 담다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780756&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156780755",
+    "posted_at_iso": "2026-09-08T23:14:08.852335+00:00",
+    "priority": "하",
+    "reason": "농업·농촌 현장 문제 발굴 연구개발 사업으로 대상이 농업인·국민 참여형 성인 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농업·농촌 현장 문제, 국민과 함께 발굴하고 연구개발(R&D)로 해결합니다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780755&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "119안심콜"
+    ],
+    "item_id": "korea-kr-156780759",
+    "posted_at_iso": "2026-09-08T23:14:08.852348+00:00",
+    "priority": "하",
+    "reason": "119안심콜 홍보 캠페인으로 청소년 규칙 변화도 없고 또래가 알아야 할 시의성 있는 사안도 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "대한국민 모두의 안심처, 119안심콜! 소방청, 전국에서 119안심콜 집중 홍보(캠페인)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780759&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "철도운행안전과"
+    ],
+    "item_id": "korea-kr-156780757",
+    "posted_at_iso": "2026-09-08T23:14:08.852354+00:00",
+    "priority": "하",
+    "reason": "철도 작업자 안전을 위한 무선제어 도입 논의로 대상이 철도 노동자인 산업안전 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "차량정리 작업 사고 재발  막는다...무선제어 차량정리 확대 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780757&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
