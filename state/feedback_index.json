@@ -15459,5 +15459,26 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780717&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "성평등가족부",
+      "여성폭력 입법과제 추진 협의체"
+    ],
+    "item_id": "korea-kr-156780751",
+    "posted_at_iso": "2026-09-08T17:47:50.896626+00:00",
+    "priority": "하",
+    "reason": "여성폭력 근절 협의체 회의 개최 소식으로 성인 대상 정책 절차이며 청소년 당사자성이나 구체적 관심사로 이어질 단서가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "여성폭력 근절을 위해 법무부, 성평등가족부, 성폭력 피해자 지원단체 및 사법부가 함께합니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780751&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
