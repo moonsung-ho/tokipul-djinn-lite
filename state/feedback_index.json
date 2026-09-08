@@ -14239,5 +14239,257 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780581&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국민권익위원회"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "보건복지부",
+    "entities": [
+      "자살예방상담전화 109",
+      "보건복지부",
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156780593",
+    "message_ts": "1788825709.735959",
+    "posted_at_iso": "2026-09-08T00:01:50.283050+00:00",
+    "priority": "상",
+    "reason": "자살예방상담전화 109는 청소년 정신건강과 직결되는 토끼풀의 주요 취재 주제이며 요금미납 취약계층 접근성 개선이 또래에게도 닿는다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "10월부터 요금미납 시에도 '자살예방상담전화 109'를 긴급전화로 이용 가능해진다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780593&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "중국산 줄기상추"
+    ],
+    "item_id": "korea-kr-156780591",
+    "message_ts": "1788825710.416199",
+    "posted_at_iso": "2026-09-08T00:01:50.910291+00:00",
+    "priority": "중",
+    "reason": "학교 급식과 직접 연결되진 않지만 유통 식품 안전성 검사 결과는 또래가 알 만한 식품안전 사안이다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "국내 유통 중인 중국산 줄기상추 식용색소 긴급검사 결과 8건 모두 불검출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780591&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "산불정보 가시화시스템"
+    ],
+    "item_id": "korea-kr-156780590",
+    "message_ts": "1788825711.052859",
+    "posted_at_iso": "2026-09-08T00:01:51.541719+00:00",
+    "priority": "중",
+    "reason": "산불 대응 위성 시스템 도입은 규칙으로 학생에게 닿지 않지만 재난·과학기술 성과로 또래가 알 만하다.",
+    "source": "정책브리핑(산림청)",
+    "title": "다중위성 융합 '산불정보 가시화시스템'으로 산불 대응 더 촘촘하게 ! - 국립산림과학원, 농림·천리안·수오미 NPP 위성 통합해 산불 상황 실시간 다각도 분석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780590&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "문화체육관광부",
+    "entities": [
+      "플레이스트 109"
+    ],
+    "item_id": "korea-kr-156780586",
+    "message_ts": "1788825711.679409",
+    "posted_at_iso": "2026-09-08T00:01:52.161157+00:00",
+    "priority": "중",
+    "reason": "109라는 명칭과 위로의 노래라는 소재가 자살예방·정신건강 캠페인과 맞닿아 또래 관심사가 될 수 있다.",
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "사람들의 마음 어루만진 <플레이스트 109>,  오늘을 버티게 한 노래 109곡은 계속",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780586&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156780583",
+    "message_ts": "1788825712.297289",
+    "posted_at_iso": "2026-09-08T00:01:52.818253+00:00",
+    "priority": "중",
+    "reason": "가정용 소방시설 설치 캠페인은 규칙으로 닿진 않지만 명절 안전은 또래 가정에도 관련된 안전 이슈다.",
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 추석 맞아 '고향집에 주택용소방시설 설치하기' 전국 홍보(캠페인) 전개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780583&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156780582",
+    "message_ts": "1788825712.969059",
+    "posted_at_iso": "2026-09-08T00:01:53.464372+00:00",
+    "priority": "중",
+    "reason": "항공기 사고 유해수습 매뉴얼 제정은 학생에게 규칙으로 닿지 않지만 재난 대응 체계 정비로 또래도 알 만한 안전 사안이다.",
+    "source": "정책브리핑(소방청)",
+    "title": "항공기 사고 유해수습,관계기관이 하나의 체계로 대응한다. 관계부처 합동 「항공기 사고 재난 피해자 유해 수습 지침(매뉴얼)」 제정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780582&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156780594",
+    "posted_at_iso": "2026-09-08T00:01:53.464394+00:00",
+    "priority": "하",
+    "reason": "청년 현장 소통은 성인 청년 정책 참여 사업으로 중학생 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"발로 뛰어 찾아내는 청년들의 목소리\" 국민권익위 '청년 현장 소통' 첫발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780594&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "문화체육관광부",
+    "entities": [
+      "젊은 건축가상"
+    ],
+    "item_id": "korea-kr-156780587",
+    "posted_at_iso": "2026-09-08T00:01:53.464403+00:00",
+    "priority": "하",
+    "reason": "젊은 건축가상은 성인 건축가 대상 시상으로 청소년과 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'2026년 젊은 건축가상' 3개 팀 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780587&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156780596",
+    "posted_at_iso": "2026-09-08T00:01:53.464410+00:00",
+    "priority": "하",
+    "reason": "중견기업-청년 채용 연계는 성인 구직자를 대상으로 하며 중학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "5극3특 성장엔진 지원 위한 우수 중견기업-청년 채용 연계",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780596&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "식품의약품안전처",
+    "entities": [],
+    "item_id": "korea-kr-156780592",
+    "posted_at_iso": "2026-09-08T00:01:53.464417+00:00",
+    "priority": "하",
+    "reason": "산업체·민간 검사기관 대상 동물용의약품 시험법 설명회로 학생과 무관한 실무 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 산업체·민간 검사기관 대상, 동물용의약품 시험법 설명회(2차) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780592&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "문화체육관광부",
+    "entities": [
+      "태국 왕립경찰"
+    ],
+    "item_id": "korea-kr-156780588",
+    "posted_at_iso": "2026-09-08T00:01:53.464424+00:00",
+    "priority": "하",
+    "reason": "K-콘텐츠 저작권 국제 수사 협력은 성인 산업·법집행 사안으로 청소년과 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부와 태국 왕립경찰 손잡고 '케이-콘텐츠' 저작권 침해범 끝까지 추적한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780588&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "문화체육관광부",
+    "entities": [],
+    "item_id": "korea-kr-156780585",
+    "posted_at_iso": "2026-09-08T00:01:53.464469+00:00",
+    "priority": "하",
+    "reason": "문화기술 국가전략산업 생태계 조성은 기업·투자 중심 산업정책으로 청소년과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "전략사업부터 민간투자, 해외 진출 잇는 문화기술 국가전략산업 생태계 조성 본격화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780585&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "문화체육관광부",
+    "entities": [
+      "뤼미에르 서밋"
+    ],
+    "item_id": "korea-kr-156780584",
+    "posted_at_iso": "2026-09-08T00:01:53.464477+00:00",
+    "priority": "하",
+    "reason": "국제 영화 협력 행사는 업계·성인 대상 사안으로 또래 일상과 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한국, '뤼미에르 서밋'서 국제 영화·영상 협력의 지평 넓혀",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780584&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
