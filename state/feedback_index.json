@@ -15198,5 +15198,266 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780699&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "",
+    "entities": [
+      "강서양천교육지원청",
+      "남부교육지원청",
+      "동작관악교육지원청",
+      "박종민"
+    ],
+    "item_id": "sen-press-192101",
+    "message_ts": "1788873701.371599",
+    "posted_at_iso": "2026-09-08T13:21:41.775748+00:00",
+    "priority": "상",
+    "reason": "학교폭력 예방교육은 학생의 일상적 관계와 사안처리에 직접 닿는 당사자 사안이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "강서양천·남부·동작관악교육지원청,  학교폭력 예방의 답, ‘협력’과 ‘관...",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192101&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-08",
+    "dept": "",
+    "entities": [
+      "지혜복",
+      "정근식"
+    ],
+    "item_id": "sen-press-192102",
+    "message_ts": "1788873701.893159",
+    "posted_at_iso": "2026-09-08T13:21:42.278482+00:00",
+    "priority": "상",
+    "reason": "학교 내 성폭력·공익신고·교사 복귀를 둘러싼 사안으로 학생 인권과 학교 공동체의 안전·신뢰 문제에 직결된다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청-지혜복 교사·공동대책위원회 합의 관련 보도자료",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192102&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "해양수산부",
+    "entities": [
+      "남재헌",
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156780720",
+    "posted_at_iso": "2026-09-08T13:21:42.278511+00:00",
+    "priority": "하",
+    "reason": "항만공사 통합을 위한 사장단 간담회로 성인 행정·산업 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 남재헌 해수부 차관, 항만공사 통합 추진을 위한 사장단 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780720&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국무조정실",
+    "entities": [
+      "기후대응위"
+    ],
+    "item_id": "korea-kr-156780718",
+    "posted_at_iso": "2026-09-08T13:21:42.278522+00:00",
+    "priority": "하",
+    "reason": "녹색전환금융 간담회는 기업·금융권 대상 실무 논의로 또래와 직접 이어지는 내용이 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 기후대응위, 녹색전환금융 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780718&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "가네"
+    ],
+    "item_id": "korea-kr-156780748",
+    "posted_at_iso": "2026-09-08T13:21:42.278530+00:00",
+    "priority": "하",
+    "reason": "총리와 캐나다 상원의장의 의례적 외교 면담으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 가네 캐나다 상원의장 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780748&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "이시바 시게루"
+    ],
+    "item_id": "korea-kr-156780749",
+    "posted_at_iso": "2026-09-08T13:21:42.278547+00:00",
+    "priority": "하",
+    "reason": "총리와 외국 전직 인사의 외교 동정으로 청소년의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 이시바 시게루 일본 前총리 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780749&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "소비자정책위원회"
+    ],
+    "item_id": "korea-kr-156780719",
+    "posted_at_iso": "2026-09-08T13:21:42.278556+00:00",
+    "priority": "하",
+    "reason": "소비자정책위원회 개최 소식으로 구체 내용이 없어 청소년 당사자성이나 관심사로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 제17차 소비자정책위원회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780719&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "LH"
+    ],
+    "item_id": "korea-kr-156780743",
+    "posted_at_iso": "2026-09-08T13:21:42.278578+00:00",
+    "priority": "하",
+    "reason": "국토부-LH 파견직원 인사 문제에 대한 해명자료로 성인 행정 내부 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 국토부와 LH가 파견직원의 복귀 문제를 두고 대립하고 있다는 내용은 사실과 다릅니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780743&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국토교통부",
+    "entities": [
+      "김이탁",
+      "폴란드"
+    ],
+    "item_id": "korea-kr-156780742",
+    "posted_at_iso": "2026-09-08T13:21:42.278595+00:00",
+    "priority": "하",
+    "reason": "차관급 국제협력 동정으로 청소년과 무관한 성인 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 김이탁 제1차관, 폴란드와 스마트시티·PPP 협력 강화 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780742&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국방부",
+    "entities": [
+      "서울안보대화"
+    ],
+    "item_id": "korea-kr-156780746",
+    "posted_at_iso": "2026-09-08T13:21:42.278603+00:00",
+    "priority": "하",
+    "reason": "국방차관급 다자 회담 동정으로 학생 당사자성도, 또래의 관심사로도 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "「2026 서울안보대화」 계기 일본·말레이시아·핀란드·싱가포르 국방차관회담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780746&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국방부",
+    "entities": [
+      "서울안보대화",
+      "우간다"
+    ],
+    "item_id": "korea-kr-156780741",
+    "posted_at_iso": "2026-09-08T13:21:42.278610+00:00",
+    "priority": "하",
+    "reason": "국방장관 양자회담 동정으로 청소년과 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "「2026 서울안보대화」 계기 한-우간다 국방장관회담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780741&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "국방부",
+    "entities": [
+      "서울안보대화",
+      "파푸아뉴기니"
+    ],
+    "item_id": "korea-kr-156780744",
+    "posted_at_iso": "2026-09-08T13:21:42.278618+00:00",
+    "priority": "하",
+    "reason": "국방장관 양자회담 동정으로 청소년과 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "「2026 서울안보대화」 계기 한-파푸아뉴기니 국방장관회담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780744&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-08",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156780717",
+    "posted_at_iso": "2026-09-08T13:21:42.278625+00:00",
+    "priority": "하",
+    "reason": "국유림·공사유림 OECM 확대는 산림 보전 정책이나 청소년 대상 프로그램이나 접점이 본문에서 확인되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림OECM, 국유림 넘어 공·사유림으로 확대한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780717&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-08&endDate=2026-09-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
