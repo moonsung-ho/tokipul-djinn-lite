@@ -16344,5 +16344,136 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780911&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-09&endDate=2026-09-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-09",
+    "dept": "질병관리청",
+    "entities": [
+      "일본뇌염"
+    ],
+    "item_id": "korea-kr-156780919",
+    "message_ts": "1788985524.273819",
+    "posted_at_iso": "2026-09-09T20:25:24.515711+00:00",
+    "priority": "상",
+    "reason": "일본뇌염 첫 환자 발생과 예방수칙은 학교에서도 안내되는 감염병 안전 사안으로 또래가 알아야 한다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "올해 첫 일본뇌염 환자 발생! 예방수칙 준수 및 예방접종 당부(9.9.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780919&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-09",
+    "dept": "질병관리청",
+    "entities": [
+      "당원병"
+    ],
+    "item_id": "korea-kr-156780920",
+    "message_ts": "1788985524.596269",
+    "posted_at_iso": "2026-09-09T20:25:24.833879+00:00",
+    "priority": "중",
+    "reason": "당원병은 소아·청소년기에도 발병하는 희귀질환이라 요양비 지원이 일부 또래에게 닿지만 대상이 매우 좁다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "희귀질환 당원병 환자의 연속 혈당 관리에 필요한 물품 요양비 지원 추진(9.9.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780920&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "재정경제부",
+    "entities": [],
+    "item_id": "korea-kr-156780961",
+    "posted_at_iso": "2026-09-09T20:25:24.833914+00:00",
+    "priority": "하",
+    "reason": "추석 농축산물 할인지원 정책은 소비자 물가 대책으로 청소년의 권리·일상과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "(보도설명) 추석기간 농축산물 할인지원을 조기종료 없이 안정적으로 운영할 예정입니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780961&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "기획예산처",
+    "entities": [
+      "피치"
+    ],
+    "item_id": "korea-kr-156780921",
+    "posted_at_iso": "2026-09-09T20:25:24.833958+00:00",
+    "priority": "하",
+    "reason": "국제신용평가기관의 예산안 평가는 거시경제 실무 사안으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780921&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156780916",
+    "posted_at_iso": "2026-09-09T20:25:24.833968+00:00",
+    "priority": "하",
+    "reason": "외국인 노동자 고용 사업장 점검은 성인 노동시장 사안으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780916&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "외교부",
+    "entities": [],
+    "item_id": "korea-kr-156780914",
+    "posted_at_iso": "2026-09-09T20:25:24.833986+00:00",
+    "priority": "하",
+    "reason": "로마 관련 콘텐츠의 한국어 서비스 출시는 문화 홍보성 소식으로 또래의 삶에 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2천년 전 로마 이야기,  이제 한국어로 만나보세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780914&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-09",
+    "dept": "외교부",
+    "entities": [
+      "아세안+3"
+    ],
+    "item_id": "korea-kr-156780960",
+    "posted_at_iso": "2026-09-09T20:25:24.833998+00:00",
+    "priority": "하",
+    "reason": "아세안+3 고위관리회의 참석 결과는 외교 실무 보고로 또래가 알아야 할 구체적 사안이 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "아세안+3(APT) 고위관리회의(9.9.) 참석 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780960&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
