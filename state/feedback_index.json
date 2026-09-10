@@ -17231,5 +17231,79 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781207&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "국토교통부",
+    "entities": [
+      "인천대교"
+    ],
+    "item_id": "korea-kr-156781248",
+    "posted_at_iso": "2026-09-10T21:26:37.874827+00:00",
+    "priority": "하",
+    "reason": "민자고속도로 운영평가는 성인 인프라 행정으로 청소년의 권리·일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "2026년도 민자고속도로 운영평가 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781248&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "농림축산식품부",
+    "entities": [
+      "국립농산물품질관리원"
+    ],
+    "item_id": "korea-kr-156781246",
+    "posted_at_iso": "2026-09-10T21:26:37.874850+00:00",
+    "priority": "하",
+    "reason": "전통식품 품질 인증 관련 사안으로 학교 급식과 달리 청소년 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "국립농산물품질관리원, 과학으로 지키는 전통식품 품질 인증의 신뢰",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781246&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156781247",
+    "posted_at_iso": "2026-09-10T21:26:37.874858+00:00",
+    "priority": "하",
+    "reason": "농어촌 기본소득 정책은 농촌 성인 주민 대상 사업으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농어촌 기본소득과 사회연대경제 상생으로 활력있는 농촌을 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781247&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "국립생물자원관"
+    ],
+    "item_id": "korea-kr-156781249",
+    "posted_at_iso": "2026-09-10T21:26:37.874866+00:00",
+    "priority": "하",
+    "reason": "국립생물자원관 기획전은 일반 대중 대상 전시 행사로 또래와 직접 이어지는 각도가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "소금 위에 피어난 식물 보러 오세요… 국립생물자원관 기획전 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781249&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
