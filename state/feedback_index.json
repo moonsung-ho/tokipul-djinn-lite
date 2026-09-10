@@ -16836,5 +16836,400 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781050&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청",
+      "안동시",
+      "고등학교"
+    ],
+    "item_id": "korea-kr-156781195",
+    "message_ts": "1789051880.213409",
+    "posted_at_iso": "2026-09-10T14:51:20.741467+00:00",
+    "priority": "상",
+    "reason": "인근 고등학생 90여 명이 대테러 훈련을 직접 참관해 안전교육에 참여했다는 점에서 재난·안전 관심사로 다룰 만하다.",
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, 실전 같은 대테러 훈련으로 비상 대응 역량 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781195&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "거제",
+      "통영",
+      "남부지방산림청"
+    ],
+    "item_id": "korea-kr-156781191",
+    "message_ts": "1789051880.876079",
+    "posted_at_iso": "2026-09-10T14:51:21.341478+00:00",
+    "priority": "상",
+    "reason": "거제·통영 지역 실제 산불 대응을 위한 긴급 장비 투입은 현재진행형 재난 대응 소식으로 또래가 알아야 할 안전 사안이다.",
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, 거제·통영에 고성능산불진화차 및 산림재난특수진화대 긴급 투입",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781191&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "해양수산부",
+    "entities": [],
+    "item_id": "korea-kr-156781208",
+    "posted_at_iso": "2026-09-10T14:51:21.341709+00:00",
+    "priority": "하",
+    "reason": "내수면 양식업 현장 동정으로 성인 산업 종사자 대상 소식이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 내수면 양식 현장의 목소리에서 산업 경쟁력의 해답을 찾다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781208&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "국토교통부",
+    "entities": [
+      "3기 신도시",
+      "LH"
+    ],
+    "item_id": "korea-kr-156781243",
+    "posted_at_iso": "2026-09-10T14:51:21.341719+00:00",
+    "priority": "하",
+    "reason": "3기 신도시 중도금 대출 관련 성인 대상 주택금융 설명자료로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781243&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156781214",
+    "posted_at_iso": "2026-09-10T14:51:21.341728+00:00",
+    "priority": "하",
+    "reason": "정비사업 공사비 분쟁 해명자료로 성인 부동산 정책이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 정부는 근거 없는 공사비 인상을 막고, 분쟁이 발생한 정비사업 현장을 직접 찾아가 해결하고 있습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781214&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "외교부",
+    "entities": [
+      "하랄 5세",
+      "노르웨이"
+    ],
+    "item_id": "korea-kr-156781213",
+    "posted_at_iso": "2026-09-10T14:51:21.341743+00:00",
+    "priority": "하",
+    "reason": "외국 국왕 조문사절 파견은 의전성 외교 소식으로 또래 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "故 하랄 5세 노르웨이 국왕 국장 관련 조문사절 파견(9.8.-10.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781213&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "인사혁신처",
+    "entities": [
+      "5급 공채",
+      "외교관후보자"
+    ],
+    "item_id": "korea-kr-156781209",
+    "posted_at_iso": "2026-09-10T14:51:21.341752+00:00",
+    "priority": "하",
+    "reason": "국가공무원 5급 및 외교관후보자 시험은 성인 대상 채용시험으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "국가공무원 5급·외교관후보자 2차시험 합격자 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781209&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "국립새만금수목원",
+      "김제시"
+    ],
+    "item_id": "korea-kr-156781206",
+    "posted_at_iso": "2026-09-10T14:51:21.341760+00:00",
+    "priority": "하",
+    "reason": "수목원 조성 지역협의회 개최로 지역주민 대상 행정 소식이며 학생 참여 단서가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립새만금수목원, 지역민과 함께 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781206&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청"
+    ],
+    "item_id": "korea-kr-156781193",
+    "posted_at_iso": "2026-09-10T14:51:21.341767+00:00",
+    "priority": "하",
+    "reason": "산불진화훈련은 기관 내부 훈련으로 학생 참여나 공개성이 확인되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, \"을지연습 연계 합동 산불진화훈련\" 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781193&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청",
+      "이종수"
+    ],
+    "item_id": "korea-kr-156781202",
+    "posted_at_iso": "2026-09-10T14:51:21.341773+00:00",
+    "priority": "하",
+    "reason": "산림특별사법경찰 자문관실 운영은 기관 내부 수사지원 체계로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, '찾아가는 산림특별사법경찰 자문관실' 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781202&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "울진",
+      "금강소나무숲"
+    ],
+    "item_id": "korea-kr-156781187",
+    "posted_at_iso": "2026-09-10T14:51:21.341780+00:00",
+    "priority": "하",
+    "reason": "산림유전자원보호구역 관리 강화는 전문 산림행정 사안으로 또래 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, 산림유전자원보호구역 보존을 위한 관리 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781187&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청"
+    ],
+    "item_id": "korea-kr-156781204",
+    "posted_at_iso": "2026-09-10T14:51:21.341786+00:00",
+    "priority": "하",
+    "reason": "산불예방 현장점검은 기관 내부 업무 소식으로 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, 산불예방 숲가꾸기 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781204&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청",
+      "예천군",
+      "안동시"
+    ],
+    "item_id": "korea-kr-156781200",
+    "posted_at_iso": "2026-09-10T14:51:21.341797+00:00",
+    "priority": "하",
+    "reason": "특정 지역 산림 시설의 호우 안전점검으로 일반 대중 대상 재난경보와 달리 내부 관리 소식에 가깝다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부지방산림청, 호우 대비 안전관리 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781200&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "행정안전부",
+    "entities": [
+      "몽골",
+      "칭길테구"
+    ],
+    "item_id": "korea-kr-156781211",
+    "posted_at_iso": "2026-09-10T14:51:21.341804+00:00",
+    "priority": "하",
+    "reason": "해외 주소체계 수출 사업으로 행정 국제협력 소식이나 또래 일상과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "몽골 칭길테구 '게르'에서도 한국형 건물번호판 본다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781211&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근",
+      "부산"
+    ],
+    "item_id": "korea-kr-156781212",
+    "posted_at_iso": "2026-09-10T14:51:21.341810+00:00",
+    "priority": "하",
+    "reason": "필수의료·고등교육 예산 현장방문이나 대상이 성인 의료·대학 분야로 중학생과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, 부산 지역 필수의료, 고등교육 등 관련 예산현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781212&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "청도군",
+      "칠곡군"
+    ],
+    "item_id": "korea-kr-156781189",
+    "posted_at_iso": "2026-09-10T14:51:21.341816+00:00",
+    "priority": "하",
+    "reason": "계곡 불법시설 단속은 성인 이용객·상인 대상 행정 조치로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "여름철 산림 내 불법행위 단속 연계, 계곡 불법시설 정비에 박차",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781189&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "산림청",
+    "entities": [
+      "남부지방산림청",
+      "안동소방서"
+    ],
+    "item_id": "korea-kr-156781198",
+    "posted_at_iso": "2026-09-10T14:51:21.341822+00:00",
+    "priority": "하",
+    "reason": "기관 자체 소방훈련으로 학생과 연결되지 않는 내부 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "응급상황 대응능력 향상을 위한 소방훈련 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781198&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "우간다"
+    ],
+    "item_id": "korea-kr-156781215",
+    "posted_at_iso": "2026-09-10T14:51:21.341854+00:00",
+    "priority": "하",
+    "reason": "외교부 장관의 통상적 양자면담으로 또래가 알아야 할 사안적 무게가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781215&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "기획예산처",
+    "entities": [
+      "중장기전략위원회"
+    ],
+    "item_id": "korea-kr-156781196",
+    "posted_at_iso": "2026-09-10T14:51:21.341866+00:00",
+    "priority": "하",
+    "reason": "중장기전략위원회 내부 분과회의로 알맹이 없는 절차성 소식이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "중장기전략위원회 혁신성장반 분과회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781196&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-10",
+    "dept": "외교부",
+    "entities": [
+      "한일 국장급 협의"
+    ],
+    "item_id": "korea-kr-156781207",
+    "posted_at_iso": "2026-09-10T14:51:21.341876+00:00",
+    "priority": "하",
+    "reason": "한일 국장급 협의 결과는 실무 외교 소식으로 구체적 내용 없이 또래 관심사로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한일 국장급 협의(9.10.) 개최 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781207&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-10&endDate=2026-09-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
