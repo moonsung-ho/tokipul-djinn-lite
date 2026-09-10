@@ -17305,5 +17305,197 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781249&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-11",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "목이버섯",
+      "백목이버섯"
+    ],
+    "item_id": "korea-kr-156781252",
+    "message_ts": "1789083897.766009",
+    "posted_at_iso": "2026-09-10T23:44:58.234485+00:00",
+    "priority": "중",
+    "reason": "수입 식품 잔류농약 회수는 식탁에 오를 수 있는 먹거리 안전 이슈로 또래도 알 만하지만 학교 급식과 직접 연결되진 않는다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 잔류농약 기준 초과 검출된 수입 '목이버섯' 및 '백목이버섯' 회수 조치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781252&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-11",
+    "dept": "성평등가족부",
+    "entities": [],
+    "item_id": "korea-kr-156781260",
+    "message_ts": "1789083898.369169",
+    "posted_at_iso": "2026-09-10T23:44:58.859902+00:00",
+    "priority": "중",
+    "reason": "가정폭력 피해자 지원 체계는 가정 내 미성년 피해자도 포함될 수 있는 사회 안전망 이슈로 또래가 알아둘 만하다.",
+    "source": "정책브리핑(성평등가족부)",
+    "title": "상담부터 보호시설 입소·주거·자립까지 가정폭력 피해자 맞춤형 지원 안내",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781260&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "문화체육관광부",
+    "entities": [
+      "제46회 전국장애인체육대회",
+      "제주"
+    ],
+    "item_id": "korea-kr-156781258",
+    "posted_at_iso": "2026-09-10T23:44:58.859927+00:00",
+    "priority": "하",
+    "reason": "장애인체육대회는 의미 있는 행사이나 성인 선수 중심 전국 대회로 또래 일상과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'제46회 전국장애인체육대회', 역대 최초로 제주에서 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781258&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "기획예산처",
+    "entities": [
+      "월간 재정동향"
+    ],
+    "item_id": "korea-kr-156781254",
+    "posted_at_iso": "2026-09-10T23:44:58.859936+00:00",
+    "priority": "하",
+    "reason": "월간 재정동향은 거시경제 지표 보고서로 또래의 삶과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "[보도참고] 「월간 재정동향」 2026년 9월호 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781254&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "문화체육관광부",
+    "entities": [],
+    "item_id": "korea-kr-156781256",
+    "posted_at_iso": "2026-09-10T23:44:58.859944+00:00",
+    "priority": "하",
+    "reason": "건축물 미술작품(1% 정책) 관련 현장 간담회로 성인 건축·예술계 대상 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "건축비 1%가 만든 '거리의 미술관', 현장에 답을 묻다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781256&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "문화체육관광부",
+    "entities": [
+      "2026 전국 문화도시 박람회"
+    ],
+    "item_id": "korea-kr-156781259",
+    "posted_at_iso": "2026-09-10T23:44:58.859959+00:00",
+    "priority": "하",
+    "reason": "전국 문화도시 박람회는 지자체·기관 대상 행사로 청소년의 일상이나 관심사와 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문화로 잇는 도시의 미래, '2026 전국 문화도시 박람회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781259&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "모두누리 식품표시"
+    ],
+    "item_id": "korea-kr-156781255",
+    "posted_at_iso": "2026-09-10T23:44:58.859968+00:00",
+    "priority": "하",
+    "reason": "시각·청각장애인 대상 식품표시 접근성 서비스로 특정 청소년 집단과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, 시각·청각장애인 위한 '모두누리 식품표시' 서비스 제공",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781255&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "국방부",
+    "entities": [
+      "안규백",
+      "천무",
+      "크로아티아"
+    ],
+    "item_id": "korea-kr-156781253",
+    "posted_at_iso": "2026-09-10T23:44:58.860133+00:00",
+    "priority": "하",
+    "reason": "국방 수출 계약과 국제 국방협력 MOU는 성인·국가 단위 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "안규백 국방부장관,  천무 계약 서명식 참석 및 한-크로아티아 국방협력MOU 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781253&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "소방청",
+    "entities": [
+      "제12회 강의경연대회"
+    ],
+    "item_id": "korea-kr-156781251",
+    "posted_at_iso": "2026-09-10T23:44:58.860140+00:00",
+    "priority": "하",
+    "reason": "의용소방대(성인 봉사자) 대상 강의경연대회로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "전국 의용소방대 우수 강사 한 자리에... 제12회 강의경연대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781251&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "문화체육관광부",
+    "entities": [
+      "한일 저작권 정부 간 회의"
+    ],
+    "item_id": "korea-kr-156781257",
+    "posted_at_iso": "2026-09-10T23:44:58.860147+00:00",
+    "priority": "하",
+    "reason": "한일 정부 간 저작권 세미나는 전문가·행정 논의로 또래가 바로 체감할 사안이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한국과 일본, 인공지능 시대의 저작권 제도 논의하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781257&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
