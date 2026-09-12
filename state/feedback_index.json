@@ -18336,5 +18336,85 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781370&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-11&endDate=2026-09-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-12",
+    "dept": "산림청",
+    "entities": [
+      "청양산림항공관리소",
+      "논산시"
+    ],
+    "item_id": "korea-kr-156781379",
+    "message_ts": "1789239554.706269",
+    "posted_at_iso": "2026-09-12T18:59:15.373156+00:00",
+    "priority": "중",
+    "reason": "청소년 진로체험이라는 점에서 관심사는 있으나 논산시 지역 행사라 서울 중학생이 참여할 수 없다.",
+    "source": "정책브리핑(산림청)",
+    "title": "청양산림항공관리소, 논산시 꿈빛나래 페스티벌 진로체험 부스 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781379&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-13&endDate=2026-09-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-12",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "경상북도"
+    ],
+    "item_id": "korea-kr-156781381",
+    "posted_at_iso": "2026-09-12T18:59:15.373186+00:00",
+    "priority": "하",
+    "reason": "문체부-경북도의 지자체 정책 협력 논의로 청소년의 권리·관심사와 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부-경북도, 문화·체육·관광 협력 방안 함께 살펴",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781381&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-13&endDate=2026-09-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-12",
+    "dept": "농림축산식품부",
+    "entities": [
+      "송미령",
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156781389",
+    "posted_at_iso": "2026-09-12T18:59:15.373197+00:00",
+    "priority": "하",
+    "reason": "추석 성수품 유통 점검은 성인 대상 물가 정책으로 또래의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "송미령 농식품부 장관,  추석 성수품 공급 및 유통 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781389&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-13&endDate=2026-09-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-11",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156781377",
+    "posted_at_iso": "2026-09-12T18:59:15.373398+00:00",
+    "priority": "하",
+    "reason": "국가채무 통계는 재정 실무 지표로 또래의 일상이나 사회상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "[보도참고] 국가채무는 이렇습니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781377&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-13&endDate=2026-09-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
