@@ -18615,5 +18615,63 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781398&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-13&endDate=2026-09-13&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-13",
+    "dept": "고용노동부",
+    "entities": [
+      "국방전직교육원",
+      "한국기술교육대"
+    ],
+    "item_id": "korea-kr-156781430",
+    "posted_at_iso": "2026-09-13T20:19:48.189658+00:00",
+    "priority": "하",
+    "reason": "국방전직교육원과 한국기술교육대 통합은 전역 군인 재취업 교육기관 개편으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "국방전직교육원(국방부), 한국기술교육대(고용노동부)로 통합 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781430&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-14&endDate=2026-09-14&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-13",
+    "dept": "법무부",
+    "entities": [
+      "펑전 민"
+    ],
+    "item_id": "korea-kr-156781432",
+    "posted_at_iso": "2026-09-13T20:19:48.189695+00:00",
+    "priority": "하",
+    "reason": "투자자-국가 간 국제투자분쟁 승소는 정부 간 법적 사안으로 청소년의 일상이나 관심사로 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "한국 정부, 중국투자자 '펑전 민' 국제투자분쟁(ISDS)  취소절차 승소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781432&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-14&endDate=2026-09-14&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-13",
+    "dept": "고용노동부",
+    "entities": [
+      "한국고용노동교육원"
+    ],
+    "item_id": "korea-kr-156781431",
+    "posted_at_iso": "2026-09-13T20:19:48.189707+00:00",
+    "priority": "하",
+    "reason": "민간사업장 노사갈등 예방교육으로 대상이 성인 근로자·사업장이라 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "한국고용노동교육원, 민간사업장 대상 노사갈등 예방교육 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781431&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-14&endDate=2026-09-14&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
