@@ -19980,5 +19980,99 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782404&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-18",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156782408",
+    "message_ts": "1789703016.721059",
+    "posted_at_iso": "2026-09-18T03:43:37.154489+00:00",
+    "priority": "상",
+    "reason": "호우 이재민 주거 지원은 재난·안전 사안으로 이재민 가정에 학생이 포함될 수 있어 또래가 알아야 할 소식이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "8월 호우 피해 이재민,  추석 전 주거 안정 총력 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782408&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156782406",
+    "posted_at_iso": "2026-09-18T03:43:37.154509+00:00",
+    "priority": "하",
+    "reason": "업무상 재해를 입은 공무원 대상 훈련 제도로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "\"직무 복귀 부담↓, 맞춤형 훈련 추천해요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782406&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처",
+      "공직문학상"
+    ],
+    "item_id": "korea-kr-156782405",
+    "posted_at_iso": "2026-09-18T03:43:37.154518+00:00",
+    "priority": "하",
+    "reason": "공무원 대상 문학상 시상으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "2026년 공직문학상 입상작 47편 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782405&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "통일부",
+    "entities": [
+      "통일부",
+      "이산가족의 날"
+    ],
+    "item_id": "korea-kr-156782411",
+    "posted_at_iso": "2026-09-18T03:43:37.154524+00:00",
+    "priority": "하",
+    "reason": "이산가족 기념행사는 주로 노년층 대상 행사로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "제4회 이산가족의 날 기념행사 개최(9.23.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782411&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156782410",
+    "posted_at_iso": "2026-09-18T03:43:37.154531+00:00",
+    "priority": "하",
+    "reason": "과거 국제스포츠대회 기록물 공개 소식으로 규칙이나 시급한 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "환희의 순간부터 변화한 도시와 일상까지 기록으로 다시 읽는 86·88 국제스포츠대회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782410&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
