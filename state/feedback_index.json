@@ -20074,5 +20074,439 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782410&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-18&endDate=2026-09-18&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-19",
+    "dept": "외교부",
+    "entities": [
+      "한미 외교장관회담"
+    ],
+    "item_id": "korea-kr-156782486",
+    "message_ts": "1789780246.554519",
+    "posted_at_iso": "2026-09-19T01:10:47.134392+00:00",
+    "priority": "상",
+    "reason": "외교·안보 현안은 규칙으로 닿지 않아도 또래가 알아야 할 정치 사안이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "한미 외교장관회담(9.18.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782486&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-18",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회",
+      "하나로"
+    ],
+    "item_id": "korea-kr-156782457",
+    "message_ts": "1789780247.313899",
+    "posted_at_iso": "2026-09-19T01:10:47.888390+00:00",
+    "priority": "상",
+    "reason": "연구용 원자로 재가동 승인은 원자력 안전이라는 전국적 관심사로 후쿠시마 오염수 사례처럼 또래가 알아야 할 환경·안전 사안이다.",
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "원안위, 연구용 원자로 '하나로' 재가동 승인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782457&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-17",
+    "dept": "",
+    "entities": [
+      "서울번동초등학교",
+      "서울형 현장체험학습 지원 계획",
+      "한국잡월드"
+    ],
+    "item_id": "sen-press-192181",
+    "message_ts": "1789780248.066009",
+    "posted_at_iso": "2026-09-19T01:10:48.635865+00:00",
+    "priority": "중",
+    "reason": "현장체험학습 안전 지원 정책은 학생 안전과 직결되지만 초등학교 한 곳의 방문 격려 행사로 대상이 좁다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울특별시교육청, \"안전하고 활기찬 현장체험학습 운영 적극 지원\"",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192181&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-19",
+    "dept": "고용노동부",
+    "entities": [
+      "국제기능올림픽대회",
+      "한국산업인력공단"
+    ],
+    "item_id": "korea-kr-156782487",
+    "message_ts": "1789780248.808179",
+    "posted_at_iso": "2026-09-19T01:10:49.377103+00:00",
+    "priority": "중",
+    "reason": "국제기능올림픽 국가대표는 청소년과 가까운 연령대의 성취로 볼 여지가 있으나 대상이 직업훈련생·성인 근로자에 가깝다.",
+    "source": "정책브리핑(고용노동부)",
+    "title": "2026 제48회 중국 상하이 국제기능올림픽대회 국가대표 선수단 출국",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782487&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-18",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "연계정보(CI)",
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156782474",
+    "message_ts": "1789780249.552129",
+    "posted_at_iso": "2026-09-19T01:10:50.107820+00:00",
+    "priority": "중",
+    "reason": "개인정보 유출 방지를 위한 연계정보 분리보관 조기 시행은 실제 처분이자 전 국민 대상 정보보호 조치라 또래도 이용자다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "연계정보(CI) 분리·보관, 내년 1월 조기 시행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782474&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "고용노동부",
+    "entities": [
+      "공무직위원회"
+    ],
+    "item_id": "korea-kr-156782482",
+    "posted_at_iso": "2026-09-19T01:10:50.107847+00:00",
+    "priority": "하",
+    "reason": "공무직 노동자 대상 위원회 출범으로 성인 노동정책이며 학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"모두를 위한 더 나은 일터, 모두의 일상에 닿는 더 나은 변화\" - 「공무직위원회」 오늘부터 공식 출범 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782482&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156782479",
+    "posted_at_iso": "2026-09-19T01:10:50.107856+00:00",
+    "priority": "하",
+    "reason": "석유류 최고가격 동결은 성인 경제정책 실무로 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)10차 최고가격 동결, 중동정세 불안으로 민생경제 보호",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782479&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "산업통상부",
+    "entities": [
+      "코스타리카",
+      "디지털경제동반자협정"
+    ],
+    "item_id": "korea-kr-156782480",
+    "posted_at_iso": "2026-09-19T01:10:50.107863+00:00",
+    "priority": "하",
+    "reason": "국가 간 통상협정 발효 실무 참고자료로 또래의 일상이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)코스타리카, 디지털경제동반자협정 가입 발효",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782480&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156782472",
+    "posted_at_iso": "2026-09-19T01:10:50.107868+00:00",
+    "priority": "하",
+    "reason": "위원회 정기회의 결과로 구체적 내용이 드러나지 않아 판단 근거가 부족하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제36차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782472&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "국무조정실",
+    "entities": [
+      "공무직위원회",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156782470",
+    "posted_at_iso": "2026-09-19T01:10:50.107874+00:00",
+    "priority": "하",
+    "reason": "공무직 노동자 대상 위원회 출범식으로 성인 노동정책이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국무조정실장 주재 공무직위원회 출범식 및 제1차 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782470&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "국무조정실",
+    "entities": [
+      "생명지킴추진본부",
+      "제주"
+    ],
+    "item_id": "korea-kr-156782461",
+    "posted_at_iso": "2026-09-19T01:10:50.107880+00:00",
+    "priority": "하",
+    "reason": "제주지역 자살예방 관련 간담회로 대상이 성인이며 지역이 한정되어 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 생명지킴추진본부, 제주지역 천명지킴 현장소통 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782461&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "국무조정실",
+    "entities": [
+      "부동산 불법행위 대응협의회"
+    ],
+    "item_id": "korea-kr-156782469",
+    "posted_at_iso": "2026-09-19T01:10:50.107886+00:00",
+    "priority": "하",
+    "reason": "부동산 불법행위 대응협의회는 성인 대상 부동산 정책이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제20차 부동산 불법행위 대응협의회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782469&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156782481",
+    "posted_at_iso": "2026-09-19T01:10:50.107892+00:00",
+    "priority": "하",
+    "reason": "주택공급 현장점검은 성인 대상 부동산 정책으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 주택공급 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782481&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "감사원",
+    "entities": [
+      "감사원"
+    ],
+    "item_id": "korea-kr-156782483",
+    "posted_at_iso": "2026-09-19T01:10:50.107897+00:00",
+    "priority": "하",
+    "reason": "단순 인사발령으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "감사원 인사발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782483&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "산림청",
+    "entities": [
+      "강릉산림항공관리소"
+    ],
+    "item_id": "korea-kr-156782463",
+    "posted_at_iso": "2026-09-19T01:10:50.107903+00:00",
+    "priority": "하",
+    "reason": "지역 산림항공관리소의 정례 산불예방 홍보 캠페인으로 뉴스성이 낮고 특정 지역 성인 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "강릉산림항공관리소, 추석 연휴 대비 산불예방 홍보 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782463&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156782477",
+    "posted_at_iso": "2026-09-19T01:10:50.107909+00:00",
+    "priority": "하",
+    "reason": "명절 복지 위기가구 발굴 사업으로 대상이 성인·가구 단위이며 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "명절에도 복지 위기 신호 놓치지 않는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782477&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "경찰청",
+    "entities": [
+      "형사소송법",
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156782467",
+    "posted_at_iso": "2026-09-19T01:10:50.107914+00:00",
+    "priority": "하",
+    "reason": "형사소송법 개정에 따른 경찰 내부 교육으로 학생과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "새로운 형사사법체계 안착을 위한 개정 '형사소송법' 전국 권역별 교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782467&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "산림청",
+    "entities": [
+      "울진국유림관리소"
+    ],
+    "item_id": "korea-kr-156782448",
+    "posted_at_iso": "2026-09-19T01:10:50.107920+00:00",
+    "priority": "하",
+    "reason": "산림토목사업장 근로자 안전점검으로 대상이 성인 근로자이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소, 안전문화 정착을 위한 산림토목사업장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782448&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "기획예산처",
+    "entities": [
+      "중장기전략위원회"
+    ],
+    "item_id": "korea-kr-156782476",
+    "posted_at_iso": "2026-09-19T01:10:50.107926+00:00",
+    "priority": "하",
+    "reason": "정부 중장기전략위원회 회의로 절차성 행정 사안이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "중장기전략위원회 전체회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782476&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156782466",
+    "posted_at_iso": "2026-09-19T01:10:50.107932+00:00",
+    "priority": "하",
+    "reason": "산업용 AI 기업의 해외 지식재산 지원으로 대상이 기업이며 학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 산업용 인공지능 기업의 해외 지식재산 확보 역량 강화를 위해 현장 소통 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782466&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "보건복지부",
+    "entities": [
+      "129 보건복지상담센터"
+    ],
+    "item_id": "korea-kr-156782465",
+    "posted_at_iso": "2026-09-19T01:10:50.107936+00:00",
+    "priority": "하",
+    "reason": "일반 국민 대상 복지상담 핫라인 안내로 청소년을 특정하지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "힘들때 129, 막막할 때 129, 추석연휴에도 129 보건복지상담센터 24시간 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782465&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-17",
+    "dept": "",
+    "entities": [
+      "성동광진교육지원청",
+      "별빛 따라 배움길"
+    ],
+    "item_id": "sen-press-192182",
+    "posted_at_iso": "2026-09-19T01:10:50.107943+00:00",
+    "priority": "하",
+    "reason": "학부모·가족·어르신 대상 평생교육 프로그램으로 학생이 직접 당사자가 아니고 또래가 알아야 할 사안도 아니다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "성동광진교육지원청, ‘지역 기관과 손 잡고’ 학부모·가족·어르신 대상 평생교육 「별빛 따라 배움길」운영",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192182&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
