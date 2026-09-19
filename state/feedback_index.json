@@ -20508,5 +20508,46 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192182&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-19",
+    "dept": "농림축산식품부",
+    "entities": [
+      "강화군",
+      "구제역"
+    ],
+    "item_id": "korea-kr-156782489",
+    "posted_at_iso": "2026-09-19T07:03:17.856803+00:00",
+    "priority": "하",
+    "reason": "가축 전염병 확진은 축산업·검역 행정 사안으로 청소년의 일상이나 규칙에 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "인천광역시 강화군 소재 소(牛) 농장 예찰 검사에서 구제역 확진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782489&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-19",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "존 햄리",
+      "CSIS"
+    ],
+    "item_id": "korea-kr-156782488",
+    "posted_at_iso": "2026-09-19T07:03:17.856825+00:00",
+    "priority": "하",
+    "reason": "외교장관의 단순 인사 면담으로 실제 정책 변화나 또래가 알아야 할 사안이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, 미국 방문 계기 존 햄리 CSIS 명예소장 면담(9.18.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782488&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-19&endDate=2026-09-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
