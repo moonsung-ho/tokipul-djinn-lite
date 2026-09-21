@@ -21032,5 +21032,433 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782537&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-20&endDate=2026-09-20&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-21",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156782605",
+    "message_ts": "1789952196.698779",
+    "posted_at_iso": "2026-09-21T00:56:37.370253+00:00",
+    "priority": "중",
+    "reason": "암표 단속은 콘서트 티켓팅 등에서 또래도 피해를 겪을 수 있는 사회현상이나 대상이 특정 학생층으로 좁혀지지 않는다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "'26년 매크로 등 암표 특별단속  중간 성과 및 향후 계획",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782605&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-21",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "나주 금성산",
+      "황자화통"
+    ],
+    "item_id": "korea-kr-156782617",
+    "message_ts": "1789952197.639659",
+    "posted_at_iso": "2026-09-21T00:56:38.429540+00:00",
+    "priority": "중",
+    "reason": "국내 최고(最古) 화약무기 발견이라는 역사적 성과는 또래의 흥미를 끌 수 있으나 즉시 취재할 학생 관련 각도는 없다.",
+    "source": "정책브리핑(국가유산청)",
+    "title": "(국영문 동시배포) '우리나라에서 가장 오래된 화약 무기'... 나주 금성산서 '황자화통(黃字火筒)' 발견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782617&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-21",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156782604",
+    "message_ts": "1789952198.636449",
+    "posted_at_iso": "2026-09-21T00:56:39.286110+00:00",
+    "priority": "중",
+    "reason": "자원순환·재활용은 환경 이슈로 또래 관심사에 닿을 수 있으나 내용이 수거체계 실무 개선에 그친다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "종이팩, 쓰레기가 아닌 '자원의 맥' 잇는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782604&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156782609",
+    "posted_at_iso": "2026-09-21T00:56:39.286132+00:00",
+    "priority": "하",
+    "reason": "농업인을 위한 농정 개편 사안으로 성인 정책이며 청소년이 등장하지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "\"농업인은 걱정없게, 농촌은 활기차게\" 농촌의 관행적 위반은 정상화·양성화 조사결과를 기반으로 농정 대전환 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782609&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "세계한인주간"
+    ],
+    "item_id": "korea-kr-156782606",
+    "posted_at_iso": "2026-09-21T00:56:39.286150+00:00",
+    "priority": "하",
+    "reason": "재외동포 성인 대상 행사로 청소년 교육과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "\"세계 한인사회 송도에 모인다\"...'세계한인주간' 27일 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782606&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156782594",
+    "posted_at_iso": "2026-09-21T00:56:39.286160+00:00",
+    "priority": "하",
+    "reason": "수출입 통계 잠정치로 무역 실무 지표이며 사회의 모습을 보여주는 자료로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "2026년 9월 1일 ~ 9월 20일 수출입 현황 [잠정치]",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782594&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156782607",
+    "posted_at_iso": "2026-09-21T00:56:39.286168+00:00",
+    "priority": "하",
+    "reason": "정부 예산안 자료 공개 지침으로 행정 실무 사안이며 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "AI친화형 '27년 정부예산안 사업설명자료 공개 지침 배포",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782607&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "남부권산불방지센터"
+    ],
+    "item_id": "korea-kr-156782622",
+    "posted_at_iso": "2026-09-21T00:56:39.286175+00:00",
+    "priority": "하",
+    "reason": "산불담당 공무원 대상 내부 역량강화교육으로 성인 실무 훈련이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "[남부권산불방지센터] 부산, 울산, 경남 지역 '산불담당자 역량강화교육' 성료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782622&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156782601",
+    "posted_at_iso": "2026-09-21T00:56:39.286182+00:00",
+    "priority": "하",
+    "reason": "토착비리 수사 성과 발표로 성인 대상 형사 사안이며 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰, ?토착비리 특별단속? 6개월간 729명 송치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782601&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156782595",
+    "posted_at_iso": "2026-09-21T00:56:39.286189+00:00",
+    "priority": "하",
+    "reason": "관세 신고포상금 제도 개편으로 성인·기업 대상 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 신고 포상금 '상한액 전면 폐지' 등 대대적 개편",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782595&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "구미국유림관리소"
+    ],
+    "item_id": "korea-kr-156782620",
+    "posted_at_iso": "2026-09-21T00:56:39.286194+00:00",
+    "priority": "하",
+    "reason": "성묘객 등 지역 성인을 위한 국유임도 개방으로 학생과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "구미국유림관리소, 추석 연휴 맞아 국유임도 개방",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782620&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156782616",
+    "posted_at_iso": "2026-09-21T00:56:39.286201+00:00",
+    "priority": "하",
+    "reason": "디자인 출원 절차 개선으로 기업·전문가 대상 행정 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "글자체 디자인 출원은 더 간편하게, 3차원 도면 출원은 더 정확하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782616&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "홍릉숲"
+    ],
+    "item_id": "korea-kr-156782624",
+    "posted_at_iso": "2026-09-21T00:56:39.286208+00:00",
+    "priority": "하",
+    "reason": "산림청 산하 연구원의 내부 청렴 캠페인 및 시민 관람수칙 안내로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "도심 속 선물 홍릉숲, 청렴하고 깨끗하게! - 국립산림과학원, 시민과 함께하는 청렴 캠페인 및 관람 수칙 안내 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782624&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "행정안전부",
+    "entities": [
+      "베트남"
+    ],
+    "item_id": "korea-kr-156782599",
+    "posted_at_iso": "2026-09-21T00:56:39.286215+00:00",
+    "priority": "하",
+    "reason": "재난안전기업의 해외 진출 지원 사안으로 성인·기업 대상 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "베트남 씨큐텍 한국관 운영, 국내 재난안전기업 해외 진출 기반 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782599&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156782600",
+    "posted_at_iso": "2026-09-21T00:56:39.286220+00:00",
+    "priority": "하",
+    "reason": "성인 PC방 불법영업 단속으로 청소년 출입이 제한된 업소 대상이라 직접 연결이 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "불법 성인 PC방 '꼼수영업' 차단,  행정처분 사전통지 '42일→6일' 대폭 단축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782600&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "영주국유림관리소",
+      "봉화군"
+    ],
+    "item_id": "korea-kr-156782615",
+    "posted_at_iso": "2026-09-21T00:56:39.286227+00:00",
+    "priority": "하",
+    "reason": "성묘객을 위한 임도변 풀베기 작업으로 학생과 무관한 지역 성인 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "성묘길, 풀 한 포기까지 말끔하게! - 영주국유림관리소, 추석 성묘객 맞이 국유임도변 풀베기 추진 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782615&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "난대·아열대산림연구소",
+      "한남사려니오름숲"
+    ],
+    "item_id": "korea-kr-156782611",
+    "posted_at_iso": "2026-09-21T00:56:39.286244+00:00",
+    "priority": "하",
+    "reason": "연구소 직원 대상 청렴 캠페인으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "숲길에서 나눈 청렴 한마디 - 난대·아열대산림연구소, 한남사려니오름숲에서 청렴 실천 의지 다지고 깨끗한 숲길 조성에 앞장...",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782611&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "조달청",
+    "entities": [
+      "조달청",
+      "아시아개발은행"
+    ],
+    "item_id": "korea-kr-156782602",
+    "posted_at_iso": "2026-09-21T00:56:39.286250+00:00",
+    "priority": "하",
+    "reason": "국내 기업의 국제조달시장 진출 지원 사안으로 성인·기업 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "아시아개발은행과 함께 우리 기업의 국제기구 조달시장 진출 전방위 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782602&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156782608",
+    "posted_at_iso": "2026-09-21T00:56:39.286256+00:00",
+    "priority": "하",
+    "reason": "기업 대상 조달물품 품질심사 절차 안내로 학생과 무관한 실무 공고다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "품질보증조달물품 심사 준비, 더 이상 어려워하지 마세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782608&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "파라과이"
+    ],
+    "item_id": "korea-kr-156782613",
+    "posted_at_iso": "2026-09-21T00:56:39.286263+00:00",
+    "priority": "하",
+    "reason": "국가 간 산림탄소협력 고위급 회의로 성인 정책 영역이며 청소년이 등장하지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "한-파라과이 산림분야 탄소협력을 위한 첫걸음",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782613&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "",
+    "entities": [],
+    "item_id": "sen-press-192165",
+    "posted_at_iso": "2026-09-21T00:56:39.286269+00:00",
+    "priority": "하",
+    "reason": "학교 시설을 지역주민에게 개방하는 명절 편의 조치로 학생의 규칙이나 일상에 변화가 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "\"명절엔 학교에 주차하세요\" 서울시교육청, 추석 나흘간 서울 학교  247곳 개방",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192165&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-18",
+    "dept": "",
+    "entities": [
+      "서울국제교육포럼",
+      "연세대학교"
+    ],
+    "item_id": "sen-press-192163",
+    "posted_at_iso": "2026-09-21T00:56:39.286275+00:00",
+    "priority": "하",
+    "reason": "교사·연구자 대상 국제 학술포럼으로 중학생 당사자성이나 또래 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "2026 「서울국제교육포럼」 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192163&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
