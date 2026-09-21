@@ -22225,5 +22225,62 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782784&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-22",
+    "dept": "외교부",
+    "entities": [
+      "한미일 외교장관회의"
+    ],
+    "item_id": "korea-kr-156782789",
+    "message_ts": "1790027066.824309",
+    "posted_at_iso": "2026-09-21T21:44:27.180092+00:00",
+    "priority": "상",
+    "reason": "한미일 외교장관회의는 국제 정치 현안으로 또래가 알아야 할 시사 소식이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "한미일 외교장관회의(9.21) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782789&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-22&endDate=2026-09-22&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-22",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "국립환경과학원"
+    ],
+    "item_id": "korea-kr-156782790",
+    "message_ts": "1790027067.236219",
+    "posted_at_iso": "2026-09-21T21:44:27.430101+00:00",
+    "priority": "중",
+    "reason": "오존주의보는 여름철 학교 실외활동 제한과 관련될 수 있는 환경·건강 통계이나 규칙 변경이 아닌 현황 분석이라 간접적이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "폭염에도 전국 오존주의보 발령 감소… 8월과 남부권 감소폭 두드러져",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782790&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-22&endDate=2026-09-22&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "기후에너지환경부",
+    "entities": [],
+    "item_id": "korea-kr-156782791",
+    "posted_at_iso": "2026-09-21T21:44:27.430124+00:00",
+    "priority": "하",
+    "reason": "수소차·수소버스 공급 및 산업 수급 점검으로 성인 산업 정책이며 청소년의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "추석연휴 및 4분기 수송용 수소 수급 상황 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782791&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-22&endDate=2026-09-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
