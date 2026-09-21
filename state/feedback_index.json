@@ -21460,5 +21460,383 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192163&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-21",
+    "dept": "행정안전부",
+    "entities": [
+      "국립과학수사연구원"
+    ],
+    "item_id": "korea-kr-156782666",
+    "message_ts": "1789962799.002419",
+    "posted_at_iso": "2026-09-21T03:53:19.564545+00:00",
+    "priority": "중",
+    "reason": "마약류 국내 제조 확산은 청소년 마약 문제와 이어질 수 있는 사회 안전 이슈이나 이 자료 자체는 국과수의 과학수사 기법 소개에 그친다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "마약류 범죄 '유통'서 '국내 직접 제조'로 변모 국과수, 과학적 단속 근거 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782666&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156782654",
+    "message_ts": "1789962799.738449",
+    "posted_at_iso": "2026-09-21T03:53:20.357839+00:00",
+    "priority": "중",
+    "reason": "벌초·성묘철 산림 말벌 안전정보는 학생도 참여할 수 있는 활동에서의 안전 이슈로 관심사 측면에서 다룰 만하다.",
+    "source": "정책브리핑(산림청)",
+    "title": "추석 벌초·성묘 전 살펴보세요...「산림 말벌 바로 알기」 증보판 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782654&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156782662",
+    "posted_at_iso": "2026-09-21T03:53:20.357866+00:00",
+    "priority": "하",
+    "reason": "중장년층 인식 변화 조사로 대상과 내용이 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "(기획보도)「사회조사」로 살펴본 중장년층의 최근 10년간 인식 변화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782662&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "법제처",
+    "entities": [
+      "법제처",
+      "네팔"
+    ],
+    "item_id": "korea-kr-156782644",
+    "posted_at_iso": "2026-09-21T03:53:20.357874+00:00",
+    "priority": "하",
+    "reason": "네팔의 아시아입법기구 가입 승인은 국가 간 행정 협력으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "MOLEG approves Nepal's accession to Council of Asian Legislative Institutions and ...",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782644&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "국가교육위원회",
+    "entities": [
+      "차정인",
+      "국가교육위원회",
+      "싱가포르"
+    ],
+    "item_id": "korea-kr-156782656",
+    "posted_at_iso": "2026-09-21T03:53:20.357882+00:00",
+    "priority": "하",
+    "reason": "국가교육위원장과 싱가포르 교육부 장관의 협력 논의는 실제 정책 변화 없는 동정성 회동에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가교육위원회)",
+    "title": "[동정자료] 차정인 국가교육위원장, 싱가포르 교육부 장관과 한·싱가포르 교육 협력 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782656&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156782651",
+    "posted_at_iso": "2026-09-21T03:53:20.357901+00:00",
+    "priority": "하",
+    "reason": "적극행정 우수사례 선정은 행정 내부 홍보성 자료로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 2026년 상반기 국민이 칭찬한 적극행정 우수사례 best5 선정 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782651&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156782649",
+    "posted_at_iso": "2026-09-21T03:53:20.357909+00:00",
+    "priority": "하",
+    "reason": "국산 기상장비 해외진출 지원은 산업·수출 정책으로 청소년 관심 과학 성과와는 성격이 다르다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "국산 기상장비, 개발부터 해외 진출까지 전 과정 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782649&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "기후에너지환경부",
+    "entities": [],
+    "item_id": "korea-kr-156782660",
+    "posted_at_iso": "2026-09-21T03:53:20.357915+00:00",
+    "priority": "하",
+    "reason": "귀성길 대중교통·친환경운전 캠페인은 성인 운전자 대상 홍보성 안내로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "대중교통 타고 기후행동, 친환경운전으로 함께하는 귀성길 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782660&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156782661",
+    "posted_at_iso": "2026-09-21T03:53:20.357922+00:00",
+    "priority": "하",
+    "reason": "산업계 물 재이용 확대는 기업·정부 간 산업정책으로 청소년의 일상이나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "산업계의 물 재이용 확대를 위해 정부와 기업이 함께 뛴다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782661&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156782652",
+    "posted_at_iso": "2026-09-21T03:53:20.357928+00:00",
+    "priority": "하",
+    "reason": "전기레인지 화재예방·리콜 안내는 가정용 소비자 대상 일반 캠페인으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "전기레인지 화재 예방, '안전한 사용 습관'과 '리콜 제품 점검'이 첫걸음!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782652&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "산림청",
+    "entities": [
+      "중부지방산림청"
+    ],
+    "item_id": "korea-kr-156782643",
+    "posted_at_iso": "2026-09-21T03:53:20.357934+00:00",
+    "priority": "하",
+    "reason": "산불 대비 교육은 산림청 내부 직원 대상 훈련으로 보이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "중부지방산림청, 가을철 산불 대비 교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782643&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156782640",
+    "posted_at_iso": "2026-09-21T03:53:20.357940+00:00",
+    "priority": "하",
+    "reason": "지식재산처 신규 채용은 기관 내부 인사로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 심사관·특별사법경찰 등 41명 채용...심사 전문성·수사역량↑",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782640&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "한국전자통신연구원"
+    ],
+    "item_id": "korea-kr-156782639",
+    "posted_at_iso": "2026-09-21T03:53:20.357945+00:00",
+    "priority": "하",
+    "reason": "지식재산처와 ETRI의 특허 사업화 논의는 성인·기업 대상 정책 협의로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 한국전자통신연구원(ETRI)과 핵심·표준특허 권리화·사업화 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782639&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "감사원",
+    "entities": [
+      "감사원"
+    ],
+    "item_id": "korea-kr-156782657",
+    "posted_at_iso": "2026-09-21T03:53:20.357952+00:00",
+    "priority": "하",
+    "reason": "지역 토착비리 공직감찰은 성인 공직자 대상 감사로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "지역 토착비리 등 공직감찰 Ⅰ",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782657&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "행정안전부",
+    "entities": [
+      "국가정보자원관리원"
+    ],
+    "item_id": "korea-kr-156782668",
+    "posted_at_iso": "2026-09-21T03:53:20.357958+00:00",
+    "priority": "하",
+    "reason": "정보시스템 점검은 행정 내부 업무로 학생의 규칙이나 일상, 사회적 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "추석 명절 연휴에도 멈춤 없는 행정서비스 제공 국가정보자원관리원, 주요 정보시스템 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782668&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156782647",
+    "posted_at_iso": "2026-09-21T03:53:20.357983+00:00",
+    "priority": "하",
+    "reason": "연안여객선 안전 귀성길 안내는 매년 반복되는 일반 캠페인으로 새로운 이슈가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "추석 명절, 연안여객선과 함께 안전하고 편안한 귀성·귀경길 되세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782647&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156782659",
+    "posted_at_iso": "2026-09-21T03:53:20.357999+00:00",
+    "priority": "하",
+    "reason": "명절 연휴 응급의료체계 가동은 매년 반복되는 정례 안내로 또래의 일상 변화나 새로운 사회적 이슈로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "추석 연휴에도 응급의료체계 24시간 가동병·의원, 약국 하루 평균 8,294곳 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782659&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156782664",
+    "posted_at_iso": "2026-09-21T03:53:20.358006+00:00",
+    "priority": "하",
+    "reason": "명절철 교통사고·화재 주의 안내는 매년 반복되는 일반 캠페인으로 새로운 이슈나 규칙 변화가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "추석, 교통사고와 주택화재 조심하세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782664&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "농림축산식품부",
+    "entities": [
+      "한국농수산대학교"
+    ],
+    "item_id": "korea-kr-156782658",
+    "posted_at_iso": "2026-09-21T03:53:20.358011+00:00",
+    "priority": "하",
+    "reason": "한국농수산대학교 학생들의 봉사활동으로 대학생 대상이며 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "한농대, 추석 명절맞이 사회복지시설  위문 활동 진행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782658&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-21",
+    "dept": "농림축산식품부",
+    "entities": [
+      "국립농산물품질관리원"
+    ],
+    "item_id": "korea-kr-156782646",
+    "posted_at_iso": "2026-09-21T03:53:20.358017+00:00",
+    "priority": "하",
+    "reason": "양곡 부정유통 단속은 농업 유통 행정으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "햅쌀 출하 시기 양곡 부정유통  특별단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782646&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-21&endDate=2026-09-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
