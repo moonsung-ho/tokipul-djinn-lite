@@ -23437,5 +23437,96 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782957&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-22&endDate=2026-09-22&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "고용노동부",
+    "entities": [],
+    "item_id": "korea-kr-156783016",
+    "posted_at_iso": "2026-09-22T15:28:39.361390+00:00",
+    "priority": "하",
+    "reason": "노사정 실무협의체 구성 단계로 성인 노동정책 절차성 사안이라 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)「(가칭)메가특구특별법 관련 원포인트 사회적 대화」 제1차 실무협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783016&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "법무부",
+    "entities": [],
+    "item_id": "korea-kr-156783021",
+    "posted_at_iso": "2026-09-22T15:28:39.361409+00:00",
+    "priority": "하",
+    "reason": "연휴 출입국 행정 대책으로 성인 출입국 실무 사안이며 학생 일상 규칙 변화나 사회적 관심 이슈로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "「추석, 10월 연휴 출입국자 하루 최대 24만 5천 명」  법무부 특별 출입국심사 대책 시행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783021&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "법무부",
+    "entities": [
+      "고흥"
+    ],
+    "item_id": "korea-kr-156783022",
+    "posted_at_iso": "2026-09-22T15:28:39.361416+00:00",
+    "priority": "하",
+    "reason": "성인 이주노동자 폭력 피해 조사로 대상이 성인이라 청소년 당사자성이나 또래 관심사로 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "고흥 이주노동자 폭력 피해 보도 관련, 법무부에서 사실관계 조사 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783022&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "외교부",
+    "entities": [
+      "UAE"
+    ],
+    "item_id": "korea-kr-156783017",
+    "posted_at_iso": "2026-09-22T15:28:39.361422+00:00",
+    "priority": "하",
+    "reason": "양자 외교장관회담 실무 외교 사안으로 청소년의 일상이나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "유엔총회 고위급회기 계기 한-UAE 외교장관회담(9.21.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783017&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-22",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156783015",
+    "posted_at_iso": "2026-09-22T15:28:39.361427+00:00",
+    "priority": "하",
+    "reason": "특정 지역 국유림 단속 행정으로 청소년의 권리나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, 가을철 산림 내 불법행위 집중 단속",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783015&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
