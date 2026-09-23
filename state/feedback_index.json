@@ -23528,5 +23528,382 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783015&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-23",
+    "dept": "행정안전부",
+    "entities": [
+      "생명안전기본법"
+    ],
+    "item_id": "korea-kr-156783059",
+    "message_ts": "1790126264.215129",
+    "posted_at_iso": "2026-09-23T01:17:44.666538+00:00",
+    "priority": "상",
+    "reason": "재난 대응 체계를 다루는 기본법 시행령으로 학교 안전 훈련 등과 연결될 수 있는 재난·안전 사안이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "｢생명안전기본법 시행령｣ 제정안 입법예고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783059&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [
+      "기상청"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-23",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "포항지진",
+      "기상청",
+      "경북도",
+      "포항시"
+    ],
+    "item_id": "korea-kr-156783057",
+    "message_ts": "1790126264.820379",
+    "posted_at_iso": "2026-09-23T01:17:45.237644+00:00",
+    "priority": "상",
+    "reason": "포항지진 트라우마와 지진 대비 인프라 구축은 또래가 알아야 할 재난·안전 사안이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "포항지진 아픔 위에 '지진안전 거점' 세운다… 기후부·기상청·경북도·포항시 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783057&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-23",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청",
+      "유엔총회"
+    ],
+    "item_id": "korea-kr-156783029",
+    "message_ts": "1790126265.407729",
+    "posted_at_iso": "2026-09-23T01:17:45.856516+00:00",
+    "priority": "중",
+    "reason": "팬데믹 국제 공조 발언으로 관심사 측면은 있으나 구체적 국내 정책 변화가 없어 배경 취재가 더 필요하다.",
+    "source": "정책브리핑(질병관리청)",
+    "title": "질병관리청장, 유엔총회에서 팬데믹 예방·대비·대응 국제 공조 강조(9.23.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783029&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156783045",
+    "posted_at_iso": "2026-09-23T01:17:45.856551+00:00",
+    "priority": "하",
+    "reason": "MCN 산업 노동자(성인 근로자) 권익 보호 사안으로 청소년과 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "MCN(Multi Channel Network) 산업 노동자 권익 보호를 위한 기획감독 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783045&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156783050",
+    "posted_at_iso": "2026-09-23T01:17:45.856566+00:00",
+    "priority": "하",
+    "reason": "기업 대상 공정거래 규제 개정으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "공정거래법 시행령 및 자진신고자 감면 고시 개정안 입법·행정예고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783050&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "구미국유림관리소"
+    ],
+    "item_id": "korea-kr-156783041",
+    "posted_at_iso": "2026-09-23T01:17:45.856574+00:00",
+    "priority": "하",
+    "reason": "지역 국유림 단속 행정으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "구미국유림관리소, 가을철 임산물 불법 채취 집중 단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783041&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "실미도"
+    ],
+    "item_id": "korea-kr-156783044",
+    "posted_at_iso": "2026-09-23T01:17:45.856581+00:00",
+    "priority": "하",
+    "reason": "영화 자막 수정이라는 지엽적 사안으로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 영화 <실미도> 안내자막 수정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783044&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156783051",
+    "posted_at_iso": "2026-09-23T01:17:45.856587+00:00",
+    "priority": "하",
+    "reason": "국가유공자 대상 행사로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "보훈부， 추석 맞이 국가유공자 따뜻한 한끼 행사 서울서 진행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783051&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "전북"
+    ],
+    "item_id": "korea-kr-156783032",
+    "posted_at_iso": "2026-09-23T01:17:45.856594+00:00",
+    "priority": "하",
+    "reason": "산업단지 조성 사안으로 청소년과 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "소부장 특화단지와 노후거점산단으로 전북의 성장엔진이 새롭게 출발한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783032&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156783042",
+    "posted_at_iso": "2026-09-23T01:17:45.856600+00:00",
+    "priority": "하",
+    "reason": "AI와 지식재산권 관련 전문가·성인 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "숙련자의 30년 노하우 AI가 배웠다면 지식재산의 경계는",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783042&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156783047",
+    "posted_at_iso": "2026-09-23T01:17:45.856605+00:00",
+    "priority": "하",
+    "reason": "산림과학원 이벤트 홍보성 자료로 기사 가치가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "숲에서 가장 완벽한 새우튀김을 찾아라! - 국립산림과학원, 제5회 새우튀김 자랑대회 이벤트 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783047&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "울진국유림관리소"
+    ],
+    "item_id": "korea-kr-156783035",
+    "posted_at_iso": "2026-09-23T01:17:45.856611+00:00",
+    "priority": "하",
+    "reason": "지역 화목보일러 점검 행정으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소, 소나무재선충병 확산 방지를 위해 화목보일러 가구 특별 점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783035&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156783052",
+    "posted_at_iso": "2026-09-23T01:17:45.856767+00:00",
+    "priority": "하",
+    "reason": "방송산업 진흥 사안으로 청소년 당사자성이나 관심사 어느 쪽으로도 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "인공지능 기반 방송콘텐츠, 글로벌 무대 공략",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783052&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156783054",
+    "posted_at_iso": "2026-09-23T01:17:45.856773+00:00",
+    "priority": "하",
+    "reason": "국가 자원안보 정책으로 성인 산업 정책이며 청소년과 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "자원안보 중장기 로드맵 마련,  위기에 강한 자원안보 대비태세 구축한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783054&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청"
+    ],
+    "item_id": "korea-kr-156783048",
+    "posted_at_iso": "2026-09-23T01:17:45.856779+00:00",
+    "priority": "하",
+    "reason": "재외동포·입양동포 청년 대상 제도로 국내 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "재외동포청, 입양동포·청년이 겪는 제도 불편 개선 제안",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783048&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156783031",
+    "posted_at_iso": "2026-09-23T01:17:45.856803+00:00",
+    "priority": "하",
+    "reason": "조달청 입찰 동향으로 알맹이 없는 절차성 공고다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청 시설공사 주간('26.9.28.~'26.10.2.)입찰 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783031&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156783056",
+    "posted_at_iso": "2026-09-23T01:17:45.856810+00:00",
+    "priority": "하",
+    "reason": "청년인턴 체험 홍보성 자료로 청소년의 규칙이나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "청년인턴의 시선으로, 개인정보 정책을 더 가깝게!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783056&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "홋카이도"
+    ],
+    "item_id": "korea-kr-156783033",
+    "posted_at_iso": "2026-09-23T01:17:45.856816+00:00",
+    "priority": "하",
+    "reason": "반도체 산업 국제협력 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한-일(홋카이도) 반도체 중심 협력 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783033&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "조달청",
+    "entities": [
+      "조달청",
+      "탄자니아"
+    ],
+    "item_id": "korea-kr-156783030",
+    "posted_at_iso": "2026-09-23T01:17:45.856822+00:00",
+    "priority": "하",
+    "reason": "국제 조달 협력 협약으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "한-탄자니아, 공공조달 디지털 전환 협력 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783030&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
