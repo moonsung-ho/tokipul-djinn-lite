@@ -24276,5 +24276,382 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783083&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-23",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156783149",
+    "message_ts": "1790169857.330709",
+    "posted_at_iso": "2026-09-23T13:24:17.551328+00:00",
+    "priority": "중",
+    "reason": "방송 규제기구의 위원회 결과로 언론 관련 의결이 포함될 수 있어 확인이 필요하다",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제37차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783149&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "해양수산부",
+    "entities": [
+      "남재헌",
+      "울산항"
+    ],
+    "item_id": "korea-kr-156783156",
+    "posted_at_iso": "2026-09-23T13:24:17.551352+00:00",
+    "priority": "하",
+    "reason": "항만 위험물 하역 현장에 대한 성인 산업 안전 점검으로 청소년과 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 남재헌 해수부 차관, 울산항 위험물 하역 현장 방문, 철저한 해양 안전관리 당부",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783156&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "해양수산부",
+    "entities": [],
+    "item_id": "korea-kr-156783155",
+    "posted_at_iso": "2026-09-23T13:24:17.551362+00:00",
+    "priority": "하",
+    "reason": "성인 소비자 대상 수산물 수급·할인 점검으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 추석 연휴 앞두고 수산 성수품 수급·할인 실태 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783155&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "미셸 스틸"
+    ],
+    "item_id": "korea-kr-156783161",
+    "posted_at_iso": "2026-09-23T13:24:17.551381+00:00",
+    "priority": "하",
+    "reason": "총리와 주한미국대사의 외교 동정으로 청소년과 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 스틸 신임 주한미국대사 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783161&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙"
+    ],
+    "item_id": "korea-kr-156783157",
+    "posted_at_iso": "2026-09-23T13:24:17.551388+00:00",
+    "priority": "하",
+    "reason": "총리의 비상근무기관 격려 동정으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 추석연휴 비상근무기관 격려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783157&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "재정경제부",
+    "entities": [
+      "경제협력개발기구"
+    ],
+    "item_id": "korea-kr-156783154",
+    "posted_at_iso": "2026-09-23T13:24:17.551395+00:00",
+    "priority": "하",
+    "reason": "OECD 경제전망은 전문 경제지표로 또래의 일상이나 사회상을 직접 보여주지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "[보도참고] 경제협력개발기구, 9월 중간 경제전망 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783154&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156783159",
+    "posted_at_iso": "2026-09-23T13:24:17.551410+00:00",
+    "priority": "하",
+    "reason": "내용이 확인되지 않는 설명자료로 구체적 안전 정책이 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 국토교통부는 국민 안전을 최우선으로 조속히 대안을 결정할 계획입니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783159&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "죽암휴게소"
+    ],
+    "item_id": "korea-kr-156783160",
+    "posted_at_iso": "2026-09-23T13:24:17.551419+00:00",
+    "priority": "하",
+    "reason": "추석 귀성길 교통현장을 둘러본 장관 동정으로 구체적 학생 안전 조치가 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 추석 귀성길 안전·편의 빈틈없도록 … 주요 교통현장 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783160&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "국립수목원"
+    ],
+    "item_id": "korea-kr-156783141",
+    "posted_at_iso": "2026-09-23T13:24:17.551428+00:00",
+    "priority": "하",
+    "reason": "국립수목원 주차공간 확대는 방문객 편의 조치로 학생 규칙이나 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "가을 주말 국립수목원 주차공간 넓어진다…88면 추가 시범 개방",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783141&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "국방부",
+    "entities": [
+      "강신철"
+    ],
+    "item_id": "korea-kr-156783158",
+    "posted_at_iso": "2026-09-23T13:24:17.551434+00:00",
+    "priority": "하",
+    "reason": "국방부장관의 부대 방문 동정으로 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "강신철 국방부장관, 취임 후 첫 공식 현장지도로 서부전선 최전방 부대 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783158&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "농림축산식품부",
+    "entities": [
+      "김종구"
+    ],
+    "item_id": "korea-kr-156783133",
+    "posted_at_iso": "2026-09-23T13:24:17.551441+00:00",
+    "priority": "하",
+    "reason": "차관의 아동보육시설 방문 나눔 행사로 실제 정책 변화가 없는 이벤트다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "김종구 차관, 한가위를 앞두고  아이들과 농식품으로 정(情)을 나누다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783133&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156783137",
+    "posted_at_iso": "2026-09-23T13:24:17.551619+00:00",
+    "priority": "하",
+    "reason": "소방청 내부 지휘관 회의로 실제 국민 행동 변화나 학생 안전 조치가 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 전국 소방지휘관 회의 개최 \"추석 연휴 국민 안전 빈틈없도록\"…전국 소방 대응태세 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783137&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "통도사"
+    ],
+    "item_id": "korea-kr-156783153",
+    "posted_at_iso": "2026-09-23T13:24:17.551627+00:00",
+    "priority": "하",
+    "reason": "지방 산림항공관리소의 성인 대상 캠페인으로 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "양산산림항공관리소, 통도사 일원서 대대적 합동 캠페인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783153&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156783143",
+    "posted_at_iso": "2026-09-23T13:24:17.551634+00:00",
+    "priority": "하",
+    "reason": "AI와 개인정보 규율을 논의하는 민관협력 포럼으로 전문가 대상 절차성 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "에이전틱 인공지능(Agentic AI)과 개인정보보호, 민관 협력을 통한 합리적 규율체계 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783143&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156783135",
+    "posted_at_iso": "2026-09-23T13:24:17.551640+00:00",
+    "priority": "하",
+    "reason": "산림과학원 내부 조직문화 캠페인으로 청소년과 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "지위는 낮추고, 경청은 높이고... -국립산림과학원, 갑질근절과 상호 존중 위한 청렴 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783135&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "보건복지부",
+    "entities": [
+      "서울요양원"
+    ],
+    "item_id": "korea-kr-156783136",
+    "posted_at_iso": "2026-09-23T13:24:17.551648+00:00",
+    "priority": "하",
+    "reason": "요양원 방문 돌봄 격려 동정으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "추석 앞두고 서울요양원 찾아 어르신 돌봄 살피고 현장 격려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783136&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156783142",
+    "posted_at_iso": "2026-09-23T13:24:17.551654+00:00",
+    "priority": "하",
+    "reason": "명절 응급의료체계 점검으로 청소년 특화 내용이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "추석연휴 앞두고 응급환자 이송체계와 중증응급환자 진료체계 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783142&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156783148",
+    "posted_at_iso": "2026-09-23T13:24:17.551661+00:00",
+    "priority": "하",
+    "reason": "전 국민 대상 자살예방 상담 안내로 대상이 특정되지 않은 일반 홍보다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "추석연휴에도 자살예방상담은 109",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783148&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "음성향애원",
+      "조창준"
+    ],
+    "item_id": "korea-kr-156783147",
+    "posted_at_iso": "2026-09-23T13:24:17.551667+00:00",
+    "priority": "하",
+    "reason": "아동복지시설 위문과 규제합리화 홍보 이벤트로 실제 정책 변화가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "충주국유림관리소, 추석 맞이 아동복지시설 위문 및 규제합리화 홍보 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783147&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-23",
+    "dept": "산림청",
+    "entities": [
+      "조창준"
+    ],
+    "item_id": "korea-kr-156783145",
+    "posted_at_iso": "2026-09-23T13:24:17.551674+00:00",
+    "priority": "하",
+    "reason": "성묘객 대상 산불예방 대응으로 청소년 일상 변화와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "충주국유림관리소, 추석 연휴 산불예방 총력 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783145&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-23&endDate=2026-09-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
