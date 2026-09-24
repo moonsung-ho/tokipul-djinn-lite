@@ -24670,5 +24670,86 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783164&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-24&endDate=2026-09-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-24",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156783165",
+    "posted_at_iso": "2026-09-24T07:11:43.075522+00:00",
+    "priority": "하",
+    "reason": "명절 철도 수송·안전 점검은 일반 국민 대상 행정 점검으로 청소년을 특정하지 않고 재난·사건성도 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 추석 명절 대비 철도 수송·안전 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783165&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-24&endDate=2026-09-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-24",
+    "dept": "외교부",
+    "entities": [
+      "G7",
+      "유엔총회"
+    ],
+    "item_id": "korea-kr-156783168",
+    "posted_at_iso": "2026-09-24T07:11:43.075550+00:00",
+    "priority": "하",
+    "reason": "G7 개발장관회의는 성인 외교 사안으로 청소년의 권리·일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제81차 유엔총회 계기 「G7 개발장관회의」 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783168&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-24&endDate=2026-09-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-24",
+    "dept": "외교부",
+    "entities": [
+      "G20",
+      "에볼라",
+      "유엔총회"
+    ],
+    "item_id": "korea-kr-156783167",
+    "posted_at_iso": "2026-09-24T07:11:43.075559+00:00",
+    "priority": "하",
+    "reason": "에볼라 대응 G20 외교장관회의는 국제 보건외교 사안이나 청소년과 직접 연결되는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제81차 유엔총회 계기 「에볼라 대응 관련 G20 외교장관회의」 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783167&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-24&endDate=2026-09-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-24",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "유엔총회"
+    ],
+    "item_id": "korea-kr-156783166",
+    "posted_at_iso": "2026-09-24T07:11:43.075566+00:00",
+    "priority": "하",
+    "reason": "외교장관의 양자 회담은 성인 외교 실무 사안으로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, UN총회 계기 양자 외교장관 회담 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783166&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-24&endDate=2026-09-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
