@@ -24984,5 +24984,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783191&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-27&endDate=2026-09-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-27",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "중동평화 정부대표"
+    ],
+    "item_id": "korea-kr-156783204",
+    "posted_at_iso": "2026-09-27T12:45:58.386445+00:00",
+    "priority": "하",
+    "reason": "중동 정세를 다루는 고위급 외교 활동이지만 특정 사건이나 위기 브리핑이 아닌 통상적 대표 동정 수준이라 또래가 알아야 할 소식으로 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "중동평화 정부대표, 두 국가 해법 이행을 위한 글로벌 연대 고위급 회의 참석 및 중동 문제 관련 주요인사 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783204&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-27&endDate=2026-09-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
