@@ -25004,5 +25004,61 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783204&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-27&endDate=2026-09-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "식품의약품안전처"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-28",
+    "dept": "성평등가족부",
+    "entities": [
+      "메틸페니데이트"
+    ],
+    "item_id": "korea-kr-156783228",
+    "message_ts": "1790552412.843239",
+    "posted_at_iso": "2026-09-27T23:40:13.361048+00:00",
+    "priority": "상",
+    "reason": "메틸페니데이트는 시험 기간 학생들 사이에서 오남용 우려가 제기되는 약물로 청소년의 건강과 직결되는 당사자성 사안이다",
+    "source": "정책브리핑(성평등가족부)",
+    "title": "메틸페니데이트 오남용 예방 홍보 \"공부 잘하는 약은 없습니다!\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783228&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156783225",
+    "posted_at_iso": "2026-09-27T23:40:13.361069+00:00",
+    "priority": "하",
+    "reason": "건설공사 계약액 통계는 경제 실무 지표로 청소년의 일상이나 사회적 관심사와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'26.2분기 건설공사 계약액",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783225&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "문화체육관광부",
+    "entities": [],
+    "item_id": "korea-kr-156783226",
+    "posted_at_iso": "2026-09-27T23:40:13.361079+00:00",
+    "priority": "하",
+    "reason": "외국인 방한 관광객 통계로 성인 관광 산업 지표이며 청소년의 권리·일상이나 사회적 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "낮아진 입국 문턱, 맞춤형 마케팅에 '너도나도 한국으로'… '26년 8월 누적 방한객 1,500만 명 돌파",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783226&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
