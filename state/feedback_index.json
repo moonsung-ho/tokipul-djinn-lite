@@ -25875,5 +25875,161 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783376&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-29",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156783384",
+    "message_ts": "1790639051.689259",
+    "posted_at_iso": "2026-09-28T23:44:12.085291+00:00",
+    "priority": "중",
+    "reason": "마약류 회색지대는 청소년 안전과 관련된 관심사이지만 이 세미나는 전문가 대상 논의로 대상이 좁다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, '마약류 회색지대, 어떻게 발견하고 개입할 것인가' 주제로 세미나 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783384&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "문화체육관광부",
+    "entities": [
+      "아이치-나고야 하계아시안게임"
+    ],
+    "item_id": "korea-kr-156783387",
+    "posted_at_iso": "2026-09-28T23:44:12.085320+00:00",
+    "priority": "하",
+    "reason": "국제 스포츠 대회 자체는 관심사이나 이 자료는 2차관의 현장 방문 응원에 불과해 실질 내용이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'2026 아이치-나고야 하계아시안게임' 대한민국 선수단의 뜨거운 여정 응원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783387&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "세계한인차세대대회"
+    ],
+    "item_id": "korea-kr-156783385",
+    "posted_at_iso": "2026-09-28T23:44:12.085327+00:00",
+    "priority": "하",
+    "reason": "27개국 차세대 동포 리더 대상 행사로 성인 위주이며 국내 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "27개국 차세대동포 리더 59명, 송도에 모였다...'세계한인차세대대회(FLC)' 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783385&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156783383",
+    "posted_at_iso": "2026-09-28T23:44:12.085333+00:00",
+    "priority": "하",
+    "reason": "소방청 내부 감찰관 교육으로 조직 내부 사안이라 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "감찰관 역할 '적발' 넘어 '조직문화 개선'으로 소방청, '소방 감찰관 전문교육 과정' 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783383&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156783381",
+    "posted_at_iso": "2026-09-28T23:44:12.085338+00:00",
+    "priority": "하",
+    "reason": "해외 교육생 대상 철도연수과정으로 국내 학생과 무관한 성인 대상 국제협력 사업이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "글로벌 철도연수과정 본격 시작, 해외사업의 가교 역할을 지속 이어간다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783381&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "문화체육관광부",
+    "entities": [
+      "멕시코"
+    ],
+    "item_id": "korea-kr-156783386",
+    "posted_at_iso": "2026-09-28T23:44:12.085344+00:00",
+    "priority": "하",
+    "reason": "멕시코 방송의 한국 문화 특집 방영을 알리는 홍보성 보도자료로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "멕시코 방송, '케이-컬처의 힘'과  '대체 불가 케이-인공지능' 조명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783386&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "김진애"
+    ],
+    "item_id": "korea-kr-156783382",
+    "posted_at_iso": "2026-09-28T23:44:12.085358+00:00",
+    "priority": "하",
+    "reason": "건축 설계공모 제도개선을 논의하는 전문가 토론회로 학생과 직접 관련이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "사업에 맞는 공모방식 찾고 민간전문가 역할 넓힌다 설계공모 및 민간전문가 제도개선 토론회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783382&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "주한 미국 총영사"
+    ],
+    "item_id": "korea-kr-156783380",
+    "posted_at_iso": "2026-09-28T23:44:12.085365+00:00",
+    "priority": "하",
+    "reason": "출입국·이민 협력을 위한 외교 면담으로 성인 행정 사안이며 학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부, 출입국·이민분야 협력 강화논의를 위해 주한 미국 총영사 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783380&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
