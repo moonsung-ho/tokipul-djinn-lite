@@ -25060,5 +25060,400 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783226&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-28",
+    "dept": "우주항공청",
+    "entities": [
+      "한국형 위성항법시스템",
+      "KPS"
+    ],
+    "item_id": "korea-kr-156783300",
+    "message_ts": "1790566388.907029",
+    "posted_at_iso": "2026-09-28T03:33:09.116521+00:00",
+    "priority": "상",
+    "reason": "한국형 위성항법시스템 위성 개발은 우주 과학기술 성과로 또래의 관심사에 해당한다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "한국형 위성항법시스템(KPS) 위성 1호기 탑재체 설계 최종 점검, 제작·시험 단계 준비 돌입",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783300&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-28",
+    "dept": "교육부",
+    "entities": [
+      "한국교육과정평가원"
+    ],
+    "item_id": "korea-kr-156783305",
+    "message_ts": "1790566389.166389",
+    "posted_at_iso": "2026-09-28T03:33:09.441750+00:00",
+    "priority": "중",
+    "reason": "입시 관련 통계이지만 제도 변경이 아닌 기존 시험의 채점 결과 발표라 간접적이다.",
+    "source": "정책브리핑(교육부)",
+    "title": "2027학년도 대학수학능력시험 9월 모의평가 채점 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783305&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-28",
+    "dept": "국토교통부",
+    "entities": [
+      "모두의카드"
+    ],
+    "item_id": "korea-kr-156783288",
+    "message_ts": "1790566389.493559",
+    "posted_at_iso": "2026-09-28T03:33:10.492071+00:00",
+    "priority": "상",
+    "reason": "기후동행카드·K-패스처럼 출퇴근 교통비 지원 정책이 학생을 포함·배제하는지 확인할 각도가 있다.",
+    "source": "정책브리핑(국토교통부)",
+    "title": "모두의카드 출퇴근 시차시간 혜택 계속 이어간다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783288&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156783309",
+    "posted_at_iso": "2026-09-28T03:33:10.492111+00:00",
+    "priority": "하",
+    "reason": "지방정부 공무원 대상 내부 워크숍으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "\"주민의 직접참여 확대, 지방정부와 함께 만든다\" 행안부, 주민참여제도 담당 공무원 워크숍 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783309&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "",
+    "entities": [
+      "강남서초교육지원청"
+    ],
+    "item_id": "sen-notice-20260928113320456",
+    "posted_at_iso": "2026-09-28T03:33:10.492126+00:00",
+    "priority": "하",
+    "reason": "교장·교감 연수 위탁 사업자 선정을 위한 평가위원 후보자 모집으로 절차성 공고이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "(강남서초)2026 하반기 강남서초 유·초·특 교(원)장 및 교(원)감 연수」 위탁운영 용역 사업자 선정 제안서 평가위원 후보자 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20260928113320456",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "행정안전부",
+    "entities": [
+      "BSEC"
+    ],
+    "item_id": "korea-kr-156783307",
+    "posted_at_iso": "2026-09-28T03:33:10.492135+00:00",
+    "priority": "하",
+    "reason": "국제 공공혁신 협력 논의로 행정 실무 수준이며 청소년과 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "AI 정부 사절단, BSEC 회원국과  공공 혁신의 미래 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783307&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156783302",
+    "posted_at_iso": "2026-09-28T03:33:10.492154+00:00",
+    "priority": "하",
+    "reason": "AI 프라이버시 정책 설계 구상 단계로 실제 처분이 아니며 대상도 일반 산업이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 인공지능 혁신을 이끌 글로벌 프라이버시 가드레일 설계",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783302&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "교육부",
+    "entities": [
+      "K-에듀파인"
+    ],
+    "item_id": "korea-kr-156783304",
+    "posted_at_iso": "2026-09-28T03:33:10.492160+00:00",
+    "priority": "하",
+    "reason": "교육행정 재정시스템의 국제인증 획득으로 학생의 권리·일상과 무관한 행정 성과다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "교육부, 지방교육행·재정통합시스템 '케이(K)-에듀파인'의 국제표준 인증 획득",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783304&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156783299",
+    "posted_at_iso": "2026-09-28T03:33:10.492178+00:00",
+    "priority": "하",
+    "reason": "지역사회 일차의료 시범사업으로 대상이 성인·지역주민이라 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "동네에서 치료뿐 아니라 포괄적 건강관리까지 '지역사회 일차의료 혁신 시범사업' 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783299&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "농림축산식품부",
+    "entities": [
+      "럼피스킨"
+    ],
+    "item_id": "korea-kr-156783284",
+    "posted_at_iso": "2026-09-28T03:33:10.492184+00:00",
+    "priority": "하",
+    "reason": "가축전염병 진단체계 확대로 농업 실무 사안이며 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "럼피스킨 정밀진단, 이제 전국에서 신속하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783284&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "공정거래위원회",
+    "entities": [
+      "명륜당"
+    ],
+    "item_id": "korea-kr-156783296",
+    "posted_at_iso": "2026-09-28T03:33:10.492191+00:00",
+    "priority": "하",
+    "reason": "프랜차이즈 가맹사업법 위반 제재로 경제 사안이며 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783296&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "국가데이터처",
+    "entities": [
+      "한국데이터원"
+    ],
+    "item_id": "korea-kr-156783303",
+    "posted_at_iso": "2026-09-28T03:33:10.492196+00:00",
+    "priority": "하",
+    "reason": "데이터 행정조직 설립 추진으로 학생의 일상이나 권리와 무관한 행정 개편이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "분산된 데이터 역량을 하나로, 「한국데이터원」 설립 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783303&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156783285",
+    "posted_at_iso": "2026-09-28T03:33:10.492202+00:00",
+    "priority": "하",
+    "reason": "공모전 수상작 선정 발표로 이미 종료된 행사이며 참여 기회가 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "사람과 동물의 행복한 일상... '제19회 동물사랑 사진·영상 공모전' 수상작 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783285&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "산림청",
+    "entities": [
+      "동서트레일"
+    ],
+    "item_id": "korea-kr-156783291",
+    "posted_at_iso": "2026-09-28T03:33:10.492208+00:00",
+    "priority": "하",
+    "reason": "일반 대중 대상 트레일 개통 소식으로 청소년 특정 프로그램이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "숲에서 하룻밤, 동서트레일 512km 먼저 열린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783291&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "기상청",
+    "entities": [
+      "설악산"
+    ],
+    "item_id": "korea-kr-156783294",
+    "posted_at_iso": "2026-09-28T03:33:10.492213+00:00",
+    "priority": "하",
+    "reason": "단순 계절 관측 소식으로 사회적 이슈나 정책 변화와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "오늘(28일) 설악산 첫 단풍",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783294&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "감사원",
+    "entities": [
+      "원주시"
+    ],
+    "item_id": "korea-kr-156783298",
+    "posted_at_iso": "2026-09-28T03:33:10.492218+00:00",
+    "priority": "하",
+    "reason": "지자체 행정 정기감사로 학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "원주시 정기감사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783298&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156783289",
+    "posted_at_iso": "2026-09-28T03:33:10.492226+00:00",
+    "priority": "하",
+    "reason": "대학원 석·박사 인재양성 사업으로 대상이 대학생 이상이라 중고생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "인공지능(AI) 도시·스마트 도시 석·박사 인재 키울 대학 4곳 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783289&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "행정안전부",
+    "entities": [
+      "일본 리스콘"
+    ],
+    "item_id": "korea-kr-156783311",
+    "posted_at_iso": "2026-09-28T03:33:10.492231+00:00",
+    "priority": "하",
+    "reason": "재난안전산업 국제협력 행사로 성인·산업 대상이며 학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "일본 리스콘 한국관 3년 연속 운영, 한·일 재난안전산업 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783311&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "해양수산부",
+    "entities": [
+      "CPTPP"
+    ],
+    "item_id": "korea-kr-156783286",
+    "posted_at_iso": "2026-09-28T03:33:10.492236+00:00",
+    "priority": "하",
+    "reason": "어업인 대상 무역협정 의견수렴으로 성인 산업 종사자가 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "해양수산부, '포괄적·점진적 환태평양경제동반자협정(CPTPP)' 논의 관련 어업인 의견 수렴의 장 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783286&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156783287",
+    "posted_at_iso": "2026-09-28T03:33:10.492242+00:00",
+    "priority": "하",
+    "reason": "항만 종사자 대상 재난 대응 훈련으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "해양수산부, 항만 재난 상황 대비 초동 대응 교육 및 토론 훈련 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783287&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-28",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156783301",
+    "posted_at_iso": "2026-09-28T03:33:10.492246+00:00",
+    "priority": "하",
+    "reason": "해외 전문가 유치를 위한 성인 대상 채용 설명회다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "해외 전문가 유치 위한 '인재사업 설명회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783301&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-28&endDate=2026-09-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
