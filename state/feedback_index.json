@@ -26380,5 +26380,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783453&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156783472",
+    "posted_at_iso": "2026-09-29T04:46:39.438502+00:00",
+    "priority": "하",
+    "reason": "전력망 인프라 확충 정책은 기후 주제와 맞닿아 있으나 전력 계통 실무 정책으로 대상이 사업자·성인이며 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "2030년 재생에너지 100GW 이상 수용하도록 전력망 체계 혁신한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783472&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-29",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청",
+      "국방부"
+    ],
+    "item_id": "korea-kr-156783475",
+    "posted_at_iso": "2026-09-29T04:46:39.438531+00:00",
+    "priority": "하",
+    "reason": "우주산업-국방 협력은 산업·안보 정책 실무로 청소년의 권리·일상과 무관하고 과학 성과 소식도 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "우주항공청-국방부, 우주산업과 국방우주의 접점 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783475&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-29&endDate=2026-09-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
