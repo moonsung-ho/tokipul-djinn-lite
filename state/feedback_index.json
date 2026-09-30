@@ -27012,5 +27012,394 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783574&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "질병관리청",
+    "entities": [
+      "국가예방접종",
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156783637",
+    "message_ts": "1790730363.828779",
+    "posted_at_iso": "2026-09-30T01:06:04.410363+00:00",
+    "priority": "중",
+    "reason": "국가예방접종은 학생도 접종 대상이라 안전 관리 강화가 간접적으로 닿지만 구체적 사건이 아닌 시스템 정비라 각도가 뚜렷하지 않다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "국가예방접종 백신, 품질이상부터 안전접종까지 전주기 관리 강화(9.30.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783637&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "조달청",
+    "entities": [
+      "제6회 조달의 날"
+    ],
+    "item_id": "korea-kr-156783636",
+    "posted_at_iso": "2026-09-30T01:06:04.410395+00:00",
+    "priority": "하",
+    "reason": "조달청 자체 기념행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "\"기업의 디딤돌, 경제의 버팀목, 미래의 이정표\"  제6회 조달의 날 기념식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783636&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "고용노동부",
+    "entities": [
+      "형사소송법",
+      "노동감독관"
+    ],
+    "item_id": "korea-kr-156783632",
+    "posted_at_iso": "2026-09-30T01:06:04.410406+00:00",
+    "priority": "하",
+    "reason": "노동감독관 수사권 관련 내부 행정 지침으로 성인 노동 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 고용노동부, 개정 형사소송법 시행 앞두고 노동감독관 수사권 독립 대응 방안 실천 당부",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783632&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국가보훈부",
+    "entities": [
+      "6.25전쟁영웅"
+    ],
+    "item_id": "korea-kr-156783634",
+    "posted_at_iso": "2026-09-30T01:06:04.410415+00:00",
+    "priority": "하",
+    "reason": "매달 반복되는 보훈 인물 선정 홍보로 또래의 일상이나 관심사와 직접 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "2026년 10월 이달의 6.25전쟁영웅 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783634&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국가보훈부",
+    "entities": [
+      "독립운동가"
+    ],
+    "item_id": "korea-kr-156783633",
+    "posted_at_iso": "2026-09-30T01:06:04.410422+00:00",
+    "priority": "하",
+    "reason": "정기적인 역사 인물 선정 보도자료로 시의성 있는 사건성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "2026년 10월의 독립운동가 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783633&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "고용노동부",
+    "entities": [
+      "신규화학물질"
+    ],
+    "item_id": "korea-kr-156783622",
+    "posted_at_iso": "2026-09-30T01:06:04.410431+00:00",
+    "priority": "하",
+    "reason": "산업 화학물질 유해성 공표로 산업 현장 대상이며 학생 일상과 접점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "2026년 3분기 신규화학물질 63종 유해성·위험성 공표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783622&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "방위사업청",
+    "entities": [
+      "K-방산 청년뉴딜",
+      "방위사업청"
+    ],
+    "item_id": "korea-kr-156783629",
+    "posted_at_iso": "2026-09-30T01:06:04.410447+00:00",
+    "priority": "하",
+    "reason": "방산업체 채용 박람회로 대상이 구직 청년층이라 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "K-방산 청년뉴딜,  방산기업과 청년 인재를 잇는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783629&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156783625",
+    "posted_at_iso": "2026-09-30T01:06:04.410457+00:00",
+    "priority": "하",
+    "reason": "국회 지적에 대한 정부 대응 총괄 보도자료로 구체적 정책 내용이 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국회의 지적, 정책개선으로 답하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783625&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국가유산청",
+    "entities": [
+      "순천 선암사"
+    ],
+    "item_id": "korea-kr-156783613",
+    "posted_at_iso": "2026-09-30T01:06:04.410466+00:00",
+    "priority": "하",
+    "reason": "사찰 문화유산 지정 소식으로 학생과 직접 연결되지 않는 전문 문화재 행정이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "「순천 선암사 측간」 등 사찰 해우소 3개소 국가민속문화유산 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783613&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "고용노동부",
+    "entities": [
+      "건설근로자공제회"
+    ],
+    "item_id": "korea-kr-156783621",
+    "posted_at_iso": "2026-09-30T01:06:04.410473+00:00",
+    "priority": "하",
+    "reason": "건설근로자 퇴직공제금 확대는 성인 노동자 복지 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "건설근로자공제회, 특별퇴직공제금 지급 구간 4년 이상 적립자까지 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783621&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산수리 표준시방서",
+      "표준품셈"
+    ],
+    "item_id": "korea-kr-156783612",
+    "posted_at_iso": "2026-09-30T01:06:04.410672+00:00",
+    "priority": "하",
+    "reason": "국가유산수리 표준시방서 개정은 건설 시공 기준 정비로 학생과 무관한 전문 행정이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "국가유산수리 표준시방서·표준품셈의 현장 적용성 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783612&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근",
+      "확대거시재정금융간담회"
+    ],
+    "item_id": "korea-kr-156783624",
+    "posted_at_iso": "2026-09-30T01:06:04.410681+00:00",
+    "priority": "하",
+    "reason": "거시재정금융 간담회 참석 동정성 보도로 성인 경제 정책 논의다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, 확대거시재정금융간담회 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783624&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156783631",
+    "posted_at_iso": "2026-09-30T01:06:04.410688+00:00",
+    "priority": "하",
+    "reason": "군 장병 대상 산불진화 훈련으로 학생과 직접 관련이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 군 장병 산불진화 역량 강화로 가을철 산불 총력 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783631&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "산림청",
+    "entities": [
+      "소나무재선충병"
+    ],
+    "item_id": "korea-kr-156783620",
+    "posted_at_iso": "2026-09-30T01:06:04.410695+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 대책회의는 산림 행정 실무 회의로 구체적 사건성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 소나무재선충병 현장 대응력 강화 위한 대책회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783620&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "제12회 글로벌 ICT 리더십 포럼"
+    ],
+    "item_id": "korea-kr-156783635",
+    "posted_at_iso": "2026-09-30T01:06:04.410702+00:00",
+    "priority": "하",
+    "reason": "국제 ICT 협력 포럼으로 성인·전문가 대상 행사이며 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "인공지능(AI) 협력으로 글로벌 디지털 공동 번영 모색, 제12회 글로벌 ICT 리더십 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783635&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156783627",
+    "posted_at_iso": "2026-09-30T01:06:04.410744+00:00",
+    "priority": "하",
+    "reason": "조달 사업 평가 일정 공고로 절차성 정보이며 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청 10월 대형사업 평가 총 19건 진행 예정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783627&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "조달청",
+    "entities": [
+      "정부물품관리"
+    ],
+    "item_id": "korea-kr-156783628",
+    "posted_at_iso": "2026-09-30T01:06:04.410751+00:00",
+    "priority": "하",
+    "reason": "정부물품관리 유공자 포상 행사로 내부 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, '26년도 정부물품관리 우수기관·유공자 포상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783628&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156783626",
+    "posted_at_iso": "2026-09-30T01:06:04.410758+00:00",
+    "priority": "하",
+    "reason": "조달 입찰 동향 통계로 행정 실무 지표이며 사회상을 보여주지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 10월 대형사업 총 237건, 3조 8,339억 원 상당 입찰 예정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783626&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국가유산청",
+    "entities": [
+      "조선왕릉",
+      "구리 동구릉",
+      "남양주 광릉",
+      "서울 의릉"
+    ],
+    "item_id": "korea-kr-156783616",
+    "posted_at_iso": "2026-09-30T01:06:04.410765+00:00",
+    "priority": "하",
+    "reason": "왕릉 숲길 개방은 일반 시민 대상 관광·여가 정보로 학생 특정 관심사와 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "조선왕릉 숲길에서 만나는 가을 낭만",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783616&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "재정경제부",
+    "entities": [
+      "확대거시재정금융간담회"
+    ],
+    "item_id": "korea-kr-156783623",
+    "posted_at_iso": "2026-09-30T01:06:04.410771+00:00",
+    "priority": "하",
+    "reason": "위와 같은 간담회 개최 사실 보도로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "확대 거시재정금융간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783623&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
