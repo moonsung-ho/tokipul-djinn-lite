@@ -27401,5 +27401,391 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783623&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156783675",
+    "message_ts": "1790742742.182649",
+    "posted_at_iso": "2026-09-30T04:32:22.511615+00:00",
+    "priority": "상",
+    "reason": "아동학대 전담의료기관 지원은 미성년자 보호와 직결되는 안전 사안이다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "'아이의 신호를 놓치지 말아주세요' 아동학대 전담의료기관 지원 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783675&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "교육부",
+    "entities": [
+      "함께학교 마음동행"
+    ],
+    "item_id": "korea-kr-156783684",
+    "message_ts": "1790742742.599009",
+    "posted_at_iso": "2026-09-30T04:32:22.946636+00:00",
+    "priority": "상",
+    "reason": "학생이 직접 참여하는 학교 문화 행사로 당사자성이 뚜렷하다",
+    "source": "정책브리핑(교육부)",
+    "title": "서로 협력하는 건강한 학교 문화 확산을 위한 '함께학교 마음동행' 참여 행사 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783684&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156783692",
+    "message_ts": "1790742743.045489",
+    "posted_at_iso": "2026-09-30T04:32:23.391270+00:00",
+    "priority": "상",
+    "reason": "지진 대피장소 확인은 학교에서도 다루는 재난 안전 정보로 또래가 알아야 한다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "우리 동네 지진 대피장소 미리 확인하세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783692&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156783674",
+    "message_ts": "1790742743.492529",
+    "posted_at_iso": "2026-09-30T04:32:23.808644+00:00",
+    "priority": "중",
+    "reason": "건강보험 적용 확대는 전 국민 대상 정책이나 대상이 암환자로 좁다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "희귀？소외암환자 치료비 부담 낮춘다, 10월부터 암 치료제 건강보험 적용 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783674&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156783672",
+    "message_ts": "1790742743.927069",
+    "posted_at_iso": "2026-09-30T04:32:24.261636+00:00",
+    "priority": "중",
+    "reason": "AI 안전 종합계획은 관심사이나 아직 협의체 구성 단계로 실제 처분이 아니다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "민·관이 함께 국가 인공지능 안전 종합계획 수립 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783672&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-09-30",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "남이섬",
+      "춘천"
+    ],
+    "item_id": "korea-kr-156783701",
+    "message_ts": "1790742744.362919",
+    "posted_at_iso": "2026-09-30T04:32:24.665724+00:00",
+    "priority": "중",
+    "reason": "일회용컵 규제는 환경 이슈로 관심사이나 남이섬이라는 특정 관광지에 한정된다",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "춘천 남이섬, 일회용컵 없는 섬으로 거듭난다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783701&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156783690",
+    "posted_at_iso": "2026-09-30T04:32:24.665751+00:00",
+    "priority": "하",
+    "reason": "모바일신분증은 성인 대상 제도로 중학생과 직접 관련이 낮다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "\"모바일신분증으로 여는 새로운 일상\" 행안부, 모바일신분증 아이디어 공모",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783690&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156783679",
+    "posted_at_iso": "2026-09-30T04:32:24.665761+00:00",
+    "priority": "하",
+    "reason": "공무원 재해보상 개선방안 논의는 성인 공직자 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "\"업무 중 다친 공무원 도울 수 있도록…\" 개선방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783679&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156783678",
+    "posted_at_iso": "2026-09-30T04:32:24.665768+00:00",
+    "priority": "하",
+    "reason": "지방인재 7급 공무원 선발 통계는 성인 채용 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "\"지방인재 7급 선발 첫 30% 초과, 다양성 지속 개선\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783678&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청",
+      "올림픽대로",
+      "한국지방재정공제회"
+    ],
+    "item_id": "korea-kr-156783693",
+    "posted_at_iso": "2026-09-30T04:32:24.665775+00:00",
+    "priority": "하",
+    "reason": "전광판 홍보 업무협약으로 학생 통학 안전과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청-한국지방재정공제회, 올림픽대로 전광판에 '국민안전 메시지' 알린다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783693&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156783688",
+    "posted_at_iso": "2026-09-30T04:32:24.665942+00:00",
+    "priority": "하",
+    "reason": "열린정부 실행계획 대국민 공모는 성인 대상 정책 참여 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "국민과 함께 만드는 더 투명한 정부 '제7차 열린정부 실행계획' 대국민 공모",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783688&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156783706",
+    "posted_at_iso": "2026-09-30T04:32:24.665949+00:00",
+    "priority": "하",
+    "reason": "체납관리단 내부 시상 행사로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "국세청, 체납관리단 모범 실태확인원 및 체험수기 시상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783706&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156783680",
+    "posted_at_iso": "2026-09-30T04:32:24.666005+00:00",
+    "priority": "하",
+    "reason": "녹색분류체계 활용은 기업의 녹색투자 촉진을 위한 제도로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "녹색분류체계 활용 문턱 낮춰기업의 녹색투자 촉진한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783680&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "농림축산식품부",
+    "entities": [
+      "구례군"
+    ],
+    "item_id": "korea-kr-156783696",
+    "posted_at_iso": "2026-09-30T04:32:24.666014+00:00",
+    "priority": "하",
+    "reason": "농어촌 기본소득·우리밀가공공장은 성인·농민 대상 현장방문이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 장관, 구례군 농어촌 기본소득 추진상황 점검 및 우리밀가공공장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783696&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근",
+      "만리어린이집"
+    ],
+    "item_id": "korea-kr-156783695",
+    "posted_at_iso": "2026-09-30T04:32:24.666024+00:00",
+    "priority": "하",
+    "reason": "어린이집 현장방문은 유아 대상으로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, 서울 만리어린이집 현장방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783695&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156783671",
+    "posted_at_iso": "2026-09-30T04:32:24.666032+00:00",
+    "priority": "하",
+    "reason": "과학기술관계장관회의는 부처 간 정책 조율로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "범정부 협력으로 미래기술 선점과 R&D 혁신에 속도 낸다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783671&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156783694",
+    "posted_at_iso": "2026-09-30T04:32:24.666042+00:00",
+    "priority": "하",
+    "reason": "외환·자본시장 투자자 협의체는 성인 금융 전문가 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "외환자본시장 제도개선 설명 및 현장안착 점검을 위한 제2차 글로벌 핵심 투자자 협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783694&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "행정안전부",
+    "entities": [
+      "윤호중",
+      "국가정보자원관리원",
+      "대전"
+    ],
+    "item_id": "korea-kr-156783703",
+    "posted_at_iso": "2026-09-30T04:32:24.666050+00:00",
+    "priority": "하",
+    "reason": "장관의 기관 현장점검성 동정 자료로 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "윤호중 행안부 장관, 국정자원관리원 대전 본원 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783703&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156783683",
+    "posted_at_iso": "2026-09-30T04:32:24.666059+00:00",
+    "priority": "하",
+    "reason": "전기차 자동 충전·결제 기술 시연회는 산업 기술 검증으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "케이블만 꽂으면 충전·결제까지전기차 자동 충전·결제 기술 검증 시연회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783683&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-09-30",
+    "dept": "행정안전부",
+    "entities": [
+      "SK사회적가치연구원"
+    ],
+    "item_id": "korea-kr-156783686",
+    "posted_at_iso": "2026-09-30T04:32:24.666067+00:00",
+    "priority": "하",
+    "reason": "사회연대경제 혁신모델 성과보상은 기업·성인 대상 협력 사업이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부-SK사회적가치연구원, 사회연대경제 혁신모델 성과 측정하고 보상한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783686&pageIndex=1&repCodeType=&repCode=&startDate=2025-09-30&endDate=2026-09-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
