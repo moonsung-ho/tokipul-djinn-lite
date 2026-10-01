@@ -29779,5 +29779,67 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784059&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "포항공대",
+      "이대수"
+    ],
+    "item_id": "korea-kr-156784062",
+    "message_ts": "1790893337.112689",
+    "posted_at_iso": "2026-10-01T22:22:17.320497+00:00",
+    "priority": "상",
+    "reason": "국내 대학 연구팀의 기초 소재과학 성과로, 또래가 흥미를 가질 만한 과학 성과 기사감이다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "같은 원자, 다른 순서로 재료의 한계를 넘다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784062&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "전남대",
+      "인제대"
+    ],
+    "item_id": "korea-kr-156784063",
+    "message_ts": "1790893337.375309",
+    "posted_at_iso": "2026-10-01T22:22:17.579971+00:00",
+    "priority": "중",
+    "reason": "의학 연구성과이지만 고혈압·골관절염 등 성인·노인성 질환 중심이라 또래 관심과는 다소 거리가 있다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "고혈압이 골관절염 악화시키는 '연결고리' 찾았다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784063&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "중앙소방장비품평회"
+    ],
+    "item_id": "korea-kr-156784064",
+    "posted_at_iso": "2026-10-01T22:22:17.579998+00:00",
+    "priority": "하",
+    "reason": "소방장비 기업 대상 조달·전시 공고로 청소년의 권리나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "우수 소방기업 판로 확대와 혁신 기술 홍보의 장 열린다 소방청, '2026년 중앙소방장비품평회' 참가기업 모집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784064&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
