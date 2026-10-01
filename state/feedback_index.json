@@ -29173,5 +29173,184 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783927&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-01",
+    "dept": "",
+    "entities": [
+      "일드프랑스교육청",
+      "쥘리 베네티",
+      "정근식"
+    ],
+    "item_id": "sen-press-192248",
+    "message_ts": "1790829828.582989",
+    "posted_at_iso": "2026-10-01T04:43:49.151490+00:00",
+    "priority": "상",
+    "reason": "학생 간 교류와 국제자매결연 등 실제 학생 교류 프로그램이 포함된 교육협력 협약이라 또래가 직접 영향을 받는다.",
+    "source": "서울시교육청 보도자료",
+    "title": "미래를 향한 글로벌 교육 파트너십, 서울시교육청-일드프랑스교육청 MOU 체결",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192248&step1=3&step2=1",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "경찰청",
+    "entities": [
+      "토착비리 특별단속"
+    ],
+    "item_id": "korea-kr-156783953",
+    "posted_at_iso": "2026-10-01T04:43:49.151517+00:00",
+    "priority": "하",
+    "reason": "내부 수사 포상 성과 발표로 절차성 자료이며 청소년 당사자성·관심사 모두 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "?토착비리 특별단속? 우수사건 특별성과 포상금 수여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783953&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156783951",
+    "posted_at_iso": "2026-10-01T04:43:49.151527+00:00",
+    "priority": "하",
+    "reason": "N잡러·프리랜서 세무 상담은 성인 근로소득자 대상 정책으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "N잡러·프리랜서 세금 고민, 국세청과 국회가 직접 듣고 답합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783951&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "감사원",
+    "entities": [
+      "경기 광주시"
+    ],
+    "item_id": "korea-kr-156783948",
+    "posted_at_iso": "2026-10-01T04:43:49.151534+00:00",
+    "priority": "하",
+    "reason": "경기 광주시 특정 공원·도로 관련 감사로 지역 행정 절차성 사안이며 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "경기 광주시의 ○○공원과 아파트 진출입 도시계획도로 관련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783948&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "경찰청",
+    "entities": [
+      "여성청소년범죄수사과"
+    ],
+    "item_id": "korea-kr-156783952",
+    "posted_at_iso": "2026-10-01T04:43:49.151557+00:00",
+    "priority": "하",
+    "reason": "가정폭력 등 관계성 범죄 대응 통계로 성인 대상 치안 성과 발표이며 청소년이 직접 등장하지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "관계성 범죄는 '사적 문제' 아닌 '중대 범죄' 경찰, 엄정 대응으로 검거·격리조치 대폭 증가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783952&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회",
+      "체코"
+    ],
+    "item_id": "korea-kr-156783945",
+    "posted_at_iso": "2026-10-01T04:43:49.151564+00:00",
+    "priority": "하",
+    "reason": "체코 원전 안전규제 협력은 국가 간 전문 행정 협력으로 또래의 일상·관심과 바로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "원자력안전위원회, 체코 신규원전 안전규제 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783945&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "보건복지부",
+    "entities": [
+      "의료혁신위원회"
+    ],
+    "item_id": "korea-kr-156783956",
+    "posted_at_iso": "2026-10-01T04:43:49.151578+00:00",
+    "priority": "하",
+    "reason": "응급의료체계 전반에 대한 성인 중심 정책 논의로 청소년과 직접 이어지는 지점이 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "응급환자 이송부터 최종치료까지, 적기에 치료 가능한 응급의료체계 혁신방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783956&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "",
+    "entities": [
+      "정독도서관",
+      "창덕궁",
+      "은희경",
+      "북웨이브 크루"
+    ],
+    "item_id": "sen-press-192247",
+    "posted_at_iso": "2026-10-01T04:43:49.151585+00:00",
+    "priority": "하",
+    "reason": "시민 독서실천단(성인·학부모 대상) 문학 행사로 청소년 당사자성도 관심사도 뚜렷하지 않다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "정독도서관, 창덕궁 선향재에서 은희경 작가와 시민 독자 만난다",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192247&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-01",
+    "dept": "고용노동부",
+    "entities": [
+      "한화에어로스페이스",
+      "대전사업장"
+    ],
+    "item_id": "korea-kr-156783946",
+    "posted_at_iso": "2026-10-01T04:43:49.151592+00:00",
+    "priority": "하",
+    "reason": "특정 기업 사업장에 대한 노동 감독 결과로 성인 근로자 대상이라 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "한화에어로스페이스(주) 대전사업장 특별감독 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156783946&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-01&endDate=2026-10-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
