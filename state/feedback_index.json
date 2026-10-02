@@ -30554,5 +30554,398 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784143&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "해양수산부"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회",
+      "해양수산부",
+      "후쿠시마 오염수"
+    ],
+    "item_id": "korea-kr-156784205",
+    "message_ts": "1790929081.114469",
+    "posted_at_iso": "2026-10-02T08:18:01.626610+00:00",
+    "priority": "상",
+    "reason": "같은 후쿠시마 오염수 대응 브리핑으로 규칙과 무관해도 또래가 알아야 할 환경·안전 사안이다",
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "[보도참고자료] (공동) 후쿠시마 오염수 방류 대응 브리핑(335차)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784205&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "국무조정실",
+    "entities": [
+      "후쿠시마 오염수",
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156784229",
+    "message_ts": "1790929081.847039",
+    "posted_at_iso": "2026-10-02T08:18:02.424658+00:00",
+    "priority": "상",
+    "reason": "규칙으로 닿지 않아도 또래가 알아야 할 환경·안전 사안으로 선례에서도 상으로 다뤄졌다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(335차)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784229&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156784219",
+    "message_ts": "1790929082.608609",
+    "posted_at_iso": "2026-10-02T08:18:03.234500+00:00",
+    "priority": "중",
+    "reason": "산불 안전은 관심사 영역이지만 총리 담화 형식으로 또래 일상과의 접점이 간접적이다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "'강풍 타고 확산하는 대형산불'한 총리, \"가을철 산불조심기간 철저히 대비\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784219&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-02",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "READY Korea"
+    ],
+    "item_id": "korea-kr-156784230",
+    "message_ts": "1790929083.428489",
+    "posted_at_iso": "2026-10-02T08:18:03.995488+00:00",
+    "priority": "중",
+    "reason": "재난 대응 훈련이라는 점에서 관심사이지만 정부 합동훈련이라 또래 일상과의 접점이 간접적이다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 READY Korea 산불진화 통합훈련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784230&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "남산",
+      "인삼 런"
+    ],
+    "item_id": "korea-kr-156784222",
+    "posted_at_iso": "2026-10-02T08:18:03.995517+00:00",
+    "priority": "하",
+    "reason": "성인 대상 참여 행사로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"인삼이 달린다\" 국민 815명과 남산서 '인삼 런(Run)'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784222&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784226",
+    "posted_at_iso": "2026-10-02T08:18:03.995526+00:00",
+    "priority": "하",
+    "reason": "산학연 농업 연구 협력으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "'디지털 영상 연구 기반 활용' 활성화 산·학·연 협력 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784226&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "국토교통부",
+    "entities": [
+      "김이탁",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156784211",
+    "posted_at_iso": "2026-10-02T08:18:03.995533+00:00",
+    "priority": "하",
+    "reason": "차관 동정성 발언으로 절차성 공고이며 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 김이탁 제1차관, \"연말까지 수도권 공공주택 6.2만호 착공 목표 달성에 총력\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784211&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156784210",
+    "posted_at_iso": "2026-10-02T08:18:03.995541+00:00",
+    "priority": "하",
+    "reason": "동물복지 협력 사안으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "국가에 헌신한 봉사동물부터 유기동물까지... 정부-국립대학, 공공동물의료 협력 시동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784210&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784214",
+    "posted_at_iso": "2026-10-02T08:18:03.995547+00:00",
+    "priority": "하",
+    "reason": "연구개발 성과 사업화 소식으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청 연구개발 성과, 기술이전 넘어 사업화 결실",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784214&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "전북 김제",
+      "부안"
+    ],
+    "item_id": "korea-kr-156784233",
+    "posted_at_iso": "2026-10-02T08:18:03.995553+00:00",
+    "priority": "하",
+    "reason": "농업 실무 현장 점검으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 전북 김제·부안 벼 생육 후기 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784233&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784224",
+    "posted_at_iso": "2026-10-02T08:18:03.995559+00:00",
+    "priority": "하",
+    "reason": "청년농이지만 성인 축산업 종사자 대상으로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청·지방정부 협업, 한우 청년농 사료비 부담 낮췄다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784224&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784212",
+    "posted_at_iso": "2026-10-02T08:18:03.995564+00:00",
+    "priority": "하",
+    "reason": "농가 대상 보급체계 구축 소식으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "달걀 생산용 토종닭, 농가 보급체계 구축…프리미엄 시장 겨냥",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784212&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "외교부",
+    "entities": [
+      "박윤주",
+      "방글라데시"
+    ],
+    "item_id": "korea-kr-156784235",
+    "posted_at_iso": "2026-10-02T08:18:03.995570+00:00",
+    "priority": "하",
+    "reason": "양국 외교 당국자 간 통상적 면담으로 또래와 연결되는 지점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784235&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784220",
+    "posted_at_iso": "2026-10-02T08:18:03.995575+00:00",
+    "priority": "하",
+    "reason": "홀몸노인 대상 복지 연구로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "반려식물 마음돌봄, 홀몸노인 외로움 낮추고 생활만족도 높였다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784220&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156784208",
+    "posted_at_iso": "2026-10-02T08:18:03.995581+00:00",
+    "priority": "하",
+    "reason": "내부 조직문화 캠페인으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 상호존중과 소통으로 청렴한 조직문화 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784208&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156784228",
+    "posted_at_iso": "2026-10-02T08:18:03.995586+00:00",
+    "priority": "하",
+    "reason": "개인 표창 행정 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "숭고한 의(義)를 실천한 1인, 의사자로 인정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784228&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "",
+    "entities": [
+      "조선미"
+    ],
+    "item_id": "sen-press-192283",
+    "posted_at_iso": "2026-10-02T08:18:03.995592+00:00",
+    "priority": "하",
+    "reason": "영유아 학부모 대상 행사로 중학생 당사자성도 관심사도 닿지 않는다",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "우리 아이, 더 빨리 보다 더 단단하게...” 서울시교육청, 영유아 학부모 토크 콘서트 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192283&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156784206",
+    "posted_at_iso": "2026-10-02T08:18:03.995598+00:00",
+    "priority": "하",
+    "reason": "AI 책임관 협의회 개최로 실제 처분이 아니고 성인 행정기구 간 회의다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "제5차 인공지능책임관(CAIO) 협의회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784206&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156784216",
+    "posted_at_iso": "2026-10-02T08:18:03.995604+00:00",
+    "priority": "하",
+    "reason": "농업 영농 정보로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "중부 지역 트리티케일 파종은 10월 중순이 적기!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784216&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-02",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156784209",
+    "posted_at_iso": "2026-10-02T08:18:03.995618+00:00",
+    "priority": "하",
+    "reason": "수사체계 개선 행정 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "해양경찰청, 국민 눈높이에 맞는 수사체계로 개선 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784209&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-02&endDate=2026-10-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
