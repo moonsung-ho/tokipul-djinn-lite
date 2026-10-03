@@ -31061,5 +31061,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784239&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-03&endDate=2026-10-03&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-03",
+    "dept": "외교부",
+    "entities": [
+      "G20",
+      "워싱턴 D.C."
+    ],
+    "item_id": "korea-kr-156784247",
+    "posted_at_iso": "2026-10-03T00:11:26.732960+00:00",
+    "priority": "하",
+    "reason": "G20 셰르파회의는 성인 대상 외교 실무 행사로 청소년의 권리·일상이나 또래 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "G20 셰르파, 2026년 제3차 G20 셰르파회의(10.1-2, 워싱턴 D.C.) 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784247&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-03&endDate=2026-10-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
