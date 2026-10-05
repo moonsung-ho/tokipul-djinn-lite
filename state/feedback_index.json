@@ -31225,5 +31225,60 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784267&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-05&endDate=2026-10-05&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "재정경제부",
+    "entities": [],
+    "item_id": "korea-kr-156784295",
+    "posted_at_iso": "2026-10-05T17:53:47.118617+00:00",
+    "priority": "하",
+    "reason": "경제현안간담회 개최 사실만 있을 뿐 정책 내용이 드러나지 않아 또래와 연결할 단서가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "경제현안간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784295&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156784293",
+    "posted_at_iso": "2026-10-05T17:53:47.118641+00:00",
+    "priority": "하",
+    "reason": "제대군인 지원 행사로 성인 대상 정책이며 청소년의 권리나 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "국민과 함께하는 2026 제대군인 주간 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784293&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "배경훈"
+    ],
+    "item_id": "korea-kr-156784296",
+    "posted_at_iso": "2026-10-05T17:53:47.118648+00:00",
+    "priority": "하",
+    "reason": "세계 과학기술 지도자와의 고위급 협의 소식으로 구체적 성과나 청소년이 체감할 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "배경훈 부총리, 세계 과학기술 지도자들과 미래 과학기술 비전 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784296&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
