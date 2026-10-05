@@ -31100,5 +31100,42 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784259&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-04&endDate=2026-10-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "국토교통부",
+    "entities": [],
+    "item_id": "korea-kr-156784261",
+    "posted_at_iso": "2026-10-05T01:37:40.875220+00:00",
+    "priority": "하",
+    "reason": "주택청약 부정행위 단속에 관한 설명자료로 청소년의 권리·의무나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] 부정청약에 대하여는 형사처벌, 계약취소 및 계약금 몰수, 청약제한 등 엄중 조치하고 있습니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784261&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-05&endDate=2026-10-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "문화체육관광부",
+    "entities": [
+      "2026 나고야 아시안게임",
+      "팀 코리아"
+    ],
+    "item_id": "korea-kr-156784260",
+    "posted_at_iso": "2026-10-05T01:37:40.875244+00:00",
+    "priority": "하",
+    "reason": "국가대표 선수단 귀국 환영 행사로 구체적 성과나 학생 선수 관련 내용 없이 의례적 환영 보도라 또래와 이어지는 각도가 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "아시안게임에서 최선을 다한 '팀 코리아', 뜨겁게 환영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784260&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-05&endDate=2026-10-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
