@@ -31280,5 +31280,178 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784296&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-06",
+    "dept": "국방부",
+    "entities": [
+      "북한"
+    ],
+    "item_id": "korea-kr-156784297",
+    "message_ts": "1791243952.130029",
+    "posted_at_iso": "2026-10-05T23:45:52.612182+00:00",
+    "priority": "상",
+    "reason": "북한 미사일 발사는 또래가 알아야 할 안보·안전 현안이다",
+    "source": "정책브리핑(국방부)",
+    "title": "북한 탄도미사일 발사 관련 국방부 입장",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784297&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-06",
+    "dept": "문화체육관광부",
+    "entities": [
+      "2026 아이치-나고야 아시안 패러게임"
+    ],
+    "item_id": "korea-kr-156784302",
+    "message_ts": "1791243952.745129",
+    "posted_at_iso": "2026-10-05T23:45:53.174326+00:00",
+    "priority": "중",
+    "reason": "국가대표 선수단의 국제 패러게임 출전은 또래가 접할 수 있는 스포츠 소식이지만 당사자성은 없다",
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "대한민국 선수단, '2026 아이치-나고야 아시안 패러게임' 전 종목 향해 출격",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784302&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-06",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "GLP-1"
+    ],
+    "item_id": "korea-kr-156784298",
+    "message_ts": "1791243953.299349",
+    "posted_at_iso": "2026-10-05T23:45:53.751579+00:00",
+    "priority": "중",
+    "reason": "비만치료제 온라인 불법판매 점검은 청소년도 노출될 수 있는 온라인 안전 사안으로 참고할 만하다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처  GLP-1 계열 비만치료제 온라인 불법판매 등 점검 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784298&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "문화체육관광부",
+    "entities": [
+      "2026 세계경주포럼",
+      "에이펙 경주선언"
+    ],
+    "item_id": "korea-kr-156784301",
+    "posted_at_iso": "2026-10-05T23:45:53.751604+00:00",
+    "priority": "하",
+    "reason": "경주 문화포럼은 성인 대상 국제 문화외교 행사로 또래와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'에이펙 경주선언' 잇는 '2026 세계경주포럼'으로 문화가 이끄는 공동 번영 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784301&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "고려대학교의료원"
+    ],
+    "item_id": "korea-kr-156784299",
+    "posted_at_iso": "2026-10-05T23:45:53.751622+00:00",
+    "priority": "하",
+    "reason": "식약처와 대학병원 간 업무협약은 성인 의료·연구 협력으로 학생과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식품의약품안전평가원, 고려대학교의료원과 업무협약(MOU) 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784299&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "산업통상부",
+    "entities": [
+      "5극3특 성장엔진 미래지도"
+    ],
+    "item_id": "korea-kr-156784304",
+    "posted_at_iso": "2026-10-05T23:45:53.751631+00:00",
+    "priority": "하",
+    "reason": "지역 성장엔진 AI 영상 공모전은 대상이 명시되지 않은 일반 공모전으로 청소년 직결성이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "당신의 상상으로 대한민국 산업의 미래를 그립니다 ｢5극3특 성장엔진 미래지도｣ AI 영상 공모전 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784304&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "외교부",
+    "entities": [],
+    "item_id": "korea-kr-156784300",
+    "posted_at_iso": "2026-10-05T23:45:53.751647+00:00",
+    "priority": "하",
+    "reason": "외교부 내부 인사 발령은 절차성 공고로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부 인사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784300&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "문화체육관광부",
+    "entities": [
+      "한글발전유공"
+    ],
+    "item_id": "korea-kr-156784303",
+    "posted_at_iso": "2026-10-05T23:45:53.751654+00:00",
+    "priority": "하",
+    "reason": "한글발전유공 포상은 성인 유공자 대상 시상으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "천여 종의 글꼴 개발, 한국어 세계화 등 한글 및 한국어 발전에 힘쓴 이들에게 '2026년 한글발전유공' 포상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784303&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-06",
+    "dept": "산업통상부",
+    "entities": [
+      "사우디"
+    ],
+    "item_id": "korea-kr-156784305",
+    "posted_at_iso": "2026-10-05T23:45:53.751661+00:00",
+    "priority": "하",
+    "reason": "한-사우디 산업 협력은 성인 비즈니스 정책으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한-사우디 미래 첨단산업 비즈니스 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784305&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-06&endDate=2026-10-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
