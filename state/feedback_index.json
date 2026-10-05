@@ -31205,5 +31205,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784264&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-05&endDate=2026-10-05&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-05",
+    "dept": "국세청",
+    "entities": [
+      "국세청",
+      "홈플러스"
+    ],
+    "item_id": "korea-kr-156784267",
+    "posted_at_iso": "2026-10-05T08:19:48.224380+00:00",
+    "priority": "하",
+    "reason": "호우·기업 피해 세금 납부 연장은 성인 기업 대상 행정 지원으로 청소년 당사자성도 관심사도 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "10월 부가세, 호우·홈플러스 피해기업 2개월 납부 연장",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784267&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-05&endDate=2026-10-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
