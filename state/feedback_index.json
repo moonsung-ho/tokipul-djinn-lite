@@ -32095,5 +32095,43 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784449&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-07&endDate=2026-10-07&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-07",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156784451",
+    "posted_at_iso": "2026-10-06T22:20:26.733512+00:00",
+    "priority": "하",
+    "reason": "소방 공무원 노사관계 대책으로 청소년의 권리·의무나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 건전한 노사관계 구축 위한 종합대책 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784451&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-07&endDate=2026-10-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-07",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156784450",
+    "posted_at_iso": "2026-10-06T22:20:26.733539+00:00",
+    "priority": "하",
+    "reason": "화학물질 유해성 평가 행정 효율화로 또래의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "인공지능 활용 유해성자료 조사… 자동화로 평가기간 70% 이상 단축 목표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784450&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-07&endDate=2026-10-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
