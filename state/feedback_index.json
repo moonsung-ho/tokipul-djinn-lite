@@ -32928,5 +32928,45 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784595&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-08&endDate=2026-10-08&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-08",
+    "dept": "소방청",
+    "entities": [
+      "울산항만소방정대",
+      "소방 502호"
+    ],
+    "item_id": "korea-kr-156784599",
+    "posted_at_iso": "2026-10-07T22:42:41.321851+00:00",
+    "priority": "하",
+    "reason": "항만 소방정 취항은 국가 인프라 안전 소식이지만 또래의 일상이나 직접적 관심사로 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "\"동북아 물류 거점, 국가 항만 안전 지킨다\"… 소방청, 울산항만소방정대 '소방 502호' 취항",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784599&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-08&endDate=2026-10-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-08",
+    "dept": "농림축산식품부",
+    "entities": [
+      "국립종자원",
+      "청명가을"
+    ],
+    "item_id": "korea-kr-156784598",
+    "posted_at_iso": "2026-10-07T22:42:41.321877+00:00",
+    "priority": "하",
+    "reason": "배추 품종 선정은 농업 실무 뉴스로 청소년의 권리·일상이나 또래 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "고온에도 속 꽉 찬 배추 '청명가을' 대한민국 최고 품종 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784598&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-08&endDate=2026-10-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
