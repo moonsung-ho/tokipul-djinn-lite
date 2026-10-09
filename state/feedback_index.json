@@ -33815,5 +33815,45 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784734&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-09&endDate=2026-10-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-09",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "FEALAC"
+    ],
+    "item_id": "korea-kr-156784741",
+    "posted_at_iso": "2026-10-09T10:03:23.588294+00:00",
+    "priority": "하",
+    "reason": "외교부 국제협력포럼 문화도시 네트워크 회의로 청소년의 권리·일상과 무관하고 또래가 알아야 할 시사성도 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제3차 동아시아-라틴아메리카 협력포럼(FEALAC) 문화도시 네트워크 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784741&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-09&endDate=2026-10-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-09",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "강원"
+    ],
+    "item_id": "korea-kr-156784740",
+    "posted_at_iso": "2026-10-09T10:03:23.588315+00:00",
+    "priority": "하",
+    "reason": "주한외교단 대상 지역 관광 홍보 행사로 청소년과 직접적 접점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "주한외교단, 강원의 매력에 빠지다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784740&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-09&endDate=2026-10-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
