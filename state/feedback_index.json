@@ -33855,5 +33855,84 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784740&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-09&endDate=2026-10-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-11",
+    "dept": "해양수산부",
+    "entities": [
+      "해양환경 이동교실",
+      "중부내륙권"
+    ],
+    "item_id": "korea-kr-156784750",
+    "message_ts": "1791690790.716469",
+    "posted_at_iso": "2026-10-11T03:53:11.215872+00:00",
+    "priority": "중",
+    "reason": "학교로 찾아가는 해양환경 교육 프로그램이 지역을 확대한다는 점에서 당사자성이 있으나 특정 학교·시기가 불분명해 간접적이다",
+    "source": "정책브리핑(해양수산부)",
+    "title": "바다가 학교로 찾아갑니다! 해양환경 이동교실 중부내륙권으로 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784750&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-11",
+    "dept": "해양수산부",
+    "entities": [
+      "여수 해양법 아카데미"
+    ],
+    "item_id": "korea-kr-156784749",
+    "posted_at_iso": "2026-10-11T03:53:11.215898+00:00",
+    "priority": "하",
+    "reason": "국제 해양법 아카데미는 대학(원)생·전문가급 인재 양성 프로그램으로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "'제13회 여수 해양법 아카데미' 개최, 22개국 미래 해양 인재 역량 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784749&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-11",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "고준위방사성폐기물관리위원회"
+    ],
+    "item_id": "korea-kr-156784751",
+    "posted_at_iso": "2026-10-11T03:53:11.215908+00:00",
+    "priority": "하",
+    "reason": "위원회 출범 1주년을 기념하는 성과 홍보성 자료로 구체적 결정이나 사건이 없어 또래가 알아야 할 단서가 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "고준위 방사성폐기물 관리위원회 출범 1년, 50년 국가 난제 해결의 기틀 다져",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784751&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-11",
+    "dept": "국세청",
+    "entities": [
+      "중소벤처기업부",
+      "국세청"
+    ],
+    "item_id": "korea-kr-156784752",
+    "posted_at_iso": "2026-10-11T03:53:11.215916+00:00",
+    "priority": "하",
+    "reason": "AI 중소기업·스타트업 지원 정책으로 성인 기업 대상이라 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "중기부·국세청, 2,559개 AI 중소·스타트업  집중 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784752&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
