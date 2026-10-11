@@ -33934,5 +33934,66 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784752&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-11",
+    "dept": "고용노동부",
+    "entities": [
+      "한국고용노동교육원",
+      "학교 밖 청소년"
+    ],
+    "item_id": "korea-kr-156784755",
+    "message_ts": "1791715084.526169",
+    "posted_at_iso": "2026-10-11T10:38:04.747996+00:00",
+    "priority": "상",
+    "reason": "학교 밖 청소년을 대상으로 한 노동권 교육 신설로, 또래(학교 밖 청소년 포함)의 권리·일상에 직접 닿는 사안이다.",
+    "source": "정책브리핑(고용노동부)",
+    "title": "학교 밖 청소년의 일하는 권리, 노동교육으로 지킨다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784755&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-10",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "대구 북구"
+    ],
+    "item_id": "korea-kr-156784754",
+    "message_ts": "1791715084.808479",
+    "posted_at_iso": "2026-10-11T10:38:05.005382+00:00",
+    "priority": "상",
+    "reason": "학생에게 규칙으로 직접 닿지는 않지만 건물 붕괴 재난은 안전·사회 전반의 관심사로 또래가 알아야 할 사안이다.",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 대구 북구 상가건물 붕괴사고 관련 긴급지시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784754&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-11",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156784756",
+    "posted_at_iso": "2026-10-11T10:38:05.005412+00:00",
+    "priority": "하",
+    "reason": "사업장 4대 보험 신고 절차 개선은 사업주·근로자 행정 편의 사안으로 청소년의 권리·일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "근로복지공단, 사업장 4대 사회보험 가입 신고 더 편리하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784756&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
