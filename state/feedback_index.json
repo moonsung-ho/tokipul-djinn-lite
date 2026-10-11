@@ -33995,5 +33995,26 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784756&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-11&endDate=2026-10-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-11",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "외교부",
+      "중동"
+    ],
+    "item_id": "korea-kr-156784784",
+    "posted_at_iso": "2026-10-11T16:35:49.872848+00:00",
+    "priority": "하",
+    "reason": "중동 거주 재외국민 안전대책 점검으로 국내 청소년의 규칙이나 일상과 무관하고, 중동 정세 자체를 다루는 기사도 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784784&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
