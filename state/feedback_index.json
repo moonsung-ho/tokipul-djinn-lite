@@ -34016,5 +34016,214 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784784&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "국토교통부",
+    "entities": [
+      "전세사기"
+    ],
+    "item_id": "korea-kr-156784785",
+    "posted_at_iso": "2026-10-12T00:16:07.381102+00:00",
+    "priority": "하",
+    "reason": "전세사기 피해자 지원은 주로 성인 세입자가 대상이라 청소년 당사자성이 낮다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "9월중 전세사기피해자등 623건 추가 결정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784785&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156784790",
+    "posted_at_iso": "2026-10-12T00:16:07.381129+00:00",
+    "priority": "하",
+    "reason": "국제인증표준품 분양은 산업계 대상 전문 실무 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 국제인증표준품 분양 개시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784790&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "일본"
+    ],
+    "item_id": "korea-kr-156784787",
+    "posted_at_iso": "2026-10-12T00:16:07.381135+00:00",
+    "priority": "하",
+    "reason": "한일 국방차관회담은 통상적 외교 행보로 구체적 사안이 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부차관, 방일 및 한일 국방차관회담 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784787&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "문화체육관광부",
+    "entities": [
+      "김진환",
+      "학지사"
+    ],
+    "item_id": "korea-kr-156784793",
+    "posted_at_iso": "2026-10-12T00:16:07.381141+00:00",
+    "priority": "하",
+    "reason": "개인 훈장 수훈 동정 기사로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "김진환 ㈜학지사 대표이사,  출판문화 발전 유공 은관문화훈장 수훈",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784793&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "모두의 창업"
+    ],
+    "item_id": "korea-kr-156784789",
+    "posted_at_iso": "2026-10-12T00:16:07.381146+00:00",
+    "priority": "하",
+    "reason": "창업 지원사업으로 대상이 성인 창업자이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "유망 아이디어를 창업으로, 2차 ｢모두의 창업｣ AI 솔루션 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784789&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "공주"
+    ],
+    "item_id": "korea-kr-156784786",
+    "posted_at_iso": "2026-10-12T00:16:07.381154+00:00",
+    "priority": "하",
+    "reason": "지역 전통시장 박람회로 대상이 지역 상인·성인이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "전국 전통시장 한자리에... 제22회 전국우수시장박람회, 충남 공주서 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784786&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "재정경제부",
+    "entities": [
+      "대외경제장관회의"
+    ],
+    "item_id": "korea-kr-156784794",
+    "posted_at_iso": "2026-10-12T00:16:07.381159+00:00",
+    "priority": "하",
+    "reason": "대외경제장관회의는 정부 간 정책 협의로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "제274차 대외경제장관회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784794&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156784788",
+    "posted_at_iso": "2026-10-12T00:16:07.381171+00:00",
+    "priority": "하",
+    "reason": "AI 중소기업 세정 지원 사업으로 대상이 성인 사업자이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부·국세청,  2,559개 AI 중소·스타트업 집중 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784788&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "행정안전부",
+    "entities": [
+      "지방소멸대응기금"
+    ],
+    "item_id": "korea-kr-156784796",
+    "posted_at_iso": "2026-10-12T00:16:07.381178+00:00",
+    "priority": "하",
+    "reason": "지방소멸대응기금 배분 방식 변경은 지자체 재정 행정 사안으로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "지방소멸대응기금 광역지원계정, 평가 기반 차등 배분 도입으로 성과 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784796&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "문화체육관광부",
+    "entities": [
+      "코리안 쿡오프"
+    ],
+    "item_id": "korea-kr-156784792",
+    "posted_at_iso": "2026-10-12T00:16:07.381207+00:00",
+    "priority": "하",
+    "reason": "방송 프로그램 홍보성 보도자료로 청소년 당사자성이나 사회적 관심사와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한국인 어머니와 주한 외국인이 한 팀,  한식 집밥 경연 <코리안 쿡오프> 방송 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784792&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "문화체육관광부",
+    "entities": [],
+    "item_id": "korea-kr-156784791",
+    "posted_at_iso": "2026-10-12T00:16:07.381224+00:00",
+    "priority": "하",
+    "reason": "한글 정책 토론회로 보이나 대상이 전문가·성인 중심이라 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한글과 한국어의 다음 100년을 논하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784791&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
