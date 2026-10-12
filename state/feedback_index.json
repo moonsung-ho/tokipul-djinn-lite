@@ -34569,5 +34569,201 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784846&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-12",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156784869",
+    "message_ts": "1791788424.650309",
+    "posted_at_iso": "2026-10-12T07:00:25.486078+00:00",
+    "priority": "상",
+    "reason": "청소년 대상 기후위기 교육 프로그램으로 토끼풀이 다뤄온 기후 이슈와 직접 닿는다",
+    "source": "정책브리핑(산림청)",
+    "title": "청소년, 숲에서 기후위기 대응과 탄소중립을 배우다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784869&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-12",
+    "dept": "고용노동부",
+    "entities": [
+      "건설근로자공제회",
+      "청평고등학교"
+    ],
+    "item_id": "korea-kr-156784865",
+    "message_ts": "1791788425.716199",
+    "posted_at_iso": "2026-10-12T07:00:26.403779+00:00",
+    "priority": "중",
+    "reason": "청평고등학교 학생 대상 직업훈련 성과 공유회로 직업계고 학생의 진로와 관련되나 대상이 좁고 성인 기관 주도 행사다",
+    "source": "정책브리핑(고용노동부)",
+    "title": "건설근로자공제회,  인공지능(AI) 시대 청년 기능인 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784865&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-12",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156784864",
+    "message_ts": "1791788426.639579",
+    "posted_at_iso": "2026-10-12T07:00:27.315527+00:00",
+    "priority": "중",
+    "reason": "장애학생 방학 중 돌봄 공백 해소라는 학생 복지 사안이나 특정 계절학교 후원금 전달이라는 간접적 지원 사례다",
+    "source": "정책브리핑(고용노동부)",
+    "title": "근로복지공단, 장애학생 방학 중  교육·돌봄 공백 해소 나서",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784864&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-12",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156784870",
+    "message_ts": "1791788427.550339",
+    "posted_at_iso": "2026-10-12T07:00:28.223620+00:00",
+    "priority": "중",
+    "reason": "한일 교류 행사이나 대학생 대상이라 중학생 당사자성은 약하고 국제교류 소식으로서만 참고할 만하다",
+    "source": "정책브리핑(외교부)",
+    "title": "한일 대학생, 새로운 한일 관계 60년을 기대한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784870&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "통일부",
+    "entities": [
+      "통일부"
+    ],
+    "item_id": "korea-kr-156784877",
+    "posted_at_iso": "2026-10-12T07:00:28.223648+00:00",
+    "priority": "하",
+    "reason": "고위공무원 인사발령으로 전형적인 절차성 인사 공고다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "고위공무원 인사발령(2026.10.12.자)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784877&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156784871",
+    "posted_at_iso": "2026-10-12T07:00:28.223656+00:00",
+    "priority": "하",
+    "reason": "기관 내부 직원 포상 시상으로 절차성 인사 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 9월의 관세인 및 3분기 핵심가치상 시상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784871&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156784872",
+    "posted_at_iso": "2026-10-12T07:00:28.223662+00:00",
+    "priority": "하",
+    "reason": "외국 세관공무원 대상 실무 연수로 청소년과 무관한 성인 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 인도·이집트 세관공무원 대상  관세행정 심화연수 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784872&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "국방부",
+    "entities": [
+      "국방부"
+    ],
+    "item_id": "korea-kr-156784873",
+    "posted_at_iso": "2026-10-12T07:00:28.223667+00:00",
+    "priority": "하",
+    "reason": "국방 행정 AI 거점 개소식으로 성인 행정 조직 사안이며 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 첫 번째 「국방 AX 거점」 개소식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784873&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156784874",
+    "posted_at_iso": "2026-10-12T07:00:28.223672+00:00",
+    "priority": "하",
+    "reason": "성인 대상 포상 공모로 청소년의 일상이나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "우리 바다의 영웅, '바다의인(義人)'을 찾습니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784874&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-12",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "북극서클총회"
+    ],
+    "item_id": "korea-kr-156784875",
+    "posted_at_iso": "2026-10-12T07:00:28.223824+00:00",
+    "priority": "하",
+    "reason": "극지 외교 동정 보도로 단순 참석 소식일 뿐 청소년과 이어지는 과학적 성과나 사안이 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "이태우 극지협력대표,  2026 북극서클총회 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784875&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-12&endDate=2026-10-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
