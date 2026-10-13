@@ -35001,5 +35001,373 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784920&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "공정거래위원회",
+    "entities": [
+      "교복 입찰 담합"
+    ],
+    "item_id": "korea-kr-156784962",
+    "message_ts": "1791869123.875719",
+    "posted_at_iso": "2026-10-13T05:25:24.545372+00:00",
+    "priority": "상",
+    "reason": "교복 입찰 담합은 학생과 학부모가 매년 지불하는 교복 가격에 직접 영향을 미치는 공정성 사안이다.",
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "3개 지역 교복 입찰 담합 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784962&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "경찰청",
+    "entities": [],
+    "item_id": "korea-kr-156784980",
+    "message_ts": "1791869124.798879",
+    "posted_at_iso": "2026-10-13T05:25:25.368834+00:00",
+    "priority": "중",
+    "reason": "암표 단속은 콘서트·스포츠 관람을 즐기는 또래에게도 영향을 미치는 소비자 보호 사안이다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "\"야구장 앞 암표상, 형사처벌이 강화됩니다.\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784980&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "문화체육관광부",
+    "entities": [
+      "음악산업법"
+    ],
+    "item_id": "korea-kr-156784971",
+    "message_ts": "1791869125.561089",
+    "posted_at_iso": "2026-10-13T05:25:26.154636+00:00",
+    "priority": "중",
+    "reason": "뮤직비디오 등급분류 제도 변경은 또래가 접하는 콘텐츠 접근성과 청소년 보호 기준에 영향을 줄 수 있다.",
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "뮤직비디오 '자체등급분류' 시대 열린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784971&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "국립공원공단"
+    ],
+    "item_id": "korea-kr-156784965",
+    "message_ts": "1791869126.341219",
+    "posted_at_iso": "2026-10-13T05:25:27.050736+00:00",
+    "priority": "중",
+    "reason": "AI 기반 야생동물 판별 기술은 과학기술 성과로 또래의 관심사가 될 수 있다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "국립공원공단, 인공지능 자동 동정 영상 분석으로 야생동물 17종 판별",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784965&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "교육부",
+    "entities": [
+      "부트캠프"
+    ],
+    "item_id": "korea-kr-156784968",
+    "message_ts": "1791869127.304479",
+    "posted_at_iso": "2026-10-13T05:25:27.957511+00:00",
+    "priority": "중",
+    "reason": "학생들이 참여한 반도체·미래차 산업 현장 체험으로 진로교육 측면에서 당사자성이 있으나 대상 학교·학년이 불분명해 추가 확인이 필요하다.",
+    "source": "정책브리핑(교육부)",
+    "title": "부트캠프 학생들, 반도체와 미래차 산업 현장을 만나다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784968&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-13",
+    "dept": "기후에너지환경부",
+    "entities": [],
+    "item_id": "korea-kr-156784966",
+    "message_ts": "1791869128.128109",
+    "posted_at_iso": "2026-10-13T05:25:28.830623+00:00",
+    "priority": "중",
+    "reason": "화학사고 대응 역량강화는 재난안전 사안으로 또래가 알아야 할 환경·안전 정보에 해당한다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "화학사고 발생 시 '주민대피·수습복구' 최우선… 지방정부 대응역량 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784966&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "외교부",
+    "entities": [
+      "퀀텀개발그룹"
+    ],
+    "item_id": "korea-kr-156784982",
+    "posted_at_iso": "2026-10-13T05:25:28.830650+00:00",
+    "priority": "하",
+    "reason": "국가 간 퀀텀기술 협력 외교 사안으로 청소년의 일상이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "13개국 퀀텀개발그룹, 안전하고 신뢰할 수 있는 퀀텀 생태계 구축을 위한 협력 의지 다져",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784982&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "산업통상부",
+    "entities": [
+      "대외무역법 시행령"
+    ],
+    "item_id": "korea-kr-156784972",
+    "posted_at_iso": "2026-10-13T05:25:28.830660+00:00",
+    "priority": "하",
+    "reason": "대외무역법 시행령 개정은 기업·무역 실무 사안으로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "「대외무역법 시행령」 개정안 국무회의 의결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784972&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "AI기본법",
+      "데이터산업법"
+    ],
+    "item_id": "korea-kr-156784979",
+    "posted_at_iso": "2026-10-13T05:25:28.830668+00:00",
+    "priority": "하",
+    "reason": "국가 AI 데이터 관리 법제 개정으로 전문적 산업·행정 사안이라 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국가 AI 데이터의 체계적 관리·활용을 위한 ｢AI기본법｣, ｢데이터산업법｣ 개정안 국무회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784979&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "농림축산식품부",
+    "entities": [
+      "2030청년자문단"
+    ],
+    "item_id": "korea-kr-156784981",
+    "posted_at_iso": "2026-10-13T05:25:28.830675+00:00",
+    "priority": "하",
+    "reason": "2030세대 청년자문단 워크숍으로 중학생 당사자성이나 관심사로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 2030청년자문단, 현장형 워크숍 통해 정책 아이디어 발굴",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784981&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "산업통상부"
+    ],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "행정안전부",
+    "entities": [
+      "반도체 메가프로젝트 전담국",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156784978",
+    "posted_at_iso": "2026-10-13T05:25:28.830682+00:00",
+    "priority": "하",
+    "reason": "반도체 산업 행정조직 신설은 성인 산업정책 영역으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "반도체 메가프로젝트 전담국(局) 출범",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784978&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "행정안전부"
+    ],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "국토교통부",
+    "entities": [
+      "세종"
+    ],
+    "item_id": "korea-kr-156784986",
+    "posted_at_iso": "2026-10-13T05:25:28.830689+00:00",
+    "priority": "하",
+    "reason": "중앙행정기관의 세종 이전은 행정조직 개편 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "세종 중심 국정운영 강화, 2차 중앙행정기관 이전 본격 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784986&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화예술정책자문위원회"
+    ],
+    "item_id": "korea-kr-156784985",
+    "posted_at_iso": "2026-10-13T05:25:28.830697+00:00",
+    "priority": "하",
+    "reason": "애니메이션·영화 업계 종사자를 위한 예산·정책 자문 회의로 청소년 당사자나 관심사와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "애니메이션 및 영화 분야 현장 목소리로  2027년 정부 예산안 및 정책 방향 설계",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784985&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "보건복지부",
+    "entities": [
+      "지역맞춤형 통합돌봄"
+    ],
+    "item_id": "korea-kr-156784964",
+    "posted_at_iso": "2026-10-13T05:25:28.830704+00:00",
+    "priority": "하",
+    "reason": "지역맞춤형 통합돌봄은 노인·취약계층 돌봄 행정으로 보여 청소년 당사자성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "어디가 부족한 지 정밀하게 찾았다데이터 기반 지역맞춤형 통합돌봄 본격 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784964&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "감사원",
+    "entities": [
+      "인천"
+    ],
+    "item_id": "korea-kr-156784963",
+    "posted_at_iso": "2026-10-13T05:25:28.830711+00:00",
+    "priority": "하",
+    "reason": "인천 지역 건설공사·시설안전 감사는 학교시설 포함 여부가 불분명한 일반 행정감사로 보인다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "지역 주요건설공사 및 시설안전 관리실태[인천]",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784963&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156784976",
+    "posted_at_iso": "2026-10-13T05:25:28.830717+00:00",
+    "priority": "하",
+    "reason": "최중증 발달장애인 가족 대상 활동지원 제도로 대상이 성인·가족돌봄자에 한정돼 청소년 당사자성이 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "최중증 발달장애인·희귀질환자 가족에 의한 활동지원 2028년까지 연장",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784976&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "",
+    "entities": [
+      "교육자원봉사지원센터"
+    ],
+    "item_id": "sen-press-192313",
+    "posted_at_iso": "2026-10-13T05:25:28.830724+00:00",
+    "priority": "하",
+    "reason": "센터 설립 10주년 수상 소식으로 학생 제도 변화나 또래 관심사와 직접 연결되지 않는 홍보성 기사다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "학교와 사람을 이어온 10년..  서울시교육청 교육자원봉사지원센터, 전문교육봉사 모델로 우뚝 서다",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192313&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "행정안전부",
+    "entities": [
+      "모바일신분증",
+      "신한은행",
+      "우리은행",
+      "하나은행"
+    ],
+    "item_id": "korea-kr-156784970",
+    "posted_at_iso": "2026-10-13T05:25:28.830731+00:00",
+    "priority": "하",
+    "reason": "모바일신분증 민간 개방은 성인 금융앱 중심 서비스로 청소년 직접 이용과는 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부, 모바일신분증 민간 개방 확대…  기업·신한·우리·하나은행 앱서도 이용 가능",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784970&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "기후에너지환경부",
+    "entities": [],
+    "item_id": "korea-kr-156784967",
+    "posted_at_iso": "2026-10-13T05:25:28.830749+00:00",
+    "priority": "하",
+    "reason": "화학물질 제도 설명회는 산업계 대상 행정 안내로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "화학물질 제도 이행 돕는다… 산업계 대상 권역별 설명회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784967&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
