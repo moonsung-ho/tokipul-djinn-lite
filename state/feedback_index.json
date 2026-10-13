@@ -35369,5 +35369,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784967&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청",
+      "국립산림레포츠센터"
+    ],
+    "item_id": "korea-kr-156784988",
+    "posted_at_iso": "2026-10-13T05:55:29.221693+00:00",
+    "priority": "하",
+    "reason": "산림레포츠센터 조성사업 기반시설 공사 현장점검은 행정 실무성 공고로 학생의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "동부지방산림청, 국립산림레포츠센터 조성사업 기반시설 공사 현장점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784988&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-13",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156784989",
+    "posted_at_iso": "2026-10-13T05:55:29.221714+00:00",
+    "priority": "하",
+    "reason": "중소 방송사업자 지원 근거 마련은 산업 지원 정책으로 청소년의 권리·의무나 또래의 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "중소 방송채널사용사업자 지원 근거 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156784989&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-13&endDate=2026-10-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
