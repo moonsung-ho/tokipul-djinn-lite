@@ -36516,5 +36516,442 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785127&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-14&endDate=2026-10-14&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-14",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "이태원참사",
+      "유가족간담회"
+    ],
+    "item_id": "korea-kr-156785197",
+    "message_ts": "1791995631.452659",
+    "posted_at_iso": "2026-10-14T16:33:52.028999+00:00",
+    "priority": "중",
+    "reason": "이태원참사는 또래 세대와도 맞닿은 사회적 재난·안전 사안이나 이번 자료는 간담회 동정에 그친다.",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 이태원참사 추모위원회 및 유가족 간담회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785197&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-14",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "고춧가루"
+    ],
+    "item_id": "korea-kr-156785183",
+    "message_ts": "1791995632.204539",
+    "posted_at_iso": "2026-10-14T16:33:52.791548+00:00",
+    "priority": "중",
+    "reason": "잔류농약 초과 식품 회수는 일상 식품안전 사안으로 또래도 알아둘 만하나 학생 대상이 특정되지 않는다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 잔류농약 기준 초과 검출된 '고춧가루' 회수 조치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785183&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "",
+    "entities": [
+      "전국교직원노동조합서울지부"
+    ],
+    "item_id": "sen-notice-20261014190724223",
+    "posted_at_iso": "2026-10-14T16:33:52.791611+00:00",
+    "priority": "하",
+    "reason": "교육청과 교원노조 간 보충교섭 안건 의견수렴으로 학생의 권리·일상과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "(교육청-전교조서울지부) 2026년 보충교섭 대상 안건 의견 수렴",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261014190724223",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "고용노동부",
+    "entities": [
+      "메가특구특별법",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156785222",
+    "posted_at_iso": "2026-10-14T16:33:52.791634+00:00",
+    "priority": "하",
+    "reason": "메가특구특별법 관련 노사정 실무협의체 개최로 대상이 성인 노동·산업계다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)「(가칭) 메가특구특별법 관련 원포인트 사회적 대화」 제4차 실무협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785222&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "국무조정실",
+    "entities": [
+      "생명지킴추진본부",
+      "부산"
+    ],
+    "item_id": "korea-kr-156785176",
+    "posted_at_iso": "2026-10-14T16:33:52.791648+00:00",
+    "priority": "하",
+    "reason": "자살예방 관련 지역 간담회로 대상이 성인 중심이며 구체적 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 생명지킴추진본부, 부산지역 천명지킴 현장소통 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785176&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "경찰개혁위원회"
+    ],
+    "item_id": "korea-kr-156785224",
+    "posted_at_iso": "2026-10-14T16:33:52.791670+00:00",
+    "priority": "하",
+    "reason": "경찰개혁위원회 위촉식으로 실제 처분이 아닌 구성 단계의 절차성 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 제1차 경찰개혁위원회 위촉식 및 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785224&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "재정경제부",
+    "entities": [
+      "공급망안정화기금",
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156785191",
+    "posted_at_iso": "2026-10-14T16:33:52.791680+00:00",
+    "priority": "하",
+    "reason": "공급망안정화기금의 중소·중견기업 지원 설명자료로 성인 경제정책 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "[보도참고] 공급망안정화기금은 공급망 위기 대응을 위한 금융지원을 확대해 왔으며, 앞으로 중소·중견기업 지원도 강화하겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785191&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156785228",
+    "posted_at_iso": "2026-10-14T16:33:52.791688+00:00",
+    "priority": "하",
+    "reason": "전세계약 보증금 관련 통계 해명자료로 성인 임대차 시장 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[설명] '전세계약 5건 중 1건이 보증금 먹튀·바가지 의심'이라고 보는 것은 적절하지 않습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785228&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "학생역량·혁신교육과",
+    "entities": [
+      "서울형 난산 학생 선별 체크리스트",
+      "학생역량·혁신교육과"
+    ],
+    "item_id": "sen-notice-20261014162515233",
+    "posted_at_iso": "2026-10-14T16:33:52.791696+00:00",
+    "priority": "하",
+    "reason": "난산 학생 관련 연구이지만 실제 내용은 평가위원 후보자 모집 절차성 공고로 알맹이가 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "[학생역량 혁신교육과] 2026 서울형 난산 학생 선별 체크리스트 규준화 연구 용역 제안서 평가위원회 평가위원 후보자 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261014162515233",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "국방부",
+    "entities": [
+      "지상작전사령부",
+      "국방부"
+    ],
+    "item_id": "korea-kr-156785190",
+    "posted_at_iso": "2026-10-14T16:33:52.791704+00:00",
+    "priority": "하",
+    "reason": "국방부장관의 부대 현장점검으로 일상적 군사 동정 보도에 가깝다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관, 지상작전사령부 군사대비태세 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785190&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156785187",
+    "posted_at_iso": "2026-10-14T16:33:52.791712+00:00",
+    "priority": "하",
+    "reason": "AI 농업로봇 실증 현장 방문으로 또래와 접점이 없는 농업 기술 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 차관, AI 농업로봇 실증 현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785187&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "법무부",
+    "entities": [
+      "법무부"
+    ],
+    "item_id": "korea-kr-156785184",
+    "posted_at_iso": "2026-10-14T16:33:52.791720+00:00",
+    "priority": "하",
+    "reason": "동포 역사·정책을 돌아보는 행사로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "동포의 역사를 돌아보고, 미래 동포정책의 길을 찾다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785184&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "외교부",
+    "entities": [
+      "박윤주",
+      "외교부",
+      "태국"
+    ],
+    "item_id": "korea-kr-156785227",
+    "posted_at_iso": "2026-10-14T16:33:52.791727+00:00",
+    "priority": "하",
+    "reason": "한-태국 외교 전략대화로 청소년과 접점이 없는 일반 외교 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "박윤주 외교부 제1차관, 제2차 한-태국 전략대화 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785227&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청",
+      "국가숲길"
+    ],
+    "item_id": "korea-kr-156785174",
+    "posted_at_iso": "2026-10-14T16:33:52.791734+00:00",
+    "priority": "하",
+    "reason": "국가숲길 운영 지역협의회 개최로 지역 산림 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 국가숲길 운영·관리 지역협의회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785174&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "산림청",
+    "entities": [
+      "영암국유림관리소",
+      "영암군청"
+    ],
+    "item_id": "korea-kr-156785179",
+    "posted_at_iso": "2026-10-14T16:33:52.791741+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병·산림 불법행위 합동단속으로 지역 산림 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영암국유림-영암군, 소나무재선충병 및 산림 불법행위 합동단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785179&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156785175",
+    "posted_at_iso": "2026-10-14T16:33:52.791748+00:00",
+    "priority": "하",
+    "reason": "외국어선 불법조업 단속으로 청소년과 접점이 없는 해양 치안 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "외국어선 본격 조업 개시, 불법조업 기승 대비 서·남해 해역 대대적 단속 활동 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785175&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "웹툰"
+    ],
+    "item_id": "korea-kr-156785177",
+    "posted_at_iso": "2026-10-14T16:33:52.791755+00:00",
+    "priority": "하",
+    "reason": "웹툰 산업계와의 예산안 논의로 콘텐츠 산업 정책이지 청소년 직접 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "웹툰 산업계와 2027년 정부 예산안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785177&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156785189",
+    "posted_at_iso": "2026-10-14T16:33:52.791762+00:00",
+    "priority": "하",
+    "reason": "산림 근로자 안전사각지대 해소 노력으로 성인 근로자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, 산림문화 근로자 안전사각지대 해소 노력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785189&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156785182",
+    "posted_at_iso": "2026-10-14T16:33:52.791769+00:00",
+    "priority": "하",
+    "reason": "조달청 내부 적극행정 우수사례 선정으로 절차성 행정 홍보 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 2026년 하반기 적극행정 우수사례 12건 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785182&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "메릴린 스트릭랜드"
+    ],
+    "item_id": "korea-kr-156785223",
+    "posted_at_iso": "2026-10-14T16:33:52.791776+00:00",
+    "priority": "하",
+    "reason": "장관의 외국 의원 면담으로 또래와 이어질 각도가 없는 외교 동정 기사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, 메릴린 스트릭랜드 미국 하원의원 면담(10.14.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785223&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "유재신"
+    ],
+    "item_id": "korea-kr-156785180",
+    "posted_at_iso": "2026-10-14T16:33:52.791795+00:00",
+    "priority": "하",
+    "reason": "이달의 재외동포 선정은 성인 동포 인물 소개로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "캐나다에 한국학 뿌리 내린 故유재신 교수, 10월 '이달의 재외동포' 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785180&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-14",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "싱가포르"
+    ],
+    "item_id": "korea-kr-156785226",
+    "posted_at_iso": "2026-10-14T16:33:52.791802+00:00",
+    "priority": "하",
+    "reason": "한-싱가포르 외교장관 통화 결과로 청소년과 무관한 외교 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-싱가포르 외교장관 통화(10.14.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785226&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
