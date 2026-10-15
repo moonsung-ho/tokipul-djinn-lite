@@ -38005,5 +38005,23 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785355&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-15&endDate=2026-10-15&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "과학기술정보통신부",
+    "entities": [],
+    "item_id": "korea-kr-156785382",
+    "message_ts": "1792087427.987769",
+    "posted_at_iso": "2026-10-15T18:03:48.362109+00:00",
+    "priority": "상",
+    "reason": "반도체 소재 혁신은 또래의 과학적 관심사를 자극하는 과학기술 성과다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "원자 바꿔 반도체 소재 자유자재로... 차세대 초고성능 소자 구현",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785382&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
   }
 ]
