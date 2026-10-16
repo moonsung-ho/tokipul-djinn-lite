@@ -38229,5 +38229,392 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785383&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "부천시"
+    ],
+    "item_id": "korea-kr-156785416",
+    "message_ts": "1792121828.883299",
+    "posted_at_iso": "2026-10-16T03:37:09.375849+00:00",
+    "priority": "중",
+    "reason": "공장화재는 재난·안전 사안이지만 특정 사업장의 지역적 산업재해로 또래와의 연결이 간접적이다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 경기 부천시 공장화재 관련 긴급지시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785416&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "보건복지부",
+    "entities": [
+      "국립나주병원"
+    ],
+    "item_id": "korea-kr-156785425",
+    "message_ts": "1792121829.482019",
+    "posted_at_iso": "2026-10-16T03:37:09.895103+00:00",
+    "priority": "중",
+    "reason": "정신건강은 토끼풀의 주제이지만 특정 병원의 성인 대상 콘서트 행사로 대상이 좁다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "내 마음의 소리에 귀 기울이는 시간... 국립나주병원, 정신건강의 날 기념 공감 콘서트 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785425&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156785424",
+    "message_ts": "1792121830.023269",
+    "posted_at_iso": "2026-10-16T03:37:10.537991+00:00",
+    "priority": "중",
+    "reason": "소나무재선충병 국가방제벨트는 전국 산림 생태계 이슈로 환경 관심사와 닿지만 또래 일상과 직접 연결은 약하다",
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 소나무재선충병 확산 막는 '국가방제벨트' 전국 조성 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785424&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156785437",
+    "posted_at_iso": "2026-10-16T03:37:10.538015+00:00",
+    "priority": "하",
+    "reason": "이북도민 체육대회는 특정 성인 집단 행사로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "'평화를 향한 여정, 화합을 위한 광장' 제44회 대통령기 이북도민 체육대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785437&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156785400",
+    "posted_at_iso": "2026-10-16T03:37:10.538044+00:00",
+    "priority": "하",
+    "reason": "취업자수 통계는 행정 실무 고용지표로 사회의 모습을 보여주는 통계로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) '26.9월 취업자수 11.3만명 증가, 제조업 취업자수는 27개월만에 증가 전환",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785400&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156785435",
+    "posted_at_iso": "2026-10-16T03:37:10.538053+00:00",
+    "priority": "하",
+    "reason": "지역별고용조사는 행정 실무 통계로 사회의 모습을 보여주는 전국 통계로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 하반기 지역별고용조사 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785435&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156785417",
+    "posted_at_iso": "2026-10-16T03:37:10.538071+00:00",
+    "priority": "하",
+    "reason": "의료관련감염 예방관리 포럼은 전문가 대상 행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "[10.16.행사시작(10시)이후] 2026년 의료관련감염 예방관리 주간 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785417&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실",
+      "충청"
+    ],
+    "item_id": "korea-kr-156785439",
+    "posted_at_iso": "2026-10-16T03:37:10.538078+00:00",
+    "priority": "하",
+    "reason": "충청 지역 돌봄 토론회로 성인·지역 정책 토론이며 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] '대한민국 대전환 제2차 국민토론회-충청에서 돌봄을 묻다' 개최 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785439&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국무조정실",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156785434",
+    "posted_at_iso": "2026-10-16T03:37:10.538085+00:00",
+    "priority": "하",
+    "reason": "산림사업 추진실태 점검은 행정 내부 점검으로 학생과 연결점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 산림사업 추진실태 합동점검 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785434&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "전등사"
+    ],
+    "item_id": "korea-kr-156785411",
+    "posted_at_iso": "2026-10-16T03:37:10.538092+00:00",
+    "priority": "하",
+    "reason": "명승 지정 소식은 단순 행정 지정으로 또래의 일상이나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "「강화 정족산 전등사 일원」 명승 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785411&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "월출산"
+    ],
+    "item_id": "korea-kr-156785408",
+    "posted_at_iso": "2026-10-16T03:37:10.538098+00:00",
+    "priority": "하",
+    "reason": "명승 지정 소식은 단순 행정 지정으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "「월출산 일원」 명승 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785408&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156785414",
+    "posted_at_iso": "2026-10-16T03:37:10.538105+00:00",
+    "priority": "하",
+    "reason": "결혼서비스업 과태료는 성인 소비자 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "결혼서비스업 분야 중요정보고시 위반 업체 과태료 부과절차 진행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785414&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "국립문화유산연구원"
+    ],
+    "item_id": "korea-kr-156785412",
+    "posted_at_iso": "2026-10-16T03:37:10.538111+00:00",
+    "priority": "하",
+    "reason": "국보·보물 관리 안내서는 문화재 전문기관 대상 자료로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "국립문화유산연구원, 국보·보물 일상관리 위한 안내서 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785412&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156785422",
+    "posted_at_iso": "2026-10-16T03:37:10.538118+00:00",
+    "priority": "하",
+    "reason": "산림박람회 연구성과는 임업·업계 종사자 대상 전문 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립산림과학원, '2026 대한민국 산림박람회'서 최신 산림과학 연구성과 선보여 - 디지털 산림재난 대응부터 산림바이오·국산목재 활용, 임업소득 컨설팅까지 다채로운 프로그램 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785422&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "국립수목원"
+    ],
+    "item_id": "korea-kr-156785431",
+    "posted_at_iso": "2026-10-16T03:37:10.538124+00:00",
+    "priority": "하",
+    "reason": "산림분야 규제혁신 소통은 업계·성인 대상 행사로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청 국립수목원, 국민과 함께하는 산림분야 규제혁신 현장 소통",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785431&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156785406",
+    "posted_at_iso": "2026-10-16T03:37:10.538131+00:00",
+    "priority": "하",
+    "reason": "시설공사 입찰동향은 절차성 공고로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "시설공사 주간('26.10.19.~'26.10.23.) 입찰 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785406&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156785433",
+    "posted_at_iso": "2026-10-16T03:37:10.538140+00:00",
+    "priority": "하",
+    "reason": "인사 발령은 절차성 공고로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부 인사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785433&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부",
+      "대전"
+    ],
+    "item_id": "korea-kr-156785415",
+    "posted_at_iso": "2026-10-16T03:37:10.538148+00:00",
+    "priority": "하",
+    "reason": "인빅터스 게임은 상이군경 대상 국제 스포츠 행사로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "인빅터스 게임 대전 2029 개최 선포식， 17일 대전서 열린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785415&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156785401",
+    "posted_at_iso": "2026-10-16T03:37:10.538155+00:00",
+    "priority": "하",
+    "reason": "일자리전담반 TF는 성인 고용정책 협의체로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "제11차 관계부처 합동 일자리전담반(TF) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785401&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156785419",
+    "posted_at_iso": "2026-10-16T03:37:10.538161+00:00",
+    "priority": "하",
+    "reason": "자동차세 체납 단속은 성인 차량 소유자 대상 행정 단속이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행정안전부, 15일 전국서 자동차세 등 상습 체납 차량 합동단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785419&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
