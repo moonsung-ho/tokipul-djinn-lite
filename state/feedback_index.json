@@ -39071,5 +39071,42 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785501&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국무조정실",
+    "entities": [],
+    "item_id": "korea-kr-156785529",
+    "posted_at_iso": "2026-10-16T15:14:22.324049+00:00",
+    "priority": "하",
+    "reason": "주택공급·전월세 정책은 성인 가구 대상 부동산 정책으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제1차 주택공급 정례브리핑, '내 집 어디에 있나'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785529&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "치매안심센터"
+    ],
+    "item_id": "korea-kr-156785530",
+    "posted_at_iso": "2026-10-16T15:14:22.324092+00:00",
+    "priority": "하",
+    "reason": "치매안심센터·통합돌봄은 노인 복지 사안으로 청소년의 권리·일상과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 통합돌봄 및 치매안심센터 현장방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785530&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
