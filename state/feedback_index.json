@@ -38635,5 +38635,441 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785443&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "",
+    "entities": [
+      "일반고 직업교육 위탁과정"
+    ],
+    "item_id": "sen-press-192363",
+    "message_ts": "1792147378.415219",
+    "posted_at_iso": "2026-10-16T10:42:59.133310+00:00",
+    "priority": "상",
+    "reason": "고3 진학 예정 학생을 대상으로 한 직업교육 위탁과정 제도로 진로 선택에 직결된다",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청,  2027학년도 일반고 직업교육 위탁과정 모집",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192363&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "",
+    "entities": [
+      "채움AI",
+      "세종특별자치시교육청",
+      "충청남도교육청"
+    ],
+    "item_id": "sen-press-192362",
+    "message_ts": "1792147379.352879",
+    "posted_at_iso": "2026-10-16T10:43:00.026700+00:00",
+    "priority": "중",
+    "reason": "AI 채점 시스템 확산은 학생 평가방식에 영향을 주지만 아직 실천학교 단계라 간접적이다",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청의 채움 AI,  이번엔 세종·충남·경북에서 사용된다!",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192362&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-16",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156785522",
+    "message_ts": "1792147380.254759",
+    "posted_at_iso": "2026-10-16T10:43:00.870725+00:00",
+    "priority": "중",
+    "reason": "식품안전 회수조치는 또래도 소비할 수 있는 제품이라 관심사로 볼 여지가 있다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 소비기한 미표시 소스 회수 조치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785522&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156785505",
+    "posted_at_iso": "2026-10-16T10:43:00.870751+00:00",
+    "priority": "하",
+    "reason": "주택공급 정책은 성인 가구 대상으로 또래와 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "\"내 집 어디에, 언제 공급되나\" 주택공급, 계획부터 성과까지 정례적으로 공개합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785505&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156785508",
+    "posted_at_iso": "2026-10-16T10:43:00.870767+00:00",
+    "priority": "하",
+    "reason": "재외동포 청년 취업정착 지원은 성인 취업자 대상 프로그램이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785508&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "양재"
+    ],
+    "item_id": "korea-kr-156785504",
+    "posted_at_iso": "2026-10-16T10:43:00.870775+00:00",
+    "priority": "하",
+    "reason": "꽃 축제 행사로 또래의 권리나 관심사와 연결점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "'Bloom Together'... 도심 숲에서 만나는 '2026 양재 플라워 페스타'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785504&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156785527",
+    "posted_at_iso": "2026-10-16T10:43:00.870793+00:00",
+    "priority": "하",
+    "reason": "성인 대상 일반 행정지침으로 학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "(보도참고)외부 설문도구 이용 시 개인정보 처리 준수 사항에 대해 보다 명확히 안내하겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785527&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "부산"
+    ],
+    "item_id": "korea-kr-156785526",
+    "posted_at_iso": "2026-10-16T10:43:00.870799+00:00",
+    "priority": "하",
+    "reason": "건설현장 성인 노동자 대상 안전점검으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785526&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156785525",
+    "posted_at_iso": "2026-10-16T10:43:00.870812+00:00",
+    "priority": "하",
+    "reason": "가격 동결 실무 참고자료로 학생과 무관한 행정 지표다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)11차 최고가격, 10차 수준으로 동결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785525&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156785521",
+    "posted_at_iso": "2026-10-16T10:43:00.870819+00:00",
+    "priority": "하",
+    "reason": "창업 아이디어 선발은 성인 창업가 대상 프로그램이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "1만 개의 아이디어, 창업의 첫발을 내딛다 2차 '모두의 창업' 1라운드 진출자 선발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785521&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "G7"
+    ],
+    "item_id": "korea-kr-156785500",
+    "posted_at_iso": "2026-10-16T10:43:00.870824+00:00",
+    "priority": "하",
+    "reason": "G7 개발협력 논의는 또래와 직접 연결되지 않는 외교 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2026년 G7 개발협력 논의 마무리,  미래 협력방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785500&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156785523",
+    "posted_at_iso": "2026-10-16T10:43:00.870830+00:00",
+    "priority": "하",
+    "reason": "특정 희귀질환 치료제 허가로 또래의 일상과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 위장관기질종양 치료 희귀의약품 허가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785523&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청",
+      "한국도로공사"
+    ],
+    "item_id": "korea-kr-156785513",
+    "posted_at_iso": "2026-10-16T10:43:00.870837+00:00",
+    "priority": "하",
+    "reason": "체납 차량 단속은 성인 운전자 대상 행정 단속이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청·행안부·한국도로공사,  체납 차량 합동단속",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785513&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "경북"
+    ],
+    "item_id": "korea-kr-156785517",
+    "posted_at_iso": "2026-10-16T10:43:00.870843+00:00",
+    "priority": "하",
+    "reason": "농지 조사 관련 성인 농민 대상 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 장관, 농관원 경북지원 방문농지 조사 후속조치 정확한 현장 안내 당부",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785517&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "레드향"
+    ],
+    "item_id": "korea-kr-156785497",
+    "posted_at_iso": "2026-10-16T10:43:00.870849+00:00",
+    "priority": "하",
+    "reason": "감귤 재배 기술점검은 농업 실무 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 감귤 '레드향' 농가 열매 터짐 경감 기술 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785497&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156785499",
+    "posted_at_iso": "2026-10-16T10:43:00.870855+00:00",
+    "priority": "하",
+    "reason": "요리 경연대회는 전 세대 참여형이지만 성인 중심 행사로 보인다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "모든 세대가 백세 건강을 실천하는... '삼삼한 요리 경연대회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785499&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "청주시"
+    ],
+    "item_id": "korea-kr-156785519",
+    "posted_at_iso": "2026-10-16T10:43:00.870862+00:00",
+    "priority": "하",
+    "reason": "일반 대중 대상 박람회 행사로 또래와 직접 연결점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 산의 날 맞아 대한민국 산림박람회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785519&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156785520",
+    "posted_at_iso": "2026-10-16T10:43:00.870868+00:00",
+    "priority": "하",
+    "reason": "연명의료결정제도는 성인·말기환자 대상 의료정책으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "생애 말 의료현장 어려움 덜고 환자 권리 높인다 연명의료결정제도 개선 방향 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785520&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "일본"
+    ],
+    "item_id": "korea-kr-156785524",
+    "posted_at_iso": "2026-10-16T10:43:00.870873+00:00",
+    "priority": "하",
+    "reason": "성인 기자단의 외교적 교류 행사로 학생 언론 당사자성과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "우리 기자단 일본 방문, 언론인 간 협력 강화 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785524&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "뉴질랜드"
+    ],
+    "item_id": "korea-kr-156785507",
+    "posted_at_iso": "2026-10-16T10:43:00.870879+00:00",
+    "priority": "하",
+    "reason": "국가 간 전략대화로 또래와 직접 연결되지 않는 외교 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제1차 한-뉴질랜드 전략대화(10.16.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785507&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "싱가포르"
+    ],
+    "item_id": "korea-kr-156785516",
+    "posted_at_iso": "2026-10-16T10:43:00.870884+00:00",
+    "priority": "하",
+    "reason": "국가 간 외교 파트너십 협력으로 또래의 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-싱가포르, 미래지향적·전략적 파트너십 협력 가속화 합의하다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785516&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-16",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "OECD",
+      "태국"
+    ],
+    "item_id": "korea-kr-156785501",
+    "posted_at_iso": "2026-10-16T10:43:00.870890+00:00",
+    "priority": "하",
+    "reason": "국제 개발협력 논의로 또래와 직접 연결되지 않는 외교 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한국, OECD·태국과 함께 아시아 개발협력의 미래 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785501&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-16&endDate=2026-10-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
