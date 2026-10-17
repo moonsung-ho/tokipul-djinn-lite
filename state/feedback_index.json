@@ -39149,5 +39149,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785540&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
     "관심사": "중",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-17",
+    "dept": "소방청",
+    "entities": [
+      "부천"
+    ],
+    "item_id": "korea-kr-156785542",
+    "message_ts": "1792249078.932519",
+    "posted_at_iso": "2026-10-17T14:57:59.175242+00:00",
+    "priority": "중",
+    "reason": "청소년 규칙과는 무관하지만 소방공무원의 순직은 재난·안전 현장의 위험성을 보여주는 사회적 관심사다.",
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 부천 공장 화재 진압 중 부상 입은 소방공무원 순직",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785542&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-17",
+    "dept": "문화체육관광부",
+    "entities": [
+      "전남광주통합특별시"
+    ],
+    "item_id": "korea-kr-156785541",
+    "posted_at_iso": "2026-10-17T14:57:59.175268+00:00",
+    "priority": "하",
+    "reason": "지자체와의 정책 협력 논의일 뿐 구체적 정책 변화나 청소년 관련 내용이 없는 절차성 보도자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부와 전남광주통합특별시, 문화·체육·관광 정책 협력 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785541&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
