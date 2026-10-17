@@ -39128,5 +39128,26 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785531&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-17",
+    "dept": "외교부",
+    "entities": [
+      "야스쿠니 신사",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156785540",
+    "message_ts": "1792218922.006319",
+    "posted_at_iso": "2026-10-17T06:35:22.560462+00:00",
+    "priority": "중",
+    "reason": "한일 역사·외교 갈등은 또래가 알아야 할 국제 사안이지만 정례적 논평 수준이라 직접 영향은 크지 않다",
+    "source": "정책브리핑(외교부)",
+    "title": "야스쿠니 신사 공물 봉납 및 참배에 대한 외교부 대변인 논평",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785540&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
   }
 ]
