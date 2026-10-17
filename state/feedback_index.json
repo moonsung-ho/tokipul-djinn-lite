@@ -39108,5 +39108,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785530&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-17",
+    "dept": "문화체육관광부",
+    "entities": [
+      "여수",
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156785531",
+    "posted_at_iso": "2026-10-17T03:27:06.779877+00:00",
+    "priority": "하",
+    "reason": "지역 문화 축제 홍보성 자료로 청소년의 권리나 일상, 또래가 알아야 할 사회적 의제와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "여수 밤바다에서 10월 '문화의 달' 항해 시작한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785531&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
