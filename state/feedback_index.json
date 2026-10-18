@@ -39188,5 +39188,42 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785541&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-17&endDate=2026-10-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-18",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156785544",
+    "posted_at_iso": "2026-10-18T00:39:49.868539+00:00",
+    "priority": "하",
+    "reason": "OECD 교육지표를 통해 본 고등교육 통계로 대학 수준의 자료이며 중학생 당사자성이나 또래 관심사와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "데이터로 읽는 우리 교육 제16호 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785544&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-18&endDate=2026-10-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-18",
+    "dept": "문화체육관광부",
+    "entities": [
+      "최휘영",
+      "아이치-나고야 아시안패러게임"
+    ],
+    "item_id": "korea-kr-156785543",
+    "posted_at_iso": "2026-10-18T00:39:49.868561+00:00",
+    "priority": "하",
+    "reason": "장관의 국제대회 동행 및 성인 국가대표 선수단 소식으로 또래와 직접 연결되는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "최휘영 장관, '2026 아이치-나고야 아시안패러게임' 현장에서 대한민국 장애인 국가대표 선수단 첫걸음 동행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785543&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-18&endDate=2026-10-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
