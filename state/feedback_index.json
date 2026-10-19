@@ -40549,5 +40549,255 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785670&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-19",
+    "dept": "",
+    "entities": [
+      "전국연합학력평가"
+    ],
+    "item_id": "sen-press-192356",
+    "message_ts": "1792411570.637419",
+    "posted_at_iso": "2026-10-19T12:06:11.151904+00:00",
+    "priority": "중",
+    "reason": "고3 대상 정기 모의고사 실시 안내로 중학생에게는 2027 수능 체제 변화의 간접 참고 정보 수준이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청 주관, 고3 금년도 마지막‘전국연합학력평가’실시",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192356&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-19",
+    "dept": "산림청",
+    "entities": [
+      "충주국유림관리소",
+      "예성여자중학교",
+      "칠금중학교",
+      "충주중학교"
+    ],
+    "item_id": "korea-kr-156785730",
+    "message_ts": "1792411571.209149",
+    "posted_at_iso": "2026-10-19T12:06:11.390391+00:00",
+    "priority": "중",
+    "reason": "중학생 대상 진로체험이지만 충주 지역 특정 3개 학교로 한정된 지방 행사라 서울 또래와 연결되지 않는다.",
+    "source": "정책브리핑(산림청)",
+    "title": "충주국유림관리소, 중학생 대상 산불예방·산림분야 진로체험 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785730&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "해양수산부",
+    "entities": [
+      "남재헌",
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156785694",
+    "posted_at_iso": "2026-10-19T12:06:11.390418+00:00",
+    "priority": "하",
+    "reason": "차관의 위령제 참석 동정으로 보도 가치가 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 남재헌 해수부 차관, 순직선원 합동위령제 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785694&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156785692",
+    "posted_at_iso": "2026-10-19T12:06:11.390428+00:00",
+    "priority": "하",
+    "reason": "경제단체 간담회로 성인 경제주체 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 경제 협·단체 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785692&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156785697",
+    "posted_at_iso": "2026-10-19T12:06:11.390436+00:00",
+    "priority": "하",
+    "reason": "공공데이터·AI 활용 공모전 우수작 선정으로 성인·기업 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 식의약 공공데이터·AI 활용 우수작 5건 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785697&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [
+      "망상"
+    ],
+    "item_id": "korea-kr-156785702",
+    "posted_at_iso": "2026-10-19T12:06:11.390464+00:00",
+    "priority": "하",
+    "reason": "지역 관광 개발 사안으로 청소년 권리나 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "강원 망상, 글로벌 휴양 도시로 탈바꿈",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785702&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "미즈시마"
+    ],
+    "item_id": "korea-kr-156785691",
+    "posted_at_iso": "2026-10-19T12:06:11.390474+00:00",
+    "priority": "하",
+    "reason": "국방장관의 외교 접견 동정으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관 미즈시마 주한일본대사 접견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785691&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "재정경제부",
+    "entities": [
+      "IMFC"
+    ],
+    "item_id": "korea-kr-156785693",
+    "posted_at_iso": "2026-10-19T12:06:11.390482+00:00",
+    "priority": "하",
+    "reason": "국제금융기구 참석 및 인사 면담으로 또래와 연결되지 않는 외교·경제 실무다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "국제통화위원회(IMFC) 참석 및 주요 인사 면담 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785693&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156785696",
+    "posted_at_iso": "2026-10-19T12:06:11.390490+00:00",
+    "priority": "하",
+    "reason": "농식품 관련 가짜뉴스 대응으로 구체적 학생 연관성이나 사회적 파급 단서가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부, 유튜브 등 소셜미디어가짜뉴스 엄정 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785696&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근"
+    ],
+    "item_id": "korea-kr-156785701",
+    "posted_at_iso": "2026-10-19T12:06:11.390497+00:00",
+    "priority": "하",
+    "reason": "민간 일자리 정책 현장간담회로 성인 노동시장 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, 민간 일자리 확충을 위한 현장의견 청취",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785701&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156785695",
+    "posted_at_iso": "2026-10-19T12:06:11.390504+00:00",
+    "priority": "하",
+    "reason": "기업 간 무역금융 지원 정책으로 성인 산업계 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "반도체 분야 상생 무역금융 2조원 출범, 대기업-소부장기업 상생협력 본격화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785695&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "산업통상부"
+    ],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "국세청",
+    "entities": [],
+    "item_id": "korea-kr-156785728",
+    "posted_at_iso": "2026-10-19T12:06:11.390513+00:00",
+    "priority": "하",
+    "reason": "베트남 진출 기업의 세무 행정 애로 해소로 성인·기업 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "베트남 현지 진출기업 최대 애로 '내국수출입 부가가치세 환급지연' 해결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785728&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "",
+    "entities": [],
+    "item_id": "sen-press-192366",
+    "posted_at_iso": "2026-10-19T12:06:11.390520+00:00",
+    "priority": "하",
+    "reason": "장애인 교원 대상 교내 연수 행사로 학생 규칙 변화나 또래 관심 뉴스로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 장애인교원 교육활동 사례나눔 실시",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192366&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
