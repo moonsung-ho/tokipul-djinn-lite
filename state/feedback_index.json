@@ -40270,5 +40270,284 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785650&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-19",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "아태이론물리센터",
+      "이휘소상"
+    ],
+    "item_id": "korea-kr-156785674",
+    "message_ts": "1792388766.193379",
+    "posted_at_iso": "2026-10-19T05:46:07.074835+00:00",
+    "priority": "중",
+    "reason": "물리학 학술상 수상·강연으로 전문가 대상이지만 과학 성과로서 또래 관심사와 약하게 연결된다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "아태이론물리센터, 2026년도 이휘소상 수상자 선정 및 강연 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785674&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-19",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "전고체 배터리",
+      "재사용 우주 발사체"
+    ],
+    "item_id": "korea-kr-156785672",
+    "message_ts": "1792388767.322149",
+    "posted_at_iso": "2026-10-19T05:46:07.938593+00:00",
+    "priority": "중",
+    "reason": "전고체 배터리·우주 발사체 특허 증가율 세계 2위는 과학기술 성과를 보여주는 국가 지표로 또래 관심사에 해당한다",
+    "source": "정책브리핑(지식재산처)",
+    "title": "한국 전고체 배터리 및 재사용 우주 발사체, 특허 증가율 세계 2위",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785672&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부",
+      "세계은행"
+    ],
+    "item_id": "korea-kr-156785665",
+    "posted_at_iso": "2026-10-19T05:46:07.938620+00:00",
+    "priority": "하",
+    "reason": "과기정통부와 세계은행 간 국제 정책협력 논의로 정부간 실무 사안이며 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 세계은행과 함께 글로벌 AI·디지털 협력 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785665&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156785677",
+    "posted_at_iso": "2026-10-19T05:46:07.938629+00:00",
+    "priority": "하",
+    "reason": "기관 내부 인사발령으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "기상청 인사발령(4급 전보)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785677&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "세종시",
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156785690",
+    "posted_at_iso": "2026-10-19T05:46:07.938636+00:00",
+    "priority": "하",
+    "reason": "세종시 한정 일회성 협약으로 기후 주제이나 전국적·또래 관련성이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후부·세종시, 다회용 컵 전환 위해 맞손",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785690&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산림청",
+    "entities": [
+      "무주국유림관리소",
+      "지리산국립공원"
+    ],
+    "item_id": "korea-kr-156785667",
+    "posted_at_iso": "2026-10-19T05:46:07.938651+00:00",
+    "priority": "하",
+    "reason": "지리산 등산로 산림정화 캠페인은 성인 등산객 대상의 지역 환경 활동으로 또래 연결성이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "무주국유림관리소, 백두대간 사랑운동 및 산림정화 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785667&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산림청",
+    "entities": [
+      "무주국유림관리소"
+    ],
+    "item_id": "korea-kr-156785669",
+    "posted_at_iso": "2026-10-19T05:46:07.938658+00:00",
+    "priority": "하",
+    "reason": "산림사업 노동자 안전보건협의체로 성인 대상 산업안전 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "무주국유림관리소, 산림사업 안전보건협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785669&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156785676",
+    "posted_at_iso": "2026-10-19T05:46:07.938665+00:00",
+    "priority": "하",
+    "reason": "취약 어르신 대상 보험 지원 사업으로 노인 복지 정책이며 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "보험업권과 복지부 산하 노인지원기관이 손잡고 65만명의 취약어르신에게 낙상사고 치료비, 치매배상책임보험을 무료로 제공하겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785676&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "KOREAZ"
+    ],
+    "item_id": "korea-kr-156785688",
+    "posted_at_iso": "2026-10-19T05:46:07.938672+00:00",
+    "priority": "하",
+    "reason": "외교부 청년 프로그램으로 대상이 청년(성인)이며 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부 KOREAZ,  청년과 함께 만드는 미래",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785688&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156785681",
+    "posted_at_iso": "2026-10-19T05:46:07.938679+00:00",
+    "priority": "하",
+    "reason": "기관 내부 인사 발령으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부 인사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785681&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "보건복지부",
+    "entities": [
+      "이형훈",
+      "네이버",
+      "각(GAK) 세종"
+    ],
+    "item_id": "korea-kr-156785687",
+    "posted_at_iso": "2026-10-19T05:46:07.938686+00:00",
+    "priority": "하",
+    "reason": "의료AI 데이터센터 방문은 보건의료 행정·산업 동정성 기사로 청소년과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "이형훈 제2차관, 의료AI 본격 추진 대비 네이버 데이터센터 '각(GAK) 세종' 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785687&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156785689",
+    "posted_at_iso": "2026-10-19T05:46:07.938692+00:00",
+    "priority": "하",
+    "reason": "전통시장 상인 대상 지원사업 공고로 청소년 당사자성도 관심사도 낮다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부, 2027년도 전통시장 및 상점가 활성화 지원사업 공고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785689&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "외교부",
+    "entities": [
+      "차지훈",
+      "주유엔대사"
+    ],
+    "item_id": "korea-kr-156785678",
+    "posted_at_iso": "2026-10-19T05:46:07.938698+00:00",
+    "priority": "하",
+    "reason": "외교관 개인의 국제기구 의장직 수임 동정성 보도로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "차지훈 주유엔대사,  「2027 AI 거버넌스 글로벌 대화」 공동의장직 수임",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785678&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "카자흐스탄",
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156785670",
+    "posted_at_iso": "2026-10-19T05:46:07.938703+00:00",
+    "priority": "하",
+    "reason": "한-카자흐 물산업 협력사절단 파견은 산업·통상 실무 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "한-카자흐 물산업 협력 확대를 위한 민관합동 물산업 협력사절단 파견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785670&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
