@@ -39891,5 +39891,384 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785595&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "대한민국 엔지니어상",
+      "삼성중공업",
+      "알데바"
+    ],
+    "item_id": "korea-kr-156785652",
+    "posted_at_iso": "2026-10-19T03:44:30.033539+00:00",
+    "priority": "하",
+    "reason": "성인 엔지니어 시상으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "'26년 10월 '대한민국 엔지니어상' 수상자 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785652&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156785643",
+    "posted_at_iso": "2026-10-19T03:44:30.033561+00:00",
+    "priority": "하",
+    "reason": "자동차산업 동향 통계는 산업 실무 지표로 또래 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "2026년 9월 자동차산업 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785643&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "질병관리청",
+    "entities": [
+      "코로나19"
+    ],
+    "item_id": "korea-kr-156785654",
+    "posted_at_iso": "2026-10-19T03:44:30.033569+00:00",
+    "priority": "하",
+    "reason": "코로나19 피해보상 이의신청 마감은 성인 대상 행정 절차 안내다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "[10.20.화.조간] 코로나19 피해보상 '특례 이의신청' 마감 임박... 10월 23일 기한 놓치지 마세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785654&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "국가데이터처",
+    "entities": [
+      "생활시간조사"
+    ],
+    "item_id": "korea-kr-156785657",
+    "posted_at_iso": "2026-10-19T03:44:30.033573+00:00",
+    "priority": "하",
+    "reason": "청년(2030) 혼인·자녀 유무 시간사용 통계로 대상이 성인이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "「생활시간조사로 본 청년의 혼인 및 자녀 유무별 시간사용 변화」 보도자료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785657&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "감사원",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156785653",
+    "posted_at_iso": "2026-10-19T03:44:30.033578+00:00",
+    "priority": "하",
+    "reason": "기상청 기관정기감사는 내부 행정 감사로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "기상청 기관정기감사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785653&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "살생물제"
+    ],
+    "item_id": "korea-kr-156785656",
+    "posted_at_iso": "2026-10-19T03:44:30.033583+00:00",
+    "priority": "하",
+    "reason": "살생물제 안전관리 이행 기반은 기업-정부 간 화학제품 규제로 학교·학생 연결 고리가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기업과 정부가 함께 살생물제 안전관리 이행 기반을 다진다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785656&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "교육부",
+    "entities": [
+      "틈새돌봄"
+    ],
+    "item_id": "korea-kr-156785658",
+    "posted_at_iso": "2026-10-19T03:44:30.033587+00:00",
+    "priority": "하",
+    "reason": "틈새돌봄은 영유아·초등 돌봄 대상 서비스로 중학생 일상과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "늦은 퇴근.휴일 근무 시 돌봄, '틈새돌봄 정보무늬(QR코드)'로 확인하세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785658&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "전주천"
+    ],
+    "item_id": "korea-kr-156785641",
+    "posted_at_iso": "2026-10-19T03:44:30.033598+00:00",
+    "priority": "하",
+    "reason": "전주천 보 철거는 지역 하천 정비 사업으로 광범위한 환경 이슈로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "막힌 물길 다시 잇는다… 전주천 작은 보, 민관 힘모아 철거",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785641&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [
+      "삼성전자"
+    ],
+    "item_id": "korea-kr-156785644",
+    "posted_at_iso": "2026-10-19T03:44:30.033603+00:00",
+    "priority": "하",
+    "reason": "기업 간 기술 무상 공유로 또래 생활과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "삼성전자, 99개 기업에 기술 126건을 무상으로 나눈다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785644&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "보건복지부",
+    "entities": [
+      "공중위생관리법"
+    ],
+    "item_id": "korea-kr-156785655",
+    "posted_at_iso": "2026-10-19T03:44:30.033608+00:00",
+    "priority": "하",
+    "reason": "숙박 중개업 과태료 규정으로 청소년의 권리·관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "영업신고증 없는 숙박 중개 시 과태료 500만 원... 「공중위생관리법 시행령」 개정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785655&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [],
+    "item_id": "korea-kr-156785645",
+    "posted_at_iso": "2026-10-19T03:44:30.033612+00:00",
+    "priority": "하",
+    "reason": "중견기업 지원 사업으로 학생과 무관한 산업 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "월드클래스 중견기업을 찾아  지역으로 갑니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785645&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "재외동포청",
+    "entities": [
+      "전국체전",
+      "재외동포청"
+    ],
+    "item_id": "korea-kr-156785642",
+    "posted_at_iso": "2026-10-19T03:44:30.033616+00:00",
+    "priority": "하",
+    "reason": "전국체전 재외동포 선수 응원 소식은 또래 일상·권리와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785642&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산업통상부",
+    "entities": [
+      "칠레"
+    ],
+    "item_id": "korea-kr-156785646",
+    "posted_at_iso": "2026-10-19T03:44:30.033619+00:00",
+    "priority": "하",
+    "reason": "한-칠레 자유무역위원회는 통상 정책으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "제11차 한-칠레 자유무역위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785646&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "농림축산식품부",
+    "entities": [
+      "2030청년자문단"
+    ],
+    "item_id": "korea-kr-156785638",
+    "posted_at_iso": "2026-10-19T03:44:30.033623+00:00",
+    "priority": "하",
+    "reason": "2030청년자문단 모집은 성인 청년 대상으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "제4기 농식품부 2030청년자문단 공개모집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785638&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "통일부",
+    "entities": [
+      "한반도통일미래센터"
+    ],
+    "item_id": "korea-kr-156785651",
+    "posted_at_iso": "2026-10-19T03:44:30.033627+00:00",
+    "priority": "하",
+    "reason": "한반도통일미래센터 대국민 개방행사는 특정 대상 없이 일반 공개 행사로 또래 연결 고리가 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "한반도통일미래센터 대국민 개방행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785651&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "산림청",
+    "entities": [
+      "함양국유림관리소",
+      "지리산"
+    ],
+    "item_id": "korea-kr-156785648",
+    "posted_at_iso": "2026-10-19T03:44:30.033630+00:00",
+    "priority": "하",
+    "reason": "지역 국유림 산불예방 기고문으로 학생 직결성이 약하고 지방 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "함양국유림관리소 기고문, 지리산의 아름다운 가을 숲, 작은 불씨부터 지켜야 합니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785648&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156785662",
+    "posted_at_iso": "2026-10-19T03:44:30.033633+00:00",
+    "priority": "하",
+    "reason": "행정서비스 제출서류 간소화는 일반 행정 효율화로 학생과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부, 1,658개 행정서비스 제출서류 간소화 완료... 국민 불편 대폭 해소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785662&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "행정안전부",
+    "entities": [
+      "삼성",
+      "LG"
+    ],
+    "item_id": "korea-kr-156785664",
+    "posted_at_iso": "2026-10-19T03:44:30.033638+00:00",
+    "priority": "하",
+    "reason": "재난 피해 가전 수리 지원 확대는 가구 단위 정책으로 또래 일상·관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행정안전부, 삼성·LG와 협력해  재난 피해 가전 무상수리 지원 범위 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785664&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "행정안전부",
+    "entities": [
+      "국정ON"
+    ],
+    "item_id": "korea-kr-156785660",
+    "posted_at_iso": "2026-10-19T03:44:30.033642+00:00",
+    "priority": "하",
+    "reason": "공무원 내부 AI 업무혁신 사례로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "현장의 불편, 공무원이 AI로 직접 해결한다 현업 공무원이 바이브 코딩으로 구현한 「국정ON」, 공무원 주도 AI 업무혁신 사례",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785660&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-19",
+    "dept": "통일부",
+    "entities": [
+      "한반도 평화공존센터"
+    ],
+    "item_id": "korea-kr-156785650",
+    "posted_at_iso": "2026-10-19T03:44:30.033648+00:00",
+    "priority": "하",
+    "reason": "평화공존센터 설계공모 당선작 선정은 건축 행정으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "｢한반도 평화공존센터｣ 설계공모 당선작 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785650&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-19&endDate=2026-10-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
