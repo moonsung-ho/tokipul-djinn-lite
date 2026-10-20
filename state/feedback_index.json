@@ -41871,5 +41871,414 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785832&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "에볼라"
+    ],
+    "item_id": "korea-kr-156785887",
+    "message_ts": "1792502548.505329",
+    "posted_at_iso": "2026-10-20T13:22:28.965876+00:00",
+    "priority": "중",
+    "reason": "팬데믹 대비 국제 보건협력은 또래가 알 만한 안전 사안이지만 이 보도자료는 협력 강화 선언 수준으로 구체성이 약하다.",
+    "source": "정책브리핑(외교부)",
+    "title": "에볼라 대응부터 미래 팬데믹 대비까지, 글로벌 보건협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785887&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "유럽"
+    ],
+    "item_id": "korea-kr-156785912",
+    "message_ts": "1792502549.197939",
+    "posted_at_iso": "2026-10-20T13:22:29.662139+00:00",
+    "priority": "중",
+    "reason": "유럽 대규모 시위는 국제 정치 현안으로 관심사가 있으나 보도자료는 상황점검회의 개최 사실만 담아 구체적 내용이 부족하다.",
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 유럽 지역 대규모 시위 관련 본부-공관 합동 상황점검회의(10.20.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785912&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785868",
+    "posted_at_iso": "2026-10-20T13:22:29.662171+00:00",
+    "priority": "하",
+    "reason": "축종별 동물복지 안내서는 농가 대상 실무 자료로 또래와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"동물복지 실천은 이렇게\"…7개 축종 사육 관리 안내서 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785868&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785882",
+    "posted_at_iso": "2026-10-20T13:22:29.662181+00:00",
+    "priority": "하",
+    "reason": "벼농사 비료 기술은 농가 대상 실무 자료로 청소년과 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"비료 줄이고 논물 지킨다\" 현장에서 깊이거름주기 효과 확인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785882&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "초등교육과",
+    "entities": [
+      "늘봄지원실장"
+    ],
+    "item_id": "sen-notice-20261020213123749",
+    "posted_at_iso": "2026-10-20T13:22:29.662190+00:00",
+    "priority": "하",
+    "reason": "늘봄지원실장 임용은 초등 돌봄 인사 채용 절차로 중학생 당사자성이나 또래 관심사와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2027학년도 늘봄지원실장(임기제 교육연구사)  임용후보자 선발 전형 시행 계획 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261020213123749",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "남부권산불방지센터"
+    ],
+    "item_id": "korea-kr-156785858",
+    "posted_at_iso": "2026-10-20T13:22:29.662208+00:00",
+    "priority": "하",
+    "reason": "산불현장 합동훈련은 기관 자체 내부 훈련으로 또래 일상에 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "[남부권산불방지센터] '산불현장 통합지휘 합동훈련' 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785858&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실",
+      "정부업무평가위원회"
+    ],
+    "item_id": "korea-kr-156785886",
+    "posted_at_iso": "2026-10-20T13:22:29.662217+00:00",
+    "priority": "하",
+    "reason": "정부업무평가위원회 위촉식은 성인 행정 내부 행사로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 정부업무평가위원회 위촉식 및 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785886&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785872",
+    "posted_at_iso": "2026-10-20T13:22:29.662417+00:00",
+    "priority": "하",
+    "reason": "재생유기농업 협력 기반 확대는 농업 연구기관·지자체 간 사업으로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "국가 연구기관-대학-지방정부 협력 '재생유기농업' 실천 기반 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785872&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "주한중국대사"
+    ],
+    "item_id": "korea-kr-156785888",
+    "posted_at_iso": "2026-10-20T13:22:29.662425+00:00",
+    "priority": "하",
+    "reason": "국방부장관의 외교 접견 동정으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관, 다이빙 주한중국대사 접견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785888&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "남수단"
+    ],
+    "item_id": "korea-kr-156785880",
+    "posted_at_iso": "2026-10-20T13:22:29.662432+00:00",
+    "priority": "하",
+    "reason": "남수단 농업기술 협력은 국제 개발협력 사업으로 대상이 성인·해외 농업 분야다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "남수단 평화 재건 핵심 열쇠, 케이(K)-농업기술로 지평 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785880&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785864",
+    "posted_at_iso": "2026-10-20T13:22:29.662439+00:00",
+    "priority": "하",
+    "reason": "수수 신품종 개발·기계화는 농업기술 사안으로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 고기능성 수수 신품종 개발·재배 기계화 박차",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785864&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785870",
+    "posted_at_iso": "2026-10-20T13:22:29.662445+00:00",
+    "priority": "하",
+    "reason": "배 재배 농가 기술지원은 농업 실무 자료로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 배 '신고' 열매 터짐 농가 현장 기술지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785870&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785876",
+    "posted_at_iso": "2026-10-20T13:22:29.662451+00:00",
+    "priority": "하",
+    "reason": "식물 탄저병균 유전자 재정리는 전문 식물병리 연구로 또래와 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 우리나라 식물 탄저병균 유전자 분석으로 재정리",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785876&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "방위사업청",
+    "entities": [
+      "방위사업청"
+    ],
+    "item_id": "korea-kr-156785913",
+    "posted_at_iso": "2026-10-20T13:22:29.662480+00:00",
+    "priority": "하",
+    "reason": "방위사업 계약 심의는 성인 행정·조달 절차로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "방위사업계약심의위원회 개최 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785913&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785866",
+    "posted_at_iso": "2026-10-20T13:22:29.662488+00:00",
+    "priority": "하",
+    "reason": "수삼 수출 확대 논의는 산업·무역 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "수삼 수출 확대 방안, 민간과 함께 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785866&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785862",
+    "posted_at_iso": "2026-10-20T13:22:29.662506+00:00",
+    "priority": "하",
+    "reason": "양봉농가 장비 개발은 농가 노동환경 개선 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "양봉농가 허리 지킨다 … '벌통 운반 보조장치' 개발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785862&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부",
+      "국민연금기금운용위원회"
+    ],
+    "item_id": "korea-kr-156785859",
+    "posted_at_iso": "2026-10-20T13:22:29.662512+00:00",
+    "priority": "하",
+    "reason": "국민연금기금운용위원회는 성인 노동·연금 정책으로 청소년과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "제7차 국민연금기금운용위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785859&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785874",
+    "posted_at_iso": "2026-10-20T13:22:29.662518+00:00",
+    "priority": "하",
+    "reason": "치유농업과 관광산업 연계 논의는 성인 산업 정책으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "치유농업, 관광산업·지속가능경영 연계…수요 창출 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785874&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785878",
+    "posted_at_iso": "2026-10-20T13:22:29.662526+00:00",
+    "priority": "하",
+    "reason": "토종오리 정액 특성 연구는 축산 전문 분야로 또래 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "토종오리 정액·정자 특성 최초 확인…보존·증식 기초 자료 확보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785878&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "통일부",
+    "entities": [
+      "통일부",
+      "독일 사회민주당"
+    ],
+    "item_id": "korea-kr-156785911",
+    "posted_at_iso": "2026-10-20T13:22:29.662544+00:00",
+    "priority": "하",
+    "reason": "통일부 장관의 외교 동정 보도로 청소년과 이어지는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "통일부 장관, 독일 사회민주당 의원 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785911&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785884",
+    "posted_at_iso": "2026-10-20T13:22:29.662552+00:00",
+    "priority": "하",
+    "reason": "고구마 관련 자료로 제목상 체험행사처럼 보이나 농업 연구·농가 대상 자료로 추정되어 또래 당사자성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "흙 속 보물, 고구마를 찾아라!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785884&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
