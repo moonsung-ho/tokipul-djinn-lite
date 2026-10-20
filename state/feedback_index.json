@@ -41230,5 +41230,302 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785759&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156785805",
+    "message_ts": "1792468518.217549",
+    "posted_at_iso": "2026-10-20T03:55:18.645896+00:00",
+    "priority": "중",
+    "reason": "기후위기 대응을 위한 위성 기술 융합은 또래가 관심 가질 환경·과학 성과이지만 구체적 생활 변화는 없음",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후위기 시대, 위성 융합으로 해법 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785805&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "해양수산부"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "기상청",
+    "entities": [
+      "기상청",
+      "천리안위성 2호",
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156785804",
+    "message_ts": "1792468518.759599",
+    "posted_at_iso": "2026-10-20T03:55:19.234282+00:00",
+    "priority": "중",
+    "reason": "천리안위성 2호의 기후위기 대응 활용은 과학·환경 관심사로 또래가 알 만한 성과",
+    "source": "정책브리핑(기상청)",
+    "title": "기후위기 시대, 천리안위성 2호 융복합 활용으로 대응 역량 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785804&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "모빌리티 혁신위원회"
+    ],
+    "item_id": "korea-kr-156785797",
+    "message_ts": "1792468519.348379",
+    "posted_at_iso": "2026-10-20T03:55:19.756757+00:00",
+    "priority": "중",
+    "reason": "산불 진화 드론·공사장 로봇 실증은 재난 대응 신기술로 또래가 관심 가질 만한 소식",
+    "source": "정책브리핑(국토교통부)",
+    "title": "밤에도 산불 끄는 드론,  도로 공사장 지키는 로봇 실증한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785797&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-20",
+    "dept": "교육부",
+    "entities": [
+      "APEC"
+    ],
+    "item_id": "korea-kr-156785807",
+    "message_ts": "1792468519.873889",
+    "posted_at_iso": "2026-10-20T03:55:20.295756+00:00",
+    "priority": "중",
+    "reason": "학교 경영자(교장) 대상 국제 AI교육 포럼으로 학생에게 직접 규칙 변화는 없으나 교육 사안으로 또래가 관심 가질 만함",
+    "source": "정책브리핑(교육부)",
+    "title": "아시아태평양경제협력체(APEC) 학교 경영자, 함께 모여 인공지능 기반 교육 혁신의 길을 찾다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785807&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156785790",
+    "posted_at_iso": "2026-10-20T03:55:20.295781+00:00",
+    "priority": "하",
+    "reason": "해외 한식당 경쟁력 강화는 외식산업 지원 정책으로 청소년과 직접 연결되지 않음",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "\"세계인이 믿고 찾는 해외 한식당 만든다\" 농식품부, 해외 한식당 경쟁력 강화 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785790&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "M.AX인증"
+    ],
+    "item_id": "korea-kr-156785798",
+    "posted_at_iso": "2026-10-20T03:55:20.295791+00:00",
+    "priority": "하",
+    "reason": "산업 인증제의 해외 통용 확대로 청소년 당사자성·관심사 모두 낮음",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "'M.AX인증' 해외에서도 통한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785798&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156785791",
+    "posted_at_iso": "2026-10-20T03:55:20.295799+00:00",
+    "priority": "하",
+    "reason": "공공비축벼 매입 검사는 농업 행정 실무로 청소년과 무관",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "2026년산 공공비축벼 매입 검사 본격 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785791&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156785806",
+    "posted_at_iso": "2026-10-20T03:55:20.295806+00:00",
+    "priority": "하",
+    "reason": "산업계 대상 AI 녹색경쟁력 협력으로 청소년과 직접 연결되지 않음",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후부-산업계, 인공지능 시대 녹색 경쟁력 함께 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785806&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "동자동"
+    ],
+    "item_id": "korea-kr-156785796",
+    "posted_at_iso": "2026-10-20T03:55:20.295812+00:00",
+    "priority": "하",
+    "reason": "쪽방촌 공공주택지구 지정은 성인 주거 정책으로 청소년과 직접 연결되지 않음",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "서울 동자동 쪽방촌 공공주택지구 지정,  도심 속 2,150호 규모의 주택공급 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785796&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "영덕국유림관리소"
+    ],
+    "item_id": "korea-kr-156785763",
+    "posted_at_iso": "2026-10-20T03:55:20.295987+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 확산 방지 관계기관 회의는 지역 산림행정 실무로 또래와 이어지지 않음",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영덕국유림관리소, 소나무재선충병 확산 방지 위해 관계기관 머리 맞대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785763&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156785794",
+    "posted_at_iso": "2026-10-20T03:55:20.295995+00:00",
+    "priority": "하",
+    "reason": "기업 대상 해외물류시장 투자설명회로 청소년과 무관",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "우리 기업의 해외물류시장 진출 지원을 위한 '2026 해외물류시장 투자설명회' 개최한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785794&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156785802",
+    "posted_at_iso": "2026-10-20T03:55:20.296002+00:00",
+    "priority": "하",
+    "reason": "민간구급차 품질 인증은 성인 대상 의료행정으로 청소년과 직접 이어지지 않음",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "우수한 민간구급차 '인증마크' 단다, 응급환자이송업 품질 인증제 시범 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785802&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "보건복지부",
+    "entities": [
+      "국립재활원"
+    ],
+    "item_id": "korea-kr-156785803",
+    "posted_at_iso": "2026-10-20T03:55:20.296009+00:00",
+    "priority": "하",
+    "reason": "장애인·노인 보조기기 박람회로 청소년 당사자성·관심사 모두 낮음",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "장애인·노인 일상 바꾸는 기술 국립재활원, 2026년 보조기기 메이커 페어 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785803&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156785799",
+    "posted_at_iso": "2026-10-20T03:55:20.296016+00:00",
+    "priority": "하",
+    "reason": "중동 플랜트 수주를 위한 민관 협력으로 성인 산업 정책이라 청소년과 무관",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "중동 플랜트 수주 확대를 위해 민관이 힘 모으기로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785799&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-20",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156785793",
+    "posted_at_iso": "2026-10-20T03:55:20.296043+00:00",
+    "priority": "하",
+    "reason": "한중 불법조업 단속 협력은 전문 행정 사안으로 또래 관심사와 거리가 있음",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "한·중 지도 단속 기관 공동 순시로 서해 불법조업 대응 협력 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785793&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-20&endDate=2026-10-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
