@@ -43005,5 +43005,346 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785948&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-21",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156785976",
+    "message_ts": "1792566264.734899",
+    "posted_at_iso": "2026-10-21T07:04:24.950591+00:00",
+    "priority": "상",
+    "reason": "소아청소년 성장도표 개정은 학교 건강검진 등에 쓰이는 기준으로 청소년의 신체 기준에 직결된다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "함께 만드는 우리 아이의 성장기준(10.21.수)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785976&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-21",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156786000",
+    "message_ts": "1792566265.017499",
+    "posted_at_iso": "2026-10-21T07:04:25.214239+00:00",
+    "priority": "중",
+    "reason": "우주·재난 대응 국제협력체 가입은 과학·재난 안전 관심사와 닿지만 이사국 가입이라는 절차성 소식이라 구체적 각도는 약하다",
+    "source": "정책브리핑(우주항공청)",
+    "title": "'우주 및 대형 재난 대응 국제헌장' 이사국 가입",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786000&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-21",
+    "dept": "과학기술정보통신부",
+    "entities": [],
+    "item_id": "korea-kr-156785982",
+    "message_ts": "1792566265.280879",
+    "posted_at_iso": "2026-10-21T07:04:25.481216+00:00",
+    "priority": "중",
+    "reason": "양자통신 실증은 첨단과학기술 성과로 또래 관심사이지만 산업 실증 단계라 간접적이다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "양자통신 상용화를 위한 실증 기반 확대 본격 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785982&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-21",
+    "dept": "외교부",
+    "entities": [
+      "유럽연합"
+    ],
+    "item_id": "korea-kr-156785995",
+    "message_ts": "1792566265.540319",
+    "posted_at_iso": "2026-10-21T07:04:25.744945+00:00",
+    "priority": "중",
+    "reason": "기후변화 대응은 또래 관심사이지만 외교부 실무 작업반 회의 수준으로 구체성이 낮다",
+    "source": "정책브리핑(외교부)",
+    "title": "에너지 전환·환경 보호·기후변화 대응 등 한-유럽연합(EU) 그린 파트너십 심화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785995&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "농림축산식품부",
+    "entities": [
+      "국제종자박람회"
+    ],
+    "item_id": "korea-kr-156785993",
+    "posted_at_iso": "2026-10-21T07:04:25.744975+00:00",
+    "priority": "하",
+    "reason": "국제종자박람회 개막은 농업·산업 행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "\"10년의 결실, 세계로 뛰는 K-종자\" 2026 국제종자박람회 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785993&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "산업통상부",
+    "entities": [
+      "M.AX"
+    ],
+    "item_id": "korea-kr-156786001",
+    "posted_at_iso": "2026-10-21T07:04:25.744985+00:00",
+    "priority": "하",
+    "reason": "차량용 반도체 산업 생태계 지원은 기업·산업 대상 정책으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "M.AX 원팀으로 車반도체 생태계 성장 가속화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786001&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "질병관리청",
+    "entities": [
+      "CEPI"
+    ],
+    "item_id": "korea-kr-156785996",
+    "posted_at_iso": "2026-10-21T07:04:25.745024+00:00",
+    "priority": "하",
+    "reason": "팬데믹 대비 국제행사 부대행사 개최 소식으로 구체적 내용 없이 전문가 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "[10.21.행사시작(15시)이후] 질병관리청-감염병혁신연합(CEPI) '팬데믹 대비 엔진' 부대행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785996&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "농림축산식품부"
+    ],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "베트남"
+    ],
+    "item_id": "korea-kr-156786002",
+    "posted_at_iso": "2026-10-21T07:04:25.745033+00:00",
+    "priority": "하",
+    "reason": "K-닭고기가공품 수출은 산업·통상 성과로 청소년의 일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[부처합동] 한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786002&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "일산"
+    ],
+    "item_id": "korea-kr-156785994",
+    "posted_at_iso": "2026-10-21T07:04:25.745042+00:00",
+    "priority": "하",
+    "reason": "장관의 신도시 정비 현장 점검 동정으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 홍지선 장관, \"속도감 있는 정비로 체감성과 앞당겨야\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785994&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "국방부",
+    "entities": [],
+    "item_id": "korea-kr-156785987",
+    "posted_at_iso": "2026-10-21T07:04:25.745050+00:00",
+    "priority": "하",
+    "reason": "장병 대상 금융워크숍으로 성인(군인) 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 금융위원회와 장병금융워크숍 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785987&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "고용노동부",
+    "entities": [],
+    "item_id": "korea-kr-156785979",
+    "posted_at_iso": "2026-10-21T07:04:25.745058+00:00",
+    "priority": "하",
+    "reason": "노동시간 단축 생산성 향상 논의는 성인 노동 현장 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "노동시간 단축의 지속가능성 담보를 위한 생산성 향상, 현장에서 답을 찾다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785979&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근"
+    ],
+    "item_id": "korea-kr-156785975",
+    "posted_at_iso": "2026-10-21T07:04:25.745066+00:00",
+    "priority": "하",
+    "reason": "기획예산처 장관의 내부 직원 간담회로 공공 행정 내부 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, 일 가정 양립 직원 오찬 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785975&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156785989",
+    "posted_at_iso": "2026-10-21T07:04:25.745092+00:00",
+    "priority": "하",
+    "reason": "벌목작업 현장 노동자 안전교육으로 성인 노동자 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 벌목작업 현장 안전사고 예방교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785989&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "국방부",
+    "entities": [],
+    "item_id": "korea-kr-156785986",
+    "posted_at_iso": "2026-10-21T07:04:25.745099+00:00",
+    "priority": "하",
+    "reason": "6·25 전사자 유해발굴 설명회는 성인 참여 행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "서울지역 「6·25 전사자 유해발굴사업 설명회」",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785986&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156785998",
+    "posted_at_iso": "2026-10-21T07:04:25.745106+00:00",
+    "priority": "하",
+    "reason": "농업 인공지능 활용 논의는 농업 현장 전문가 대상으로 또래와 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "신뢰할 수 있는 '농업 인공지능', 현장과 함께 방향 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785998&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "관세청"
+    ],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "법무부",
+    "entities": [],
+    "item_id": "korea-kr-156785981",
+    "posted_at_iso": "2026-10-21T07:04:25.745114+00:00",
+    "priority": "하",
+    "reason": "초국가범죄 범정부 대응 성과는 성인 대상 치안 행정으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "초국가범죄 범정부 대응 1년, \"국경 넘어 끝까지 추적\"… 기관 간 공조 강화로 초국가범죄 대응의 틀 바꿨다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785981&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "고용노동부",
+    "entities": [
+      "폴리텍대학"
+    ],
+    "item_id": "korea-kr-156785980",
+    "posted_at_iso": "2026-10-21T07:04:25.745122+00:00",
+    "priority": "하",
+    "reason": "폴리텍대학 청년 창업 경진대회는 대학생·청년 대상으로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "폴리텍대학, 청년 창업가 도전 돕는다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785980&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-21",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "친환경대전"
+    ],
+    "item_id": "korea-kr-156785990",
+    "posted_at_iso": "2026-10-21T07:04:25.745129+00:00",
+    "priority": "하",
+    "reason": "친환경대전은 기업 사업기회 창출을 위한 전시회로 대상이 기업·성인이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "한국형 녹색 대전환(K-GX), 새로운 사업기회 연다… 대한민국 친환경대전 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156785990&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-21&endDate=2026-10-21&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
