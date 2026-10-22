@@ -44902,5 +44902,128 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786178&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "프로프라놀롤",
+      "KIMES"
+    ],
+    "item_id": "korea-kr-156786219",
+    "message_ts": "1792713433.889899",
+    "posted_at_iso": "2026-10-22T23:57:14.461078+00:00",
+    "priority": "상",
+    "reason": "첨부자료 중 하나가 '시험 잘 보는 약은 없습니다'라며 수험생이 시험 불안 완화 목적으로 복용하는 프로프라놀롤 성분의 안전 사용을 경고하는 내용으로, 고입·수능을 앞둔 또래에게 직접적인 안전 사안이다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786219&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "핼러윈데이"
+    ],
+    "item_id": "korea-kr-156786218",
+    "message_ts": "1792713434.646189",
+    "posted_at_iso": "2026-10-22T23:57:15.223779+00:00",
+    "priority": "상",
+    "reason": "핼러윈데이 다중운집인파는 청소년도 많이 참여하는 행사이고 이태원 참사 이후 또래가 알아야 할 안전 이슈다.",
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 핼러윈데이 대비 다중운집인파 안전관리 총력 대응",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786218&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "예비사회적기업"
+    ],
+    "item_id": "korea-kr-156786214",
+    "posted_at_iso": "2026-10-22T23:57:15.223806+00:00",
+    "priority": "하",
+    "reason": "농업·농촌형 예비사회적기업 지정은 성인 창업·고용 정책으로 청소년과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부, 연대와 협력으로 농촌의 가치를 높인다! 농업·농촌형 예비사회적기업 7개소 신규 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786214&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "국립공원"
+    ],
+    "item_id": "korea-kr-156786215",
+    "posted_at_iso": "2026-10-22T23:57:15.223815+00:00",
+    "priority": "하",
+    "reason": "국립공원 야경 탐방 프로그램은 일반 성인 대상 관광 안내로 또래의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "도심 야경과 결합한 국립공원 특별탐방 첫 선",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786215&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "한일 경제인"
+    ],
+    "item_id": "korea-kr-156786216",
+    "posted_at_iso": "2026-10-22T23:57:15.223823+00:00",
+    "priority": "하",
+    "reason": "한일 경제인 간 협력을 강조하는 외교 행사로 대상이 성인 경제계 인사이며 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, 미래지향적 한일 협력을 위한 양국 경제인들의 적극 역할 강조",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786216&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "G20"
+    ],
+    "item_id": "korea-kr-156786217",
+    "posted_at_iso": "2026-10-22T23:57:15.223840+00:00",
+    "priority": "하",
+    "reason": "G20 셰르파급 외교 실무 협의로 청소년의 권리·관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-영 G20 셰르파 협의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786217&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
