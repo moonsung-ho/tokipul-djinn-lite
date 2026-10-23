@@ -45415,5 +45415,376 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786265&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156786325",
+    "message_ts": "1792746579.552719",
+    "posted_at_iso": "2026-10-23T09:09:39.870120+00:00",
+    "priority": "상",
+    "reason": "고교생이 직접 참여해 K-소비재 수출 아이템을 발굴한 성취 사례로 또래의 활동과 성과를 다룰 각도가 뚜렷하다.",
+    "source": "정책브리핑(산업통상부)",
+    "title": "고교생들이 찾은 'K-소비재',  세계시장에 도전한다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786325&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "국방부",
+    "entities": [
+      "국방부"
+    ],
+    "item_id": "korea-kr-156786306",
+    "message_ts": "1792746579.996849",
+    "posted_at_iso": "2026-10-23T09:09:40.389754+00:00",
+    "priority": "상",
+    "reason": "군사분계선 관련 남북 군사당국회담 제안 담화는 안보·정치 현안으로 또래가 알아야 할 중대 사안이다.",
+    "source": "정책브리핑(국방부)",
+    "title": "비무장지대 군사분계선 관련 군사당국회담 제안을 위한 담화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786306&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156786308",
+    "message_ts": "1792746580.500459",
+    "posted_at_iso": "2026-10-23T09:09:40.856958+00:00",
+    "priority": "중",
+    "reason": "재생에너지의 날 기념식은 기후·환경 주제와 연결되나 실질 정책 변화 없는 의례적 행사다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "'재생에너지의 날' 법정기념일 지정 후 첫 기념식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786308&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "카메룬"
+    ],
+    "item_id": "korea-kr-156786299",
+    "posted_at_iso": "2026-10-23T09:09:40.856986+00:00",
+    "priority": "하",
+    "reason": "관세청장의 외국 기관장 면담 동정으로 기사감이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "[동정] 이종욱 관세청장, 카메룬 관세청장 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786299&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156786302",
+    "posted_at_iso": "2026-10-23T09:09:40.857001+00:00",
+    "priority": "하",
+    "reason": "건강기능식품 기능성 원료 기준 정비는 일반 소비자 대상 식품 행정으로 학교 급식과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "건강기능식품 기능성 원료 안전관리 강화·영양성분 원료 확대 등 기준 정비",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786302&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "경찰청",
+    "entities": [
+      "경찰대학"
+    ],
+    "item_id": "korea-kr-156786305",
+    "posted_at_iso": "2026-10-23T09:09:40.857008+00:00",
+    "priority": "하",
+    "reason": "수사·기소 분리 관련 학술 세미나는 전문가 대상 행정 사안으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰대학 치안정책연구소, 「수사·기소 분리에 따른 바람직한 경찰 수사체계의 방향」 학술 발표회(세미나) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786305&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "경찰청",
+    "entities": [
+      "경찰대학",
+      "인천"
+    ],
+    "item_id": "korea-kr-156786307",
+    "posted_at_iso": "2026-10-23T09:09:40.857019+00:00",
+    "priority": "하",
+    "reason": "경찰대학의 치안데이터 연구 발표는 전문가 대상 학술 행사로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰대학, 치안데이터와 현장 연구로 '안전한 인천'의 해법 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786307&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156786304",
+    "posted_at_iso": "2026-10-23T09:09:40.857025+00:00",
+    "priority": "하",
+    "reason": "관세청 내부 인사 발령으로 기사감이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청 인사(부이사관 승진)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786304&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156786300",
+    "posted_at_iso": "2026-10-23T09:09:40.857030+00:00",
+    "priority": "하",
+    "reason": "관세청 규제혁신 과제는 기업·무역 실무 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 3대 메가프로젝트 속도 낸다···6개 규제혁신 과제 전격 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786300&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156786326",
+    "posted_at_iso": "2026-10-23T09:09:40.857035+00:00",
+    "priority": "하",
+    "reason": "창업기업 규제 합리화는 성인 창업가·기업 대상 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "국가창업시대 전환 가속화를 위해창업기업 규제 합리화 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786326&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "육군 15사단"
+    ],
+    "item_id": "korea-kr-156786296",
+    "posted_at_iso": "2026-10-23T09:09:40.857041+00:00",
+    "priority": "하",
+    "reason": "국방부차관의 군부대 급수시설 현장점검은 군 내부 행정 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부차관, 육군 15사단 급수시설 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786296&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "농림축산식품부"
+    ],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156786303",
+    "posted_at_iso": "2026-10-23T09:09:40.857047+00:00",
+    "priority": "하",
+    "reason": "한식의 날 선포 행사는 문화 홍보성 행사로 청소년과 직접 연결되는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "대한민국 첫 한식의 날, 한식의 새로운 미래를 선언하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786303&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청"
+    ],
+    "item_id": "korea-kr-156786323",
+    "posted_at_iso": "2026-10-23T09:09:40.857053+00:00",
+    "priority": "하",
+    "reason": "벌목 현장 노동자 안전문화 확산으로 대상이 성인 산업 근로자이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "동부지방산림청, '위험하면 멈춘다' 벌목현장 안전문화 확산",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786323&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청"
+    ],
+    "item_id": "korea-kr-156786321",
+    "posted_at_iso": "2026-10-23T09:09:40.857058+00:00",
+    "priority": "하",
+    "reason": "벌목 현장 중대재해 예방 합동점검은 성인 노동자 산업안전 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "동부지방산림청, 벌목 현장 중대재해 예방 위해 유관기관 합동점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786321&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산업통상부",
+    "entities": [
+      "무역위원회"
+    ],
+    "item_id": "korea-kr-156786324",
+    "posted_at_iso": "2026-10-23T09:09:40.857063+00:00",
+    "priority": "하",
+    "reason": "중국산 제품 덤핑조사 판정은 산업·통상 실무 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "무역위, 중국산 아연도금냉연, 옵셋인쇄판 덤핑조사 최종판정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786324&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156786316",
+    "posted_at_iso": "2026-10-23T09:09:40.857068+00:00",
+    "priority": "하",
+    "reason": "수도권 국민 대상 산림복지서비스 확대로 대상이 일반 국민이며 청소년 특정 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림 복지 기관 맞손… 북부지방산림청, 수도권 국민 체감형 산림복지서비스 늘린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786316&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156786310",
+    "posted_at_iso": "2026-10-23T09:09:40.857073+00:00",
+    "priority": "하",
+    "reason": "산림유전자원보호구역 10선 선정은 자연보호 홍보성 발표로 또래의 일상이나 안전 이슈와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 우리나라의 소중한 숲, '산림유전자원보호구역 10선' 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786310&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "칠레"
+    ],
+    "item_id": "korea-kr-156786312",
+    "posted_at_iso": "2026-10-23T09:09:40.857077+00:00",
+    "priority": "하",
+    "reason": "칠레와의 산불대응 시스템 국제협력으로 전문 행정 사안이며 또래와 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 칠레에 산불대응 시스템 및 정책 공유",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786312&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "",
+    "entities": [
+      "이인아"
+    ],
+    "item_id": "sen-press-192405",
+    "posted_at_iso": "2026-10-23T09:09:40.857082+00:00",
+    "priority": "하",
+    "reason": "초등 교원 대상 수업·평가 혁신 컨퍼런스로 교사 연수 성격이 강하고 실제 제도 변경이나 또래가 알아야 할 구체적 사안이 아직 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청,  2026 초등 수업·평가 혁신 컨퍼런스 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192405&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
