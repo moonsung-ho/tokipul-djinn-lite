@@ -45786,5 +45786,67 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192405&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "일반증류주"
+    ],
+    "item_id": "korea-kr-156786327",
+    "message_ts": "1792766580.305819",
+    "posted_at_iso": "2026-10-23T14:43:00.875082+00:00",
+    "priority": "상",
+    "reason": "식품안전 회수 조치로 또래와 가족의 건강·안전에 직결되는 공공 관심사다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 메탄올 초과 검출된 '일반증류주' 회수 조치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786327&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "외교부",
+    "entities": [
+      "인도네시아",
+      "중부칼리만탄주"
+    ],
+    "item_id": "korea-kr-156786329",
+    "message_ts": "1792766581.049609",
+    "posted_at_iso": "2026-10-23T14:43:01.616568+00:00",
+    "priority": "중",
+    "reason": "해외 재난 안전 소식이지만 여행 당사자가 좁고 또래 일상과 직결 정도는 약하다",
+    "source": "정책브리핑(외교부)",
+    "title": "인도네시아 들불로 중부칼리만탄州에 특별여행주의보 발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786329&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "반도체정책과"
+    ],
+    "item_id": "korea-kr-156786328",
+    "posted_at_iso": "2026-10-23T14:43:01.616602+00:00",
+    "priority": "하",
+    "reason": "산업 규제 합리화 정책으로 대상이 기업·성인 연구자이며 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)반도체 경쟁은 '시간'의 싸움으로 변천, 반도체 규제 합리화로투자·연구·지원의 시간을 다시 설계한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786328&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
