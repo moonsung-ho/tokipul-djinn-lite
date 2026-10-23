@@ -45395,5 +45395,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786244&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "국민권익위원회",
+    "entities": [
+      "서천군",
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156786265",
+    "posted_at_iso": "2026-10-23T03:50:11.063667+00:00",
+    "priority": "하",
+    "reason": "서천군 농민들의 농업용수 분쟁 해결로 청소년의 권리·일상과도, 또래가 알아야 할 사회적 관심사와도 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"관계기관과 농민들, 서로 협력하기로\" 서천군 7개 마을의 농지, '물길' 텄다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786265&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
