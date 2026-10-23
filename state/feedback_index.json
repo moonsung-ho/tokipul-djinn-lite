@@ -45025,5 +45025,375 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786217&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "우주항공청",
+    "entities": [
+      "전국우주항공경진대회",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156786262",
+    "message_ts": "1792725622.932059",
+    "posted_at_iso": "2026-10-23T03:20:23.129478+00:00",
+    "priority": "상",
+    "reason": "청소년이 직접 참가하는 전국 단위 과학 경진대회로 또래의 성취·도전과 맞닿아 있다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "우주를 향한 청소년들의 도전 제24회 전국우주항공경진대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786262&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156786250",
+    "message_ts": "1792725623.183829",
+    "posted_at_iso": "2026-10-23T03:20:23.393793+00:00",
+    "priority": "상",
+    "reason": "기후변화 원인물질 감시 강화는 기후·환경 이슈로 또래가 알아야 할 사안이다.",
+    "source": "정책브리핑(기상청)",
+    "title": "한반도 내륙 기후변화 원인물질 감시 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786250&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156786256",
+    "message_ts": "1792725623.449159",
+    "posted_at_iso": "2026-10-23T03:20:23.656395+00:00",
+    "priority": "중",
+    "reason": "방송 규제기관의 정기 위원회 결과로 언론 사안과 연관되나 구체적 처분 내용이 불명확해 간접적이다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제44차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786256&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "외교부"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-23",
+    "dept": "행정안전부",
+    "entities": [
+      "조세이 탄광",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156786254",
+    "message_ts": "1792725623.731999",
+    "posted_at_iso": "2026-10-23T03:20:23.971420+00:00",
+    "priority": "중",
+    "reason": "강제동원 피해자 유해 감정 결과는 역사·국제관계 교육 측면에서 또래가 알 만하나 직접 규칙으로 닿지는 않는다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "조세이 탄광 유해 DNA 감정 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786254&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "국가데이터처",
+    "entities": [],
+    "item_id": "korea-kr-156786264",
+    "posted_at_iso": "2026-10-23T03:20:23.971449+00:00",
+    "priority": "하",
+    "reason": "가축동향조사는 농업 통계 실무 자료로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 3분기 가축동향조사 결과 보도자료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786264&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156786258",
+    "posted_at_iso": "2026-10-23T03:20:23.971459+00:00",
+    "priority": "하",
+    "reason": "의료기기 산업 전시회 홍보로 학교 급식 점검과 달리 대상이 업계 관계자다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 부산 KIMES에서 의료기기 안전관리 정책 홍보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786258&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156786246",
+    "posted_at_iso": "2026-10-23T03:20:23.971467+00:00",
+    "priority": "하",
+    "reason": "일반 조달 계약 제도 개선으로 학교 시설과 무관한 기업 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "계약이행능력 없는 기업에 빼앗긴 낙찰 기회… 진짜 일하는 기업에 돌려준다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786246&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청"
+    ],
+    "item_id": "korea-kr-156786240",
+    "posted_at_iso": "2026-10-23T03:20:23.971497+00:00",
+    "priority": "하",
+    "reason": "기관 내부 포상 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "국가유산청, '세계유산위원회 성공 개최' 등 하반기 혁신 성과 8건에 특별포상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786240&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "감사원",
+    "entities": [
+      "감사원"
+    ],
+    "item_id": "korea-kr-156786260",
+    "posted_at_iso": "2026-10-23T03:20:23.971505+00:00",
+    "priority": "하",
+    "reason": "국민·기업 대상 행정 불편 점검으로 대상이 성인·기업이라 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "국민·기업 불편사항 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786260&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "기상청",
+    "entities": [
+      "기상청"
+    ],
+    "item_id": "korea-kr-156786249",
+    "posted_at_iso": "2026-10-23T03:20:23.971513+00:00",
+    "priority": "하",
+    "reason": "국제 개발원조(ODA) 성과로 국내 또래 일상과 무관한 행정 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기상청)",
+    "title": "기상감시정보와 홍수 예·경보, 물관리 정보를 연결하는 부처융합 공적 개발 원조[ODA] 성과 창출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786249&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "남부권산불방지센터"
+    ],
+    "item_id": "korea-kr-156786236",
+    "posted_at_iso": "2026-10-23T03:20:23.971520+00:00",
+    "priority": "하",
+    "reason": "산불방지센터의 자체 합동훈련으로 기관 내부 훈련 성격이 강하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "남부권산불방지센터, '산불현장 통합지휘 합동훈련' 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786236&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156786263",
+    "posted_at_iso": "2026-10-23T03:20:23.971527+00:00",
+    "priority": "하",
+    "reason": "아태 지역 다자회의와 민관사절단 파견은 전문가·외교 영역으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "아태 지역 다자회의 참가 및 민관사절단 파견으로 아태 우주협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786263&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156786251",
+    "posted_at_iso": "2026-10-23T03:20:23.971534+00:00",
+    "priority": "하",
+    "reason": "유엔 외교 성과 홍보성 자료로 또래와 직접 연결고리가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "연대로 일어선 대한민국, 유엔의 새로운 도약에 힘을 보탠다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786251&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "경복궁"
+    ],
+    "item_id": "korea-kr-156786242",
+    "posted_at_iso": "2026-10-23T03:20:23.971541+00:00",
+    "priority": "하",
+    "reason": "경복궁 전통 의례 재현 행사로 특정 또래 이슈라기보다 일반 관람 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "왕 앞에 모인 호위군, 조선의 군사의례 '첩종' 재현",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786242&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156786261",
+    "posted_at_iso": "2026-10-23T03:20:23.971548+00:00",
+    "priority": "하",
+    "reason": "산업 제품 인증 제도로 기업 대상 정책이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "우주항공분야 혁신제품 지정제도 본격 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786261&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청",
+      "대한예방의학회"
+    ],
+    "item_id": "korea-kr-156786239",
+    "posted_at_iso": "2026-10-23T03:20:23.971580+00:00",
+    "priority": "하",
+    "reason": "학회와의 감염병 정보관리 업무협약으로 전문가 간 협력이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "질병관리청-대한예방의학회, 감염병 인포데믹 관리를 위한 업무협약 체결(10.23.금)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786239&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156786237",
+    "posted_at_iso": "2026-10-23T03:20:23.971587+00:00",
+    "priority": "하",
+    "reason": "성인 말기암 환자 대상 의료 연구로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "치료 어려운 말기 대장암 환자, 맞춤형 면역세포로 치료 가능성 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786237&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156786234",
+    "posted_at_iso": "2026-10-23T03:20:23.971598+00:00",
+    "priority": "하",
+    "reason": "성인 근로자 대상 일터혁신 행사로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "컨설팅 경험에서 제도 실행까지, 2026년 일터혁신 리더스 클럽 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786234&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156786244",
+    "posted_at_iso": "2026-10-23T03:20:23.971604+00:00",
+    "priority": "하",
+    "reason": "한-일 산업 협력 사안으로 성인 산업계 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한-일 AI·로봇 등 미래산업 협력 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786244&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
