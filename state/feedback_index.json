@@ -45848,5 +45848,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786328&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-23&endDate=2026-10-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-24",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156786330",
+    "posted_at_iso": "2026-10-24T03:43:20.697672+00:00",
+    "priority": "하",
+    "reason": "해외 치안관계자 초청 행사는 외교·치안 실무 교류로 청소년의 일상이나 관심사와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786330&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-24",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "APEC",
+      "정보통신실무그룹"
+    ],
+    "item_id": "korea-kr-156786331",
+    "posted_at_iso": "2026-10-24T03:43:20.697703+00:00",
+    "priority": "하",
+    "reason": "국제 통신 실무기구 의장단 진출은 전문 외교·산업 사안으로 청소년의 권리나 일상, 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "한국, 아시아태평양경제협력체(APEC) 정보통신실무그룹(TEL)  의장단에 연이어 진출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786331&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
