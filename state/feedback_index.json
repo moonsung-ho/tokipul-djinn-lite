@@ -45906,5 +45906,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786340&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-24",
+    "dept": "국무조정실",
+    "entities": [
+      "생명지킴추진본부",
+      "2026 종교문화예술 한마당"
+    ],
+    "item_id": "korea-kr-156786341",
+    "posted_at_iso": "2026-10-24T10:17:38.521761+00:00",
+    "priority": "하",
+    "reason": "생명지킴추진본부의 종교문화예술 행사 참여로 청소년의 규칙이나 일상과 직접 닿지 않고 또래가 알아야 할 사회적 사안도 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 생명지킴추진본부, 2026 종교문화예술 한마당 행사 참여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786341&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
