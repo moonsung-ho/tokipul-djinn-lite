@@ -45887,5 +45887,24 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786331&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-24",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "전 국민 인공지능 경진대회"
+    ],
+    "item_id": "korea-kr-156786340",
+    "posted_at_iso": "2026-10-24T05:25:50.135460+00:00",
+    "priority": "하",
+    "reason": "아동 대상 AI 창작대회 본선 개최 소식으로 규칙 변화도 없고 또래 중학생과 직접 연결되는 단서도 부족하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "아이들의 상상력이 인공지능을 만나는 첫 경험! 「전 국민 인공지능 경진대회」,  인공지능 창작대회 본선 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786340&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-24&endDate=2026-10-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
