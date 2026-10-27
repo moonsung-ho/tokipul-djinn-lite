@@ -47763,5 +47763,341 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786610&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "행정안전부",
+    "entities": [
+      "이태원참사",
+      "광화문광장"
+    ],
+    "item_id": "korea-kr-156786647",
+    "message_ts": "1793074156.577449",
+    "posted_at_iso": "2026-10-27T04:09:17.008014+00:00",
+    "priority": "상",
+    "reason": "이태원참사는 또래 세대도 희생된 사회적 재난으로 추모 행사는 사회의 기억을 보여주는 관심사 사안이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "이태원참사 4주기 기억식, 29일 광화문 광장에서 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786647&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "행정안전부",
+    "entities": [
+      "국가기록원",
+      "4메가 디램 설계도면"
+    ],
+    "item_id": "korea-kr-156786645",
+    "message_ts": "1793074157.196359",
+    "posted_at_iso": "2026-10-27T04:09:17.792197+00:00",
+    "priority": "중",
+    "reason": "반도체 역사 기록물 복원으로 과학기술사적 흥미는 있으나 즉각적 또래 관심사로는 간접적이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "반도체 신화의 첫 도면 되살렸다 '최초 4메가 디램(DRAM) 설계도면' 복원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786645&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "공정거래위원회",
+    "entities": [
+      "삼성전자",
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156786633",
+    "message_ts": "1793074157.937919",
+    "posted_at_iso": "2026-10-27T04:09:18.362087+00:00",
+    "priority": "중",
+    "reason": "유명 기업의 부당 광고 제재는 소비자로서 또래도 관심 가질 만한 사회적 이슈다.",
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "삼성전자(주)의 부당한 광고행위 제재",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786633&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "교육부",
+    "entities": [
+      "직업계고"
+    ],
+    "item_id": "korea-kr-156786641",
+    "message_ts": "1793074158.512789",
+    "posted_at_iso": "2026-10-27T04:09:18.953638+00:00",
+    "priority": "중",
+    "reason": "직업계고 학생의 기술 성취 소식으로 또래의 성취 사례로 볼 여지가 있으나 중학생 당사자성은 약하다.",
+    "source": "정책브리핑(교육부)",
+    "title": "세계가 인정하는 케이(K)-직업계고기술인재의 숙련기술",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786641&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156786638",
+    "message_ts": "1793074159.110439",
+    "posted_at_iso": "2026-10-27T04:09:19.506288+00:00",
+    "priority": "중",
+    "reason": "야생동물 교통사고 예방 AI 기술은 환경·안전 관심사이지만 청소년 일상 규칙과는 거리가 있다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "찻길 야생동물 출현, 인공지능으로 운전자에게 미리 알린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786638&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "국가데이터처",
+    "entities": [
+      "지역별고용조사"
+    ],
+    "item_id": "korea-kr-156786639",
+    "posted_at_iso": "2026-10-27T04:09:19.506319+00:00",
+    "priority": "하",
+    "reason": "성인 고용 통계로 행정 실무 지표일 뿐 사회의 모습을 보여주는 수준은 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 상반기 지역별고용조사 취업자의 산업 및 직업별 특성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786639&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156786625",
+    "posted_at_iso": "2026-10-27T04:09:19.506330+00:00",
+    "priority": "하",
+    "reason": "원전 수출 산업정책으로 성인 산업계 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "K-원전, 글로벌 공급망에 올라탄다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786625&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "산업통상부",
+    "entities": [
+      "WTO"
+    ],
+    "item_id": "korea-kr-156786624",
+    "posted_at_iso": "2026-10-27T04:09:19.506337+00:00",
+    "priority": "하",
+    "reason": "WTO 특허 분쟁 업계 소통으로 전문 산업계 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "WTO 표준필수특허 분쟁 관련 업계 소통 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786624&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "교육부",
+    "entities": [
+      "고등교육법 시행령",
+      "대학 등록금에 관한 규칙"
+    ],
+    "item_id": "korea-kr-156786640",
+    "posted_at_iso": "2026-10-27T04:09:19.506575+00:00",
+    "priority": "하",
+    "reason": "대학 등록금 관련 시행령 개정으로 대상이 대학생이라 중학생과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "「고등교육법 시행령」 및 「대학 등록금에 관한 규칙」 입법예고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786640&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "행정안전부",
+    "entities": [
+      "민원봉사대상"
+    ],
+    "item_id": "korea-kr-156786643",
+    "posted_at_iso": "2026-10-27T04:09:19.506585+00:00",
+    "priority": "하",
+    "reason": "행정 내부 시상식 기념행사로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "나눔과 봉사의 30년, 보다 나은 미래로 행정안전부, '민원봉사대상' 30주년 기념행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786643&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156786636",
+    "posted_at_iso": "2026-10-27T04:09:19.506595+00:00",
+    "priority": "하",
+    "reason": "정부 내부 업무방식 혁신 안내자료로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "반복 업무 줄이고 효율 높이고 \"일하는 방식 바꿔요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786636&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156786623",
+    "posted_at_iso": "2026-10-27T04:09:19.506603+00:00",
+    "priority": "하",
+    "reason": "통상환경 대응 민간 전문가 간담회로 성인 전문가 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "변화하는 통상환경, 민간 전문가와 대응방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786623&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156786630",
+    "posted_at_iso": "2026-10-27T04:09:19.506611+00:00",
+    "priority": "하",
+    "reason": "내부 담당자 역량강화 교육으로 절차성 행사이며 알맹이가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 목재제품 품질단속 담당자 역량강화 교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786630&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156786637",
+    "posted_at_iso": "2026-10-27T04:09:19.506619+00:00",
+    "priority": "하",
+    "reason": "공무원 인사제도 우수사례로 청소년과 무관한 성인 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "인공지능 인재 추천·육아기 출근제 등 인사혁신 우수 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786637&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "농림축산식품부",
+      "행정안전부",
+      "산업통상부"
+    ],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "문화체육관광부",
+    "entities": [
+      "코리아 그랜드 페스티벌"
+    ],
+    "item_id": "korea-kr-156786627",
+    "posted_at_iso": "2026-10-27T04:09:19.506628+00:00",
+    "priority": "하",
+    "reason": "소비 할인 행사로 청소년의 규칙이나 일상에 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "자동차·가전부터 한우·수산물까지... 최대 50% 할인 정부, '제2회 코리아 그랜드 페스티벌(10. 29.~11. 15.)' 시작",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786627&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "감사원",
+    "entities": [
+      "감사원"
+    ],
+    "item_id": "korea-kr-156786635",
+    "posted_at_iso": "2026-10-27T04:09:19.506651+00:00",
+    "priority": "하",
+    "reason": "재정관리제도 운영실태는 전문 행정 영역으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(감사원)",
+    "title": "주요 재정관리제도 운영실태(재정수입 관리 중심으로)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786635&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156786620",
+    "posted_at_iso": "2026-10-27T04:09:19.506660+00:00",
+    "priority": "하",
+    "reason": "해양산업 현장 기술 수요-공급 매칭 행사로 성인 산업계 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "해양산업 현장의 기술적 어려움 해결을 위해 수요자와 공급자가 만난다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786620&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
