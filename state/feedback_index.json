@@ -48099,5 +48099,351 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786620&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-27",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156786654",
+    "message_ts": "1793085594.402479",
+    "posted_at_iso": "2026-10-27T07:19:54.941052+00:00",
+    "priority": "상",
+    "reason": "학교에서 매일 쓰는 칠판의 안전기준 마련은 학생이 직접 겪는 시설 안전 사안이다.",
+    "source": "정책브리핑(조달청)",
+    "title": "우리 아이들이 사용하는 칠판, 더 안전해진다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786654&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156786663",
+    "posted_at_iso": "2026-10-27T07:19:54.941079+00:00",
+    "priority": "하",
+    "reason": "세무조사 제도 성과 홍보는 성인 납세자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "\"세무조사 패러다임 대전환 1주년, 성과를 넘어 미래로\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786663&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156786655",
+    "posted_at_iso": "2026-10-27T07:19:54.941088+00:00",
+    "priority": "하",
+    "reason": "지가 변동률은 부동산 시장 지표로 행정 실무 통계에 가깝다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'26년 3분기 전국 지가 0.62% 상승",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786655&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156786672",
+    "posted_at_iso": "2026-10-27T07:19:54.941096+00:00",
+    "priority": "하",
+    "reason": "방산 지식재산 보호는 산업·수출 당사자 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "'R&D부터 수출까지' K-방산, 지식재산으로 지킨다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786672&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "WTO"
+    ],
+    "item_id": "korea-kr-156786674",
+    "posted_at_iso": "2026-10-27T07:19:54.941102+00:00",
+    "priority": "하",
+    "reason": "표준필수특허 분쟁은 기업·산업 당사자 사안으로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "WTO 표준필수특허 분쟁 관련 업계 소통 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786674&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156786653",
+    "posted_at_iso": "2026-10-27T07:19:54.941256+00:00",
+    "priority": "하",
+    "reason": "ODA 인재양성 간담회는 성인 실무자 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국제개발협력본부, 인재양성 ODA 현장 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786653&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "김이탁"
+    ],
+    "item_id": "korea-kr-156786656",
+    "posted_at_iso": "2026-10-27T07:19:54.941270+00:00",
+    "priority": "하",
+    "reason": "차관 동정성 보도로 모듈러주택 정책은 성인 주택시장 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 김이탁 제1차관,모듈러주택 활성화를 위한 협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786656&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156786664",
+    "posted_at_iso": "2026-10-27T07:19:54.941279+00:00",
+    "priority": "하",
+    "reason": "해외직구 상담창구 현장점검은 내부 운영 점검성 보도로 알맹이가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 해외직구 성수기 대비 민원 상담창구 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786664&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156786675",
+    "posted_at_iso": "2026-10-27T07:19:54.941298+00:00",
+    "priority": "하",
+    "reason": "보험사기 수사 결과는 성인 운전자·보험 가입자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "교통사고 보험사기 집중수사 결과,  911명 검거",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786675&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156786659",
+    "posted_at_iso": "2026-10-27T07:19:54.941322+00:00",
+    "priority": "하",
+    "reason": "지자체장 대상 재난안전 교육으로 학생 일상이나 훈련과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "민선 9기 지자체장, 재난안전관리 교육으로 겨울철 재난 대비 태세 갖춘다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786659&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156786671",
+    "posted_at_iso": "2026-10-27T07:19:54.941329+00:00",
+    "priority": "하",
+    "reason": "관광객 수 통계는 산업 실적 지표로 또래의 삶이나 사회상을 직접 보여주지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "방한 외국인 관광객 수, 역대 최고치 기록 두 달 앞당겨 경신",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786671&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청",
+      "새만금항"
+    ],
+    "item_id": "korea-kr-156786661",
+    "posted_at_iso": "2026-10-27T07:19:54.941335+00:00",
+    "priority": "하",
+    "reason": "크루즈 항만 활성화는 지역 산업 진흥 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금개발청, 관계기관과 손잡고 새만금항 신항 크루즈 활성화 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786661&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "법제처",
+    "entities": [
+      "법제처"
+    ],
+    "item_id": "korea-kr-156786652",
+    "posted_at_iso": "2026-10-27T07:19:54.941341+00:00",
+    "priority": "하",
+    "reason": "실무경력 인정 확대는 구직 청년·전문직 대상으로 중학생과는 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786652&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156786660",
+    "posted_at_iso": "2026-10-27T07:19:54.941346+00:00",
+    "priority": "하",
+    "reason": "산업 재정투자 성과 홍보는 기업 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "양식업부터 제조업까지스마트한 재정투자, 산업 혁신의 결실로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786660&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "코리아 그랜드 페스티벌"
+    ],
+    "item_id": "korea-kr-156786670",
+    "posted_at_iso": "2026-10-27T07:19:54.941352+00:00",
+    "priority": "하",
+    "reason": "소비 할인 행사 홍보로 또래의 권리나 일상 규칙과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "자동차·가전부터 한우·수산물까지...최대 50% 할인 정부, 「제2회 코리아 그랜드 페스티벌」 시작(10.29~11.15)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786670&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156786669",
+    "posted_at_iso": "2026-10-27T07:19:54.941358+00:00",
+    "priority": "하",
+    "reason": "국유림 장기사용 심의 체계는 임업 행정 절차로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "장기 사용 국유림 관리 체계 마련··· 30년 초과 시 위원회 심의 거친다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786669&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156786666",
+    "posted_at_iso": "2026-10-27T07:19:54.941368+00:00",
+    "priority": "하",
+    "reason": "재정집행 관리방식 개편은 행정 실무 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "재정집행 관리를 '실집행 중심'으로 전환",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786666&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-27",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "중국"
+    ],
+    "item_id": "korea-kr-156786673",
+    "posted_at_iso": "2026-10-27T07:19:54.941377+00:00",
+    "priority": "하",
+    "reason": "특허심판 국제협력은 전문가·기업 대상 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "한·중, 특허심판 협력 강화 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786673&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
