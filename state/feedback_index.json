@@ -48822,5 +48822,100 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786690&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-27&endDate=2026-10-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-28",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156786727",
+    "message_ts": "1793143908.148179",
+    "posted_at_iso": "2026-10-27T23:31:48.686442+00:00",
+    "priority": "중",
+    "reason": "다제내성균 감염관리는 전국민 건강·안전과 관련된 관심사이지만 의료기관 대상 전문 지침이라 또래와의 연결은 간접적이다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "[10.28.수.석간] 의료기관 다제내성균 감염관리 우선순위 제시, CRE 최우선 관리 필요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786727&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-28",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156786728",
+    "message_ts": "1793143908.855659",
+    "posted_at_iso": "2026-10-27T23:31:49.424017+00:00",
+    "priority": "중",
+    "reason": "기후위기 대응 공모 사업으로 기후 관심사와는 닿지만 지자체 대상 공모라 또래와의 연결은 간접적이다",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후위기 극복할 지역 맞춤형 해법… 2027년 물순환 촉진구역 지정 공모 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786728&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156786729",
+    "posted_at_iso": "2026-10-27T23:31:49.424211+00:00",
+    "priority": "하",
+    "reason": "소방관 장비 시범적용은 소방관서 내부 업무로 또래의 일상이나 관심사와 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "\"암흑·농연 속 소방관의 눈을 밝힌다!\" 소방용 시각 강화 열화상 카메라 소방관서 4곳 시범적용 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786729&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "식품의약품안전처",
+    "entities": [],
+    "item_id": "korea-kr-156786731",
+    "posted_at_iso": "2026-10-27T23:31:49.424222+00:00",
+    "priority": "하",
+    "reason": "디지털의료기기 허가심사 기준은 업계·전문가 대상 설명회로 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 최신의 디지털의료기기 허가심사 기준 짚어준다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786731&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "문화체육관광부",
+    "entities": [
+      "서울아레나"
+    ],
+    "item_id": "korea-kr-156786730",
+    "posted_at_iso": "2026-10-27T23:31:49.424230+00:00",
+    "priority": "하",
+    "reason": "장관의 공연장 건설 현장 방문 동정성 보도로 학생의 권리·일상과도, 또래가 알아야 할 공적 사안과도 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부 장관, 대중음악 전문 공연장 '서울아레나' 건설 현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786730&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
