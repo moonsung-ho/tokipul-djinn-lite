@@ -49825,5 +49825,61 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786940&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-29",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "국립생물자원관"
+    ],
+    "item_id": "korea-kr-156786947",
+    "message_ts": "1793223398.855449",
+    "posted_at_iso": "2026-10-28T21:36:39.305641+00:00",
+    "priority": "중",
+    "reason": "도시 야생동물 공존은 또래가 접할 수 있는 환경·안전 이슈이나 전문가 대상 연구 방안 모색 단계라 간접적이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "국립생물자원관, 도시 야생동물과의 안전한 공존을 위한 과학적 관리 방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786947&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국토교통부",
+    "entities": [
+      "김천종합스포츠타운"
+    ],
+    "item_id": "korea-kr-156786946",
+    "posted_at_iso": "2026-10-28T21:36:39.305669+00:00",
+    "priority": "하",
+    "reason": "성인 대상 자동차 튜닝 행사로 청소년의 권리·일상과도, 또래 관심사와도 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "2026 코리아 튜닝카 페스티벌 열린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786946&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156786945",
+    "posted_at_iso": "2026-10-28T21:36:39.305679+00:00",
+    "priority": "하",
+    "reason": "유기농업자재 지원 확대는 농업 종사자 대상 정책으로 청소년 당사자성도 관심사도 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "2027년 유기농업자재지원 강화…녹비작물 종자 선택 폭 넓어진다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786945&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
