@@ -49707,5 +49707,123 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786933&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-28",
+    "dept": "고용노동부",
+    "entities": [
+      "재난대응 훈련 시뮬레이터"
+    ],
+    "item_id": "korea-kr-156786936",
+    "message_ts": "1793206922.369009",
+    "posted_at_iso": "2026-10-28T17:02:02.791173+00:00",
+    "priority": "중",
+    "reason": "재난대응 훈련 시뮬레이터 공개는 안전 관련 관심사이나 학교·학생과 직접 연결되는 활용 단서가 없다.",
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)고용노동부, 자체 개발 '재난대응 훈련 시뮬레이터' 소스코드·제작방법 전면 공개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786936&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "고용노동부",
+    "entities": [
+      "초광역특구법"
+    ],
+    "item_id": "korea-kr-156786937",
+    "posted_at_iso": "2026-10-28T17:02:02.791205+00:00",
+    "priority": "하",
+    "reason": "초광역특구 노동정책 실무협의체로 대상이 성인 노동 현안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) ？(약칭) 초광역특구법 관련 원포인트 사회적 대화？ 제6차 실무협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786937&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "국무조정실",
+    "entities": [
+      "새만금위원회",
+      "한성숙"
+    ],
+    "item_id": "korea-kr-156786941",
+    "posted_at_iso": "2026-10-28T17:02:02.791214+00:00",
+    "priority": "하",
+    "reason": "국책개발 위원회 회의로 내용이 불명확하고 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 제35차 새만금위원회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786941&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "국방부",
+    "entities": [
+      "말레이시아",
+      "ADMM-Plus"
+    ],
+    "item_id": "korea-kr-156786942",
+    "posted_at_iso": "2026-10-28T17:02:02.791221+00:00",
+    "priority": "하",
+    "reason": "성인 외교·국방 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기  한-말레이시아 국방장관회담 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786942&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "국방부",
+    "entities": [
+      "필리핀",
+      "ADMM-Plus"
+    ],
+    "item_id": "korea-kr-156786944",
+    "posted_at_iso": "2026-10-28T17:02:02.791229+00:00",
+    "priority": "하",
+    "reason": "성인 외교·국방 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기  한·필리핀 국방장관회담 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786944&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156786940",
+    "posted_at_iso": "2026-10-28T17:02:02.791261+00:00",
+    "priority": "하",
+    "reason": "전문가 간 국제 산림 연구 협력으로 청소년 당사자성이나 또래 관심사가 뚜렷하지 않다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "아시아 8개국 전문가 한자리에...국립산림과학원, 첨단 기술 융합 '도시숲 연구 연대' 강화 - 위성·AI 기술 기반 아시아 도시숲 공동 모니터링 체계 구축 방향 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786940&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
