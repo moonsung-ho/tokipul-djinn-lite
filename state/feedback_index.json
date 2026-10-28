@@ -49274,5 +49274,58 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786783&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "국민권익위원회",
+    "entities": [],
+    "item_id": "korea-kr-156786808",
+    "posted_at_iso": "2026-10-28T04:35:38.287172+00:00",
+    "priority": "하",
+    "reason": "아파트 재건축 행정조정 제도로 성인 주택 소유자 대상 사안이라 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"재건축 시급한 아파트, 행정 문턱에 좌절\"… '조정' 통해 정비사업 진행 가능해지다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786808&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "경찰청",
+    "entities": [],
+    "item_id": "korea-kr-156786807",
+    "posted_at_iso": "2026-10-28T04:35:38.287193+00:00",
+    "priority": "하",
+    "reason": "지역 유착 비리 특별단속은 경찰 행정 사안으로 청소년의 권리나 일상, 관심사와 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰, ?지역 유착 5대 비리? 뿌리 뽑는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786807&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-28",
+    "dept": "문화체육관광부",
+    "entities": [
+      "최휘영"
+    ],
+    "item_id": "korea-kr-156786806",
+    "posted_at_iso": "2026-10-28T04:35:38.287199+00:00",
+    "priority": "하",
+    "reason": "외래관광객 유치 성과 공유는 관광 산업 정책으로 청소년과 직접적인 접점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "최휘영 장관, '역대 최대 외래관광객 달성' 성과 및 '3천만·4천만 명 시대 준비' 역점 과제 공유",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786806&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-28&endDate=2026-10-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
