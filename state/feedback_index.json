@@ -51026,5 +51026,121 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787144&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-29",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "국제원자력기구"
+    ],
+    "item_id": "korea-kr-156787151",
+    "message_ts": "1793286567.561249",
+    "posted_at_iso": "2026-10-29T15:09:27.994409+00:00",
+    "priority": "중",
+    "reason": "국제원자력 외교행사로 당사자성은 없으나 원자력 안전은 또래가 알 만한 국제·환경 사안이다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "한국에서 함께 그린 원자력의 내일, 국제원자력기구 원자력 장관회의 폐막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787151&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787149",
+    "posted_at_iso": "2026-10-29T15:09:27.994440+00:00",
+    "priority": "하",
+    "reason": "사립휴양림 조성 컨설팅으로 대상이 사업자·성인이라 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "'산림휴양디렉터', 자연휴양림 조성의 길잡이 역할 톡톡",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787149&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156787156",
+    "posted_at_iso": "2026-10-29T15:09:27.994451+00:00",
+    "priority": "하",
+    "reason": "민간투자사업 심의 절차로 학생과 직접 닿는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "2026년 제6회 민간투자사업심의위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787156&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156787152",
+    "posted_at_iso": "2026-10-29T15:09:27.994460+00:00",
+    "priority": "하",
+    "reason": "본문이 없어 확인이 어렵고 안보지킴이 공모전은 통상 전 국민 대상 행사로 또래와의 접점이 뚜렷하지 않다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787152&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156787154",
+    "posted_at_iso": "2026-10-29T15:09:27.994470+00:00",
+    "priority": "하",
+    "reason": "성인 대상 국가공무원 채용 발표로 또래의 성취나 관심사로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "국가공무원 5급·외교관후보자 최종합격자 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787154&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "독일"
+    ],
+    "item_id": "korea-kr-156787181",
+    "posted_at_iso": "2026-10-29T15:09:27.994479+00:00",
+    "priority": "하",
+    "reason": "국가 간 조세협정 개정으로 청소년의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-독일 이중과세방지협정 개정의정서 서명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787181&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
