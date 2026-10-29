@@ -51142,5 +51142,22 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787181&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "과학기술정보통신부",
+    "entities": [],
+    "item_id": "korea-kr-156787182",
+    "posted_at_iso": "2026-10-29T20:54:49.483667+00:00",
+    "priority": "하",
+    "reason": "촉매 설계 관련 기초화학 연구 성과로 전문적이고 추상적이어서 또래의 일상이나 관심과 직접 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "더 정교한 촉매 설계의 실마리 찾았다... 화학 결합의 장거리 영향 규명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787182&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
