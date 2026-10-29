@@ -49881,5 +49881,393 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786945&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-29",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156787007",
+    "message_ts": "1793237688.868829",
+    "posted_at_iso": "2026-10-29T01:34:49.279155+00:00",
+    "priority": "중",
+    "reason": "장애인방송 의무편성 지정은 실제 처분이며 미디어 접근권 사안이지만 청소년이 직접 대상은 아니다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "89개 방송사, 장애인방송 의무편성 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787007&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-29",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156787005",
+    "message_ts": "1793237689.400899",
+    "posted_at_iso": "2026-10-29T01:34:49.782725+00:00",
+    "priority": "중",
+    "reason": "가을철 산불 예방·대응은 계절적 재난 안전 사안으로 또래도 알아야 할 정보다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "가을철 산불, 예방부터 대응까지 빈틈없이",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787005&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-29",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156786981",
+    "message_ts": "1793237689.913049",
+    "posted_at_iso": "2026-10-29T01:34:50.324296+00:00",
+    "priority": "중",
+    "reason": "피싱범죄 예방·검거 성과는 또래도 피해 대상이 될 수 있는 안전 정보이나 포상 중심 보도자료다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "해외 피싱 조직 끝까지 추적하고,  국민 피해는 사전에 막았다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786981&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156786999",
+    "posted_at_iso": "2026-10-29T01:34:50.324318+00:00",
+    "priority": "하",
+    "reason": "면세점 쇼핑 행사로 성인 소비자 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "2026년 면세점 쇼핑 축제 「코리아 듀티프리 페스타」 개막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786999&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156786988",
+    "posted_at_iso": "2026-10-29T01:34:50.324332+00:00",
+    "priority": "하",
+    "reason": "기업집단 채무보증·의결권 현황 공개는 기업 지배구조 정보로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "2026년 상호출자제한기업집단 채무보증 현황 및 금융·보험사 의결권 행사 현황 정보 공개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786988&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "UNI-PASS"
+    ],
+    "item_id": "korea-kr-156786998",
+    "posted_at_iso": "2026-10-29T01:34:50.324340+00:00",
+    "priority": "하",
+    "reason": "전자통관시스템 국제인증은 행정 실무 성과로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청 전자통관시스템(UNI-PASS), '정보기술 서비스 국제표준' 21년 연속 인증 쾌거",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786998&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "창경궁",
+      "신한은행"
+    ],
+    "item_id": "korea-kr-156786983",
+    "posted_at_iso": "2026-10-29T01:34:50.324346+00:00",
+    "priority": "하",
+    "reason": "창경궁 음성해설 서비스는 전 연령 대상 문화 서비스로 또래 특화 사안이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "내 손 안의 창경궁, 스마트폰과 함께하는 유산 산책",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786983&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부",
+      "GS리테일"
+    ],
+    "item_id": "korea-kr-156786991",
+    "posted_at_iso": "2026-10-29T01:34:50.324352+00:00",
+    "priority": "하",
+    "reason": "독립유공자 묘소 안내판 설치 협약으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "보훈부， GS리테일과 독립유공자 산재묘소 스마트 안내판 설치 등 협력 업무협약",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786991&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156787011",
+    "posted_at_iso": "2026-10-29T01:34:50.324359+00:00",
+    "priority": "하",
+    "reason": "산림 불법행위 단속 실무로 또래의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 드론으로 빈틈없이 살핀다… 가을철 산림 불법행위 집중단속",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787011&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156786986",
+    "posted_at_iso": "2026-10-29T01:34:50.324364+00:00",
+    "priority": "하",
+    "reason": "임업경영체 현장 방문은 임업인 대상 행정활동이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 우수 임업경영체 현장 방문… 임업인 생생한 목소리 경청",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786986&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "유엔식량농업기구"
+    ],
+    "item_id": "korea-kr-156786996",
+    "posted_at_iso": "2026-10-29T01:34:50.324370+00:00",
+    "priority": "하",
+    "reason": "해외 산림위험관리 협력사업으로 국내 또래의 일상이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청-유엔식량농업기구,  통합산림위험관리 협력 2차기 사업 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786996&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "산림항공본부"
+    ],
+    "item_id": "korea-kr-156786994",
+    "posted_at_iso": "2026-10-29T01:34:50.324375+00:00",
+    "priority": "하",
+    "reason": "유관기관 합동 산불예방 계도활동으로 일반 탐방객 대상 캠페인이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림항공본부, 유관기관 합동 가을철 산불예방 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786994&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787000",
+    "posted_at_iso": "2026-10-29T01:34:50.324380+00:00",
+    "priority": "하",
+    "reason": "산업용 히트펌프 기술개발은 산업계 대상 실무 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "산업용 히트펌프 기술개발 및 실증 확대… 산업부문 탄소중립 앞당긴다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787000&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156786992",
+    "posted_at_iso": "2026-10-29T01:34:50.324388+00:00",
+    "priority": "하",
+    "reason": "수도권 택지 공급 정책은 성인 주택 수요자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "수도권 '신규택지 10.4만호' 신속 공급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786992&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787001",
+    "posted_at_iso": "2026-10-29T01:34:50.324393+00:00",
+    "priority": "하",
+    "reason": "공론화평가단 구성·운영은 절차성 공고로 실제 처분이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "원전 공론화위원회, 공론화평가단 운영한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787001&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "방위사업청",
+    "entities": [
+      "방위사업청",
+      "Airbus"
+    ],
+    "item_id": "korea-kr-156787009",
+    "posted_at_iso": "2026-10-29T01:34:50.324400+00:00",
+    "priority": "하",
+    "reason": "유럽 항공우주기업과 국내 중소기업 간 산업협력 행사로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "유럽 항공우주기업과 국내 중소기업 간  협력의 장 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787009&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "행정안전부",
+    "entities": [
+      "강원"
+    ],
+    "item_id": "korea-kr-156787003",
+    "posted_at_iso": "2026-10-29T01:34:50.324405+00:00",
+    "priority": "하",
+    "reason": "강원도 행정 우수정책 홍보 행사로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "인공지능(AI) 행정부터 과학수사, 햇빛소득마을까지, 강원에서 행정안전부 우수정책 세계와 나눈다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787003&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "법제처",
+    "entities": [
+      "법제처"
+    ],
+    "item_id": "korea-kr-156786997",
+    "posted_at_iso": "2026-10-29T01:34:50.324410+00:00",
+    "priority": "하",
+    "reason": "전통시장 법 홍보 캠페인으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "전통시장에서 찾는 일상 속 법 보물... K-법 생활발견 캠페인 '숨은 법 보물찾기' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786997&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156786984",
+    "posted_at_iso": "2026-10-29T01:34:50.324414+00:00",
+    "priority": "하",
+    "reason": "퇴직연금 노사정 합의는 노동자 대상 성인 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786984&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156786987",
+    "posted_at_iso": "2026-10-29T01:34:50.324419+00:00",
+    "priority": "하",
+    "reason": "화장품 기업 지식재산 보호 지원으로 성인 산업계 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "화장품 핵심기술, 지식재산으로 지킨다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156786987&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
