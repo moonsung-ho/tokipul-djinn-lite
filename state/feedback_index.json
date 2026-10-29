@@ -50649,5 +50649,382 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787056&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "영주국유림관리소"
+    ],
+    "item_id": "korea-kr-156787129",
+    "posted_at_iso": "2026-10-29T08:03:10.417042+00:00",
+    "priority": "하",
+    "reason": "임업 근로자 대상 산업안전 교육으로 성인 노동자가 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "\"산림 사업 현장 안전 사각지대 없앤다.\" - 영주국유림관리소, 안전보건공단 경북지역본부 합동 중대재해 예방 교육 실시 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787129&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "해양수산부",
+    "entities": [
+      "황종우"
+    ],
+    "item_id": "korea-kr-156787146",
+    "posted_at_iso": "2026-10-29T08:03:10.417064+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 현장 점검으로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 황종우 장관, 코리아 그랜드 페스티벌 수산물 할인행사 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787146&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "해양수산부",
+    "entities": [
+      "황종우",
+      "다누리호"
+    ],
+    "item_id": "korea-kr-156787134",
+    "posted_at_iso": "2026-10-29T08:03:10.417071+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 출항 축하 행사로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 황종우 해수부 장관, '다누리호' 출항 축하.. 원양산업의 새로운 도약 기대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787134&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "재정경제부",
+    "entities": [],
+    "item_id": "korea-kr-156787147",
+    "posted_at_iso": "2026-10-29T08:03:10.417077+00:00",
+    "priority": "하",
+    "reason": "국고채 발행 계획은 재정 실무 자료로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "26.11월 국고채, 재정증권, 원화표시 외평채 발행 계획",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787147&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국토교통부",
+    "entities": [
+      "정의경"
+    ],
+    "item_id": "korea-kr-156787123",
+    "posted_at_iso": "2026-10-29T08:03:10.417081+00:00",
+    "priority": "하",
+    "reason": "이동로봇 상용화 차관 동정으로 산업 실증 현장 방문이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 정의경 제2차관, \"이동로봇, 실증 넘어 상용화 기반 마련할 것\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787123&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "국방부",
+    "entities": [
+      "강신철"
+    ],
+    "item_id": "korea-kr-156787126",
+    "posted_at_iso": "2026-10-29T08:03:10.417086+00:00",
+    "priority": "하",
+    "reason": "국방장관 국제회의 참가 동정으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "강신철 국방부장관  제13차 아세안 확대 국방장관회의(ADMM-Plus) 참가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787126&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "구혁채",
+      "경주"
+    ],
+    "item_id": "korea-kr-156787116",
+    "posted_at_iso": "2026-10-29T08:03:10.417090+00:00",
+    "priority": "하",
+    "reason": "원자력학회 참석 차관 동정으로 전문가 학술 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "구혁채 과기정통부 제1차관, 원자력학회 참석 및 경주지역 연구현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787116&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "중소벤처기업부",
+    "entities": [],
+    "item_id": "korea-kr-156787121",
+    "posted_at_iso": "2026-10-29T08:03:10.417103+00:00",
+    "priority": "하",
+    "reason": "기후테크 기업 육성 정책으로 성인 창업기업이 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "기술에서 시장까지,  K-GX 선도하는 기후테크 혁신기업 본격 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787121&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "동부지방산림청",
+      "태백"
+    ],
+    "item_id": "korea-kr-156787125",
+    "posted_at_iso": "2026-10-29T08:03:10.417109+00:00",
+    "priority": "하",
+    "reason": "임업인 대상 산림규제 논의로 성인 산업 당사자가 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "동부지방산림청, 태백에서 임업인들과 산림규제 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787125&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "기획예산처",
+    "entities": [
+      "박홍근"
+    ],
+    "item_id": "korea-kr-156787130",
+    "posted_at_iso": "2026-10-29T08:03:10.417114+00:00",
+    "priority": "하",
+    "reason": "장관 현장방문 간담회로 절차성 동정 기사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "박홍근 장관, AI 영상 제작 현장방문 및 전문가 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787130&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787143",
+    "posted_at_iso": "2026-10-29T08:03:10.417118+00:00",
+    "priority": "하",
+    "reason": "기관 내부 청렴 캠페인으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 부패는 멈추고 청렴은 키우고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787143&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787141",
+    "posted_at_iso": "2026-10-29T08:03:10.417122+00:00",
+    "priority": "하",
+    "reason": "임산물 수출업체 선정은 산업 지원 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 임산물 수출 유망업체 4개사 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787141&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "산림청",
+    "entities": [
+      "아시아산림협력기구"
+    ],
+    "item_id": "korea-kr-156787136",
+    "posted_at_iso": "2026-10-29T08:03:10.417127+00:00",
+    "priority": "하",
+    "reason": "성인 전문가 대상 국제산림협력기구 총회로 청소년 국제교류와 달리 실무 성격이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 제15차 아시아산림협력기구 총회 개최… 국제산림협력 확대 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787136&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156787138",
+    "posted_at_iso": "2026-10-29T08:03:10.417130+00:00",
+    "priority": "하",
+    "reason": "해외 출국 성인 대상 환급 서비스로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부 국제질병퇴치기금 출국 납부금 환급 서비스 개시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787138&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "기획예산처",
+    "entities": [
+      "조용범"
+    ],
+    "item_id": "korea-kr-156787122",
+    "posted_at_iso": "2026-10-29T08:03:10.417135+00:00",
+    "priority": "하",
+    "reason": "협동조합정책심의위원회는 성인 경제주체 대상 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "조용범 차관, 제24회 협동조합정책심의위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787122&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "뤼튼테크놀로지스"
+    ],
+    "item_id": "korea-kr-156787120",
+    "posted_at_iso": "2026-10-29T08:03:10.417138+00:00",
+    "priority": "하",
+    "reason": "AI 스타트업 간담회로 성인 창업가 대상 산업 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부, AI 스타트업의 유니콘 도약, 현장 의견으로 정책 완성도 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787120&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "중소벤처기업부",
+    "entities": [],
+    "item_id": "korea-kr-156787119",
+    "posted_at_iso": "2026-10-29T08:03:10.417142+00:00",
+    "priority": "하",
+    "reason": "중소제조업 AI 전환 전략으로 성인 산업 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중소 제조현장을 피지컬 AI 혁신의 무대로, 「중소제조 피지컬 AI 확산 전략」 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787119&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "외교부",
+    "entities": [
+      "인도네시아"
+    ],
+    "item_id": "korea-kr-156787139",
+    "posted_at_iso": "2026-10-29T08:03:10.417145+00:00",
+    "priority": "하",
+    "reason": "외교 실무 면담으로 또래 관심사와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-인도네시아 G20 셰르파 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787139&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "문화체육관광부",
+    "entities": [
+      "두바이"
+    ],
+    "item_id": "korea-kr-156787145",
+    "posted_at_iso": "2026-10-29T08:03:10.417149+00:00",
+    "priority": "하",
+    "reason": "성인 대상 문화외교 협력 논의로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한국과 아랍에미리트 두바이, 문화협력 확대 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787145&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-29",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156787144",
+    "posted_at_iso": "2026-10-29T08:03:10.417152+00:00",
+    "priority": "하",
+    "reason": "항공엔진 산업기술 심포지엄으로 전문가 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "항공엔진 구조물용 고강도 소재부품 기술개발 심포지엄 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787144&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-29&endDate=2026-10-29&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
