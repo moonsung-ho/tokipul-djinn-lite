@@ -51159,5 +51159,391 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787182&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787192",
+    "message_ts": "1793320724.096129",
+    "posted_at_iso": "2026-10-30T00:38:44.361891+00:00",
+    "priority": "중",
+    "reason": "무인 식품판매점과 배달음식점은 또래가 자주 이용하는 식생활 공간이라 식품안전 점검이 간접적으로 닿는다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, '과일 찹쌀떡·샌드위치' 등 배달 음식점 및 무인 식품 판매점 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787192&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-30",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156787185",
+    "message_ts": "1793320724.413619",
+    "posted_at_iso": "2026-10-30T00:38:44.587889+00:00",
+    "priority": "중",
+    "reason": "장애인학대 신고 증가 통계는 사회문제를 보여주지만 아동·청소년 특정 자료는 아니다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "2025년 장애인학대 신고 6,608건 1년 새 9.6%↑, 학대의심사례의 23.9%는 본인 신고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787185&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "한국전력"
+    ],
+    "item_id": "korea-kr-156787198",
+    "posted_at_iso": "2026-10-30T00:38:44.587915+00:00",
+    "priority": "하",
+    "reason": "청년이라는 단어가 있으나 직장인 대상 교류회로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"청년이 주도하는 청렴 문화\" 국민권익위-한국전력 교류회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787198&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156787184",
+    "posted_at_iso": "2026-10-30T00:38:44.587925+00:00",
+    "priority": "하",
+    "reason": "주택통계는 거시 부동산 지표로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'26년 9월 주택통계",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787184&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "소방청",
+    "entities": [
+      "소방청",
+      "독도"
+    ],
+    "item_id": "korea-kr-156787188",
+    "posted_at_iso": "2026-10-30T00:38:44.587932+00:00",
+    "priority": "하",
+    "reason": "순직 소방항공대원 추모 행사로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "'독도 순직 소방항공대원 7주기 기억하는 날' 가져... 중앙119구조본부, 순직 소방항공대원 7주기 추모날(데이) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787188&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "말레이시아"
+    ],
+    "item_id": "korea-kr-156787189",
+    "posted_at_iso": "2026-10-30T00:38:44.587946+00:00",
+    "priority": "하",
+    "reason": "해외 한국문화원 개원은 국내 또래 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'케이-컬처' 전진기지 확대, 말레이시아에 한국문화원 개원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787189&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156787191",
+    "posted_at_iso": "2026-10-30T00:38:44.587953+00:00",
+    "priority": "하",
+    "reason": "케이콘텐츠 지식재산 해외진출은 산업계 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "'케이-콘텐츠' 지식재산, 유럽·중국에서 해외 진출 기반 넓혀",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787191&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156787208",
+    "posted_at_iso": "2026-10-30T00:38:44.587964+00:00",
+    "priority": "하",
+    "reason": "기업 대상 기술보호 집행 사안으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)산업부, 기술보호 현장 집행에 속도",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787208&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156787190",
+    "posted_at_iso": "2026-10-30T00:38:44.587970+00:00",
+    "priority": "하",
+    "reason": "산업활동동향은 거시경제 지표로 또래의 삶을 직접 보여주지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 9월 산업활동동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787190&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787193",
+    "posted_at_iso": "2026-10-30T00:38:44.587976+00:00",
+    "priority": "하",
+    "reason": "의약품 점자 정보 개선은 접근성 사안이나 청소년과 직접 연결 근거가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 손끝으로 확인하는 의약품 정보, 더 정확하고 안전하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787193&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787194",
+    "posted_at_iso": "2026-10-30T00:38:44.587982+00:00",
+    "priority": "하",
+    "reason": "의약품 GMP 평가 지침 개정은 제약업계 대상 절차 규정이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, '의약품 사전 GMP 평가 지침' 전면 개정… 절차·제출자료 명확화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787194&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787195",
+    "posted_at_iso": "2026-10-30T00:38:44.587988+00:00",
+    "priority": "하",
+    "reason": "인공무릎관절 평가 사례는 전문 의료기기 산업 자료로 또래 관심사와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, '인공무릎관절' 컴퓨터 모델링 및 시뮬레이션(CM&SS) 신뢰성평가 사례 공개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787195&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787196",
+    "posted_at_iso": "2026-10-30T00:38:44.587993+00:00",
+    "priority": "하",
+    "reason": "의료기기 사이버보안 가이드라인 개정은 산업 대상 규제다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 의료기기 사이버보안 허가심사 가이드라인 개정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787196&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156787197",
+    "posted_at_iso": "2026-10-30T00:38:44.587999+00:00",
+    "priority": "하",
+    "reason": "한약제제 GMP 지침 개정은 제약업계 대상 산업 규제다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 한약(생약)제제 GMP 질의응답집 개정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787197&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "대전"
+    ],
+    "item_id": "korea-kr-156787207",
+    "posted_at_iso": "2026-10-30T00:38:44.588005+00:00",
+    "priority": "하",
+    "reason": "국가유산지킴이 전국대회는 일반 시민·단체 참여 행사로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "국가유산, 사랑하면 보이나니! '2026 국가유산지킴이 전국대회'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787207&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156787187",
+    "posted_at_iso": "2026-10-30T00:38:44.588132+00:00",
+    "priority": "하",
+    "reason": "소상공인 투자유치 성과는 성인 창업자 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "로컬창업 소상공인 투자유치 1,227억원 달성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787187&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156787200",
+    "posted_at_iso": "2026-10-30T00:38:44.588138+00:00",
+    "priority": "하",
+    "reason": "의료기관 종사자 피폭선량 통계로 성인 직업군 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "의료기관 방사선관계종사자 피폭선량 30년 분석, 1인당 연평균 피폭선량 84.9% 감소(10.30.금)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787200&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156787202",
+    "posted_at_iso": "2026-10-30T00:38:44.588143+00:00",
+    "priority": "하",
+    "reason": "시설공사 입찰 동향 역시 절차성 공고로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청 시설공사 주간('26.11.2.~'26.11.6.)입찰 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787202&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156787203",
+    "posted_at_iso": "2026-10-30T00:38:44.588150+00:00",
+    "priority": "하",
+    "reason": "대형사업 입찰 동향 통계로 알맹이 없는 절차성 공고다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 11월 대형사업 총 342건, 2조 9,938억 원 상당 입찰 예정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787203&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-30",
+    "dept": "행정중심복합도시건설청",
+    "entities": [
+      "행정중심복합도시건설청"
+    ],
+    "item_id": "korea-kr-156787201",
+    "posted_at_iso": "2026-10-30T00:38:44.588155+00:00",
+    "priority": "하",
+    "reason": "전문가 대상 AI 추진성과 공유로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정중심복합도시건설청)",
+    "title": "행복청, 인공지능 추진성과 공유...전문가들과 발전방향 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787201&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
