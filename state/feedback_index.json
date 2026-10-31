@@ -52304,5 +52304,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787376&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-30&endDate=2026-10-30&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-10-31",
+    "dept": "외교부",
+    "entities": [
+      "한미일 외교장관회의"
+    ],
+    "item_id": "korea-kr-156787391",
+    "message_ts": "1793412171.932089",
+    "posted_at_iso": "2026-10-31T02:02:52.481973+00:00",
+    "priority": "중",
+    "reason": "국제 외교 사안이지만 또래 일상과 직접 연결되는 내용이 없고 일반적인 외교장관회의 결과 요약에 그친다",
+    "source": "정책브리핑(외교부)",
+    "title": "한미일 외교장관회의(10.30.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787391&pageIndex=1&repCodeType=&repCode=&startDate=2025-10-31&endDate=2026-10-31&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
   }
 ]
