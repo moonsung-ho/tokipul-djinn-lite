@@ -52473,5 +52473,43 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192449&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-31",
+    "dept": "외교부",
+    "entities": [
+      "독일"
+    ],
+    "item_id": "korea-kr-156787402",
+    "posted_at_iso": "2026-10-31T15:03:46.731316+00:00",
+    "priority": "하",
+    "reason": "독일과의 정례 외교장관회담 결과로 본문에 구체적 의제나 청소년과 이어질 단서가 없는 일반 외교 의전 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-독일 외교장관회담(10.30.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787402&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-01&endDate=2026-11-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-10-31",
+    "dept": "외교부",
+    "entities": [
+      "폴란드"
+    ],
+    "item_id": "korea-kr-156787403",
+    "posted_at_iso": "2026-10-31T15:03:46.731340+00:00",
+    "priority": "하",
+    "reason": "폴란드와의 정례 외교장관회담 결과로 본문에 구체적 의제나 청소년과 이어질 단서가 없는 일반 외교 의전 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-폴란드 외교장관회담(10.30.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787403&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-01&endDate=2026-11-01&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
