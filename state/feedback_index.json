@@ -53627,5 +53627,371 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787561&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "농림축산식품부",
+    "entities": [
+      "충남 서산"
+    ],
+    "item_id": "korea-kr-156787595",
+    "message_ts": "1793609665.098159",
+    "posted_at_iso": "2026-11-02T08:54:25.269970+00:00",
+    "priority": "중",
+    "reason": "야생동물에서 고병원성 AI 검출과 방역 강화는 공중보건·환경 안전 사안으로 또래가 알아둘 만하다.",
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "충남 서산 야생포유류 삵에서 고병원성 조류인플루엔자(AI) 검출… 예찰·방역 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787595&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156787612",
+    "posted_at_iso": "2026-11-02T08:54:25.270164+00:00",
+    "priority": "하",
+    "reason": "통계조사 유공 포상 전수식은 기관 내부 행사로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년도 대규모 통계조사 업무 유공 포상 전수식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787612&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156787596",
+    "posted_at_iso": "2026-11-02T08:54:25.270174+00:00",
+    "priority": "하",
+    "reason": "드론·대드론 전략 추진단 출범은 국가 안보·산업 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국가 드론·대드론 전략 추진단 출범식",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787596&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156787616",
+    "posted_at_iso": "2026-11-02T08:54:25.270182+00:00",
+    "priority": "하",
+    "reason": "규제합리화 간담회는 성인 사업자 대상 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 규제합리화 라이브클럽 현장 간담회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787616&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156787594",
+    "posted_at_iso": "2026-11-02T08:54:25.270190+00:00",
+    "priority": "하",
+    "reason": "넷제로 챌린지의 민간 투자기관 확대는 기업·투자자 대상 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 넷제로 챌린지X 민간 투자기관 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787594&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156787615",
+    "posted_at_iso": "2026-11-02T08:54:25.270195+00:00",
+    "priority": "하",
+    "reason": "의료데이터 AI 인프라 포럼은 전문가 대상 행사로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "「의료데이터의 안전한 학습·검증·활용을 위한 국가 AI 인프라 구축」 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787615&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156787614",
+    "posted_at_iso": "2026-11-02T08:54:25.270215+00:00",
+    "priority": "하",
+    "reason": "112의 날 기념식은 홍보성 행사로 규칙 변화나 또래 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청, 제69주년 '112의 날' 기념식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787614&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156787606",
+    "posted_at_iso": "2026-11-02T08:54:25.270226+00:00",
+    "priority": "하",
+    "reason": "노인일자리 기업 상생 성과는 노인 대상 정책으로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "기업이 만드는 지속가능한 노인일자리, 기업 상생 협력 성과 확산",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787606&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156787620",
+    "posted_at_iso": "2026-11-02T08:54:25.270236+00:00",
+    "priority": "하",
+    "reason": "해경 예산안 국회 심사는 기관 운영 사안으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "더 강한 해경, 더 안전한 바다 구현...2027년도 예산안 2조 2,291억원 국회 심사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787620&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "무주국유림관리소"
+    ],
+    "item_id": "korea-kr-156787611",
+    "posted_at_iso": "2026-11-02T08:54:25.270244+00:00",
+    "priority": "하",
+    "reason": "지역 국유림관리소의 정례적 산불조심기간 대비 발표로 구체적 위험이나 사건성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "무주국유림관리소, 가을철 산불조심기간 대비 총력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787611&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국토교통부"
+    ],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156787609",
+    "posted_at_iso": "2026-11-02T08:54:25.270252+00:00",
+    "priority": "하",
+    "reason": "관광-교통 정책협의회는 전국민 대상 관광 정책으로 청소년 특정 연결점이 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부와 국토부, 관광교통 칸막이 허물고 '지방관광 시대' 연다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787609&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156787618",
+    "posted_at_iso": "2026-11-02T08:54:25.270261+00:00",
+    "priority": "하",
+    "reason": "수사경찰관 역량강화 연수는 기관 내부 훈련으로 청소년과 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "변화하는 수사 환경에 맞춰 전문성 높인다... 해경청, 전국 수사경찰관 역량 강화 연수 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787618&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787600",
+    "posted_at_iso": "2026-11-02T08:54:25.270269+00:00",
+    "priority": "하",
+    "reason": "국제회의 공식 문서 등재는 외교적 성과 홍보로 또래 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 유엔생물다양성협약(CBD) 당사국총회 공식 문서에 이름 올려, 글로벌 산림 리더십 입증",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787600&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787605",
+    "posted_at_iso": "2026-11-02T08:54:25.270296+00:00",
+    "priority": "하",
+    "reason": "임업인의 날 기념행사는 성인 임업 종사자 대상 행사로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 제7회 임업인의 날 기념행사에서 정부포상 전수 등 임업인 격려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787605&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156787613",
+    "posted_at_iso": "2026-11-02T08:54:25.270303+00:00",
+    "priority": "하",
+    "reason": "장관의 쇼핑축제 현장 방문은 성인 소비재 산업 홍보로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "산업부 장관, 쇼핑축제 현장 찾아 세계인의 장바구니에 K-소비재를 채우다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787613&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "농림축산식품부",
+    "entities": [
+      "송미령",
+      "충남 서산"
+    ],
+    "item_id": "korea-kr-156787617",
+    "posted_at_iso": "2026-11-02T08:54:25.270310+00:00",
+    "priority": "하",
+    "reason": "장관의 농업 현장 방문 홍보로 청소년 당사자성이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "송미령 농림축산식품부 장관, 충남 서산 벼 수확 및 쌀 수매현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787617&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156787608",
+    "posted_at_iso": "2026-11-02T08:54:25.270319+00:00",
+    "priority": "하",
+    "reason": "콩 소비 확대를 위한 생산자·가공업계 협력은 성인 농업계 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "콩 생산자·가공업계 손잡고,  국산 콩 소비 확대 나선다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787608&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "함양산림항공관리소"
+    ],
+    "item_id": "korea-kr-156787602",
+    "posted_at_iso": "2026-11-02T08:54:25.270327+00:00",
+    "priority": "하",
+    "reason": "지역 산림항공관리소의 정례적 산불 대비 체계 가동 발표로 구체적 사건성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "함양산림항공관리소, 가을철 산불 대비 총력 대응 체계 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787602&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청"
+    ],
+    "item_id": "korea-kr-156787619",
+    "posted_at_iso": "2026-11-02T08:54:25.270336+00:00",
+    "priority": "하",
+    "reason": "해경 내부 포상금 지급은 조직 운영 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "해경청, 현장 중심 특별성과 발굴해 포상금 1억 360만 원 지급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787619&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
