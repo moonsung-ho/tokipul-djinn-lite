@@ -53261,5 +53261,371 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787509&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "교육부",
+    "entities": [
+      "전국 학교예술교육 축제"
+    ],
+    "item_id": "korea-kr-156787559",
+    "message_ts": "1793595482.408469",
+    "posted_at_iso": "2026-11-02T04:58:02.971014+00:00",
+    "priority": "상",
+    "reason": "전국 학교예술교육 축제는 학생이 직접 참여하는 행사로 당사자성이 뚜렷하다.",
+    "source": "정책브리핑(교육부)",
+    "title": "2026년 전국 학교예술교육 축제 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787559&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156787563",
+    "message_ts": "1793595483.144079",
+    "posted_at_iso": "2026-11-02T04:58:03.710073+00:00",
+    "priority": "중",
+    "reason": "대설·한파 대응 역량 강화는 학교 휴업 등 또래 일상에 간접적으로 영향을 줄 수 있다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "겨울철 대설·한파 대비, 중앙과 지방정부가 함께 대응 역량 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787563&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787555",
+    "message_ts": "1793595483.879589",
+    "posted_at_iso": "2026-11-02T04:58:04.418581+00:00",
+    "priority": "중",
+    "reason": "생물다양성 세밀화·AI 이미지 공모전은 청소년이 참여했을 가능성이 있는 또래 성취 사안이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "제21회 생물다양성 세밀화·인공지능 이미지 공모전 수상작 41점 공개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787555&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787556",
+    "message_ts": "1793595484.593439",
+    "posted_at_iso": "2026-11-02T04:58:05.115728+00:00",
+    "priority": "중",
+    "reason": "환경교육도시 선정은 학교 환경교육과 연계 가능성이 있으나 지자체 단위라 간접적이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "지방정부 10곳 2026년도 환경교육도시로 선정… 지역 중심 탄소중립 사회 실현에 기여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787556&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156787552",
+    "message_ts": "1793595485.273689",
+    "posted_at_iso": "2026-11-02T04:58:05.816687+00:00",
+    "priority": "중",
+    "reason": "국제 행성탐사 전문가와의 전략 논의는 실제 성과 발표가 아닌 협의 단계로 아직 기사화할 알맹이가 약하다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "국제 행성탐사 전문가와 미래 우주과학탐사 전략 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787552&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156787554",
+    "posted_at_iso": "2026-11-02T04:58:05.816703+00:00",
+    "priority": "하",
+    "reason": "공직사회 성희롱·성폭력 신고센터 안내는 공무원 대상으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "\"성희롱·성폭력, 본인·제3자 익명신고 가능해요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787554&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156787557",
+    "posted_at_iso": "2026-11-02T04:58:05.816711+00:00",
+    "priority": "하",
+    "reason": "온라인쇼핑 동향 통계는 경제 실무 지표로 사회의 모습을 보여주는 데이터로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 9월 온라인쇼핑동향 및 3/4분기 온라인 해외 직접 판매 및 구매 동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787557&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국세청",
+    "entities": [
+      "국세청"
+    ],
+    "item_id": "korea-kr-156787551",
+    "posted_at_iso": "2026-11-02T04:58:05.816717+00:00",
+    "priority": "하",
+    "reason": "근로·자녀장려금은 성인 근로자·가구 대상 세제 지원으로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "5월에 놓친 근로·자녀장려금, 12.1.까지 '꼭' 신청",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787551&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156787558",
+    "posted_at_iso": "2026-11-02T04:58:05.816723+00:00",
+    "priority": "하",
+    "reason": "데이터·통계 혁신 성과 홍보는 추상적 행정 성과로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "국민을 위한 특별한 성과로 데이터·통계 혁신을 이끈다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787558&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "국방드론본부"
+    ],
+    "item_id": "korea-kr-156787548",
+    "posted_at_iso": "2026-11-02T04:58:05.816822+00:00",
+    "priority": "하",
+    "reason": "국방드론본부 창설은 군 조직 개편으로 또래의 일상이나 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방드론본부 창설",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787548&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처"
+    ],
+    "item_id": "korea-kr-156787576",
+    "posted_at_iso": "2026-11-02T04:58:05.816828+00:00",
+    "priority": "하",
+    "reason": "국가발전전략 전문가 자문회의는 추상적 정책 논의로 또래와 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "기획예산처, 2045 국가발전전략 수립을 위해 미래전략 전문가와 심층 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787576&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "행정안전부",
+    "entities": [
+      "대통령기록관"
+    ],
+    "item_id": "korea-kr-156787565",
+    "posted_at_iso": "2026-11-02T04:58:05.816833+00:00",
+    "priority": "하",
+    "reason": "대통령 외교 선물 기록관 행사는 성인 행정 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "대통령의 외교, 세계를 품다 : 선물에 담긴 기록의 가치를 선보이다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787565&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "싱가포르"
+    ],
+    "item_id": "korea-kr-156787567",
+    "posted_at_iso": "2026-11-02T04:58:05.816842+00:00",
+    "priority": "하",
+    "reason": "국방장관 외교 회담은 성인 안보·외교 사안으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기  한-싱가포르 국방장관회담 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787567&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "통일부",
+    "entities": [
+      "통일부"
+    ],
+    "item_id": "korea-kr-156787547",
+    "posted_at_iso": "2026-11-02T04:58:05.816847+00:00",
+    "priority": "하",
+    "reason": "전후납북자 추가 인정은 고령 피해자 대상 과거사 사안으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "정부, 전후납북자 추가 인정 결정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787547&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156787578",
+    "posted_at_iso": "2026-11-02T04:58:05.816852+00:00",
+    "priority": "하",
+    "reason": "피지컬 AI 표준·지식재산 정책은 산업·기업 대상으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "표준과 지식재산으로 여는 피지컬 AI 시대, 글로벌 주도권 확보 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787578&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "함양국유림관리소"
+    ],
+    "item_id": "korea-kr-156787571",
+    "posted_at_iso": "2026-11-02T04:58:05.816856+00:00",
+    "priority": "하",
+    "reason": "특정 지역 국유림관리소의 정례 산불방지대책본부 운영으로 전국적·학교 안전 사안과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "함양국유림관리소 \"가을철 산불방지대책본부 가동\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787571&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "함양국유림관리소"
+    ],
+    "item_id": "korea-kr-156787569",
+    "posted_at_iso": "2026-11-02T04:58:05.816861+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 공동방제는 지역 산림 방제 행정으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "함양국유림관리소, 소나무재선충병 차단 '공동방제' 총력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787569&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156787553",
+    "posted_at_iso": "2026-11-02T04:58:05.816866+00:00",
+    "priority": "하",
+    "reason": "개방형 직위 채용은 성인 인사 행정으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "행안부 국립과학수사연구원장 등 15개 개방형 직위 채용",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787553&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "행정안전부",
+    "entities": [
+      "제주도"
+    ],
+    "item_id": "korea-kr-156787561",
+    "posted_at_iso": "2026-11-02T04:58:05.816870+00:00",
+    "priority": "하",
+    "reason": "제주도 자전거의 날 기념행사는 지역 한정 행사로 서울 중학생과 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부·제주도, '2026 자전거의 날' 기념행사 개최… 탄소중립 실천 가치 확산",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787561&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
