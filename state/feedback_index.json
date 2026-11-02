@@ -52866,5 +52866,400 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787453&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청",
+      "청소년 중독성범죄 자진신고"
+    ],
+    "item_id": "korea-kr-156787512",
+    "message_ts": "1793582334.870079",
+    "posted_at_iso": "2026-11-02T01:18:55.176424+00:00",
+    "priority": "상",
+    "reason": "청소년 중독성범죄 자진신고는 청소년을 직접 대상으로 한 정책으로 당사자성과 관심사 모두 높다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청, 「청소년 중독성범죄(사이버도박·마약) 자진신고 기간」 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787512&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "한강",
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156787521",
+    "message_ts": "1793582335.276829",
+    "posted_at_iso": "2026-11-02T01:18:55.649096+00:00",
+    "priority": "상",
+    "reason": "국가 슈퍼컴퓨터 가동은 과학기술 성과로 또래의 관심사에 해당한다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국가 슈퍼컴퓨터 6호기 '한강' 본격 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787521&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청",
+      "형사소송법"
+    ],
+    "item_id": "korea-kr-156787518",
+    "message_ts": "1793582335.763749",
+    "posted_at_iso": "2026-11-02T01:18:56.091958+00:00",
+    "priority": "중",
+    "reason": "수사체계 개편은 사회 전반 사안이나 청소년 일상과 직접 닿지 않는다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "개정 형사소송법 시행 한 달,새로운 수사체계 안정적 정착을 기대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787518&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "국가유산청",
+    "entities": [
+      "덕수궁",
+      "국가유산청"
+    ],
+    "item_id": "korea-kr-156787502",
+    "message_ts": "1793582336.188049",
+    "posted_at_iso": "2026-11-02T01:18:56.561219+00:00",
+    "priority": "중",
+    "reason": "AI 체험 전시는 또래가 관람 가능한 문화 행사이지만 규칙 변화와는 무관하다.",
+    "source": "정책브리핑(국가유산청)",
+    "title": "대한제국 황실 만찬의 요리사가 되다… 덕수궁에서 즐기는 인공지능(AI) 체험 전시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787502&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "국가보훈부",
+    "entities": [
+      "학생독립운동",
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156787520",
+    "message_ts": "1793582336.656609",
+    "posted_at_iso": "2026-11-02T01:18:56.986656+00:00",
+    "priority": "중",
+    "reason": "학생독립운동 기념식은 역사적 의미가 있으나 현재 학생의 규칙이나 일상과 직결되지 않는다.",
+    "source": "정책브리핑(국가보훈부)",
+    "title": "제97주년 학생독립운동 기념식",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787520&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가유산청",
+    "entities": [
+      "남양주 사릉",
+      "국가유산청"
+    ],
+    "item_id": "korea-kr-156787500",
+    "posted_at_iso": "2026-11-02T01:18:56.986676+00:00",
+    "priority": "하",
+    "reason": "지역 문화유산 시설 개관 소식으로 청소년 특정성이 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "(국영문 동시배포) 새 단장 마친 '남양주 사릉 역사문화관' 11월 3일부터 문 연다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787500&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156787513",
+    "posted_at_iso": "2026-11-02T01:18:56.986685+00:00",
+    "priority": "하",
+    "reason": "노동 정책 협의체 구성으로 성인 노동 현안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)「(약칭)초광역특구법 관련 원포인트 사회적 대화」제1차 운영협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787513&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156787522",
+    "posted_at_iso": "2026-11-02T01:18:56.986691+00:00",
+    "priority": "하",
+    "reason": "전국민 대상 손상예방 기념행사로 청소년 특정성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "[11.2.행사시작(10시)이후] 손상 걱정 없는 건강한 사회! 2026년 국가손상예방의 날 기념행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787522&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가유산청",
+    "entities": [
+      "창녕 교동 고분군",
+      "국가유산청"
+    ],
+    "item_id": "korea-kr-156787498",
+    "posted_at_iso": "2026-11-02T01:18:56.986795+00:00",
+    "priority": "하",
+    "reason": "전문 학술발표회로 또래와의 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "「창녕 교동 고분군의 구조와 축조기법 검토」 학술발표회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787498&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "국가유산청",
+    "entities": [
+      "국립경주문화유산연구소",
+      "동국대학교"
+    ],
+    "item_id": "korea-kr-156787496",
+    "posted_at_iso": "2026-11-02T01:18:56.986802+00:00",
+    "priority": "하",
+    "reason": "경주 지역 학술 전시로 서울 중학생과의 접점이 적다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "같이 발굴한 신라의 역사, 전시로 함께 나누다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787496&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156787510",
+    "posted_at_iso": "2026-11-02T01:18:56.986808+00:00",
+    "priority": "하",
+    "reason": "불법사금융 단속은 성인 대상 금융범죄 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청,  「특별자수·신고기간」 및 「불법사금융 전국 특별단속」 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787510&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156787463",
+    "posted_at_iso": "2026-11-02T01:18:56.986812+00:00",
+    "priority": "하",
+    "reason": "기관 평가 등급 보도로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "공정위, GCR 평가 13년 연속 매우 우수 이상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787463&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156787515",
+    "posted_at_iso": "2026-11-02T01:18:56.986823+00:00",
+    "priority": "하",
+    "reason": "휴양림 내부 산불방지본부 운영으로 일상 변화나 안전 이슈로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립자연휴양림, 가을철 산불방지대책본부 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787515&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "국립자연휴양림관리소"
+    ],
+    "item_id": "korea-kr-156787517",
+    "posted_at_iso": "2026-11-02T01:18:56.986852+00:00",
+    "priority": "하",
+    "reason": "다자녀 가족 대상 휴양림 이용 통계로 학생 당사자성이 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립자연휴양림관리소 다자녀 기준 완화 후 이용객 1.7배 증가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787517&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "법무부",
+    "entities": [
+      "법무부"
+    ],
+    "item_id": "korea-kr-156787508",
+    "posted_at_iso": "2026-11-02T01:18:56.986857+00:00",
+    "priority": "하",
+    "reason": "고위공무원 인사 발령으로 기사성이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부 보호기관 고위공무원 인사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787508&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "안동산림항공관리소",
+      "대구광역시"
+    ],
+    "item_id": "korea-kr-156787507",
+    "posted_at_iso": "2026-11-02T01:18:56.986862+00:00",
+    "priority": "하",
+    "reason": "성인 산림재난 대응인력 대상 훈련으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "안동산림항공관리소, 대구광역시 산불진화 교육·훈련 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787507&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "산림청",
+    "entities": [
+      "울진국유림관리소"
+    ],
+    "item_id": "korea-kr-156787492",
+    "posted_at_iso": "2026-11-02T01:18:56.986868+00:00",
+    "priority": "하",
+    "reason": "지방 농업유산 체험행사 내 캠페인으로 서울 지역 또래와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소, 세계중요농업유산 체험행사 중 산불예방 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787492&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "해양수산부",
+    "entities": [
+      "인천항만공사",
+      "박인서"
+    ],
+    "item_id": "korea-kr-156787524",
+    "posted_at_iso": "2026-11-02T01:18:56.986873+00:00",
+    "priority": "하",
+    "reason": "공기업 사장 인사로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "인천항만공사 제8대 사장에 박인서 씨 임명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787524&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156787511",
+    "posted_at_iso": "2026-11-02T01:18:56.986877+00:00",
+    "priority": "하",
+    "reason": "운전면허 갱신 서비스는 성인 대상 행정 서비스다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "재외공관을 통한 제1종 보통 운전면허증 갱신, 국제 운전면허증 신청서비스 11. 2.(월)부터 개시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787511&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-02",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156787509",
+    "posted_at_iso": "2026-11-02T01:18:56.986882+00:00",
+    "priority": "하",
+    "reason": "청년창업자 대상 특허심사 제도로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "청년창업자라면 누구나, 특허심사 결과 한 달만에 받는다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787509&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-02&endDate=2026-11-02&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
