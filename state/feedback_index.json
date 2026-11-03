@@ -55045,5 +55045,100 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787809&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "국민인공지능서비스혁신추진단"
+    ],
+    "item_id": "korea-kr-156787846",
+    "posted_at_iso": "2026-11-03T17:34:21.873618+00:00",
+    "priority": "하",
+    "reason": "성인 대상 전문임기제공무원 채용 공고로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국민인공지능서비스혁신추진단, 전문임기제공무원 2차 공개 모집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787846&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156787811",
+    "posted_at_iso": "2026-11-03T17:34:21.873640+00:00",
+    "priority": "하",
+    "reason": "응급실 등 성인 의료진·의료체계 관련 수사 가이드라인으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "응급실 등 필수의료분야 수사 가이드라인 마련 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787811&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "외교부",
+    "entities": [
+      "스위스"
+    ],
+    "item_id": "korea-kr-156787812",
+    "posted_at_iso": "2026-11-03T17:34:21.873644+00:00",
+    "priority": "하",
+    "reason": "한-스위스 정책협의회는 외교 실무 협의로 구체적 내용이 없어 또래 관심사로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제7차 한-스위스 정책협의회 개최(11.3.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787812&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "합성생물학 경진대회"
+    ],
+    "item_id": "korea-kr-156787845",
+    "posted_at_iso": "2026-11-03T17:34:21.873649+00:00",
+    "priority": "하",
+    "reason": "청년(대학생 이상) 대상 합성생물학 경진대회로 중학생과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "청년들의 창의적 아이디어로  합성생물학의 미래를 열다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787845&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "문화체육관광부",
+    "entities": [
+      "최휘영",
+      "전북도지사",
+      "2036 하계올림픽"
+    ],
+    "item_id": "korea-kr-156787813",
+    "posted_at_iso": "2026-11-03T17:34:21.873653+00:00",
+    "priority": "하",
+    "reason": "올림픽 유치를 위한 초기 현안 논의로 아직 구체적 결정이 없어 또래와 연결할 단서가 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "최휘영 장관, 전북도지사 만나 '2036 하계올림픽' 유치 현안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787813&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
