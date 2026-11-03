@@ -55140,5 +55140,83 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787813&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "소방청",
+    "entities": [
+      "국립소방연구원",
+      "산업안전보건연구원"
+    ],
+    "item_id": "korea-kr-156787850",
+    "posted_at_iso": "2026-11-03T22:55:21.605141+00:00",
+    "priority": "하",
+    "reason": "소방차량 오염관리 공동 평가는 기관 간 실무 협력으로 또래의 일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "\"소방차량 오염관리, 현장에서 해법 찾는다\" 국립소방연구원, 산업안전보건연구원과 소방차량 오염환경 공동 평가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787850&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "외교부",
+    "entities": [
+      "APEC",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156787847",
+    "posted_at_iso": "2026-11-03T22:55:21.605187+00:00",
+    "priority": "하",
+    "reason": "APEC 외교통상 각료회의 참석은 성인 외교 사안으로 청소년의 권리나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787847&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156787849",
+    "posted_at_iso": "2026-11-03T22:55:21.605204+00:00",
+    "priority": "하",
+    "reason": "매년 반복되는 일반 국민 대상 화재예방 캠페인으로 특정 학교나 학생 안전 조치가 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "소방청, 제79회 '불조심 강조의 달' 운영 국민과 함께 겨울철 화재예방 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787849&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787848",
+    "posted_at_iso": "2026-11-03T22:55:21.605216+00:00",
+    "priority": "하",
+    "reason": "동물원 질병관리 실무자 회의는 전문가 대상 행정 회의로 또래와 연결되는 지점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "전국 동물원 질병관리 실무자 한자리에 모여 선진 관리 체계 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787848&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
