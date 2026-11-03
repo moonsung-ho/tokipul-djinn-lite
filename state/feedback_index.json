@@ -54793,5 +54793,257 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787759&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-03",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156787790",
+    "message_ts": "1793697557.668999",
+    "posted_at_iso": "2026-11-03T09:19:17.857448+00:00",
+    "priority": "중",
+    "reason": "휴머노이드 로봇 데이터 기지는 미래 기술 트렌드로 또래의 관심사가 될 수 있으나 산업정책적 성격이 강하다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "휴머노이드가 '일하는 법' 배우는  데이터 생산기지 문 연다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787790&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156787792",
+    "posted_at_iso": "2026-11-03T09:19:17.857473+00:00",
+    "priority": "하",
+    "reason": "전북 지역 성인 취업·정주 지원 정책으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "\"새만금에서 일하고, 전북에서 함께 살아요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787792&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156787803",
+    "posted_at_iso": "2026-11-03T09:19:17.857484+00:00",
+    "priority": "하",
+    "reason": "대지권 미등기 분쟁 조정은 성인 소유자 대상 부동산 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"중복지적으로 인한 5,159세대 대지권 미등기 문제, 16년 만에 조정으로 해결\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787803&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156787791",
+    "posted_at_iso": "2026-11-03T09:19:17.857493+00:00",
+    "priority": "하",
+    "reason": "모듈러주택 산업 규제 현장캠프는 산업계 대상 정책 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 모듈러주택 산업 현장소통을 위한 규제합리화 현장캠프 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787791&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156787806",
+    "posted_at_iso": "2026-11-03T09:19:17.857501+00:00",
+    "priority": "하",
+    "reason": "위기채무자 지원 협약은 성인 금융취약계층 대상 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 위기채무자 지원 강화를 위한 업무협약 체결식",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787806&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "IgA 신병증"
+    ],
+    "item_id": "korea-kr-156787808",
+    "posted_at_iso": "2026-11-03T09:19:17.857521+00:00",
+    "priority": "하",
+    "reason": "희귀질환 치료제 허가는 특정 환자군 대상으로 또래 일반과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 새로운 IgA 신병증 희귀 치료제 허가",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787808&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "국방부",
+    "entities": [
+      "안성호",
+      "국방부"
+    ],
+    "item_id": "korea-kr-156787800",
+    "posted_at_iso": "2026-11-03T09:19:17.857537+00:00",
+    "priority": "하",
+    "reason": "전사자 유해 귀환 행사는 의전성 보도로 또래 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "고 안성호 이등중사 호국의 영웅 귀환 행사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787800&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "산림청",
+    "entities": [
+      "국립수목원"
+    ],
+    "item_id": "korea-kr-156787799",
+    "posted_at_iso": "2026-11-03T09:19:17.857546+00:00",
+    "priority": "하",
+    "reason": "전 국민 대상 일반 건강수칙 안내로 또래 특정성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립수목원, 한파 오기 전 한랭질환 예방 나선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787799&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "외교부",
+    "entities": [
+      "김진아",
+      "국제해양법재판소"
+    ],
+    "item_id": "korea-kr-156787805",
+    "posted_at_iso": "2026-11-03T09:19:17.857553+00:00",
+    "priority": "하",
+    "reason": "외교 의전성 접견 일정으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "김진아 2차관, 국제해양법재판소(ITLOS) 소장 접견(11.3.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787805&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156787789",
+    "posted_at_iso": "2026-11-03T09:19:17.857560+00:00",
+    "priority": "하",
+    "reason": "제조업 AI 확산전략은 기업·산업 대상 정책으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "대한민국 제조업 판 바꾼다... 산업부, 제조AI 4단계 확산전략 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787789&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "산림청",
+    "entities": [
+      "인제",
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156787802",
+    "posted_at_iso": "2026-11-03T09:19:17.857568+00:00",
+    "priority": "하",
+    "reason": "유아숲체험원 안전점검으로 대상이 유아이며 중학생과는 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 인제 자작나무 유아숲체험원 안전관리실태 특별점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787802&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156787810",
+    "posted_at_iso": "2026-11-03T09:19:17.857575+00:00",
+    "priority": "하",
+    "reason": "체불 사업주 신용제재는 성인 노동시장 행정조치로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "상습체불사업주 777명,  1년간 신용제재 받는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787810&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-03",
+    "dept": "법무부",
+    "entities": [
+      "박찬길",
+      "여수·순천 10·19사건"
+    ],
+    "item_id": "korea-kr-156787809",
+    "posted_at_iso": "2026-11-03T09:19:17.857582+00:00",
+    "priority": "하",
+    "reason": "과거사 국가배상 소송 관련 조치로 특정 유족 사안이며 또래 일상과 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "정부, 여수·순천 10·19사건 희생자 고(故)박찬길 검사 유족 제기 국가배상소송 항소 포기",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787809&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-03&endDate=2026-11-03&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
