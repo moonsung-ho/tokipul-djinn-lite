@@ -55572,5 +55572,411 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787890&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-04",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156787918",
+    "message_ts": "1793769579.426399",
+    "posted_at_iso": "2026-11-04T05:19:40.026936+00:00",
+    "priority": "상",
+    "reason": "초등학생 통학 안전을 위협하는 공사차량 문제와 우회도로·안전시설 설치 합의로 학생 안전이 직접 걸려 있다.",
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"공사 차량으로 안전 위협받는 초등학생들\"… 우회도로 개설, 교통안전 시설물 설치하기로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787918&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-04",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "소프트웨어마이스터고등학교",
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156787900",
+    "message_ts": "1793769580.196319",
+    "posted_at_iso": "2026-11-04T05:19:40.768983+00:00",
+    "priority": "상",
+    "reason": "소프트웨어마이스터고 학생들의 실리콘밸리 취업은 또래의 성취 사례로 직접 다룰 만하다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 소프트웨어마이스터고등학교 세계적 인재 양성으로 4년연속 실리콘밸리 취업",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787900&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-04",
+    "dept": "행정안전부",
+    "entities": [
+      "조선왕조실록"
+    ],
+    "item_id": "korea-kr-156787915",
+    "message_ts": "1793769580.950059",
+    "posted_at_iso": "2026-11-04T05:19:41.511847+00:00",
+    "priority": "상",
+    "reason": "국내외 학생 765명이 참여하는 조선왕조실록 읽기·기록 프로그램으로 또래의 교육 활동이 직접 소재가 된다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "지구촌 학생 765명, 조선왕조실록 읽고 '미래의 나'에게 기록 남긴다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787915&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-02",
+    "dept": "",
+    "entities": [
+      "대학수학능력시험"
+    ],
+    "item_id": "sen-press-192397",
+    "message_ts": "1793769581.684829",
+    "posted_at_iso": "2026-11-04T05:19:42.275091+00:00",
+    "priority": "상",
+    "reason": "지금 중학생이 치를 수능의 시험장 운영과 부정행위 규정 변경을 다뤄 당사자성이 뚜렷하다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 2027학년도 대학수학능력시험 응시 현황 및 수험생 유의사항 안내",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192397&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-04",
+    "dept": "교육부",
+    "entities": [
+      "OECD"
+    ],
+    "item_id": "korea-kr-156787908",
+    "message_ts": "1793769582.446659",
+    "posted_at_iso": "2026-11-04T05:19:43.027403+00:00",
+    "priority": "중",
+    "reason": "한국 교육의 성과와 미래 방향을 조명하는 내용이라 학생에게 간접적으로 닿지만 구체적 정책 변화는 보이지 않는다.",
+    "source": "정책브리핑(교육부)",
+    "title": "경제협력개발기구(OECD) 가입 30주년, 한국 교육의 성과와 미래 방향 조명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787908&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-04",
+    "dept": "우주항공청",
+    "entities": [
+      "스위프트 우주망원경",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156787921",
+    "message_ts": "1793769583.195519",
+    "posted_at_iso": "2026-11-04T05:19:43.749416+00:00",
+    "priority": "중",
+    "reason": "우주망원경 재진입은 안전·과학 관심사이나 한반도 영향 없음이 확인돼 긴급성이 낮다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "미국 스위프트(SWIFT) 우주망원경 4일 저녁 대기권 재진입 예상 한반도 영향 없어",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787921&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "농림축산식품부",
+    "entities": [
+      "푸드위크 코리아"
+    ],
+    "item_id": "korea-kr-156787920",
+    "posted_at_iso": "2026-11-04T05:19:43.749443+00:00",
+    "priority": "하",
+    "reason": "식품산업 박람회 행사로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "\"맛으로 잇는 세계, K-푸드로 통하다\"… 「푸드위크 코리아 2026」 화려한 막 올려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787920&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "외교부",
+    "entities": [
+      "해양법 국제학술회의"
+    ],
+    "item_id": "korea-kr-156787930",
+    "posted_at_iso": "2026-11-04T05:19:43.749453+00:00",
+    "priority": "하",
+    "reason": "전문가 대상 국제학술회의로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "「제11회 해양법 국제학술회의」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787930&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "산림청",
+    "entities": [
+      "한라산",
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156787923",
+    "posted_at_iso": "2026-11-04T05:19:43.749460+00:00",
+    "priority": "하",
+    "reason": "한라산 탐방객 대상 홍보 캠페인으로 지역·성인 중심이라 또래 접점이 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "가을철 산불 예방...한라산 영실서 캠페인 실시 -국립산림과학원, 산불조심기간 맞아 한라산 탐방객 대상 산불예방 독려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787923&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "베트남"
+    ],
+    "item_id": "korea-kr-156787919",
+    "posted_at_iso": "2026-11-04T05:19:43.749467+00:00",
+    "priority": "하",
+    "reason": "국가 간 반부패 협력 재확인으로 성인·행정 외교 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "국민권익위, 베트남과의  반부패 협력 관계 재확인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787919&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156787932",
+    "posted_at_iso": "2026-11-04T05:19:43.749474+00:00",
+    "priority": "하",
+    "reason": "군수 산업 AI 기술개발 착수로 청소년의 삶과 무관한 성인·산업 영역 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부·산업통상부, 군수 빅데이터 기반 「RAM-C AI 에이전트」 기술개발 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787932&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156787931",
+    "posted_at_iso": "2026-11-04T05:19:43.749492+00:00",
+    "priority": "하",
+    "reason": "부처 내부 업무혁신 추진으로 학생과 무관한 행정 내부 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후부, 소속·산하기관과 인공지능 활용으로 업무혁신 함께 이룬다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787931&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "이종원"
+    ],
+    "item_id": "korea-kr-156787901",
+    "posted_at_iso": "2026-11-04T05:19:43.749500+00:00",
+    "priority": "하",
+    "reason": "성인 연구자 개인 수상 소식으로 인사성 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "대한민국 과학기술인상 11월 수상자 이종원 단장 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787901&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156787911",
+    "posted_at_iso": "2026-11-04T05:19:43.749507+00:00",
+    "priority": "하",
+    "reason": "국민 전체 대상 사회적 고립 토론회 참가자 모집으로 성인 중심 참여형 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "사회적 고립, 국민과 함께 고민하고 답을 찾는다... 제4회 '모두의 토론회' 참가자 모집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787911&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "산림청",
+    "entities": [
+      "영암국유림관리소",
+      "천관산도립공원"
+    ],
+    "item_id": "korea-kr-156787917",
+    "posted_at_iso": "2026-11-04T05:19:43.749515+00:00",
+    "priority": "하",
+    "reason": "지역 국유림의 등산객 대상 산불예방 캠페인으로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영암국유림, 가을철 산불예방 및 산지정화 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787917&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156787909",
+    "posted_at_iso": "2026-11-04T05:19:43.749522+00:00",
+    "priority": "하",
+    "reason": "성인 대상 평생학습 시상식·동판 수여식으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "제23회 대한민국 평생학습대상 시상식 및 2026년 평생학습도시 동판 수여식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787909&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "외교부",
+    "entities": [
+      "아프리카연합"
+    ],
+    "item_id": "korea-kr-156787924",
+    "posted_at_iso": "2026-11-04T05:19:43.749529+00:00",
+    "priority": "하",
+    "reason": "정부 간 외교 정책협의회로 성인 외교 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제7차 한-아프리카연합(AU) 정책협의회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787924&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156787928",
+    "posted_at_iso": "2026-11-04T05:19:43.749535+00:00",
+    "priority": "하",
+    "reason": "통합돌봄 지역계획은 지자체·노인 돌봄 체계 협의로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "첫 통합돌봄 지역계획 수립 위한 중앙-지방 협력방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787928&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "행정안전부",
+    "entities": [
+      "우즈베키스탄"
+    ],
+    "item_id": "korea-kr-156787913",
+    "posted_at_iso": "2026-11-04T05:19:43.749542+00:00",
+    "priority": "하",
+    "reason": "행정 주소체계의 해외 수출 사업으로 청소년과 무관한 성인 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부, 'K-주소' 첫 해외 수익형 수주... 유럽 강국 제치고 우즈베키스탄  국가주소등록부 구축 기술지원 사업 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787913&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "재정경제부",
+    "entities": [
+      "허장",
+      "방글라데시"
+    ],
+    "item_id": "korea-kr-156787933",
+    "posted_at_iso": "2026-11-04T05:19:43.749549+00:00",
+    "priority": "하",
+    "reason": "차관급 외교 면담 동정으로 절차성·인사성 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "허장 차관, 방글라데시 차우두리 재무장관 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787933&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-04",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "호라이즌 유럽"
+    ],
+    "item_id": "korea-kr-156787926",
+    "posted_at_iso": "2026-11-04T05:19:43.749555+00:00",
+    "priority": "하",
+    "reason": "국제 연구자 간 공동연구 확대로 또래와 이어지는 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "호라이즌 유럽 참여 확대 넘어 전략적 공동연구 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787926&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-04&endDate=2026-11-04&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
