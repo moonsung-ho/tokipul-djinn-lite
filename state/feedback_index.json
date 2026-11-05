@@ -56431,5 +56431,278 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787997&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "국가유산청",
+    "entities": [
+      "국가유산청",
+      "유네스코"
+    ],
+    "item_id": "korea-kr-156788003",
+    "message_ts": "1793837457.329289",
+    "posted_at_iso": "2026-11-05T00:10:57.606685+00:00",
+    "priority": "중",
+    "reason": "전통 지식과 기술의 유네스코 무형유산 등재는 당사자성은 없지만 문화적 성취로 또래가 알 만한 소식이다.",
+    "source": "정책브리핑(국가유산청)",
+    "title": "(국영문 동시배포) 「한지 제작의 전통 지식과 기술 및 문화적 실천」 유네스코 무형유산위원회 평가에서 '등재 권고'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788003&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156788001",
+    "posted_at_iso": "2026-11-05T00:10:57.606719+00:00",
+    "priority": "하",
+    "reason": "소방의 날 기념 이모티콘 배포로 홍보성 소식이라 취재 각도가 약하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "\"소방의 날도, 현장 안전도 일구와 함께!\" 소방청, 카카오톡 그림말(이모티콘) 6일 배포",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788001&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "국민권익위원회",
+    "entities": [
+      "여수",
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156788012",
+    "posted_at_iso": "2026-11-05T00:10:57.606729+00:00",
+    "priority": "하",
+    "reason": "영구임대주택 임차인(성인) 권익 보호 사안으로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"영구임대주택 임차인의 권익 보호는 현재 진행 중\"… 이번에는 여수로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788012&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156788011",
+    "posted_at_iso": "2026-11-05T00:10:57.606738+00:00",
+    "priority": "하",
+    "reason": "헌혈증 전산화 국민제안으로 성인 헌혈 체계 개선이라 또래와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"종이헌혈증 대신 모바일헌혈증으로\"…  대국민 설문조사 통해 '국민제안'으로 키운다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788011&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156788002",
+    "posted_at_iso": "2026-11-05T00:10:57.606747+00:00",
+    "priority": "하",
+    "reason": "소방공무원 승진시험으로 성인 공무원 대상 절차성 공고다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "2026년 소방공무원 승진시험 11월 7일 전국 동시 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788002&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788010",
+    "posted_at_iso": "2026-11-05T00:10:57.606754+00:00",
+    "priority": "하",
+    "reason": "임상시험 통계 전문성 강화는 산·학·관 전문가 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788010&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156787999",
+    "posted_at_iso": "2026-11-05T00:10:57.606772+00:00",
+    "priority": "하",
+    "reason": "고속철도 통합 이용 통계는 일반 교통 실적 보고로 청소년 일상(통학)과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "고속철도 통합 60일, 하루 32.2만 명 이용 … 예매·객실 서비스 개선 이어간다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156787999&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156788013",
+    "posted_at_iso": "2026-11-05T00:10:57.606783+00:00",
+    "priority": "하",
+    "reason": "대상이 고위험군 소아·영유아로 중학생 당사자성도, 또래 관심사도 낮다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "고위험군 소아·영유아 코로나19 국가예방접종 시작 안내(11.5.목)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788013&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156788008",
+    "posted_at_iso": "2026-11-05T00:10:57.606792+00:00",
+    "priority": "하",
+    "reason": "케이콘텐츠 해외 지식재산권 침해 대응 협의체로 산업·성인 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "민관이 함께 '케이-콘텐츠' 해외 침해 대응 방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788008&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "문화체육관광부",
+    "entities": [
+      "전영환",
+      "국립장애인도서관"
+    ],
+    "item_id": "korea-kr-156788009",
+    "posted_at_iso": "2026-11-05T00:10:57.606801+00:00",
+    "priority": "하",
+    "reason": "단순 기관장 인사 발령으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "신임 국립장애인도서관 관장에 전영환 씨 임명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788009&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "양산국유림관리소",
+      "교촌"
+    ],
+    "item_id": "korea-kr-156788006",
+    "posted_at_iso": "2026-11-05T00:10:57.606808+00:00",
+    "priority": "하",
+    "reason": "대학생 RCY와 기업이 함께하는 지역 봉사 프로젝트로 중학생 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "양산국유림관리소, 대학RCY 및 교촌과 함께하는 '촌스러버 프로젝트' 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788006&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "유진이엔티",
+      "와이티엔",
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156788014",
+    "posted_at_iso": "2026-11-05T00:10:57.606815+00:00",
+    "priority": "하",
+    "reason": "청문 절차에 대한 해명성 설명자료로 언론 규제의 실제 처분 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "유진이엔티㈜에 대한 ㈜와이티엔 최다액 출자자 변경승인 청문일시 통지는 청문 주재자의 독립적인 결정입니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788014&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156788007",
+    "posted_at_iso": "2026-11-05T00:10:57.606823+00:00",
+    "priority": "하",
+    "reason": "한-아세안 문화지식재산 협력 포럼으로 실무·산업 대상이라 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "한-아세안, '문화 지식재산'으로 지속 가능한 문화협력 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788007&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156788000",
+    "posted_at_iso": "2026-11-05T00:10:57.606829+00:00",
+    "priority": "하",
+    "reason": "한중일 환경과학원장 교류 행사로 구체적 정책 변화 없는 외교성 모임이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "한중일 환경과학원장 한자리에, 동북아 환경협력 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788000&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
