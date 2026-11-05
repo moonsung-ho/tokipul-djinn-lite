@@ -57163,5 +57163,355 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788079&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156788091",
+    "message_ts": "1793864746.237089",
+    "posted_at_iso": "2026-11-05T07:45:46.785853+00:00",
+    "priority": "상",
+    "reason": "청소년의 마약류 반입 적발이 급증했다는 내용으로 청소년 건강·안전에 직접 닿는 사안이다.",
+    "source": "정책브리핑(관세청)",
+    "title": "감기약 속 마약류에 노출되는 청소년… 관세청, 국경부터 철저히 단속한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788091&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156788101",
+    "message_ts": "1793864746.954089",
+    "posted_at_iso": "2026-11-05T07:45:47.516274+00:00",
+    "priority": "상",
+    "reason": "조류인플루엔자 인체감염 확산 우려와 감시 강화는 또래도 알아야 할 전국적 공중보건·안전 사안이다.",
+    "source": "정책브리핑(질병관리청)",
+    "title": "26-27절기 가금류 고병원성 조류인플루엔자 첫 발생에 따른 인체감염 예방조치 및 감시 강화(11.5.목)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788101&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788107",
+    "message_ts": "1793864747.691339",
+    "posted_at_iso": "2026-11-05T07:45:48.255664+00:00",
+    "priority": "중",
+    "reason": "식품안전 위기대응 역량 강화는 학교급식과 맞닿을 수 있으나 국제기구 협력 단계로 실제 처분이 아니다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, 국제기구와 함께 식품 안전사고 위기대응 역량 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788107&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "육군"
+    ],
+    "item_id": "korea-kr-156788104",
+    "message_ts": "1793864748.422889",
+    "posted_at_iso": "2026-11-05T07:45:48.976188+00:00",
+    "priority": "중",
+    "reason": "산불진화 장비의 군 전력화는 재난대응 역량과 관련되나 청소년에 직접 닿지 않는 군수 장비 조달 사안이다.",
+    "source": "정책브리핑(산림청)",
+    "title": "\"산림 R&D로 개발한 다목적 산불진화차량, 육군 전력으로 거듭난다\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788104&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "국방부",
+    "entities": [
+      "국방부"
+    ],
+    "item_id": "korea-kr-156788097",
+    "message_ts": "1793864749.144889",
+    "posted_at_iso": "2026-11-05T07:45:49.690988+00:00",
+    "priority": "중",
+    "reason": "드론 경진대회 본선 개최로 과학기술 관심사가 있으나 참가 대상이 학생인지 확인되지 않는다.",
+    "source": "정책브리핑(국방부)",
+    "title": "「2026 대한민국 드론 공방전」 본선 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788097&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156788109",
+    "message_ts": "1793864749.857659",
+    "posted_at_iso": "2026-11-05T07:45:50.473918+00:00",
+    "priority": "중",
+    "reason": "AI 시대 개인정보 처리 논의는 또래도 이용자이지만 청소년이 직접 등장하지 않는 일반 국민 토론회다.",
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "「모두의 토론회」 로 모은 국민의 목소리 \"AI 시대 개인정보, 유연한 처리·명확한 고지·확실한 거부권 필요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788109&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "경제사회노동위원회",
+    "entities": [
+      "경제사회노동위원회"
+    ],
+    "item_id": "korea-kr-156788096",
+    "posted_at_iso": "2026-11-05T07:45:50.473950+00:00",
+    "priority": "하",
+    "reason": "소규모 사업장 안전보건관리자 합의문은 성인 노동자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경제사회노동위원회)",
+    "title": "[보도자료] 소규모 사업장 안전보건관리자의 활용을 위한 방안 합의문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788096&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788098",
+    "posted_at_iso": "2026-11-05T07:45:50.473961+00:00",
+    "priority": "하",
+    "reason": "임상시험 통계 전문성 강화는 산학관 전문가 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 산·학·관 협력으로 임상시험 통계 전문성 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788098&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788093",
+    "posted_at_iso": "2026-11-05T07:45:50.473971+00:00",
+    "priority": "하",
+    "reason": "한중 전통의학 국제 공동연구 협력으로 전문가·연구자 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "국제 공동연구 추진 및 연구자 교류 확대 등 한·중 전통의학 글로벌 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788093&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "기본사회위원회",
+    "entities": [
+      "기본사회위원회",
+      "한국법제연구원"
+    ],
+    "item_id": "korea-kr-156788112",
+    "posted_at_iso": "2026-11-05T07:45:50.473980+00:00",
+    "priority": "하",
+    "reason": "기관 간 업무협약으로 청소년의 권리나 일상, 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기본사회위원회)",
+    "title": "기본사회위원회, 한국법제연구원과 기본사회 실현 위한 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788112&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156788102",
+    "posted_at_iso": "2026-11-05T07:45:50.473989+00:00",
+    "priority": "하",
+    "reason": "성인 농업인을 대상으로 한 포상 소식으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농업혁신을 이끄는  2026년 '신지식농업인' 5명 선정 및 章 수여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788102&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788094",
+    "posted_at_iso": "2026-11-05T07:45:50.473998+00:00",
+    "priority": "하",
+    "reason": "성인 기부자·봉사자를 대상으로 한 시상식으로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "반세기 봉사부터 2조 원 기부까지… 나눔 실천한 132명 '대한민국 나눔국민대상' 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788094&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156788090",
+    "posted_at_iso": "2026-11-05T07:45:50.474007+00:00",
+    "priority": "하",
+    "reason": "숲길 걷기 동행프로젝트는 일반 시민 참여행사로 청소년 특정 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 제5회 동행프로젝트 「우리 같이 숲길을 걸어요」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788090&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "기본사회위원회",
+    "entities": [
+      "기본사회위원회"
+    ],
+    "item_id": "korea-kr-156788113",
+    "posted_at_iso": "2026-11-05T07:45:50.474015+00:00",
+    "priority": "하",
+    "reason": "사회연대경제 전문위원회 현장간담회로 성인 정책 논의이며 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기본사회위원회)",
+    "title": "사회연대경제연계전문위원회 현장간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788113&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788115",
+    "posted_at_iso": "2026-11-05T07:45:50.474023+00:00",
+    "priority": "하",
+    "reason": "산림청 내부 AI 행정 협력체계로 청소년과 무관한 조직 운영 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 'AI·데이터 행정' 산하기관 협력 체계 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788115&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788106",
+    "posted_at_iso": "2026-11-05T07:45:50.474032+00:00",
+    "priority": "하",
+    "reason": "지역상생 산림사업으로 청소년과 접점이 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 숲에서 찾는 지역상생의 길",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788106&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156788108",
+    "posted_at_iso": "2026-11-05T07:45:50.474040+00:00",
+    "priority": "하",
+    "reason": "AI 개인정보보호 기술 세미나로 전문가 대상 논의이며 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "에이전트·피지컬 인공지능(AI) 시대의 개인정보 보호, 기술에서 해법 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788108&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788100",
+    "posted_at_iso": "2026-11-05T07:45:50.474048+00:00",
+    "priority": "하",
+    "reason": "산림생태복원 워크숍은 전문가 대상 행사로 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "현장경험은 나누고, 산림생태복원 기술 더한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788100&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-05&endDate=2026-11-05&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
