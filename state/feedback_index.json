@@ -58545,5 +58545,436 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788254&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-05",
+    "dept": "",
+    "entities": [
+      "한국교육시설안전원"
+    ],
+    "item_id": "sen-press-192523",
+    "message_ts": "1793965893.318839",
+    "posted_at_iso": "2026-11-06T11:51:33.598811+00:00",
+    "priority": "중",
+    "reason": "학교 시설 재난 피해보상 체계 개선으로 학생이 다니는 학교 안전·예산과 연결되지만 공제업무 행정 개선이라 간접적이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 교육시설 재난 예방 넘어  피해 회복까지...학교 안전지원 강화",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192523&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-06",
+    "dept": "농림축산식품부",
+    "entities": [
+      "전남광주",
+      "장흥",
+      "고병원성 조류인플루엔자"
+    ],
+    "item_id": "korea-kr-156788303",
+    "message_ts": "1793965893.683989",
+    "posted_at_iso": "2026-11-06T11:51:33.939377+00:00",
+    "priority": "중",
+    "reason": "고병원성 AI 확진과 방역강화는 식품·보건 안전 사안으로 또래가 알아둘 만하나 특정 농장 사례라 간접적이다.",
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "전남광주 장흥 육용오리 농장 고병원성 조류인플루엔자 확진에 따라 방역관리 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788303&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실",
+      "국토대전환 전략자문단"
+    ],
+    "item_id": "korea-kr-156788302",
+    "posted_at_iso": "2026-11-06T11:51:33.939434+00:00",
+    "priority": "하",
+    "reason": "국토 정책 자문단 간담회로 성인 전문가 대상 정책 논의이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 국무조정실장, 국토대전환 전략자문단 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788302&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "국무조정실",
+    "entities": [
+      "생명지킴본부"
+    ],
+    "item_id": "korea-kr-156788289",
+    "posted_at_iso": "2026-11-06T11:51:33.939444+00:00",
+    "priority": "하",
+    "reason": "자살예방 협력회의는 주제는 겹치나 대상이 종교계·성인 기관이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 생명지킴본부-개신교 자살예방협력회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788289&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "국가철도공단",
+      "한국공항공사"
+    ],
+    "item_id": "korea-kr-156788287",
+    "posted_at_iso": "2026-11-06T11:51:33.939452+00:00",
+    "priority": "하",
+    "reason": "기관장 임명장 전수는 인사 동정성 보도다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 홍지선 장관, 국가철도공단·한국공항공사 신임 기관장에 임명장 전수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788287&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788290",
+    "posted_at_iso": "2026-11-06T11:51:33.939469+00:00",
+    "priority": "하",
+    "reason": "재래종 콩 성분 분석은 농업 연구 실무 결과로 또래 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "국내 재래종 콩 230점 분석, 검정콩 '유용 성분'·'항산화 활성' 높아",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788290&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788292",
+    "posted_at_iso": "2026-11-06T11:51:33.939478+00:00",
+    "priority": "하",
+    "reason": "치즈 공모전은 성인 생산자·업계 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "국산 우유로 만든 명품 치즈를 찾습니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788292&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농림축산식품부",
+    "entities": [
+      "김종구",
+      "전남광주통합특별시",
+      "강진군"
+    ],
+    "item_id": "korea-kr-156788299",
+    "posted_at_iso": "2026-11-06T11:51:33.939485+00:00",
+    "priority": "하",
+    "reason": "차관의 방역 현장점검 동정으로 실제 정책 처분이 아닌 절차성 활동이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "김종구 농식품부 차관, 전남광주통합특별시 및 강진군 고병원성 AI 등 방역실태 현장 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788299&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156788301",
+    "posted_at_iso": "2026-11-06T11:51:33.939504+00:00",
+    "priority": "하",
+    "reason": "농식품 규제 합리화는 산업·행정 실무 사안으로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부, 제4차 농식품규제 합리화 전략회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788301&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788285",
+    "posted_at_iso": "2026-11-06T11:51:33.939511+00:00",
+    "priority": "하",
+    "reason": "풀사료 생산단지 현장방문은 농가 대상 실무 활동이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 겨울철 대비 풀사료 생산단지 조성 시범 농장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788285&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788279",
+    "posted_at_iso": "2026-11-06T11:51:33.939526+00:00",
+    "priority": "하",
+    "reason": "노지 스마트농업 업무합의는 농업계 대상 산업 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 다자간 '업무합의'로 '노지 스마트 농업' 현장 확산",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788279&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788281",
+    "posted_at_iso": "2026-11-06T11:51:33.939532+00:00",
+    "priority": "하",
+    "reason": "양액 재활용 시범 농가 의견청취는 농업 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 순환식 양액 재활용 시범 현장서 농가 의견 청취",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788281&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788277",
+    "posted_at_iso": "2026-11-06T11:51:33.939539+00:00",
+    "priority": "하",
+    "reason": "스마트 농기계 국제협력은 산업 수출 전략으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 스마트 농기계 국제 협력 강화··· 세계 시장 진출 기반 넓힌다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788277&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788294",
+    "posted_at_iso": "2026-11-06T11:51:33.939546+00:00",
+    "priority": "하",
+    "reason": "기관 자체 홍보 실적 집계로 내용상 알맹이가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 올해 2,064건 홍보…직원 1인당 1건꼴  \"전 직원이 홍보대사\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788294&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "외교부",
+    "entities": [
+      "박윤주",
+      "벨기에"
+    ],
+    "item_id": "korea-kr-156788304",
+    "posted_at_iso": "2026-11-06T11:51:33.939553+00:00",
+    "priority": "하",
+    "reason": "양국 외교차관급 면담으로 성인 외교 사안이며 또래와 연결되는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "박윤주 제1차관, 벨기에 외교부 사무차관 면담(11.6.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788304&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788296",
+    "posted_at_iso": "2026-11-06T11:51:33.939559+00:00",
+    "priority": "하",
+    "reason": "배추·무 생육관리 기술지도는 농가 대상 실무 정보로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "배추·무 수확기, 비·저온 대비 철저한 생육 관리 필요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788296&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156788300",
+    "posted_at_iso": "2026-11-06T11:51:33.939731+00:00",
+    "priority": "하",
+    "reason": "식품 제조업 스마트팩토리 기술 표준화는 산업계 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "식품 스마트팩토리 기술 혁신과  표준화의 미래를 그리다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788300&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156788283",
+    "posted_at_iso": "2026-11-06T11:51:33.939738+00:00",
+    "priority": "하",
+    "reason": "어린이 승마체험 홍보는 유아·어린이 대상 행사로 중학생과 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "알디에이(RDA)승용마, 어린이 승마체험 인기몰이 톡톡",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788283&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "K-Sool"
+    ],
+    "item_id": "korea-kr-156788276",
+    "posted_at_iso": "2026-11-06T11:51:33.939744+00:00",
+    "priority": "하",
+    "reason": "전통주 행사 홍보는 성인 소비재 산업 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "전국의 우리술 한자리에,  K-Sool 세계로 뻗어 나간다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788276&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "외교부",
+    "entities": [
+      "한미일 해외재난대응협력 협의체"
+    ],
+    "item_id": "korea-kr-156788298",
+    "posted_at_iso": "2026-11-06T11:51:33.939750+00:00",
+    "priority": "하",
+    "reason": "재난대응 협의체 '회의 개최'는 구성·논의 단계로 실제 처분이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한·미·일 해외재난대응협력 협의체 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788298&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-06",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156788288",
+    "posted_at_iso": "2026-11-06T11:51:33.939757+00:00",
+    "priority": "하",
+    "reason": "초임 외교관 교류사업은 성인 공무원 대상 프로그램이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한일 초임 외교관 교류사업 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788288&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-06&endDate=2026-11-06&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-05",
+    "dept": "",
+    "entities": [
+      "광남고등학교",
+      "광남중학교",
+      "용산고등학교"
+    ],
+    "item_id": "sen-press-192524",
+    "posted_at_iso": "2026-11-06T11:51:33.939764+00:00",
+    "priority": "하",
+    "reason": "교원 임용시험 운영과 부정행위 방지 조치로 예비교사 대상 절차이며 중학생의 권리·일상과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 7일 공립(국·사립) 유·초·특수교사 임용 1차 시험 실시",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192524&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
