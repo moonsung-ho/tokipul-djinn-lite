@@ -58976,5 +58976,62 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192524&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-07",
+    "dept": "보건복지부",
+    "entities": [
+      "발달장애인 가족치유행사"
+    ],
+    "item_id": "korea-kr-156788305",
+    "posted_at_iso": "2026-11-07T04:34:51.661550+00:00",
+    "priority": "하",
+    "reason": "발달장애인 가족 대상 치유행사 홍보로 대상이 성인 가족 중심이라 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "'학대의 신호도, 마음의 신호도 놓치지 마세요',  2026 발달장애인 가족치유행사 홍보부스 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788305&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-07&endDate=2026-11-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-07",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156788306",
+    "posted_at_iso": "2026-11-07T04:34:51.661575+00:00",
+    "priority": "하",
+    "reason": "산업현장 안전 대응을 위한 기관장 회의로 성인 노동자 대상이며 학교 안전과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 노동부 장관, 산업안전 대응 강화를 위한 긴급 기관장 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788306&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-07&endDate=2026-11-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-07",
+    "dept": "농림축산식품부",
+    "entities": [
+      "K-Sool"
+    ],
+    "item_id": "korea-kr-156788310",
+    "posted_at_iso": "2026-11-07T04:34:51.661582+00:00",
+    "priority": "하",
+    "reason": "전통주 수출 지원 정책으로 주류 산업 성인 대상이라 청소년과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "수상의 영광을 시장의 기회로, K-Sool의 도약이 시작된다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788310&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-07&endDate=2026-11-07&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
