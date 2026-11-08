@@ -59303,5 +59303,24 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788324&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-08&endDate=2026-11-08&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-08",
+    "dept": "산업통상부",
+    "entities": [
+      "대양주"
+    ],
+    "item_id": "korea-kr-156788333",
+    "posted_at_iso": "2026-11-08T08:36:30.205845+00:00",
+    "priority": "하",
+    "reason": "대양주 수출시장 공략을 위한 산업통상 무역 진흥 자료로 청소년의 권리·일상과 무관하고 또래의 관심사와도 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한류 열기 타고 K-소비재,  대양주 시장 공략한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788333&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-08&endDate=2026-11-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
