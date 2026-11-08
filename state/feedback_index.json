@@ -59033,5 +59033,22 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788310&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-07&endDate=2026-11-07&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-08",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156788317",
+    "posted_at_iso": "2026-11-08T01:07:35.450992+00:00",
+    "priority": "하",
+    "reason": "이미 폐교된 학교의 지역 활용 정책으로 현재 재학 중인 학생의 권리·일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "폐교의 새로운 시작, 지역의 가능성을 열다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788317&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-08&endDate=2026-11-08&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
