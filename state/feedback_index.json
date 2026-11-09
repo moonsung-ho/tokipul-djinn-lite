@@ -60126,5 +60126,240 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788422&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156788461",
+    "posted_at_iso": "2026-11-09T07:42:14.351828+00:00",
+    "priority": "하",
+    "reason": "대한민국 엔지니어상 수상자 선정은 성인 산업 인력 대상 시상으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "'26년 11월 '대한민국 엔지니어 상' 수상자 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788461&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "서산지청"
+    ],
+    "item_id": "korea-kr-156788456",
+    "posted_at_iso": "2026-11-09T07:42:14.351850+00:00",
+    "priority": "하",
+    "reason": "부당노동행위 압수수색은 성인 노동 현장 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 고용노동부 서산지청,  부당노동행위 혐의  압수·수색 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788456&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "경제사회노동위원회",
+    "entities": [
+      "경제사회노동위원회"
+    ],
+    "item_id": "korea-kr-156788465",
+    "posted_at_iso": "2026-11-09T07:42:14.351858+00:00",
+    "priority": "하",
+    "reason": "일자리 공론화 특위는 성인 노동시장 대상 공론화로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경제사회노동위원회)",
+    "title": "「인구구조 변화와 일자리 공론화 특별위원회」 4차 전체회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788465&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "외교부",
+    "entities": [
+      "강금실",
+      "COP31"
+    ],
+    "item_id": "korea-kr-156788468",
+    "posted_at_iso": "2026-11-09T07:42:14.351865+00:00",
+    "priority": "하",
+    "reason": "COP31은 기후 사안이지만 이 보도자료는 특사 파견 사실만 전하는 동정성 소식이라 또래가 알 만한 실질 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788468&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156788460",
+    "posted_at_iso": "2026-11-09T07:42:14.351872+00:00",
+    "priority": "하",
+    "reason": "AI 침해 대응 체계는 민간·전문가 협의 수준으로 청소년이 직접 등장하지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 민간과 함께 인공지능 침해 위협에 대응하는 보호체계 정착방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788460&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "산림청",
+    "entities": [
+      "국립수목원",
+      "제주"
+    ],
+    "item_id": "korea-kr-156788467",
+    "posted_at_iso": "2026-11-09T07:42:14.351878+00:00",
+    "priority": "하",
+    "reason": "제주 정원 조성 사업으로 청소년의 권리·일상과 직접 연결되지 않고 또래가 알아야 할 환경 사안으로 보기엔 내용이 구체적이지 않다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립수목원, 제주에 '탄소저감·새활용' 모델정원 2곳 조성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788467&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부",
+      "엔비디아"
+    ],
+    "item_id": "korea-kr-156788455",
+    "posted_at_iso": "2026-11-09T07:42:14.351884+00:00",
+    "priority": "하",
+    "reason": "국산 NPU 산업 협력 소식은 기업·산업계 대상 뉴스로 또래 과학 성취와는 다르다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국산 NPU, 엔비디아 시스템과 연계해 글로벌 AI 인프라 시장 진출 길 연다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788455&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156788464",
+    "posted_at_iso": "2026-11-09T07:42:14.351898+00:00",
+    "priority": "하",
+    "reason": "산불 취약가구 화목보일러 점검은 특정 성인 가구 대상 안전점검으로 또래 일상과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 산불 취약 가구 찾아 화목보일러 안전관리 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788464&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청",
+      "한-아세안 방제포럼"
+    ],
+    "item_id": "korea-kr-156788453",
+    "posted_at_iso": "2026-11-09T07:42:14.351907+00:00",
+    "priority": "하",
+    "reason": "한-아세안 해양오염 방제포럼은 국제 전문가 행사로 또래 일상이나 관심과 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "아시아·태평양 해양오염 방제 협력 주도...해경청, 제2회 한-아세안 방제포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788453&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "국토교통부",
+    "entities": [
+      "전남",
+      "광주"
+    ],
+    "item_id": "korea-kr-156788462",
+    "posted_at_iso": "2026-11-09T07:42:14.351914+00:00",
+    "priority": "하",
+    "reason": "어르신 대상 도시철도 무료·환급 정책으로 청소년 배제 교통정책과는 반대로 청소년이 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "전남광주 어르신, 카드 한 장으로 도시철도 무료·교통비 환급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788462&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "해양경찰청",
+    "entities": [
+      "해양경찰청",
+      "I-MARC"
+    ],
+    "item_id": "korea-kr-156788458",
+    "posted_at_iso": "2026-11-09T07:42:14.351920+00:00",
+    "priority": "하",
+    "reason": "국제 해양범죄 대응 컨퍼런스는 성인·국제 전문가 대상 행사로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양경찰청)",
+    "title": "해양경찰청, 제5회 해양 국제범죄  대응 컨퍼런스(I-MARC) 성공적 개최 !",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788458&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-09",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788452",
+    "posted_at_iso": "2026-11-09T07:42:14.351926+00:00",
+    "priority": "하",
+    "reason": "정신의료기관 환자 인권 점검은 성인 환자 대상으로 청소년 정신건강 정책과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "환자 안전과 인권 보호 위해 연말까지 정신의료기관 운영실태 릴레이 합동점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788452&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
