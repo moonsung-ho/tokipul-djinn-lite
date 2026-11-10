@@ -61431,5 +61431,160 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788615&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "캐나다"
+    ],
+    "item_id": "korea-kr-156788655",
+    "posted_at_iso": "2026-11-10T17:31:06.400587+00:00",
+    "priority": "하",
+    "reason": "한-캐나다 외교장관회담은 정례적 외교 성과 보도로 또래의 일상이나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "G7 외교장관회의 계기 한-캐나다 외교장관회담(11.10) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788655&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국방부",
+    "entities": [
+      "국군사관학교"
+    ],
+    "item_id": "korea-kr-156788625",
+    "posted_at_iso": "2026-11-10T17:31:06.400612+00:00",
+    "priority": "하",
+    "reason": "국군사관학교 민간자문위원회 회의는 성인 교육기관 운영 사안으로 중학생과 직접 관련이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 국군사관학교 민간자문특별위원회 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788625&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국방부",
+    "entities": [
+      "육군사관학교",
+      "해군사관학교",
+      "공군사관학교"
+    ],
+    "item_id": "korea-kr-156788623",
+    "posted_at_iso": "2026-11-10T17:31:06.400621+00:00",
+    "priority": "하",
+    "reason": "육해공군사관학교 생도 간담회는 성인 사관생도 대상 행사로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관, 육·해·공군사관학교  생도 및 사관학교장 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788623&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [],
+    "item_id": "korea-kr-156788624",
+    "posted_at_iso": "2026-11-10T17:31:06.400628+00:00",
+    "priority": "하",
+    "reason": "선교단체 대상 안전간담회는 성인 단체 행사로 또래와 접점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 2026년 하반기 선교단체와의 안전간담회(11.10.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788624&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "진주국제농식품박람회"
+    ],
+    "item_id": "korea-kr-156788650",
+    "posted_at_iso": "2026-11-10T17:31:06.400635+00:00",
+    "priority": "하",
+    "reason": "산림바이오 소재 연구성과 전시는 산업·연구 분야 행사로 또래의 관심사나 권리와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "진주국제농식품박람회서 산림바이오 소재 연구성과 선보여... - 국립산림과학원, 가시나무류 및 보리밥나무 등 다양한 산림소재 활용 기술이전 성과 전시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788650&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "해양수산부"
+    ],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "프랑스"
+    ],
+    "item_id": "korea-kr-156788652",
+    "posted_at_iso": "2026-11-10T17:31:06.400642+00:00",
+    "priority": "하",
+    "reason": "마약밀매 대응 항만 네트워크 출범회의 참석은 국제 행정 협력 보도로 또래 생활과 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한국 정부대표단, 프랑스 주최 「G7+ 마약밀매 대응 항만 네트워크」 출범회의 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788652&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "미국"
+    ],
+    "item_id": "korea-kr-156788654",
+    "posted_at_iso": "2026-11-10T17:31:06.400656+00:00",
+    "priority": "하",
+    "reason": "한미 외교장관 환담 결과는 의례적 외교 행사로 청소년과 접점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한미 외교장관 환담(11.10.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788654&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "일본"
+    ],
+    "item_id": "korea-kr-156788651",
+    "posted_at_iso": "2026-11-10T17:31:06.400664+00:00",
+    "priority": "하",
+    "reason": "한일 에너지 공급망 민관 협력 논의는 성인 대상 산업·에너지 정책으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한일 에너지 파트너십의 미래 - 탄소중립과 에너지 공급망 회복력 강화를 위한 한일 민관 협력 강화 방안 논의 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788651&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
