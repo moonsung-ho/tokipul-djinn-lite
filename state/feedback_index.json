@@ -61165,5 +61165,271 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192534&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "",
+    "entities": [
+      "인창중학교",
+      "인창고등학교"
+    ],
+    "item_id": "sen-notice-20261110161812598",
+    "message_ts": "1794302159.953609",
+    "posted_at_iso": "2026-11-10T09:16:00.223943+00:00",
+    "priority": "상",
+    "reason": "특정 중-고교의 이음학교 지정은 해당 학생들의 교육과정·진학 경로가 바뀌는 사안이다.",
+    "source": "서울시교육청 공지사항",
+    "title": "인창중-고등학교 이음학교 지정(안) 행정예고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261110161812598",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "산림청",
+    "entities": [
+      "영주국유림관리소"
+    ],
+    "item_id": "korea-kr-156788613",
+    "posted_at_iso": "2026-11-10T09:16:00.223975+00:00",
+    "priority": "하",
+    "reason": "지방 국유림의 1일 숲가꾸기 체험행사로 대상이 특정되지 않고 일반 성인 참여행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "\"잘 심은 나무, 알차게 키운다\"... 영주국유림관리소, 숲가꾸기 1일 체험행사 개최 - 11월 숲가꾸기 기간 맞아, 영주국유림·영림단·약용자원연구소 총출동 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788613&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "지식재산처",
+    "entities": [
+      "LG디스플레이"
+    ],
+    "item_id": "korea-kr-156788619",
+    "posted_at_iso": "2026-11-10T09:16:00.223985+00:00",
+    "priority": "하",
+    "reason": "기업 특허상 수상 소식으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "LG디스플레이, 2026년 특허기술상 1등 영예",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788619&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156788622",
+    "posted_at_iso": "2026-11-10T09:16:00.223992+00:00",
+    "priority": "하",
+    "reason": "청년자문단 간담회로 대상이 성인 청년층이라 중학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "ODA에 대한 청년의 생각, 직접 듣고 싶습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788622&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국가교육위원회",
+    "entities": [
+      "국가교육위원회"
+    ],
+    "item_id": "korea-kr-156788621",
+    "posted_at_iso": "2026-11-10T09:16:00.224000+00:00",
+    "priority": "하",
+    "reason": "회의 개최 사실만 있고 구체 안건이 드러나지 않는 절차성 보도자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가교육위원회)",
+    "title": "[보도자료] 국가교육위원회 2026년 제12차 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788621&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156788616",
+    "posted_at_iso": "2026-11-10T09:16:00.224007+00:00",
+    "priority": "하",
+    "reason": "수도권 교통망 조기완공 촉구는 일반 성인 통근 대상으로 학생 통학과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 정의경 제2차관, \"수도권 서부지역 교통난 해소, 철도·도로사업 조기 완공에 속도 내야\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788616&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156788610",
+    "posted_at_iso": "2026-11-10T09:16:00.224025+00:00",
+    "priority": "하",
+    "reason": "행복주택 공실 해소는 성인 임차인 대상 주거 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 행복주택 공실 해소를 위해 적극 노력해 나가겠습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788610&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "창의미래교육과",
+    "entities": [],
+    "item_id": "sen-notice-20261110162704556",
+    "posted_at_iso": "2026-11-10T09:16:00.224033+00:00",
+    "priority": "하",
+    "reason": "연수 위탁용역 평가위원 모집은 절차성 공고로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "「2026 AI·디지털 기반 교육 혁신 연수 통합 운영 위탁용역」 제안서 평가위원(후보자) 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261110162704556",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156788618",
+    "posted_at_iso": "2026-11-10T09:16:00.224040+00:00",
+    "priority": "하",
+    "reason": "지식재산 거래 플랫폼 구축은 기업·발명가 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "범국가 「지식재산 거래 통합 플랫폼」 2027년에 구축된다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788618&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "울진"
+    ],
+    "item_id": "korea-kr-156788605",
+    "posted_at_iso": "2026-11-10T09:16:00.224047+00:00",
+    "priority": "하",
+    "reason": "산림 병해충 방제전략 회의는 전문가 대상 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 울진 금강소나무림의 효과적 보호를 위한 방제전략 마련 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788605&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156788606",
+    "posted_at_iso": "2026-11-10T09:16:00.224054+00:00",
+    "priority": "하",
+    "reason": "피지컬 AI 경제안보 포럼은 전문가·정책 성인 대상 논의로 과학 성과 소식과는 다르다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 피지컬 AI 경쟁 속  한국의 경제안보 대응 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788606&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "이집트"
+    ],
+    "item_id": "korea-kr-156788611",
+    "posted_at_iso": "2026-11-10T09:16:00.224060+00:00",
+    "priority": "하",
+    "reason": "양국 외교장관회담은 성인 외교 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제2차 G7 외교장관회의 계기 한-이집트 외교장관회담(11.9.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788611&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156788620",
+    "posted_at_iso": "2026-11-10T09:16:00.224066+00:00",
+    "priority": "하",
+    "reason": "경쟁당국 간 국제협의회로 성인·기관 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "제4회 한·ASEAN·CIS 경쟁당국 협의회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788620&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156788615",
+    "posted_at_iso": "2026-11-10T09:16:00.224072+00:00",
+    "priority": "하",
+    "reason": "제설제 공급 민관협력체계는 행정 실무 사안으로 학생 일상 변화와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "폭설에도 제설제 공급 차질 없도록,민관 협력체계 가동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788615&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
