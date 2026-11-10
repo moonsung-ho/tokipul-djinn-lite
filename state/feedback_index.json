@@ -60361,5 +60361,416 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788452&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-09&endDate=2026-11-09&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788539",
+    "message_ts": "1794275809.983069",
+    "posted_at_iso": "2026-11-10T01:56:50.411921+00:00",
+    "priority": "중",
+    "reason": "겨울철 위기가구 지원은 청소년이 포함된 가구에 닿을 수 있으나 대상이 가구 단위로 설정되어 간접적이다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "겨울철 위기가구, 정부가 먼저 찾아 온기 건넨다 「2026~2027년 겨울철 취약계층 보호대책」 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788539&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788515",
+    "message_ts": "1794275810.548469",
+    "posted_at_iso": "2026-11-10T01:56:51.246026+00:00",
+    "priority": "중",
+    "reason": "식품안전은 또래가 먹는 것과 관련된 생활 이슈이나 학교급식과 직결된 내용은 아니고 유통 시장 전반의 점검이다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788515&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "G7",
+      "프랑스"
+    ],
+    "item_id": "korea-kr-156788512",
+    "message_ts": "1794275811.365929",
+    "posted_at_iso": "2026-11-10T01:56:51.818803+00:00",
+    "priority": "중",
+    "reason": "G7 계기 외교장관회담은 국제 사안으로 관심사 영역에 들지만 본문에 구체 의제가 드러나지 않아 배경 취재가 더 필요하다.",
+    "source": "정책브리핑(외교부)",
+    "title": "G7 외교장관회의 계기 한-프랑스 외교장관회담(11.9.) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788512&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156788532",
+    "message_ts": "1794275811.939499",
+    "posted_at_iso": "2026-11-10T01:56:52.377945+00:00",
+    "priority": "중",
+    "reason": "과학기술 역사자료 등록은 과학 성과 성격이 있으나 전문 아카이브 사업 수준이라 간접적이다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "K-사이언스의 기틀을 만든 과학기술 이야기, 국가중요과학기술자료 23건 신규 등록",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788532&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156788531",
+    "message_ts": "1794275812.499459",
+    "posted_at_iso": "2026-11-10T01:56:52.932130+00:00",
+    "priority": "중",
+    "reason": "양자과학기술 성과는 또래 관심사인 과학 성과에 해당하나 본문이 회의 개최 공지 수준이라 구체 성과 확인이 더 필요하다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "양자 플래그십 프로젝트, 양자컴퓨팅·통신·센싱 핵심기술 개발 성과 가시화  - 「양자과학기술 플래그십 프로젝트 연례회의(애뉴얼 미팅, Annual Meeting)」 개최 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788531&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156788521",
+    "message_ts": "1794275813.054169",
+    "posted_at_iso": "2026-11-10T01:56:53.483172+00:00",
+    "priority": "중",
+    "reason": "결핵은 감염병 안전 이슈로 또래가 알 만하나 이번 자료는 연구 성과 공유 수준이라 간접적이다.",
+    "source": "정책브리핑(질병관리청)",
+    "title": "연구실부터 임상 현장까지, 차세대 결핵 진단·치료 실용화 연구 성과 공유(11.10.화)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788521&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156788519",
+    "message_ts": "1794275813.615909",
+    "posted_at_iso": "2026-11-10T01:56:54.045569+00:00",
+    "priority": "중",
+    "reason": "전자상거래 소비자보호 지침 개정은 온라인 쇼핑을 하는 청소년 소비자에게도 적용되나 특별히 청소년을 겨냥한 내용은 아니다.",
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "전자상거래 등에서의 소비자보호 지침 개정안 행정예고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788519&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156788526",
+    "posted_at_iso": "2026-11-10T01:56:54.045597+00:00",
+    "priority": "하",
+    "reason": "숏폼 공모전이지만 특정 청소년 대상이 아닌 일반 국민 대상 참여행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "'내 개인정보를 지키는 꿀팁'.. 개인정보위, 숏폼 콘텐츠 공모전 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788526&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국가유산청",
+    "entities": [
+      "안비취",
+      "국립무형유산원"
+    ],
+    "item_id": "korea-kr-156788535",
+    "posted_at_iso": "2026-11-10T01:56:54.045839+00:00",
+    "priority": "하",
+    "reason": "전통예술인 추모 공연으로 또래 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "'탄생 100주년' 안비취 명인의 세 제자, 한 무대에서 스승을 추억하다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788535&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국가유산청",
+    "entities": [
+      "국립고궁박물관"
+    ],
+    "item_id": "korea-kr-156788533",
+    "posted_at_iso": "2026-11-10T01:56:54.045853+00:00",
+    "priority": "하",
+    "reason": "국제 학술대회로 전문 연구자 대상 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "(국영문 동시배포) 「한국 미술문화유산 정보의 국제적 활용과 확산」 국제학술대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788533&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "중등교육과",
+    "entities": [
+      "중등교육과"
+    ],
+    "item_id": "sen-notice-20261110092953979",
+    "posted_at_iso": "2026-11-10T01:56:54.045867+00:00",
+    "priority": "하",
+    "reason": "교사 임용 제도 변경으로 학생의 권리·일상과 직접 닿지 않는 인사 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "(행정예고) 중등 공립학교 초빙교사 임용대상자 확대(안)",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261110092953979",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156788523",
+    "posted_at_iso": "2026-11-10T01:56:54.045879+00:00",
+    "priority": "하",
+    "reason": "성인 대상 채용 공고로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "2026년도 도선수습생 13명 선발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788523&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788516",
+    "posted_at_iso": "2026-11-10T01:56:54.045892+00:00",
+    "priority": "하",
+    "reason": "화장품 시험기관 대상 전문 정책설명회로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 화장품 인체적용시험기관 대상 정책설명회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788516&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국가유산청",
+    "entities": [
+      "국립서울문화유산연구소",
+      "경복궁"
+    ],
+    "item_id": "korea-kr-156788537",
+    "posted_at_iso": "2026-11-10T01:56:54.045903+00:00",
+    "priority": "하",
+    "reason": "성인 대상 시민강좌로 또래와 이어지는 지점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "그릇과 기와에 새겨진 '조선 왕실의 기록' 시민강좌 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788537&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156788518",
+    "posted_at_iso": "2026-11-10T01:56:54.045916+00:00",
+    "priority": "하",
+    "reason": "기업 간 대금지급 관행 개선으로 청소년과 무관한 성인 산업 이슈다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "대·중소기업 간 대금지급 관행 개선을 위한 현장 의견 청취",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788518&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156788524",
+    "posted_at_iso": "2026-11-10T01:56:54.045925+00:00",
+    "priority": "하",
+    "reason": "주택 청약 부정행위 점검으로 대상이 성인 주택 수요자다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "부정청약 관계부처 합동점검 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788524&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788530",
+    "posted_at_iso": "2026-11-10T01:56:54.045937+00:00",
+    "priority": "하",
+    "reason": "자살예방은 토끼풀 주제이나 이번 사안은 채무자 등 성인 대상 상담 연계로 대상이 겹치지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "빚 때문에 생명 포기하는 일 없도록 자살예방상담(109)에서 채무상담(1375)으로 바로 연결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788530&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156788517",
+    "posted_at_iso": "2026-11-10T01:56:54.045950+00:00",
+    "priority": "하",
+    "reason": "기업의 수출실적 증명 절차 개선으로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "서비스 수출실적 증명, 더 쉽고 편리하게",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788517&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부",
+      "부산"
+    ],
+    "item_id": "korea-kr-156788520",
+    "posted_at_iso": "2026-11-10T01:56:54.045961+00:00",
+    "priority": "하",
+    "reason": "보훈 기념행사로 또래의 일상이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "유엔참전용사 국제추모의 날 기념식 부산서 거행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788520&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788529",
+    "posted_at_iso": "2026-11-10T01:56:54.045973+00:00",
+    "priority": "하",
+    "reason": "성인 대상 의료기관 행정조사로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "킬레이션 주사 투약 의혹 의료기관 행정조사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788529&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-10",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156788522",
+    "posted_at_iso": "2026-11-10T01:56:54.045986+00:00",
+    "priority": "하",
+    "reason": "국가 간 연구소 협력 체결 소식으로 또래 생활과 직접 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "한·일 국립감염병연구소, 감염병 공동연구 협력 강화(11.10.화)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788522&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-10&endDate=2026-11-10&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
