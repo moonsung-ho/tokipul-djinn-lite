@@ -62368,5 +62368,454 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788739&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "",
+    "entities": [
+      "지방교육재정교부금"
+    ],
+    "item_id": "sen-press-192556",
+    "message_ts": "1794392431.724189",
+    "posted_at_iso": "2026-11-11T10:20:31.931836+00:00",
+    "priority": "상",
+    "reason": "교육재정교부금 개편이 학교시설·돌봄·기초학력 지원 등 학생이 매일 겪는 교육 여건에 직접 영향을 미친다.",
+    "source": "서울시교육청 보도자료",
+    "title": "“교육재정은 아이들의 배움과 안전입니다” 서울시교육청, 시민 공감 홍보 본격화",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192556&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "",
+    "entities": [
+      "학생교육원"
+    ],
+    "item_id": "sen-press-192555",
+    "message_ts": "1794392431.988869",
+    "posted_at_iso": "2026-11-11T10:20:32.176286+00:00",
+    "priority": "상",
+    "reason": "체험학습 비용·업무 부담을 학생교육원이 지원하는 제도로 학생이 직접 참여하는 학교 행사 변화다.",
+    "source": "서울시교육청 보도자료",
+    "title": "차량·점심·시설까지 지원… 학생교육원, 학교 체험학습 부담 덜어준다",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192555&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156788771",
+    "message_ts": "1794392432.241579",
+    "posted_at_iso": "2026-11-11T10:20:32.447682+00:00",
+    "priority": "상",
+    "reason": "성층권 무인기 장기비행 성공은 과학기술 성과로 또래의 관심사에 해당한다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "성층권 무인기 170시간 연속 비행 성공에 이어 활주로 필요없는 미래항공기 만든다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788771&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "",
+    "entities": [
+      "정근식"
+    ],
+    "item_id": "sen-press-192557",
+    "message_ts": "1794392432.515089",
+    "posted_at_iso": "2026-11-11T10:20:32.707527+00:00",
+    "priority": "중",
+    "reason": "학교 현장의 차별·혐오 대응방안을 논의하는 토론회로 학생 인권과 관련되나 숙의토론 단계라 간접적이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 교육공동체가 차별과 혐오를 함께 넘어서기 위한 숙의토론회 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192557&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-10",
+    "dept": "",
+    "entities": [
+      "임재홍"
+    ],
+    "item_id": "sen-press-192554",
+    "message_ts": "1794392432.792969",
+    "posted_at_iso": "2026-11-11T10:20:33.013787+00:00",
+    "priority": "중",
+    "reason": "기본교육 방향을 논의하는 시민 토론회로 학생 배움에 영향을 줄 수 있으나 아직 정책 확정 단계는 아니다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 제2차 시민과 함께하는 서울미래교육 토론회 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192554&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "고용노동부",
+    "entities": [
+      "노사발전재단"
+    ],
+    "item_id": "korea-kr-156788781",
+    "posted_at_iso": "2026-11-11T10:20:33.013812+00:00",
+    "priority": "하",
+    "reason": "배달 노동자 대상 안전점검으로 성인 노동자가 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"온(溫) 세상 안전\" 노사발전재단, 겨울 배달 노동자  이륜차 안전 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788781&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "관세청"
+    ],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "관세청"
+    ],
+    "item_id": "korea-kr-156788783",
+    "posted_at_iso": "2026-11-11T10:20:33.013822+00:00",
+    "priority": "하",
+    "reason": "자가치료용 의약품 휴대 반입 규정 변경은 일반 성인 여행자 대상 규정으로 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[부처합동] 식약처-관세청, 자가 치료용 의약품 개인 휴대 반입 허용",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788783&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "고용노동부",
+    "entities": [
+      "포항",
+      "서산"
+    ],
+    "item_id": "korea-kr-156788803",
+    "posted_at_iso": "2026-11-11T10:20:33.013831+00:00",
+    "priority": "하",
+    "reason": "성인 고용 지역 지정 연장으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "고용노동부, 포항·서산 고용위기 선제대응지역 지정 연장",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788803&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "국립산림품종관리센터"
+    ],
+    "item_id": "korea-kr-156788798",
+    "posted_at_iso": "2026-11-11T10:20:33.013837+00:00",
+    "priority": "하",
+    "reason": "산림생명자원 전문 기관 활동으로 학생 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립산림품종관리센터, 산림생명자원 이용활성화에 앞장선다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788798&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "김성환",
+      "나주"
+    ],
+    "item_id": "korea-kr-156788772",
+    "posted_at_iso": "2026-11-11T10:20:33.013844+00:00",
+    "priority": "하",
+    "reason": "장관의 지역 현장방문 동정성 보도로 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "김성환 기후부 장관, 나주 에너지 특화도시 조성을 위해 현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788772&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "외교부",
+    "entities": [
+      "발트3국"
+    ],
+    "item_id": "korea-kr-156788784",
+    "posted_at_iso": "2026-11-11T10:20:33.013850+00:00",
+    "priority": "하",
+    "reason": "청년(대학생·성인) 대상 서포터즈 해단식으로 중학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "발트3국 청년 드림 서포터즈 해단식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788784&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788790",
+    "posted_at_iso": "2026-11-11T10:20:33.013857+00:00",
+    "priority": "하",
+    "reason": "산불예방 온라인 캠페인으로 청소년 특정 연결 고리가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, '산림보호 한걸음, 푸른 숲의 밑거름'유관기관 합동 온라인 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788790&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788788",
+    "posted_at_iso": "2026-11-11T10:20:33.013863+00:00",
+    "priority": "하",
+    "reason": "도시 가로수 안전점검으로 학생 안전과 간접적으로만 관련된 일반 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 겨울철 자연재난 대비 가로수 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788788&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156788800",
+    "posted_at_iso": "2026-11-11T10:20:33.013871+00:00",
+    "priority": "하",
+    "reason": "산불 복구현장 감찰 기술 도입으로 학생과 무관한 행정 실무 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산불 복구현장에 아이오닉9과 드론 뜬다··· '이동형 암행감찰' 시동",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788800&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "재정경제부",
+    "entities": [
+      "영남권"
+    ],
+    "item_id": "korea-kr-156788780",
+    "posted_at_iso": "2026-11-11T10:20:33.013878+00:00",
+    "priority": "하",
+    "reason": "지역 경제개발 TF 점검으로 학생과 무관한 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "영남권 메가프로젝트 이행 점검 TF 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788780&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156788801",
+    "posted_at_iso": "2026-11-11T10:20:33.013885+00:00",
+    "priority": "하",
+    "reason": "성인 대상 국제회의로 또래와 직접 연결 고리가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 제8차 여성과 함께하는 평화 국제회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788801&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156788777",
+    "posted_at_iso": "2026-11-11T10:20:33.013905+00:00",
+    "priority": "하",
+    "reason": "국유림관리소 현장 합동점검은 성인 근로자 안전점검으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, 유역관리사업장 합동점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788777&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "외교부",
+    "entities": [
+      "조현",
+      "G7"
+    ],
+    "item_id": "korea-kr-156788802",
+    "posted_at_iso": "2026-11-11T10:20:33.013912+00:00",
+    "priority": "하",
+    "reason": "외교장관 성인 외교 실무 사안으로 또래와 직접 연결되는 내용이 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "조현 장관, 제2차 G7 외교장관회의 참석 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788802&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156788778",
+    "posted_at_iso": "2026-11-11T10:20:33.013918+00:00",
+    "priority": "하",
+    "reason": "AI 스타트업 육성 전략은 성인·기업 대상 산업정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부, 2030년까지 '기업가치 1조' AI 스타트업 20개사 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788778&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "전남광주 지역성장펀드"
+    ],
+    "item_id": "korea-kr-156788779",
+    "posted_at_iso": "2026-11-11T10:20:33.013937+00:00",
+    "priority": "하",
+    "reason": "지역성장펀드 출범은 경제·금융 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "최대 규모 지역 통합 모펀드, '전남광주 지역성장펀드' 1,313억 원 규모로 출범",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788779&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "방위사업청",
+    "entities": [
+      "방위사업청",
+      "인도네시아"
+    ],
+    "item_id": "korea-kr-156788769",
+    "posted_at_iso": "2026-11-11T10:20:33.013942+00:00",
+    "priority": "하",
+    "reason": "한-인니 방산협력은 국방·외교 실무 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "한-인니 방산협력 강화, 정상회담 성과 이어 한 단계 더 도약",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788769&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "한국산림재난안전기술공단"
+    ],
+    "item_id": "korea-kr-156788792",
+    "posted_at_iso": "2026-11-11T10:20:33.013948+00:00",
+    "priority": "하",
+    "reason": "공공기관 신규 지정은 행정 절차 사안으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "한국산림재난안전기술공단, 공공기관 신규 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788792&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "함양산림항공관리소"
+    ],
+    "item_id": "korea-kr-156788796",
+    "posted_at_iso": "2026-11-11T10:20:33.013955+00:00",
+    "priority": "하",
+    "reason": "지역 산불예방 캠페인으로 또래와 직접 연결되지 않는 지방 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "함양산림항공관리소, 가을철 합동 산불 예방 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788796&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
