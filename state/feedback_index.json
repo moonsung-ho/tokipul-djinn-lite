@@ -61984,5 +61984,389 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788718&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "교육부",
+    "entities": [
+      "샌프란시스코 현대미술관"
+    ],
+    "item_id": "korea-kr-156788735",
+    "message_ts": "1794373830.125749",
+    "posted_at_iso": "2026-11-11T05:10:30.603130+00:00",
+    "priority": "상",
+    "reason": "해외 고등학생의 한글 작품 전시는 또래의 성취이자 국제 교육 사안으로 관심사가 뚜렷하다",
+    "source": "정책브리핑(교육부)",
+    "title": "미국 한국어반 고등학생들의 한글 그림, 샌프란시스코 현대미술관에 걸린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788735&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156788759",
+    "message_ts": "1794373830.724759",
+    "posted_at_iso": "2026-11-11T05:10:31.136318+00:00",
+    "priority": "상",
+    "reason": "온라인 자살유발정보 차단은 청소년 정신건강과 직결되는 안전 사안으로 토끼풀이 다뤄온 주제다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "정부·정보통신서비스 제공자·전문가 등 모여 온라인 유통 자살유발정보 차단 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788759&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-11",
+    "dept": "행정안전부",
+    "entities": [
+      "국립재난안전연구원"
+    ],
+    "item_id": "korea-kr-156788737",
+    "message_ts": "1794373831.262479",
+    "posted_at_iso": "2026-11-11T05:10:31.665414+00:00",
+    "priority": "중",
+    "reason": "재난·사고조사 역량 강화는 재난 안전 관심사와 맞닿지만 전문기관 간 협력체계 논의로 구체적 사안이 없다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "재난·사고조사 전문기관 한자리에 과학적 조사역량 및 협력체계 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788737&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "보건복지부",
+    "entities": [
+      "강원"
+    ],
+    "item_id": "korea-kr-156788758",
+    "posted_at_iso": "2026-11-11T05:10:31.665448+00:00",
+    "priority": "하",
+    "reason": "공공의료 AI 인프라는 성인 의료체계 사안으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "'공공의료 AI 고속도로' 첫 개통,강원 지역 공공병원 의료 AI로 본격 연결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788758&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156788755",
+    "posted_at_iso": "2026-11-11T05:10:31.665470+00:00",
+    "priority": "하",
+    "reason": "농업인 감사 행사로 또래와 연결되는 지점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "'농업인의 헌신에 감사, 농업·농촌의 미래를 함께 열다'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788755&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "약수역"
+    ],
+    "item_id": "korea-kr-156788743",
+    "posted_at_iso": "2026-11-11T05:10:31.665481+00:00",
+    "priority": "하",
+    "reason": "도심복합사업 장관 동정으로 성인 주택정책 현장점검이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 홍지선 장관, 공공·민간 협력으로  2030 착공목표 차질 없이 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788743&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "교육부",
+    "entities": [
+      "케이무크"
+    ],
+    "item_id": "korea-kr-156788733",
+    "posted_at_iso": "2026-11-11T05:10:31.665491+00:00",
+    "priority": "하",
+    "reason": "케이무크 경제금융교육은 청년(성인) 대상으로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "교육부, EBS·금융감독원 등과 함께 케이무크로 청년 경제·금융 이해력 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788733&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156788744",
+    "posted_at_iso": "2026-11-11T05:10:31.665499+00:00",
+    "priority": "하",
+    "reason": "국가데이터 민관협의체는 전문가 대상 행정 회의로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "국가데이터 민관협의체 4차 회의 개최, 국가데이터 관리를 위한 현장의 목소리 청취",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788744&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156788741",
+    "posted_at_iso": "2026-11-11T05:10:31.665521+00:00",
+    "priority": "하",
+    "reason": "기업 간 산업협력 간담회로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "국내 전장기업-브라질 항공업체 간 기술교류 및 협력 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788741&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156788742",
+    "posted_at_iso": "2026-11-11T05:10:31.665530+00:00",
+    "priority": "하",
+    "reason": "마약류 의존성 평가 국제기준은 전문 기술 사안으로 또래 직접 연결이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "마약류 의존성 평가, 한국의 기준이 세계 기준이 됩니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788742&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156788748",
+    "posted_at_iso": "2026-11-11T05:10:31.665537+00:00",
+    "priority": "하",
+    "reason": "건설현장 성인 노동자 대상 점검으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청, 겨울철 건설현장 위험요인 선제 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788748&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156788752",
+    "posted_at_iso": "2026-11-11T05:10:31.665544+00:00",
+    "priority": "하",
+    "reason": "장애인 고용 성과공유대회는 성인 고용 정책으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "장애인 고용의 가능성,  새로운 직무에서 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788752&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156788757",
+    "posted_at_iso": "2026-11-11T05:10:31.665552+00:00",
+    "priority": "하",
+    "reason": "임업직불금 점검은 농업인 대상 행정 점검으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, 가을철 임업직불제 의무준수사항 이행점검 성료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788757&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156788740",
+    "posted_at_iso": "2026-11-11T05:10:31.665560+00:00",
+    "priority": "하",
+    "reason": "투자자 협의체 회의는 성인 경제정책 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "제3차 글로벌 핵심 투자자 협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788740&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "교육부",
+    "entities": [
+      "G-LAMP"
+    ],
+    "item_id": "korea-kr-156788734",
+    "posted_at_iso": "2026-11-11T05:10:31.665568+00:00",
+    "priority": "하",
+    "reason": "대학기초연구소 지원 사업 축제는 대학 단위 행사로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "제3회 대학기초연구소 지원 사업(G-LAMP) 축제(페스티벌) 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788734&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "중앙전파관리소",
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156788753",
+    "posted_at_iso": "2026-11-11T05:10:31.665576+00:00",
+    "priority": "하",
+    "reason": "업무협약 체결 단계로 실제 처분이나 구체적 피해 예방 조치가 아직 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "중앙전파관리소-경찰청 통합대응단 전기통신금융사기 예방 위해 업무 협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788753&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156788745",
+    "posted_at_iso": "2026-11-11T05:10:31.665584+00:00",
+    "priority": "하",
+    "reason": "건강식품 지식재산권 허위표시 적발은 소비자 행정 사안으로 또래 직결성이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 건강식품 지식재산권 허위표시 597건 적발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788745&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156788750",
+    "posted_at_iso": "2026-11-11T05:10:31.665591+00:00",
+    "priority": "하",
+    "reason": "특허료 납부 행정 편의 공고로 또래와 무관한 성인 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 특허료 자동납부 은행 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788750&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "산림청",
+    "entities": [
+      "진천산림항공관리소",
+      "농다리 문화생태공원"
+    ],
+    "item_id": "korea-kr-156788747",
+    "posted_at_iso": "2026-11-11T05:10:31.665601+00:00",
+    "priority": "하",
+    "reason": "지역 공원 방문객 대상 캠페인으로 서울 지역 또래와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "진천산림항공관리소, 농다리 문화생태공원에서  \"합동 산불예방 캠페인\" 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788747&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-11",
+    "dept": "행정안전부",
+    "entities": [
+      "질병청"
+    ],
+    "item_id": "korea-kr-156788739",
+    "posted_at_iso": "2026-11-11T05:10:31.665608+00:00",
+    "priority": "하",
+    "reason": "정부24 질병 민원서류 통합발급은 행정 편의 개선으로 또래 일상 규칙 변화가 크지 않다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부·질병청, 정부24서 잠복결핵·감염병 등 질병 민원 서류 한 번에 발급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788739&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-11&endDate=2026-11-11&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
