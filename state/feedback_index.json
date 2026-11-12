@@ -64113,5 +64113,164 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789040&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-13",
+    "dept": "외교부",
+    "entities": [
+      "강금실",
+      "COP31",
+      "유엔기후변화협약"
+    ],
+    "item_id": "korea-kr-156789075",
+    "message_ts": "1794525284.161649",
+    "posted_at_iso": "2026-11-12T23:14:44.476850+00:00",
+    "priority": "중",
+    "reason": "기후변화 대응을 다루는 국제 정상회의 연설로 또래가 알아야 할 기후·국제 사안에 해당하지만 직접적 영향은 간접적이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789075&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "유아교육과",
+    "entities": [
+      "특수학교",
+      "유아교육과"
+    ],
+    "item_id": "sen-notice-20261113080635857",
+    "posted_at_iso": "2026-11-12T23:14:44.476876+00:00",
+    "priority": "하",
+    "reason": "교사 초빙 절차에 관한 인사 공고로 학생의 권리·일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2027. 3. 1. 자 특수학교(유아) 교사 초빙 요건 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261113080635857",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156789077",
+    "posted_at_iso": "2026-11-12T23:14:44.476887+00:00",
+    "priority": "하",
+    "reason": "장애인 의약외품 접근성 강화는 성인·일반 대상 정책으로 또래와 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 장애인의 의약외품 안전정보 접근성 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789077&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156789072",
+    "posted_at_iso": "2026-11-12T23:14:44.476896+00:00",
+    "priority": "하",
+    "reason": "지하수 조사 표준은 행정·기술 지침으로 또래의 일상이나 환경 이슈로 직접 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "땅속 깊은 곳까지 더 안전하게… 지하수 조사 표준 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789072&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국토교통부",
+    "entities": [
+      "서울창업허브 공덕"
+    ],
+    "item_id": "korea-kr-156789071",
+    "posted_at_iso": "2026-11-12T23:14:44.476904+00:00",
+    "priority": "하",
+    "reason": "물류·기술기업 간 업계 행사로 학생과 무관한 산업 교류 소식이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "물류기업과 기술기업이 만나는  '협업의 장' 열린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789071&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "과학기술정보통신부"
+    ],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "한·불 원자력공동조정위원회"
+    ],
+    "item_id": "korea-kr-156789074",
+    "posted_at_iso": "2026-11-12T23:14:44.476926+00:00",
+    "priority": "하",
+    "reason": "한·불 원자력 공동조정위원회는 정부 간 실무 협의로 또래의 일상이나 관심사로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "제27차 한·불 원자력공동조정위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789074&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "문화체육관광부",
+    "entities": [
+      "대구",
+      "청년문화포럼"
+    ],
+    "item_id": "korea-kr-156789076",
+    "posted_at_iso": "2026-11-12T23:14:44.476942+00:00",
+    "priority": "하",
+    "reason": "청년문화포럼은 성인 청년 대상 행사로 중학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "취향이 문화가 되는 '요즘 청년', 대구에서 만나다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789076&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "중등교육과",
+    "entities": [
+      "중등교육과"
+    ],
+    "item_id": "sen-notice-20261112220410298",
+    "posted_at_iso": "2026-11-12T23:14:44.476952+00:00",
+    "priority": "하",
+    "reason": "고등학교 교사 초빙 절차 공고로 교원 인사 행정일 뿐 학생 제도 변화가 아니다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2027. 3. 1.자 고등학교 교사 초빙 요건 공고 및 신청 안내",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261112220410298",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
