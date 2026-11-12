@@ -64015,5 +64015,103 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789018&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "",
+    "entities": [
+      "글로벌 서포터즈",
+      "아시안허브"
+    ],
+    "item_id": "sen-press-192570",
+    "message_ts": "1794506295.046589",
+    "posted_at_iso": "2026-11-12T17:58:15.492899+00:00",
+    "priority": "중",
+    "reason": "이주배경 중고생 20명이 직접 번역·녹음에 참여하는 진로형 교육 프로그램이지만 대상이 좁고 결과물도 초등 대상이라 간접적이다",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 이주배경학생이 직접 번역하고 읽어주는 다국어 그림책 만든다",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192570&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "해양수산부",
+    "entities": [
+      "황종우",
+      "포르투갈"
+    ],
+    "item_id": "korea-kr-156789039",
+    "posted_at_iso": "2026-11-12T17:58:15.492926+00:00",
+    "priority": "하",
+    "reason": "장관 동정 및 MOU 서명으로 청소년과 접점이 없는 행정 실무 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "(동정) 황종우 장관, 포르투갈 농업해양부 장관과 '해양수산 협력 양해각서(MOU)' 서명",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789039&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙"
+    ],
+    "item_id": "korea-kr-156789070",
+    "posted_at_iso": "2026-11-12T17:58:15.492936+00:00",
+    "priority": "하",
+    "reason": "기업인 대상 규제합리화 간담회로 청소년과 무관한 성인 경제 정책 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 지역상의 방문 및 기업인 규제합리화 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789070&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "",
+    "entities": [
+      "SEM119"
+    ],
+    "item_id": "sen-press-192509",
+    "posted_at_iso": "2026-11-12T17:58:15.492943+00:00",
+    "priority": "하",
+    "reason": "교원의 교육활동 보호 체계에 대한 평가 우수사례 선정 소식으로 학생이 직접 등장하거나 규칙이 바뀌는 사안이 아니다",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "“선생님 곁에, SEM119” 서울시교육청 교육활동 보호,교육부 시·도교육청 평가 우수사례 선정",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192509&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156789040",
+    "posted_at_iso": "2026-11-12T17:58:15.492949+00:00",
+    "priority": "하",
+    "reason": "외교부와 시민사회 간 정책대화로 성인 단체를 대상으로 한 절차성 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제9차 외교부-시민사회 정책대화 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789040&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
