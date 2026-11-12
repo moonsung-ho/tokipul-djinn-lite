@@ -63253,5 +63253,381 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788850&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "국가보훈부",
+    "entities": [
+      "박채은",
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156788941",
+    "message_ts": "1794464064.282019",
+    "posted_at_iso": "2026-11-12T06:14:24.604555+00:00",
+    "priority": "상",
+    "reason": "17세 또래가 주인공인 성취·미담 사례로 관심사 관점에서 뚜렷하다",
+    "source": "정책브리핑(국가보훈부)",
+    "title": "유엔 참전용사의 헌신 기록하고 가족이 된 17세 소녀 박채은 양",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788941&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "농림축산식품부",
+    "entities": [
+      "인천 강화",
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156788953",
+    "message_ts": "1794464064.697039",
+    "posted_at_iso": "2026-11-12T06:14:25.027474+00:00",
+    "priority": "상",
+    "reason": "조류인플루엔자 확산은 급식 식재료·공중보건과 맞닿는 재난·안전 사안으로 또래가 알아야 한다",
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "인천 강화 산란계 농장에 대한 정기 예찰 검사에서 H5형 조류인플루엔자 항원 확인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788953&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156788944",
+    "message_ts": "1794464065.149989",
+    "posted_at_iso": "2026-11-12T06:14:25.486446+00:00",
+    "priority": "중",
+    "reason": "미등록 대중문화예술기획업체 단속은 청소년 연습생 보호와 간접적으로 연관될 수 있어 배경 취재가 필요하다",
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "문체부, 미등록 대중문화예술기획업체 16개소 수사 의뢰",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788944&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156788942",
+    "message_ts": "1794464065.614629",
+    "posted_at_iso": "2026-11-12T06:14:25.936290+00:00",
+    "priority": "중",
+    "reason": "AI 이용자 보호 토론회는 청소년도 쓰는 기술이지만 실제 처분이 아닌 세미나 성격이라 간접적이다",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "\"행동하는 인공지능 시대, 이용자 보호 방안은\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788942&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156788958",
+    "message_ts": "1794464066.048019",
+    "posted_at_iso": "2026-11-12T06:14:26.405886+00:00",
+    "priority": "중",
+    "reason": "우주항공 기술 공유 행사로 과학 성과 영역과 느슨하게 닿지만 구체적 성과 발표는 아니다",
+    "source": "정책브리핑(우주항공청)",
+    "title": "민간과 함께 풍동시험 기술과 경험 나눈다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788958&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-12",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156788925",
+    "message_ts": "1794464066.525459",
+    "posted_at_iso": "2026-11-12T06:14:26.875106+00:00",
+    "priority": "중",
+    "reason": "AI 안전 국민 모니터링단은 또래도 접하는 AI 기술 안전과 관련되나 참여 대상이 불분명하다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "인공지능 안전 국민 모니터링단 「인공지능 안전 지킴이」 출범",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788925&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회",
+      "한국산업조직학회"
+    ],
+    "item_id": "korea-kr-156788951",
+    "posted_at_iso": "2026-11-12T06:14:26.875135+00:00",
+    "priority": "하",
+    "reason": "학계·전문가 대상 정책포럼으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "2026년도 공정위·한국산업조직학회 공동 정책포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788951&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "공정거래위원회"
+    ],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "국토교통부",
+    "entities": [
+      "진에어",
+      "에어서울",
+      "에어부산"
+    ],
+    "item_id": "korea-kr-156788954",
+    "posted_at_iso": "2026-11-12T06:14:26.875147+00:00",
+    "priority": "하",
+    "reason": "항공사 합병은 산업·경제 뉴스로 또래의 권리나 일상, 관심사 어느 쪽과도 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 진에어-에어서울-에어부산 합병 인가,  27년 3월 17일부터 진에어로 통합 예정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788954&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156788940",
+    "posted_at_iso": "2026-11-12T06:14:26.875157+00:00",
+    "priority": "하",
+    "reason": "부처 내부 민원 대응 체계로 또래와 무관한 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "국민과의 \"소통\"은 더욱 강화하고,악의적 특이민원은 엄정 대응하겠습니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788940&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "국방부",
+    "entities": [
+      "국방부"
+    ],
+    "item_id": "korea-kr-156788921",
+    "posted_at_iso": "2026-11-12T06:14:26.875164+00:00",
+    "priority": "하",
+    "reason": "국방 분야 혁신제품 지정은 군수·산업 행정으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방 분야 혁신제품 최초 지정, 민간 혁신기술의 군 활용 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788921&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156788949",
+    "posted_at_iso": "2026-11-12T06:14:26.875172+00:00",
+    "priority": "하",
+    "reason": "근로자 대상 문화예술제 시상식으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "근로복지공단, 제47회 노동자문화예술제 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788949&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156788939",
+    "posted_at_iso": "2026-11-12T06:14:26.875191+00:00",
+    "priority": "하",
+    "reason": "금융업계 대상 기후포인트 혜택으로 성인 금융상품 성격이 강하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "금융업계와 함께하는 기후행동, 현금처럼 쓰는 포인트 혜택까지",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788939&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "산림청",
+    "entities": [
+      "부여국유림관리소"
+    ],
+    "item_id": "korea-kr-156788927",
+    "posted_at_iso": "2026-11-12T06:14:26.875199+00:00",
+    "priority": "하",
+    "reason": "지방 농촌 대상 산불예방 캠페인으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "부여국유림관리소, 가을철 영농부산물 파쇄 캠페인 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788927&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156788937",
+    "posted_at_iso": "2026-11-12T06:14:26.875206+00:00",
+    "priority": "하",
+    "reason": "관광 홍보·투자유치 활동으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금개발청, 트래블쇼에 참가해 새만금 홍보와 투자유치 활동 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788937&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156788935",
+    "posted_at_iso": "2026-11-12T06:14:26.875213+00:00",
+    "priority": "하",
+    "reason": "지적측량기준점 고시는 행정 실무 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청, 새만금지역 지적측량기준점 2,378점 측량성과 고시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788935&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소",
+      "순창군"
+    ],
+    "item_id": "korea-kr-156788956",
+    "posted_at_iso": "2026-11-12T06:14:26.875219+00:00",
+    "priority": "하",
+    "reason": "지방 농가 대상 산불예방 캠페인으로 또래와 연결고리가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, 영농부산물 파쇄지원으로 가을철 산불예방",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788956&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156788930",
+    "posted_at_iso": "2026-11-12T06:14:26.875238+00:00",
+    "priority": "하",
+    "reason": "중견 건설사 대상 민관협의체로 성인·기업 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "중견 건설사 대상 민관협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788930&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "국민통합위원회",
+    "entities": [
+      "국민통합위원회",
+      "MBN 서울마라톤"
+    ],
+    "item_id": "korea-kr-156788948",
+    "posted_at_iso": "2026-11-12T06:14:26.875245+00:00",
+    "priority": "하",
+    "reason": "성인 대상 마라톤 참여행사로 또래 권리·관심사 어느 쪽과도 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민통합위원회)",
+    "title": "통합위, 오는 15일 MBN 서울마라톤서 「대한민국 국민통합 런」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788948&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-12",
+    "dept": "통일부",
+    "entities": [
+      "하나원"
+    ],
+    "item_id": "korea-kr-156788950",
+    "posted_at_iso": "2026-11-12T06:14:26.875252+00:00",
+    "priority": "하",
+    "reason": "지역 성인 주민 대상 봉사활동으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "하나원, 지역주민 건강지원 및 무료 이발 봉사 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156788950&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-12&endDate=2026-11-12&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
