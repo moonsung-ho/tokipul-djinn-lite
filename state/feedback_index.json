@@ -64272,5 +64272,393 @@
     "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261112220410298",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-13",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "사도광산"
+    ],
+    "item_id": "korea-kr-156789156",
+    "message_ts": "1794546103.988199",
+    "posted_at_iso": "2026-11-13T05:01:44.541882+00:00",
+    "priority": "상",
+    "reason": "사도광산 강제동원 추도식은 한일관계·역사 문제로 또래가 알아야 할 국제·정치 현안이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "정부, 사도광산 추도식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789156&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-13",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청",
+      "스페이스 패스파인더"
+    ],
+    "item_id": "korea-kr-156789169",
+    "message_ts": "1794546104.703849",
+    "posted_at_iso": "2026-11-13T05:01:45.249725+00:00",
+    "priority": "중",
+    "reason": "청소년 대상 우주교육 프로그램으로 보이나 대상·참여 범위가 불분명해 추가 확인이 필요하다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "배움과 꿈을 잇는 특별한 하루 「스페이스 패스파인더」 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789169&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-13",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청",
+      "달 기지"
+    ],
+    "item_id": "korea-kr-156789168",
+    "message_ts": "1794546105.410199",
+    "posted_at_iso": "2026-11-13T05:01:45.944386+00:00",
+    "priority": "중",
+    "reason": "달 기지 참여 확대를 위한 산학연 협력은 우주과학 관심사이지만 구체적 성과보다 정책 협력 단계라 간접적이다.",
+    "source": "정책브리핑(우주항공청)",
+    "title": "달 기지(Moon_Base) 건설 참여 확대를 위한 국내 산학연 역량 결집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789168&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789154",
+    "posted_at_iso": "2026-11-13T05:01:45.944415+00:00",
+    "priority": "하",
+    "reason": "통합사례관리 담당자 소통의 장은 복지 실무자 대상 행사로 청소년과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "'위기가구 찾고, 희망 연결하는' 전국 통합사례관리 담당자 소통의 장 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789154&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국토교통부"
+    ],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "산업통상부",
+    "entities": [
+      "구글",
+      "국토교통부",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156789175",
+    "posted_at_iso": "2026-11-13T05:01:45.944430+00:00",
+    "priority": "하",
+    "reason": "구글 지도 국외반출 조건이행 협의체 보고는 산업·행정 절차로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)구글社 지도 국외반출 허가 조건이행 결과 협의체 보고",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789175&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156789170",
+    "posted_at_iso": "2026-11-13T05:01:45.944438+00:00",
+    "priority": "하",
+    "reason": "쌀 생산량 통계는 농업 실무 지표로 사회 전반의 모습을 보여주는 통계로 보기 어렵다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "2026년 쌀 생산량조사 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789170&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156789161",
+    "posted_at_iso": "2026-11-13T05:01:45.944444+00:00",
+    "priority": "하",
+    "reason": "위원회 정례 회의 결과로 구체 내용이 드러나지 않아 청소년 관련성을 확인할 수 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제49차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789161&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "교육연구정보원",
+    "entities": [
+      "교육연구정보원"
+    ],
+    "item_id": "sen-notice-20261113132728631",
+    "posted_at_iso": "2026-11-13T05:01:45.944449+00:00",
+    "priority": "하",
+    "reason": "인정도서 심의위원(성인 위촉직) 모집 공고로 절차성 인력 모집일 뿐 학생의 권리·일상에 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2026학년도 하반기 교육감 승인 과목 인정도서 심의위원 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261113132728631",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국무조정실",
+    "entities": [],
+    "item_id": "korea-kr-156789159",
+    "posted_at_iso": "2026-11-13T05:01:45.944454+00:00",
+    "priority": "하",
+    "reason": "규제합리화 공모전 결과는 행정 성과 발표로 또래와 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 규제합리화 대국민 공모전 최종 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789159&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156789160",
+    "posted_at_iso": "2026-11-13T05:01:45.944479+00:00",
+    "priority": "하",
+    "reason": "지역화폐 포인트 전환은 성인 소비자 대상 경제정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 미사용 포인트 지역화폐 전환 추진방안",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789160&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156789157",
+    "posted_at_iso": "2026-11-13T05:01:45.944510+00:00",
+    "priority": "하",
+    "reason": "주택공급 정례브리핑은 성인 대상 부동산 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제3차 주택공급 정례브리핑, '내 집 어디에 있나'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789157&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "경제사회노동위원회",
+    "entities": [
+      "경제사회노동위원회"
+    ],
+    "item_id": "korea-kr-156789177",
+    "posted_at_iso": "2026-11-13T05:01:45.944517+00:00",
+    "priority": "하",
+    "reason": "성인 시민을 대상으로 한 일자리 공론화 회의로 청소년과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경제사회노동위원회)",
+    "title": "[보도자료]「일자리 공론화 특별위원회」 11.14.(토) '30인 시민회의' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789177&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "현대홈쇼핑"
+    ],
+    "item_id": "korea-kr-156789163",
+    "posted_at_iso": "2026-11-13T05:01:45.944524+00:00",
+    "priority": "하",
+    "reason": "기업 법인분할 승인은 상법·기업 행정 사안으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "㈜현대홈쇼핑 법인분할 변경승인 신청 승인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789163&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "이종욱"
+    ],
+    "item_id": "korea-kr-156789178",
+    "posted_at_iso": "2026-11-13T05:01:45.944532+00:00",
+    "priority": "하",
+    "reason": "마약 밀수 단속 강화는 일상적 행정 점검으로 또래의 일상이나 안전에 직접 연결되는 구체적 사건이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 빈틈없는 마약밀수 저지선 구축을 위한단속 사각지대 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789178&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156789183",
+    "posted_at_iso": "2026-11-13T05:01:45.944537+00:00",
+    "priority": "하",
+    "reason": "자생 수종 육성을 위한 산림과학 연구로 청소년의 일상이나 관심사와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국내 자생 오동나무, 미래 산림자원으로 육성한다! - 국립산림과학원, 전국 26개 우수 개체 선발... 자생 오동나무 신품종 육성 기반 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789183&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "농림축산식품부",
+    "entities": [],
+    "item_id": "korea-kr-156789171",
+    "posted_at_iso": "2026-11-13T05:01:45.944542+00:00",
+    "priority": "하",
+    "reason": "제목만으로도 성과 포상 관련 내부 행정 자료로 보이며 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "국민과 함께만든 특별성과! 탁월한 성과에는 파격적인 보상으로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789171&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789153",
+    "posted_at_iso": "2026-11-13T05:01:45.944547+00:00",
+    "priority": "하",
+    "reason": "서울·수도권 주택가격·입주 전망은 부동산 시장 지표로 청소년 일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789153&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156789181",
+    "posted_at_iso": "2026-11-13T05:01:45.944553+00:00",
+    "priority": "하",
+    "reason": "쌀 생산량 감소 발표는 농업 통계로 청소년 일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "올해 쌀 최종 생산량은 예상 대비 1만 톤 감소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789181&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156789165",
+    "posted_at_iso": "2026-11-13T05:01:45.944558+00:00",
+    "priority": "하",
+    "reason": "전기통신사업자 이용자보호 평가 개선은 통신 산업 규제 사안으로 청소년과 직접 관련이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "전기통신사업자 이용자 보호업무 평가 개선으로 이용자 보호 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789165&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-13",
+    "dept": "기획예산처",
+    "entities": [
+      "조용범",
+      "기금자산운용정책위원회"
+    ],
+    "item_id": "korea-kr-156789158",
+    "posted_at_iso": "2026-11-13T05:01:45.944565+00:00",
+    "priority": "하",
+    "reason": "기금자산운용정책위원회는 재정 실무 회의로 청소년의 일상이나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "조용범 차관, 제4차 기금자산운용정책위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789158&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-13&endDate=2026-11-13&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
