@@ -65220,5 +65220,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789234&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-14&endDate=2026-11-14&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-14",
+    "dept": "외교부",
+    "entities": [
+      "네팔",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156789235",
+    "posted_at_iso": "2026-11-14T08:37:25.403861+00:00",
+    "priority": "하",
+    "reason": "한-네팔 간 국제감축사업(탄소배출권 관련) 외교 협력 체결로, 기후 주제이긴 하나 청소년의 일상이나 안전과 직결되지 않는 정부 간 기술·행정 협약이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789235&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-14&endDate=2026-11-14&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
