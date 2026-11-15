@@ -65654,5 +65654,42 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789264&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-15&endDate=2026-11-15&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-15",
+    "dept": "고용노동부",
+    "entities": [
+      "세무사 시험"
+    ],
+    "item_id": "korea-kr-156789271",
+    "message_ts": "1794756085.362449",
+    "posted_at_iso": "2026-11-15T15:21:25.733662+00:00",
+    "priority": "중",
+    "reason": "세무사 시험은 성인 전문자격시험이라 당사자성은 낮지만 AI를 이용한 부정행위라는 현상 자체는 또래도 접할 수 있는 기술·윤리 이슈로 참고할 만하다",
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)「제63회 세무사 시험 인공지능(AI) 활용  부정행위 관련 비상대책 회의」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789271&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-15",
+    "dept": "재정경제부",
+    "entities": [],
+    "item_id": "korea-kr-156789273",
+    "posted_at_iso": "2026-11-15T15:21:25.733685+00:00",
+    "priority": "하",
+    "reason": "경제현안간담회라는 제목만으로는 구체적 정책 내용이 드러나지 않고 청소년과 이어지는 지점도 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "경제현안간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789273&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
