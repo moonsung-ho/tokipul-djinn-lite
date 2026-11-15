@@ -65260,5 +65260,58 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789244&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-15&endDate=2026-11-15&srchWord=&period=",
     "관심사": "중",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-15",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156789247",
+    "posted_at_iso": "2026-11-15T00:46:33.662833+00:00",
+    "priority": "하",
+    "reason": "대학생 기숙사 주거 통계로 중학생과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "데이터로 읽는 우리 교육 제18호 발간",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789247&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-15&endDate=2026-11-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-15",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156789246",
+    "posted_at_iso": "2026-11-15T00:46:33.662865+00:00",
+    "priority": "하",
+    "reason": "의과대학 교육 우수사례는 대학 교육 사안으로 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "의과대학 교육의 새로운 변화, 우수사례 8편 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789246&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-15&endDate=2026-11-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-15",
+    "dept": "외교부",
+    "entities": [
+      "투르크메니스탄"
+    ],
+    "item_id": "korea-kr-156789245",
+    "posted_at_iso": "2026-11-15T00:46:33.662872+00:00",
+    "priority": "하",
+    "reason": "세관 협정 발효는 통상 실무 사안으로 또래의 삶과 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-투르크메니스탄 세관상호지원협정 발효",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789245&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-15&endDate=2026-11-15&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
