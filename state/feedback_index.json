@@ -66870,5 +66870,399 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789433&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-16&endDate=2026-11-16&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-16",
+    "dept": "교육부",
+    "entities": [
+      "최은옥",
+      "2027학년도 수능"
+    ],
+    "item_id": "korea-kr-156789460",
+    "message_ts": "1794851863.768329",
+    "posted_at_iso": "2026-11-16T17:57:43.943821+00:00",
+    "priority": "상",
+    "reason": "2027학년도 수능 현안 논의는 지금 중학생이 치를 시험 제도에 직결되는 사안이다.",
+    "source": "정책브리핑(교육부)",
+    "title": "최은옥 차관, 시도 부교육감과 2027학년도 수능 현안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789460&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-16",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "후쿠시마",
+      "원자력안전위원회"
+    ],
+    "item_id": "korea-kr-156789456",
+    "message_ts": "1794851863.993519",
+    "posted_at_iso": "2026-11-16T17:57:44.191969+00:00",
+    "priority": "상",
+    "reason": "후쿠시마 오염수 방류 대응 브리핑은 규칙으로 닿지 않아도 또래가 알아야 할 환경·안전 사안이다.",
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "[보도참고자료] (공동) 후쿠시마 오염수 방류 대응 브리핑(337차)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789456&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-16",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "한울 원전",
+      "원자력안전위원회"
+    ],
+    "item_id": "korea-kr-156789457",
+    "message_ts": "1794851864.242089",
+    "posted_at_iso": "2026-11-16T17:57:44.418312+00:00",
+    "priority": "상",
+    "reason": "원전 삼중수소 검출 사건조사는 방사능 안전·환경 사안으로 또래가 알아야 할 공공 안전 소식이다.",
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "한울 원전 취수구 삼중수소 검출 사건조사 착수",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789457&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-16",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156789466",
+    "message_ts": "1794851864.466889",
+    "posted_at_iso": "2026-11-16T17:57:44.656677+00:00",
+    "priority": "중",
+    "reason": "언론 규제 기구의 정기 위원회 결과로 토끼풀의 당사자 영역(언론 규제)일 가능성이 있으나 본문 내용이 없어 재허가·제재 등 구체 안건 확인이 필요하다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제49차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789466&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-16",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156789461",
+    "message_ts": "1794851864.701899",
+    "posted_at_iso": "2026-11-16T17:57:44.870831+00:00",
+    "priority": "중",
+    "reason": "사이버성폭력은 청소년도 주요 피해·연루 대상이 되는 안전 이슈이나 자료에 청소년 관련 구체 수치가 없어 간접적이다.",
+    "source": "정책브리핑(경찰청)",
+    "title": "'26년 사이버성폭력 집중단속으로 3,430명 검거, '27년 집중단속 연속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789461&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "",
+    "entities": [
+      "동부교육지원청",
+      "서울교사노동조합"
+    ],
+    "item_id": "sen-press-192618",
+    "posted_at_iso": "2026-11-16T17:57:44.870857+00:00",
+    "priority": "하",
+    "reason": "교직원 대상 AI 활용 공모전으로 학생의 규칙이나 일상과 무관한 행정 내부 행사다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "\"반복업무 줄이고 오류 막는다\"… 동부교육지원청, AI 활용 공모전 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192618&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "창의미래교육과",
+    "entities": [
+      "전국 학생 AI 꿈키움 겨울 캠프"
+    ],
+    "item_id": "sen-notice-20261116170248066",
+    "posted_at_iso": "2026-11-16T17:57:44.870866+00:00",
+    "priority": "하",
+    "reason": "용역 제안서 평가위원 후보자 모집 공고로 절차성 알맹이만 있고 학생 당사자 내용이 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "「전국 학생 AI 꿈키움 겨울 캠프 운영」 용역 입찰 제안서 평가위원(후보자) 모집 안내(수정)",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261116170248066",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회",
+      "GPA"
+    ],
+    "item_id": "korea-kr-156789459",
+    "posted_at_iso": "2026-11-16T17:57:44.870873+00:00",
+    "priority": "하",
+    "reason": "개인정보 감독기구 국제협의체 총회 주도는 전문가·정부 간 사안으로 청소년 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 글로벌 개인정보 감독기구협의체 GPA 총회 주도",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789459&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156789465",
+    "posted_at_iso": "2026-11-16T17:57:44.870880+00:00",
+    "priority": "하",
+    "reason": "농산물 수출 실적 홍보로 성인 농업 경제 사안이라 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "결의 한 달 만에 해냈다 …\"K-포도, 신선농산물 단일 품목 최초 수출 1억 달러 달성\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789465&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156789458",
+    "posted_at_iso": "2026-11-16T17:57:44.870886+00:00",
+    "priority": "하",
+    "reason": "관세청 국민 아이디어 공모전 결과로 성인 행정 참여 사안이며 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 국민 아이디어로 정책활로 뚫는다... 공모전 통해 8건 발굴",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789458&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "글로벌녹색성장기구"
+    ],
+    "item_id": "korea-kr-156789504",
+    "posted_at_iso": "2026-11-16T17:57:44.870893+00:00",
+    "priority": "하",
+    "reason": "국제 녹색성장기구와의 협력 보도자료로 실무적 외교 사안이라 또래와 이어지는 각도가 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "기후부-글로벌녹색성장기구, 녹색성장 협력 넓혀 에너지전환 함께 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789504&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부",
+      "국제전기통신연합"
+    ],
+    "item_id": "korea-kr-156789502",
+    "posted_at_iso": "2026-11-16T17:57:44.870900+00:00",
+    "priority": "하",
+    "reason": "ITU 이사국 연임은 국제 통신 외교 성과로 또래의 일상이나 관심사와 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "대한민국, 국제전기통신연합(ITU) 이사국 10선 연임 성공 및 전파규칙위원회(RRB) 24년 만에 재진출",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789502&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "탄소시장연합"
+    ],
+    "item_id": "korea-kr-156789503",
+    "posted_at_iso": "2026-11-16T17:57:44.870906+00:00",
+    "priority": "하",
+    "reason": "탄소시장연합 가입은 국제 정책 실무로 전문적이며 청소년이 바로 체감할 변화가 보이지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "대한민국, 탄소시장연합 회원국 공식 가입… 국제 탄소시장 협력 본격 참여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789503&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156789462",
+    "posted_at_iso": "2026-11-16T17:57:44.870912+00:00",
+    "priority": "하",
+    "reason": "불법전단지 특별단속 실적 발표로 청소년의 규칙이나 일상과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "불법전단지, 뿌리부터 차단한다...  경찰, 6개월간 특별단속으로 147명 검거",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789462&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "산림청",
+    "entities": [
+      "서부지방산림청"
+    ],
+    "item_id": "korea-kr-156789499",
+    "posted_at_iso": "2026-11-16T17:57:44.870918+00:00",
+    "priority": "하",
+    "reason": "소나무류 무단이동 단속은 산업·검역 행정으로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "서부지방산림청, 가을철 소나무류 무단이동 특별단속 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789499&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "산림청",
+    "entities": [
+      "서부지방산림청"
+    ],
+    "item_id": "korea-kr-156789501",
+    "posted_at_iso": "2026-11-16T17:57:44.870924+00:00",
+    "priority": "하",
+    "reason": "벌목 노동자 대상 산업안전 교육으로 청소년과 무관한 성인 노동 현장 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "서부지방산림청, 벌목작업 중대재해 예방 특별 안전교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789501&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "",
+    "entities": [
+      "정근식"
+    ],
+    "item_id": "sen-press-192604",
+    "posted_at_iso": "2026-11-16T17:57:44.870929+00:00",
+    "priority": "하",
+    "reason": "평생교육시설 적립금 분쟁의 당사자는 성인 만학도이며 중학생의 권리·일상과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 멈춰 섰던 만학도 배움터 살렸다... 법적 대응으로 평생교육시설 85억 원 적립금 동결 해제",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192604&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156789455",
+    "posted_at_iso": "2026-11-16T17:57:44.870935+00:00",
+    "priority": "하",
+    "reason": "희귀식물 보전 성과 공유 행사로 전문가 대상 행사이며 청소년 접점이 뚜렷하지 않다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "우리 식물의 미래를 지키는 현장의 노력, 함께 나누다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789455&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789464",
+    "posted_at_iso": "2026-11-16T17:57:44.870940+00:00",
+    "priority": "하",
+    "reason": "중기부 장관의 공공기관 정책협의회로 성인 행정 내부 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부 장관, 취임 후 첫 공공기관 정책협의회 개최… 내년도 정책 추진방향 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789464&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-16",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부",
+      "모두의 창업 프로젝트"
+    ],
+    "item_id": "korea-kr-156789463",
+    "posted_at_iso": "2026-11-16T17:57:44.870946+00:00",
+    "priority": "하",
+    "reason": "창업가 대상 전국 행사로 대상이 성인 창업가이며 중고생과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "지역에서 찾은 가능성...로컬 창업가 600명, 전국 무대로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789463&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
