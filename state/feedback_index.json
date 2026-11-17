@@ -67264,5 +67264,409 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789463&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-17",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156789513",
+    "message_ts": "1794879374.387829",
+    "posted_at_iso": "2026-11-17T01:36:14.774904+00:00",
+    "priority": "중",
+    "reason": "폭설 대비 제설 민원주의보는 통학길 안전과 간접적으로 연결되는 겨울철 재난 안전 사안이다.",
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"폭설 오기 전, 제설 대비는 미리\"… 폭설·제설 관련 '민원주의보' 발령",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789513&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-17",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156789508",
+    "message_ts": "1794879374.888129",
+    "posted_at_iso": "2026-11-17T01:36:15.245253+00:00",
+    "priority": "중",
+    "reason": "갯벌 고립사고 AI 수색구조 기술은 또래가 체험활동 등에서 겪을 수 있는 재난·과학 접목 안전 사안이다.",
+    "source": "정책브리핑(소방청)",
+    "title": "﻿﻿\"갯벌 고립사고, 이제 인공지능(AI)이 위험 지역을 예측하고 수색구조까지 돕는다!\" 소방청, 「인공지능(AI) 기반 연안 고립사고 분석 및 수색구조 지원」 서비스 개발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789508&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회"
+    ],
+    "item_id": "korea-kr-156789512",
+    "posted_at_iso": "2026-11-17T01:36:15.245286+00:00",
+    "priority": "하",
+    "reason": "주정차 과태료 면제 요건 안내는 성인 운전자 대상 민원 행정이라 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"공문 한 장으로 주정차 과태료 면제 안돼\"… 공무수행 입증하는 객관적 자료 제출해야",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789512&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156789527",
+    "posted_at_iso": "2026-11-17T01:36:15.245295+00:00",
+    "priority": "하",
+    "reason": "후원방문판매업자 대상 성인 소비자 정보공개로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "2026년 후원방문판매업자 주요 정보공개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789527&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "교육연구정보원",
+    "entities": [
+      "교육연구정보원"
+    ],
+    "item_id": "sen-notice-20261117092955037",
+    "posted_at_iso": "2026-11-17T01:36:15.245303+00:00",
+    "priority": "하",
+    "reason": "인정도서 심의위원 모집은 절차성 공고로 알맹이가 없어 학생 교재 선정과는 간접적이다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2026학년도 하반기 교육감 승인 과목 인정도서 심의위원 추가 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261117092955037",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156789520",
+    "posted_at_iso": "2026-11-17T01:36:15.245320+00:00",
+    "priority": "하",
+    "reason": "공무원 대상 적극행정 우수사례 온라인 투표로 또래와 무관한 행정 내부 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 2026년 하반기 적극행정 우수사례 온라인 투표 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789520&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156789509",
+    "posted_at_iso": "2026-11-17T01:36:15.245330+00:00",
+    "priority": "하",
+    "reason": "디지털의료기기 정책 간담회는 업계 관계자 대상 행사로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고자료] 디지털의료기기·디지털융합의약품 현장 중심 정책 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789509&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156789510",
+    "posted_at_iso": "2026-11-17T01:36:15.245337+00:00",
+    "priority": "하",
+    "reason": "바이오의약품 품질관리 워크숍은 전문가 대상 산업 행사라 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고자료] 식약처, AI 기반 바이오의약품 품질관리 최신 동향 워크숍 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789510&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156789515",
+    "posted_at_iso": "2026-11-17T01:36:15.245344+00:00",
+    "priority": "하",
+    "reason": "감염병예방법 시행령 개정 공포 알림으로 구체 개정 내용이 드러나지 않아 학교 방역과의 연결을 단정할 수 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "「감염병예방법 시행령 및 시행규칙」 일부개정령안 공포·시행(11.17.화)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789515&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "외교부",
+    "entities": [
+      "김진아",
+      "팍스 실리카 리트리트"
+    ],
+    "item_id": "korea-kr-156789507",
+    "posted_at_iso": "2026-11-17T01:36:15.245351+00:00",
+    "priority": "하",
+    "reason": "외교 차관급 양자 면담과 국제회의 참석 동정으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "김진아 외교부 2차관, 美 국무부 경제차관 면담 및 「팍스 실리카 리트리트」 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789507&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "외교부",
+    "entities": [
+      "김진아",
+      "카타르"
+    ],
+    "item_id": "korea-kr-156789529",
+    "posted_at_iso": "2026-11-17T01:36:15.245358+00:00",
+    "priority": "하",
+    "reason": "외교 차관급 양자 면담으로 통상 실무 동정이라 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "김진아 외교부 2차관, 카타르 통상 담당 국무장관 면담(11.16.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789529&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부",
+      "틱톡"
+    ],
+    "item_id": "korea-kr-156789528",
+    "posted_at_iso": "2026-11-17T01:36:15.245364+00:00",
+    "priority": "하",
+    "reason": "독립유공자 기억 캠페인 홍보성 보도자료로 또래의 규칙이나 관심 사안으로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "보훈부, 틱톡과 독립유공자 기억 캠페인 전개",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789528&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156789531",
+    "posted_at_iso": "2026-11-17T01:36:15.245370+00:00",
+    "priority": "하",
+    "reason": "특정 지역 주민 대상 산불 단속·화목보일러 점검 활동으로 또래 일상과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 선제적 산불 예방 계도·단속 및 화목보일러 안전 점검 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789531&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "문화체육관광부",
+    "entities": [
+      "이천선수촌"
+    ],
+    "item_id": "korea-kr-156789511",
+    "posted_at_iso": "2026-11-17T01:36:15.245377+00:00",
+    "priority": "하",
+    "reason": "이천선수촌 장애인체육 시설 홍보는 엘리트 선수 양성 시설 이야기로 일반 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "이천선수촌에서 장애인체육의 미래 키운다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789511&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156789516",
+    "posted_at_iso": "2026-11-17T01:36:15.245384+00:00",
+    "priority": "하",
+    "reason": "AI 시대 고용노동정책 의견수렴은 성인 노동시장 대상 정책으로 청소년과 직결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "인공지능(AI) 시대 고용노동정책,  국민이 질문한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789516&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "정읍국유림관리소"
+    ],
+    "item_id": "korea-kr-156789526",
+    "posted_at_iso": "2026-11-17T01:36:15.245390+00:00",
+    "priority": "하",
+    "reason": "특정 지역 농경지 대상 드론 산불예방 방송으로 또래 일상과 거리가 멀다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "정읍국유림관리소, \"드론 활용\" 산불예방 가두방송 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789526&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156789517",
+    "posted_at_iso": "2026-11-17T01:36:15.245396+00:00",
+    "priority": "하",
+    "reason": "민관공동비축을 통한 공급망 대응은 산업·통상 실무 정책으로 성인·기업 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 민관공동비축 사업 활성화로 글로벌 공급망 위기 대응 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789517&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "중부지방산림청"
+    ],
+    "item_id": "korea-kr-156789519",
+    "posted_at_iso": "2026-11-17T01:36:15.245403+00:00",
+    "priority": "하",
+    "reason": "산불소화시설 현장점검은 산림청 자체 행정활동으로 알맹이가 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "중부지방산림청, 산불소화시설 현장점검 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789519&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "국가유산청",
+    "entities": [
+      "국립무형유산원"
+    ],
+    "item_id": "korea-kr-156789523",
+    "posted_at_iso": "2026-11-17T01:36:15.245409+00:00",
+    "priority": "하",
+    "reason": "전통예능 거장 공연 행사로 성인 명인 중심 문화행사이고 학생 참여 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "한 시대를 이룬 5인의 전통예능 거장, 마침내 하나의 울림이 되다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789523&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "국가유산청",
+    "entities": [
+      "국립문화유산연구원"
+    ],
+    "item_id": "korea-kr-156789521",
+    "posted_at_iso": "2026-11-17T01:36:15.245415+00:00",
+    "priority": "하",
+    "reason": "전통 단청 안료 분석 연구자료집으로 전문 연구 영역이라 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가유산청)",
+    "title": "현미경으로 들여다본 전통 단청 속에서 옛 채색기술의 흔적을 찾다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789521&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156789532",
+    "posted_at_iso": "2026-11-17T01:36:15.245421+00:00",
+    "priority": "하",
+    "reason": "희귀질환 환자를 위한 교육영상 제작 홍보로 청소년이 직접 등장하지 않는 성인 대상 사업이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "환자와 함께 만든 희귀질환 교육영상 10편… KTX·온라인으로 만난다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789532&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
