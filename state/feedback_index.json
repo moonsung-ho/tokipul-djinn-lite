@@ -67668,5 +67668,433 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789532&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-17",
+    "dept": "민주시민교육과",
+    "entities": [
+      "학생인권종합계획",
+      "학생인권조례"
+    ],
+    "item_id": "sen-notice-20261117104500353",
+    "message_ts": "1794898906.755479",
+    "posted_at_iso": "2026-11-17T07:01:46.938376+00:00",
+    "priority": "상",
+    "reason": "학생인권조례에 근거한 제4기 학생인권종합계획(안)은 학생 권리에 직접 닿는 정책으로 의견 제출 단계에서부터 취재 각도가 보인다",
+    "source": "서울시교육청 공지사항",
+    "title": "제4기 학생인권종합계획(2027~2029)(안)에 대한 서울교육공동체 의견 제출 안내",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261117104500353",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-17",
+    "dept": "특수교육과",
+    "entities": [
+      "서울긍정적행동지원",
+      "특수교육과"
+    ],
+    "item_id": "sen-notice-20261117155740829",
+    "message_ts": "1794898906.987469",
+    "posted_at_iso": "2026-11-17T07:01:47.265638+00:00",
+    "priority": "중",
+    "reason": "특수교육대상학생·정서행동위기 학생 지원 확대와 관련되지만 채용 공고 자체는 절차성이 강해 바로 취재 각도가 좁다",
+    "source": "서울시교육청 공지사항",
+    "title": "2027년 서울특별시교육청 행동중재전문관 채용 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261117155740829",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "호원대"
+    ],
+    "item_id": "korea-kr-156789617",
+    "posted_at_iso": "2026-11-17T07:01:47.265663+00:00",
+    "priority": "하",
+    "reason": "대학 K-Pop학과 대상 공공외교 간담회로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "\"한국과 세계를 연결하는 K-Pop\" 외교부, 미래 공공외교 주역들과 만남",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789617&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156789600",
+    "posted_at_iso": "2026-11-17T07:01:47.265673+00:00",
+    "priority": "하",
+    "reason": "초광역특구법 관련 성인 노동 사회적 대화 실무협의체로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 「(약칭) 초광역특구법 관련 원포인트 사회적 대화」제9차 실무협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789600&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "교육부",
+    "entities": [
+      "고등교육법"
+    ],
+    "item_id": "korea-kr-156789588",
+    "posted_at_iso": "2026-11-17T07:01:47.265682+00:00",
+    "priority": "하",
+    "reason": "고등교육기관(대학) 평가인증 관련 시행령 개정으로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "「고등교육기관의 평가·인증 등에 관한 규정」 및 「고등교육법 시행령」 일부개정령안 국무회의 통과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789588&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156789581",
+    "posted_at_iso": "2026-11-17T07:01:47.265697+00:00",
+    "priority": "하",
+    "reason": "국가지식정보 활용 방안 논의는 행정 실무 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 인공지능 시대 국가지식정보 활용 혁신 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789581&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "구미국유림관리소"
+    ],
+    "item_id": "korea-kr-156789614",
+    "posted_at_iso": "2026-11-17T07:01:47.265706+00:00",
+    "priority": "하",
+    "reason": "임업인 대상 현장 간담회로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "구미국유림관리소, 산양삼 재배 현장 찾아 임업인 애로 청취",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789614&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "통일부",
+    "entities": [
+      "국립평화통일민주교육원",
+      "통일부"
+    ],
+    "item_id": "korea-kr-156789599",
+    "posted_at_iso": "2026-11-17T07:01:47.265714+00:00",
+    "priority": "하",
+    "reason": "해외 전문가 특강·세미나는 성인 대상 통일교육 행사로 또래와 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "국립평화통일민주교육원,  해외 전문가 특강 및 세미나 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789599&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156789602",
+    "posted_at_iso": "2026-11-17T07:01:47.265721+00:00",
+    "priority": "하",
+    "reason": "방송미디어 AI 전환 세미나는 실제 처분이 아닌 개최 안내 수준이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "방송미디어 산업 인공지능 전환 세미나 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789602&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156789610",
+    "posted_at_iso": "2026-11-17T07:01:47.265728+00:00",
+    "priority": "하",
+    "reason": "소나무재선충병 방제 현장의 작업자 안전 점검으로 학생 안전이나 또래 관심사와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청장, 소나무재선충병 피해목 방제 현장 안전 점검 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789610&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "문화체육관광부",
+    "entities": [
+      "문화체육관광부"
+    ],
+    "item_id": "korea-kr-156789592",
+    "posted_at_iso": "2026-11-17T07:01:47.265735+00:00",
+    "priority": "하",
+    "reason": "방한 관광객 2천만 명 기념행사로 또래 일상과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(문화체육관광부)",
+    "title": "사상 첫 '방한 관광 2천만 명 시대' 개막… '대체불가 관광대국 대한민국' 향해 민·관·정 뜻 모아",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789592&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "양산국유림관리소"
+    ],
+    "item_id": "korea-kr-156789612",
+    "posted_at_iso": "2026-11-17T07:01:47.265742+00:00",
+    "priority": "하",
+    "reason": "규제합리화 현장지원센터 운영은 행정 실무성 공고로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청 양산국유림관리소, 규제합리화 현장지원센터 운영",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789612&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156789597",
+    "posted_at_iso": "2026-11-17T07:01:47.265749+00:00",
+    "priority": "하",
+    "reason": "재선충병 확산 차단 회의는 행정 중간보고회 수준으로 또래 연결이 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 재선충병 확산 차단 및 중요 소나무 숲 보호 기반 마련을 위한 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789597&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "SK임업"
+    ],
+    "item_id": "korea-kr-156789616",
+    "posted_at_iso": "2026-11-17T07:01:47.265755+00:00",
+    "priority": "하",
+    "reason": "기업림 산림OECM 등록 업무협약으로 학생 당사자성도 사회적 관심사도 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청·SK임업, 기업림 최초 산림OECM 등록 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789616&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156789593",
+    "posted_at_iso": "2026-11-17T07:01:47.265762+00:00",
+    "priority": "하",
+    "reason": "새만금 마이스 유치 홍보 행사로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청, 코리아 마이스 엑스포 참가해 새만금 마이스 유치·홍보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789593&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "관세청",
+    "entities": [
+      "관세청",
+      "관세국경인재개발원"
+    ],
+    "item_id": "korea-kr-156789595",
+    "posted_at_iso": "2026-11-17T07:01:47.265770+00:00",
+    "priority": "하",
+    "reason": "해외 세관공무원 대상 연수회로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "아·태 및 아프리카 세관공무원, 한국 관세행정 배운다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789595&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "외교부",
+    "entities": [
+      "페루",
+      "엘니뇨",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156789618",
+    "posted_at_iso": "2026-11-17T07:01:47.265777+00:00",
+    "priority": "하",
+    "reason": "해외 재난 인도적 지원이지만 또래의 일상이나 국내 상황과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "정부, 페루 엘니뇨 피해 대비 인도적 지원 제공",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789618&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "외교부",
+    "entities": [
+      "FEALAC",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156789606",
+    "posted_at_iso": "2026-11-17T07:01:47.265785+00:00",
+    "priority": "하",
+    "reason": "청년 민간외교관 활동은 성인 청년 대상 프로그램 마무리 행사로 중학생과 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제8기 FEALAC 국민대표단, 청년 민간외교관 활동 성황리에 마무리",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789606&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156789590",
+    "posted_at_iso": "2026-11-17T07:01:47.265791+00:00",
+    "priority": "하",
+    "reason": "중앙지방정책협의회 개최는 지자체 행정 협의로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "중앙·지방이 함께 국민의 목소리를 정책에 반영, 2026년 제8회 중앙지방정책협의회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789590&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156789608",
+    "posted_at_iso": "2026-11-17T07:01:47.265798+00:00",
+    "priority": "하",
+    "reason": "반도체 검사 기술 관련 산업현장 방문으로 성인·기업 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처, 반도체 검사 핵심기술 경쟁력 강화를 위해 산업현장 찾는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789608&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "폴리텍대학"
+    ],
+    "item_id": "korea-kr-156789591",
+    "posted_at_iso": "2026-11-17T07:01:47.265805+00:00",
+    "priority": "하",
+    "reason": "폴리텍대학 뿌리산업센터 개소는 성인 고용 정책이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "폴리텍대학, 뿌리산업 빈 일자리 해결을 위해 네 번째 뿌리산업센터 개소",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789591&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156789607",
+    "posted_at_iso": "2026-11-17T07:01:47.265812+00:00",
+    "priority": "하",
+    "reason": "위조 브랜드 단속 협력으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "해외 '가짜 K-브랜드', 정부가 기업과 함께 막는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789607&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
