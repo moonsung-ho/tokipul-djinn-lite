@@ -68431,5 +68431,124 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789637&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-17&endDate=2026-11-17&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-17",
+    "dept": "민주시민교육과",
+    "entities": [
+      "학생인권종합계획",
+      "학생인권조례"
+    ],
+    "item_id": "sen-notice-20261117214427586",
+    "message_ts": "1794944312.982859",
+    "posted_at_iso": "2026-11-17T19:38:33.158917+00:00",
+    "priority": "상",
+    "reason": "학생인권조례에 근거한 제4기 학생인권종합계획 수립 토론회로 학생이 직접 참여 대상에 포함된다.",
+    "source": "서울시교육청 공지사항",
+    "title": "제4기 학생인권종합계획(2027~2029) 수립을 위한 서울교육공동체 토론회 참여 및 사전등록 안내",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261117214427586",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156789669",
+    "posted_at_iso": "2026-11-17T19:38:33.158943+00:00",
+    "priority": "하",
+    "reason": "부처 내부 행정 우수사례 선정으로 또래와 연결되는 내용이 없는 절차성 발표다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 제4회 적극 행정 우수사례 7건 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789669&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "김성환",
+      "유엔기후변화총회"
+    ],
+    "item_id": "korea-kr-156789672",
+    "posted_at_iso": "2026-11-17T19:38:33.158952+00:00",
+    "priority": "하",
+    "reason": "유엔기후변화 총회에서의 외교적 강조 발언으로 구체적 정책 변화나 또래와 연결되는 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "김성환 장관, 유엔기후변화 총회에서 한국형 녹색대전환 기반 지구적 협력 확대 강조",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789672&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156789667",
+    "posted_at_iso": "2026-11-17T19:38:33.158960+00:00",
+    "priority": "하",
+    "reason": "고병원성 AI 방역상황 점검회의 개최로 농가 대상 행정 절차이며 학교 급식 등 학생과의 구체적 연결이 언급되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부, 겨울철 고병원성 AI 예방을 위한 방역상황점검회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789667&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "동대문구정신건강복지센터"
+    ],
+    "item_id": "korea-kr-156789671",
+    "posted_at_iso": "2026-11-17T19:38:33.158967+00:00",
+    "priority": "하",
+    "reason": "중장년 남성 대상 산림치유 프로그램으로 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림치유로 중장년 남성 '사회적 고립' 해소 효과 확인 - 국립산림과학원, 동대문구정신건강복지센터와 연계 시범 운영 결과, 참여자 63.6% 대인관계·정서적 활력 개선",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789671&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-17",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "유엔기후변화총회",
+      "파리협정"
+    ],
+    "item_id": "korea-kr-156789668",
+    "posted_at_iso": "2026-11-17T19:38:33.158974+00:00",
+    "priority": "하",
+    "reason": "한·호주 간 외교적 협력 제시 보도자료로 구체적 정책 내용이나 또래와의 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "한·호주, 유엔기후변화 총회에서 탈탄소 협력 모범사례 제시… 파리협정 이행 선도",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789668&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
