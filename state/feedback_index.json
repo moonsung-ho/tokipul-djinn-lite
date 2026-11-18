@@ -68939,5 +68939,393 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789707&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156789737",
+    "posted_at_iso": "2026-11-18T06:25:30.597464+00:00",
+    "priority": "하",
+    "reason": "공직자 대상 국제 인사행정 학술회의로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "\"공직사회, 새로운 업무 방식 보장하는 지도자 필요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789737&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "고용노동부",
+    "entities": [
+      "한국기술교육대학교",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156789759",
+    "posted_at_iso": "2026-11-18T06:25:30.597490+00:00",
+    "priority": "하",
+    "reason": "대학 개교 기념 포럼으로 대상이 대학·성인이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"인공지능(AI) 시대 직업훈련의 미래는?\" 한국기술교육대,  개교 35주년 고용·평생직업능력개발  발전 전략 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789759&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "산림청"
+    ],
+    "item_id": "korea-kr-156789752",
+    "posted_at_iso": "2026-11-18T06:25:30.597496+00:00",
+    "priority": "하",
+    "reason": "송이버섯 인공재배 기술 성과는 전문 임업 연구로 또래 관심사와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "'송이 감염묘 기술'로 인공 재배 송이버섯 10년 연속 수확 성공 - 국립산림과학원, 송이 감염묘 기술 안정성 입증...고성 산불피해지도 4년 연속 결실",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789752&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "고용노동부",
+    "entities": [
+      "빙그레",
+      "한국산업인력공단"
+    ],
+    "item_id": "korea-kr-156789755",
+    "posted_at_iso": "2026-11-18T06:25:30.597500+00:00",
+    "priority": "하",
+    "reason": "기업 사업주훈련 경진대회 수상은 성인 기업 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "< 2026년 사업주훈련 우수사례 경진대회 > '빙그레' 대·중견기업 부문 대상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789755&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "국토교통부",
+    "entities": [
+      "새만금국제공항",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789767",
+    "posted_at_iso": "2026-11-18T06:25:30.597504+00:00",
+    "priority": "하",
+    "reason": "공항개발 행정소송 판결로 청소년 일상이나 권리와 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] '새만금국제공항 개발사업 기본계획 취소소송' 항소심 판결 관련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789767&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "국가보훈부",
+    "entities": [
+      "강윤진",
+      "독립기념관",
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156789766",
+    "posted_at_iso": "2026-11-18T06:25:30.597508+00:00",
+    "priority": "하",
+    "reason": "차관 현장 점검 동정 기사로 기사감이 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "강윤진 국가보훈부 차관， 독립기념관 기능개혁 추진상황 점검 및 현장 소통",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789766&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "고용노동부",
+    "entities": [
+      "건설근로자공제회",
+      "SK"
+    ],
+    "item_id": "korea-kr-156789754",
+    "posted_at_iso": "2026-11-18T06:25:30.597511+00:00",
+    "priority": "하",
+    "reason": "건설현장 방문은 성인 근로자 노동 현안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "건설근로자공제회, SK 용인 반도체 클러스터 건설현장 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789754&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156789758",
+    "posted_at_iso": "2026-11-18T06:25:30.597522+00:00",
+    "priority": "하",
+    "reason": "불법사금융 단속 성과는 성인 경제범죄 수사 실적으로 또래와 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰청, '26년 불법사금융 특별단속 성과 및 분석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789758&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156789761",
+    "posted_at_iso": "2026-11-18T06:25:30.597528+00:00",
+    "priority": "하",
+    "reason": "국유림 대부·사용허가 갱신 안내는 성인 임업 종사자 대상 행정서비스다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국유림 대부·사용허가 갱신, 이제 '모바일메시지'로 안내받는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789761&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "고용노동부",
+    "entities": [
+      "근로복지공단"
+    ],
+    "item_id": "korea-kr-156789756",
+    "posted_at_iso": "2026-11-18T06:25:30.597532+00:00",
+    "priority": "하",
+    "reason": "공공기관의 AI 윤리 인증 획득은 내부 성과 홍보로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "근로복지공단,  '인공지능(AI) 윤리준수기관 확인마크' 획득",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789756&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "한수원"
+    ],
+    "item_id": "korea-kr-156789750",
+    "posted_at_iso": "2026-11-18T06:25:30.597535+00:00",
+    "priority": "하",
+    "reason": "한수원 추진계획 점검회의는 성인 행정 실무 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "산업부, 차관 주재 「한수원 추진계획 점검회의」 2차 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789750&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156789774",
+    "posted_at_iso": "2026-11-18T06:25:30.597539+00:00",
+    "priority": "하",
+    "reason": "크루즈 관광 활성화 TF는 성인 대상 지역경제 정책으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청, 새만금 크루즈 활성화 TF회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789774&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청",
+      "트래블쇼 2026"
+    ],
+    "item_id": "korea-kr-156789772",
+    "posted_at_iso": "2026-11-18T06:25:30.597543+00:00",
+    "priority": "하",
+    "reason": "관광박람회 수상 홍보성 보도자료로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금청, 트래블쇼 2026 관람객 참여 최우수상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789772&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156789770",
+    "posted_at_iso": "2026-11-18T06:25:30.597546+00:00",
+    "priority": "하",
+    "reason": "행정안전부 내부 성과 포상 행사로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "여름철 재난 선제적 대응, 지방세 체납액 감소, 주민등록증 진위확인 서비스 확대 등 특별성과 포상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789770&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "박은식",
+      "속리산말티재자연휴양림"
+    ],
+    "item_id": "korea-kr-156789764",
+    "posted_at_iso": "2026-11-18T06:25:30.597550+00:00",
+    "priority": "하",
+    "reason": "산림청장의 숲가꾸기 행사 참여 홍보성 기사로 또래 이슈가 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "오늘 가꾸는 숲, 미래를 지키는 건강한 숲으로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789764&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156789768",
+    "posted_at_iso": "2026-11-18T06:25:30.597553+00:00",
+    "priority": "하",
+    "reason": "우주수송 역량 관련 전문가 토론회로 실제 처분이나 성과가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "우주 주권 시대 우주수송 역량 확대 필요성 토론회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789768&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156789749",
+    "posted_at_iso": "2026-11-18T06:25:30.597557+00:00",
+    "priority": "하",
+    "reason": "전기장판·전기난로 안전사용 안내는 일반 국민 대상 반복성 캠페인으로 또래를 특정해 다룰 각도가 약하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "전기장판·전기난로 안전사용 하세요!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789749&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156789753",
+    "posted_at_iso": "2026-11-18T06:25:30.597560+00:00",
+    "priority": "하",
+    "reason": "외교관 대상 시상식으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제14회 해오(海吾) 외교관상 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789753&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789762",
+    "posted_at_iso": "2026-11-18T06:25:30.597563+00:00",
+    "priority": "하",
+    "reason": "제약산업 민관협의체는 산업계·성인 대상 정책 논의다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "제약산업 혁신 민？관협의체 열고 국내개발신약 개발 촉진 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789762&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "폴리텍"
+    ],
+    "item_id": "korea-kr-156789765",
+    "posted_at_iso": "2026-11-18T06:25:30.597567+00:00",
+    "priority": "하",
+    "reason": "지역 기업 실무인력 양성용 AI 테스트베드로 대상이 성인 근로자다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "피지컬 인공지능(AI) 테스트베드 4곳 개소,지역 기업에 개방하여 실무인력 양성에 활용",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789765&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
