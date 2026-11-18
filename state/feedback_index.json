@@ -69683,5 +69683,89 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789780&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-18&endDate=2026-11-18&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-18",
+    "dept": "국무조정실",
+    "entities": [
+      "수능"
+    ],
+    "item_id": "korea-kr-156789826",
+    "message_ts": "1795032035.997209",
+    "posted_at_iso": "2026-11-18T20:00:36.321035+00:00",
+    "priority": "상",
+    "reason": "수능은 지금 중학생이 장차 치를 입시 제도이고 부정행위 대응은 시험 공정성에 직결되는 당사자 사안이다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] \"수능 부정행위, 결코 용납하지 않겠습니다.\" 범정부, 모든 역량 총동원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789826&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-18",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "12·29여객기참사",
+      "추모위원회"
+    ],
+    "item_id": "korea-kr-156789825",
+    "message_ts": "1795032036.417229",
+    "posted_at_iso": "2026-11-18T20:00:36.686939+00:00",
+    "priority": "상",
+    "reason": "12·29 여객기참사는 전 국민적 재난이며 또래가 알아야 할 안전·추모 사안으로 관심사 관점에서 가치가 높다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 제6차 12·29여객기참사 피해자 지원 및 희생자 추모위원회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789825&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-18",
+    "dept": "국토교통부",
+    "entities": [
+      "한성숙",
+      "12·29여객기참사",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789824",
+    "message_ts": "1795032036.775499",
+    "posted_at_iso": "2026-11-18T20:00:37.102501+00:00",
+    "priority": "상",
+    "reason": "동일한 12·29 여객기참사 추모위원회 관련 보도로, 본문은 비어있지만 재난 후속 대응으로 또래가 알아야 할 사안이다",
+    "source": "정책브리핑(국토교통부)",
+    "title": "한성숙 국무총리,  제6차 12·29 여객기참사 지원·추모위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789824&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-18",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "경기도"
+    ],
+    "item_id": "korea-kr-156789827",
+    "posted_at_iso": "2026-11-18T20:00:37.102532+00:00",
+    "priority": "하",
+    "reason": "경기도권 주택공급 정책은 성인 대상 부동산 정책으로 청소년의 일상이나 권리와 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 주택공급 활성화를 위한 경기도권 지자체장 만찬간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789827&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
