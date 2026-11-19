@@ -70133,5 +70133,396 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789846&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789920",
+    "message_ts": "1795069589.930199",
+    "posted_at_iso": "2026-11-19T06:26:30.100302+00:00",
+    "priority": "상",
+    "reason": "당뇨병 학생 의료물품 구입비 지원이 포함된 지역 맞춤 복지 우수사례로 학생 복지에 직접 닿는다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "당뇨병 학생 의료물품 구입비부터 은둔 청년 사회 복귀까지... 지역 맞춤 복지 설계 우수사례 공유",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789920&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789909",
+    "message_ts": "1795069590.155829",
+    "posted_at_iso": "2026-11-19T06:26:30.352960+00:00",
+    "priority": "중",
+    "reason": "아동학대 예방 캠페인은 학생 안전·인권과 연결되나 양육자 대상 행사라 간접적이다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "'함께 지키는 긍정양육'이 아동학대 없는 세상을 만듭니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789909&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원"
+    ],
+    "item_id": "korea-kr-156789927",
+    "message_ts": "1795069590.790329",
+    "posted_at_iso": "2026-11-19T06:26:30.984390+00:00",
+    "priority": "중",
+    "reason": "국립산림과학원의 이끼유전자원 연구는 도시녹화·산림복원 기술 성과로 과학 관심사에 해당하나 전문적 내용이다",
+    "source": "정책브리핑(산림청)",
+    "title": "국내 자생 이끼 82종 수집·특성 분석...'이끼유전자원은행' 구축 - 국립산림과학원, 보수력 뛰어난 우수 종 선발해 도시녹화 및 산림 복원 기술 개발 박차",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789927&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부",
+      "부전마산 복선전철",
+      "낙동1터널"
+    ],
+    "item_id": "korea-kr-156789908",
+    "message_ts": "1795069591.035909",
+    "posted_at_iso": "2026-11-19T06:26:31.218175+00:00",
+    "priority": "중",
+    "reason": "건설사고 조사결과는 공공 안전 이슈로 관심사에 해당하나 지역 공사 현장 사안이라 또래와 직접 연결은 약하다",
+    "source": "정책브리핑(국토교통부)",
+    "title": "부전마산 복선전철 낙동1터널 붕괴사고 건설사고조사위원회 조사결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789908&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156789925",
+    "message_ts": "1795069591.548089",
+    "posted_at_iso": "2026-11-19T06:26:31.755983+00:00",
+    "priority": "중",
+    "reason": "기후변화 대응 국제 산불협력은 기후·환경 관심사이나 구체적 각도가 약하다",
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 기후변화 대응 위한 국제 산불협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789925&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "정책기획관",
+    "entities": [
+      "공약평가단"
+    ],
+    "item_id": "sen-notice-20261119135821646",
+    "message_ts": "1795069591.801779",
+    "posted_at_iso": "2026-11-19T06:26:31.975626+00:00",
+    "priority": "중",
+    "reason": "학생도 참여 대상으로 명시된 교육감 공약평가단 모집으로 학생 참여 교육정책 활동이지만 모집 공고 자체는 간접적이다",
+    "source": "서울시교육청 공지사항",
+    "title": "제24대 교육감 제1기 공약평가단 공개모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261119135821646",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789919",
+    "posted_at_iso": "2026-11-19T06:26:31.975651+00:00",
+    "priority": "하",
+    "reason": "노인·성인 대상 지역사회 통합돌봄 전문가 의견수렴으로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "\"살던 곳에서 누리는 돌봄\", '지역사회 통합돌봄' 발전 위해 전문가 의견 듣는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789919&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "창원"
+    ],
+    "item_id": "korea-kr-156789914",
+    "posted_at_iso": "2026-11-19T06:26:31.975661+00:00",
+    "priority": "하",
+    "reason": "창원 지역 청년(성인) 대상 소통 행사로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "\"청년들의 고민, 함께 나누면 답이 보인다\" 창원 지역 청년들, '달리는 국민신문고'에 모여",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789914&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156789930",
+    "posted_at_iso": "2026-11-19T06:26:31.975668+00:00",
+    "priority": "하",
+    "reason": "사이버도박 조직 수사 결과로 청소년 연계가 문서에 드러나지 않아 억지로 잇지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "'26년 사이버도박 집중단속으로 6,310명 검거 도박사이트 제작·공급 조직까지 수사",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789930&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789931",
+    "posted_at_iso": "2026-11-19T06:26:31.975688+00:00",
+    "priority": "하",
+    "reason": "차관의 제설대책 현장 동정으로 고위직 동정 성격의 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 정의경 제2차관, \"제설대책기간 돌입… 무·진·장 산간권 제설 대응 빈틈없이\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789931&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156789913",
+    "posted_at_iso": "2026-11-19T06:26:31.975695+00:00",
+    "priority": "하",
+    "reason": "공공 AI 한중 협력 행사로 학생과 무관한 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "공공 AI 대전환의 미래, 한중이 함께 그린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789913&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156789916",
+    "posted_at_iso": "2026-11-19T06:26:31.975701+00:00",
+    "priority": "하",
+    "reason": "성인 노동시간·일터혁신 포럼으로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "노동시간 변화로 그리는 일터혁신",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789916&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "산업통상부"
+    ],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789929",
+    "posted_at_iso": "2026-11-19T06:26:31.975707+00:00",
+    "priority": "하",
+    "reason": "국가 수출 실적 성과 보도자료로 행정 실무 지표 성격이라 또래 일상과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "대한민국 수출 1조 달러 돌파, 기업이 뛰고 국민이 함께 이룬 성과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789929&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "해양수산부",
+    "entities": [
+      "해양수산부"
+    ],
+    "item_id": "korea-kr-156789923",
+    "posted_at_iso": "2026-11-19T06:26:31.975715+00:00",
+    "priority": "하",
+    "reason": "수산물 수출 실적 성과로 경제 지표 보도자료이며 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(해양수산부)",
+    "title": "대한민국 수출 1조 달러 시대 개막, K-씨푸드도 최대 실적으로 힘 보탠다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789923&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156789907",
+    "posted_at_iso": "2026-11-19T06:26:31.975721+00:00",
+    "priority": "하",
+    "reason": "만성질환 전문인력 교육 평가대회로 성인 전문인력 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "만성질환 전문인력 양성 교육 통합 최종평가대회 개최(11.19.목)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789907&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "생명의숲"
+    ],
+    "item_id": "korea-kr-156789922",
+    "posted_at_iso": "2026-11-19T06:26:31.975727+00:00",
+    "priority": "하",
+    "reason": "민간단체와의 산림생물다양성 협력사업으로 학생 연계가 드러나지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 생명의숲과 손잡고 산림생물다양성 보전 확대",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789922&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156789910",
+    "posted_at_iso": "2026-11-19T06:26:31.975733+00:00",
+    "priority": "하",
+    "reason": "자살유족 대상 행사로 청소년 정신건강 주제와 유사하나 대상이 유족이라 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "얘기하고, 기억하고, 함께하는 2026 세계 자살유족의 날 행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789910&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156789915",
+    "posted_at_iso": "2026-11-19T06:26:31.975739+00:00",
+    "priority": "하",
+    "reason": "기업 채용문화 시상식으로 성인 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "역량으로 평가하고, 채용과정은 투명하게!   2026년 '채용문화 우수기업 어워즈' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789915&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "산림청",
+    "entities": [
+      "영암국유림관리소",
+      "장흥군"
+    ],
+    "item_id": "korea-kr-156789934",
+    "posted_at_iso": "2026-11-19T06:26:31.975745+00:00",
+    "priority": "하",
+    "reason": "마을 주민·산림조합 대상 체험행사로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영암국유림관리소, 장흥서 숲가꾸기 체험행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789934&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "산림청",
+    "entities": [
+      "울진국유림관리소"
+    ],
+    "item_id": "korea-kr-156789936",
+    "posted_at_iso": "2026-11-19T06:26:31.975753+00:00",
+    "priority": "하",
+    "reason": "직원 대상 숲가꾸기 체험행사로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소, 숲의 가치를 드높이다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789936&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
