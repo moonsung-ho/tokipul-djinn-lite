@@ -70901,5 +70901,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789966&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "국토교통부",
+    "entities": [
+      "정의경",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789971",
+    "posted_at_iso": "2026-11-19T18:52:37.879156+00:00",
+    "priority": "하",
+    "reason": "철도파업 대비를 강조하는 차관 동정성 발언으로 실제 정책 변화나 학생 일상과의 직접 연결이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789971&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
