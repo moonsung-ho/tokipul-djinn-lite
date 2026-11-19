@@ -69767,5 +69767,371 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789827&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-19",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156789843",
+    "message_ts": "1795052893.402559",
+    "posted_at_iso": "2026-11-19T01:48:13.835145+00:00",
+    "priority": "중",
+    "reason": "비만치료제 온라인 불법판매 단속은 또래도 노출될 수 있는 약물 안전 이슈로 관심사 관점에서 의미가 있다",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처, GLP-1 계열 비만치료제 온라인 불법판매 등 집중 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789843&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789864",
+    "posted_at_iso": "2026-11-19T01:48:13.835173+00:00",
+    "priority": "하",
+    "reason": "세계 기업가정신 주간 행사는 창업가·성인 대상 행사로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "\"실패의 자산으로 AI 시대를 열다\" 2026년 세계 기업가정신 주간 한국행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789864&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "고용노동부",
+    "entities": [
+      "익산지청"
+    ],
+    "item_id": "korea-kr-156789867",
+    "posted_at_iso": "2026-11-19T01:48:13.835183+00:00",
+    "priority": "하",
+    "reason": "고소작업대 위법개조 적발은 산업 현장 안전 사안으로 성인 노동자 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 고소작업대 과부하방지장치(AML) '위법 개조' A제조업체 적발(익산지청)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789867&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789863",
+    "posted_at_iso": "2026-11-19T01:48:13.835192+00:00",
+    "priority": "하",
+    "reason": "벤처투자 실적 통계는 행정 실무 지표로 사회상을 보여주는 전국 통계가 아니다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "2026년 1~3분기 벤처투자 및  벤처펀드 결성 역대 최대 실적 달성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789863&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "육군본부"
+    ],
+    "item_id": "korea-kr-156789856",
+    "posted_at_iso": "2026-11-19T01:48:13.835200+00:00",
+    "priority": "하",
+    "reason": "마약 예방교육극의 대상이 육군 훈련병(성인)으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처？육군본부, 육군 훈련병 대상 마약 예방교육극 첫선",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789856&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156789857",
+    "posted_at_iso": "2026-11-19T01:48:13.835209+00:00",
+    "priority": "하",
+    "reason": "일본과의 데이터 이전·AI 프라이버시 국제협력은 정책 실무로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 일본과 데이터 이전 및 인공지능 프라이버시 협력 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789857&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156789853",
+    "posted_at_iso": "2026-11-19T01:48:13.835225+00:00",
+    "priority": "하",
+    "reason": "국가보훈부 내부 노사워크숍으로 기관 내부 행사일 뿐이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "국가보훈부 노사 상생워크숍 개최, 조직 발전방향 등 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789853&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156789866",
+    "posted_at_iso": "2026-11-19T01:48:13.835235+00:00",
+    "priority": "하",
+    "reason": "기업 기술보호 지원 사업으로 대상이 성인 기업이며 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "기업의 기술보호, 진단부터 예방·대응까지 한눈에!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789866&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "고용노동부",
+    "entities": [
+      "노사발전재단"
+    ],
+    "item_id": "korea-kr-156789868",
+    "posted_at_iso": "2026-11-19T01:48:13.835244+00:00",
+    "priority": "하",
+    "reason": "한·일 노동시간 단축 정책 심포지엄은 성인 노동시장 정책으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "노사발전재단, 한·일 실노동시간 단축 정책 심포지엄 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789868&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789845",
+    "posted_at_iso": "2026-11-19T01:48:13.835252+00:00",
+    "priority": "하",
+    "reason": "대·중소기업 AI 상생협약은 산업계 성인 대상 협력 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "대·중소기업, AI로 연결하고 상생으로 도약한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789845&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부"
+    ],
+    "item_id": "korea-kr-156789862",
+    "posted_at_iso": "2026-11-19T01:48:13.835259+00:00",
+    "priority": "하",
+    "reason": "우주 스타트업의 전시회 참가는 기업 홍보성 소식으로 과학 성과나 청소년 관심사로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "대한민국 우주 스타트업,  유럽 최대 우주 전시회에 함께 서다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789862&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "행정안전부"
+    ],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156789855",
+    "posted_at_iso": "2026-11-19T01:48:13.835267+00:00",
+    "priority": "하",
+    "reason": "범정부 역량 결집 행사로 구체적 내용이 드러나지 않는 절차성 발표다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "모두의 성장으로 대전환을 위해 전 부처 역량 결집",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789855&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156789860",
+    "posted_at_iso": "2026-11-19T01:48:13.835275+00:00",
+    "priority": "하",
+    "reason": "용역분야 입찰동향 공고는 절차성 정보로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청 용역분야('26.11. 23.~'26. 11. 30.) 입찰동향",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789860&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "조달청",
+    "entities": [
+      "조달청"
+    ],
+    "item_id": "korea-kr-156789861",
+    "posted_at_iso": "2026-11-19T01:48:13.835282+00:00",
+    "priority": "하",
+    "reason": "공공기관 자체조달 점검은 기관 간 조달 절차 공정성 문제로 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "조달청, 공공기관 자체조달 점검으로 공정한 입찰환경 조성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789861&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부",
+      "충북 오송"
+    ],
+    "item_id": "korea-kr-156789844",
+    "posted_at_iso": "2026-11-19T01:48:13.835290+00:00",
+    "priority": "하",
+    "reason": "중소기업 혁신대전은 기업 성과 전시 행사로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중소기업의 혁신성과와 미래비전을 한자리에, '중소기업 혁신대전' 처음으로 충청권에서 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789844&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156789865",
+    "posted_at_iso": "2026-11-19T01:48:13.835297+00:00",
+    "priority": "하",
+    "reason": "캠퍼스 특허 유니버시아드는 대학생 대상 공모전으로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "특허 정보에서 찾은 산업의 미래, '2026 캠퍼스 특허 유니버시아드 시상식' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789865&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회"
+    ],
+    "item_id": "korea-kr-156789852",
+    "posted_at_iso": "2026-11-19T01:48:13.835304+00:00",
+    "priority": "하",
+    "reason": "공정위 뉴스레터 발간 홍보성 자료로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "한 해의 끝, 공정한 동행 가을겨울호와 다시 새기는 공정의 의미",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789852&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156789854",
+    "posted_at_iso": "2026-11-19T01:48:13.835312+00:00",
+    "priority": "하",
+    "reason": "항생제 내성 대응 국제 심포지엄은 전문 연구자 대상 학술행사로 또래와 직접 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "항생제 내성 대응, 인공지능·박테리오파지 등 첨단기술에서 해법 찾는다(11.18.목)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789854&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-19",
+    "dept": "방위사업청",
+    "entities": [
+      "방위사업청"
+    ],
+    "item_id": "korea-kr-156789846",
+    "posted_at_iso": "2026-11-19T01:48:13.835319+00:00",
+    "priority": "하",
+    "reason": "화생방 분야 기업과의 간담회는 성인 산업계 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "화생방 분야 기업과의 상생 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789846&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-19&endDate=2026-11-19&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
