@@ -71698,5 +71698,381 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790064&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국무조정실",
+      "수능 부정행위 대응TF"
+    ],
+    "item_id": "korea-kr-156790134",
+    "message_ts": "1795167720.898989",
+    "posted_at_iso": "2026-11-20T09:42:01.282450+00:00",
+    "priority": "상",
+    "reason": "수능 부정행위 대응은 지금 중학생이 치를 입시 공정성에 직결되는 사안이다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 수능 부정행위 대응TF 1차 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790134&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "교육부",
+    "entities": [
+      "대학별고사"
+    ],
+    "item_id": "korea-kr-156790115",
+    "message_ts": "1795167721.380179",
+    "posted_at_iso": "2026-11-20T09:42:01.749452+00:00",
+    "priority": "상",
+    "reason": "대학별고사 부정행위 대응은 입시 공정성 문제로 중학생이 치를 시험 제도에 직결된다",
+    "source": "정책브리핑(교육부)",
+    "title": "교육부, 대학별고사 관련 부정행위 대응방안 점검 및 긴급 대응체계 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790115&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "중소벤처기업부",
+      "모두의 창업"
+    ],
+    "item_id": "korea-kr-156790122",
+    "message_ts": "1795167721.842929",
+    "posted_at_iso": "2026-11-20T09:42:02.243095+00:00",
+    "priority": "중",
+    "reason": "AI 솔루션 개인정보 유출 사건으로 사회적 관심사이나 창업 참가자가 청소년 대상인지 불명확하다",
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "민간 AI 솔루션 기업 A사 개인정보 유출...유출 대상에 2차 모두의 창업 참가자 818명 포함",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790122&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "법무부",
+    "entities": [
+      "법무부"
+    ],
+    "item_id": "korea-kr-156790124",
+    "message_ts": "1795167722.337959",
+    "posted_at_iso": "2026-11-20T09:42:02.705768+00:00",
+    "priority": "중",
+    "reason": "여성폭력 근절 협의체는 사회 이슈이나 구체적 처분이 아닌 협력 선언에 그친다",
+    "source": "정책브리핑(법무부)",
+    "title": "여성폭력 근절을 위해 3부(입법부, 사법부, 행정부) 및 여성폭력 피해자 지원단체가 힘을 모았습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790124&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부",
+      "민주유공자법"
+    ],
+    "item_id": "korea-kr-156790132",
+    "message_ts": "1795167722.801929",
+    "posted_at_iso": "2026-11-20T09:42:03.163687+00:00",
+    "priority": "중",
+    "reason": "국회 본회의를 통과한 입법 사안으로 사회적 논쟁이 있어 또래가 알아둘 만한 정치 현안이다",
+    "source": "정책브리핑(국가보훈부)",
+    "title": "민주유공자법 국회 본회의 통과, 보훈부 후속조치 만전",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790132&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156790137",
+    "message_ts": "1795167723.260179",
+    "posted_at_iso": "2026-11-20T09:42:03.639537+00:00",
+    "priority": "중",
+    "reason": "겨울철 도로결빙 안전관리는 통학길 안전과 간접적으로 연결되는 재난·안전 사안이다",
+    "source": "정책브리핑(행정안전부)",
+    "title": "행정안전부 장관, 도로살얼음 취약구간 안전관리 실태 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790137&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "K-이니셔티브"
+    ],
+    "item_id": "korea-kr-156790126",
+    "posted_at_iso": "2026-11-20T09:42:03.639571+00:00",
+    "priority": "하",
+    "reason": "외교 정책 실무 관계부처 회의로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "K-이니셔티브 해외 확산을 위한 제2차 관계부처 회의 개최(11.20.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790126&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국무조정실",
+    "entities": [
+      "사회대개혁위원회"
+    ],
+    "item_id": "korea-kr-156790133",
+    "posted_at_iso": "2026-11-20T09:42:03.639582+00:00",
+    "priority": "하",
+    "reason": "추상적 국민토론회로 또래와 구체적으로 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790133&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156790108",
+    "posted_at_iso": "2026-11-20T09:42:03.639589+00:00",
+    "priority": "하",
+    "reason": "부동산 공시가격 정책은 성인 자산·세금 문제로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] '27년 부동산 공시가격 시세반영률은 전년 수준 유지",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790108&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국방부",
+    "entities": [
+      "국방부"
+    ],
+    "item_id": "korea-kr-156790131",
+    "posted_at_iso": "2026-11-20T09:42:03.639596+00:00",
+    "priority": "하",
+    "reason": "참가 대상이 불명확한 성인·전문가 대상 경진대회로 보인다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 제5회 국방 AI 경진대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790131&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국방부",
+    "entities": [
+      "국방홍보원",
+      "매일경제"
+    ],
+    "item_id": "korea-kr-156790129",
+    "posted_at_iso": "2026-11-20T09:42:03.639602+00:00",
+    "priority": "하",
+    "reason": "국방홍보원과 언론사 간 업무협약으로 토끼풀의 언론 당사자성과는 무관한 성인 기관 간 협력이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방홍보원-매일경제, 국방·안보 협력 위해 맞손",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790129&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "법제처"
+    ],
+    "item_id": "korea-kr-156790130",
+    "posted_at_iso": "2026-11-20T09:42:03.639610+00:00",
+    "priority": "하",
+    "reason": "군인 대상 헌법교육 협약으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "군인 헌법교육 강화 위한 국방부-법제처 업무협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790130&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156790125",
+    "posted_at_iso": "2026-11-20T09:42:03.639617+00:00",
+    "priority": "하",
+    "reason": "농촌 사회연대경제는 성인 농업 종사자 대상 정책으로 또래와 거리가 멀다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농식품부 장관, 현장·전문가와 함께  농촌 사회연대경제 활성화를 위한 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790125&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "배경훈",
+      "아랍에미리트"
+    ],
+    "item_id": "korea-kr-156790138",
+    "posted_at_iso": "2026-11-20T09:42:03.639624+00:00",
+    "priority": "하",
+    "reason": "장관의 외교 의전성 동정 기사로 또래 삶과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "배경훈 부총리 겸 과기정통부 장관, 아랍에미리트 건국 55주년 국경일 기념행사 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790138&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청"
+    ],
+    "item_id": "korea-kr-156790116",
+    "posted_at_iso": "2026-11-20T09:42:03.639630+00:00",
+    "priority": "하",
+    "reason": "크루즈·마이스 전문가 자문회의로 대상이 전문가에 한정된다",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금개발청, 크루즈·마이스(MICE) 전문가 초청 자문회의 및 현장 팸투어 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790116&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "일본"
+    ],
+    "item_id": "korea-kr-156790135",
+    "posted_at_iso": "2026-11-20T09:42:03.639637+00:00",
+    "priority": "하",
+    "reason": "외교 실무 국장급 협의회 결과로 알맹이가 없는 절차성 보도자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제12차 한-일 국장급 중동정책협의회 개최 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790135&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "기획예산처",
+    "entities": [
+      "기획예산처",
+      "중장기전략위원회"
+    ],
+    "item_id": "korea-kr-156790111",
+    "posted_at_iso": "2026-11-20T09:42:03.639644+00:00",
+    "priority": "하",
+    "reason": "중장기 전략 분과회의로 추상적 거버넌스 논의에 그친다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기획예산처)",
+    "title": "중장기전략위원회 미래사회전략반, 거버넌스개혁반 분과회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790111&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "행정안전부",
+    "entities": [
+      "청년희망터"
+    ],
+    "item_id": "korea-kr-156790110",
+    "posted_at_iso": "2026-11-20T09:42:03.639650+00:00",
+    "priority": "하",
+    "reason": "청년 대상 지역활성화 사업 성과보고로 중학생과 대상이 다르다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "청년의 아이디어로 지역에 새 활력을, '청년희망터' 5기 성과 한자리에",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790110&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "통일부",
+    "entities": [
+      "통일부",
+      "판문점"
+    ],
+    "item_id": "korea-kr-156790123",
+    "posted_at_iso": "2026-11-20T09:42:03.639656+00:00",
+    "priority": "하",
+    "reason": "통일부 장관의 판문점 방문은 의전성 동정으로 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "통일부 장관, 유엔군사령관과 판문점 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790123&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
