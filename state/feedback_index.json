@@ -71295,5 +71295,408 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790008&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156790073",
+    "message_ts": "1795155091.957119",
+    "posted_at_iso": "2026-11-20T06:11:32.349006+00:00",
+    "priority": "상",
+    "reason": "10년 만의 국내 콜레라 발생은 학교 급식·위생과도 맞닿는 전국적 보건안전 사안으로 또래가 알아야 한다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "국내발생 추정 콜레라 환자 10년 만에 발생, 예방수칙 준수 당부(11.20.금)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790073&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "교육부",
+    "entities": [
+      "MS",
+      "Google",
+      "AWS"
+    ],
+    "item_id": "korea-kr-156790063",
+    "message_ts": "1795155092.457969",
+    "posted_at_iso": "2026-11-20T06:11:32.923919+00:00",
+    "priority": "중",
+    "reason": "교사의 AI 교육역량 강화 연수로 간접적으로 학교 수업에 영향을 줄 수 있으나 직접 학생 규칙 변경은 아니다",
+    "source": "정책브리핑(교육부)",
+    "title": "MS·Google·AWS와 손잡고 교사의 인공지능(AI)·융합교육 역량을 키운다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790063&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-20",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156790069",
+    "message_ts": "1795155093.071669",
+    "posted_at_iso": "2026-11-20T06:11:33.489708+00:00",
+    "priority": "중",
+    "reason": "감염병 해외유입 대비 훈련은 공중보건 안전 관심사이나 실제 발생이 아닌 훈련이라 간접적이다",
+    "source": "정책브리핑(질병관리청)",
+    "title": "에볼라바이러스병 해외유입 대비, 관계기관 합동 훈련 실시(11.20.금)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790069&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790088",
+    "posted_at_iso": "2026-11-20T06:11:33.489734+00:00",
+    "priority": "하",
+    "reason": "수출 실적 홍보자료로 청소년의 권리·일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)산업부·경제 6단체, 수출 1조 달러 넘어 '질적 성장' 도약 다짐",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790088&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회",
+      "한국유통법학회"
+    ],
+    "item_id": "korea-kr-156790066",
+    "posted_at_iso": "2026-11-20T06:11:33.489753+00:00",
+    "priority": "하",
+    "reason": "학술대회 개최로 대상이 전문가·학계이며 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "2026년 공정거래위원회-한국유통법학회 공동 학술대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790066&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선"
+    ],
+    "item_id": "korea-kr-156790070",
+    "posted_at_iso": "2026-11-20T06:11:33.489762+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 발언으로 구체적 정책 내용이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 홍지선 장관, \"겨울철 국민 안전 최우선… 비상대응체계 확립\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790070&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "",
+    "entities": [
+      "제3서울창의예술교육센터"
+    ],
+    "item_id": "sen-notice-20261120140615410",
+    "posted_at_iso": "2026-11-20T06:11:33.489771+00:00",
+    "priority": "하",
+    "reason": "평가위원 후보자 모집은 절차성 공고로 학생과 직접 닿는 알맹이가 없다",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "「제3서울창의예술교육센터(구로) 프로그램 운영 전문기관 위탁용역」 관련 제안서 평가위원 후보자 공개 모집",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261120140615410",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산림청",
+    "entities": [
+      "구미국유림관리소"
+    ],
+    "item_id": "korea-kr-156790081",
+    "posted_at_iso": "2026-11-20T06:11:33.489779+00:00",
+    "priority": "하",
+    "reason": "산림사업장 근로자 안전점검으로 대상이 성인 노동자이며 학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "구미국유림관리소, 겨울철 한랭질환·안전사고 예방 '총력'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790081&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156790067",
+    "posted_at_iso": "2026-11-20T06:11:33.489788+00:00",
+    "priority": "하",
+    "reason": "연구자 대상 기초연구 행사로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "기초연구의 오늘과 미래를 잇는  ｢대한민국 기초연구 커넥트｣ 행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790067&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156790075",
+    "posted_at_iso": "2026-11-20T06:11:33.489796+00:00",
+    "priority": "하",
+    "reason": "산림교육·치유 대국민 서비스 홍보로 특정 학생층과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 산림교육과 산림치유를 통한 대국민 서비스 제공",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790075&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156790086",
+    "posted_at_iso": "2026-11-20T06:11:33.489803+00:00",
+    "priority": "하",
+    "reason": "산림보호 제도개선 공모 시상식으로 대상이 일반 국민이며 청소년과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 산림보호분야 제도개선 국민공모제 6건 시상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790086&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156790077",
+    "posted_at_iso": "2026-11-20T06:11:33.489810+00:00",
+    "priority": "하",
+    "reason": "산지관리 담당자 내부 워크숍으로 또래와 무관한 행정 실무다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 전국 산지관리 담당자 워크숍 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790077&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156790083",
+    "posted_at_iso": "2026-11-20T06:11:33.489817+00:00",
+    "priority": "하",
+    "reason": "수출 통계 홍보자료로 학생 일상이나 관심사와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "숫자로 풀어 보는 수출 1조 달러",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790083&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "고용노동부",
+    "entities": [],
+    "item_id": "korea-kr-156790079",
+    "posted_at_iso": "2026-11-20T06:11:33.489824+00:00",
+    "priority": "하",
+    "reason": "사회적기업 선정 시상으로 대상이 기업이며 청소년과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "우리 사회 따뜻한 혁신기업 12개사, 「올해의 사회적기업」 첫 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790079&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156790082",
+    "posted_at_iso": "2026-11-20T06:11:33.489832+00:00",
+    "priority": "하",
+    "reason": "자살수단 차단사업 참여기관 간담회로 대상이 일반 시설·기관이며 청소년 특정 내용이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "위기의 순간, 한 번 더 생각할 기회 제공 「2026년 자살수단 차단사업 참여기관 간담회」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790082&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "보건복지부",
+    "entities": [
+      "정은경",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790078",
+    "posted_at_iso": "2026-11-20T06:11:33.489839+00:00",
+    "priority": "하",
+    "reason": "제주 지역 성인 의료지원체계 논의로 학생과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "정은경 장관, 제주 맞춤형 의료지원체계 구축과 도내 의료격차 해소방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790078&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "보건복지부",
+    "entities": [
+      "정은경",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790065",
+    "posted_at_iso": "2026-11-20T06:11:33.489847+00:00",
+    "priority": "하",
+    "reason": "제주 일차의료 현장 의견 청취로 성인 의료정책이며 학생과 직결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "정은경 장관, 제주서 일차의료 현장 목소리 청취… \"지역 여건 반영한 실효성 있는 사업 만들 것\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790065&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "보건복지부",
+    "entities": [
+      "영마인드 링크"
+    ],
+    "item_id": "korea-kr-156790071",
+    "posted_at_iso": "2026-11-20T06:11:33.489854+00:00",
+    "priority": "하",
+    "reason": "청년(20대) 대상 정신건강 프로그램 종료 소식으로 중학생과는 대상이 다르다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "청년 시선으로 찾은 정신건강 해법 공유, 영마인드 링크LINK 3기 7개월간 활동 마무리",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790071&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "산업통상부",
+    "entities": [
+      "우루과이"
+    ],
+    "item_id": "korea-kr-156790087",
+    "posted_at_iso": "2026-11-20T06:11:33.489865+00:00",
+    "priority": "하",
+    "reason": "통상교섭본부장의 외교 면담 동정으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "통상교섭본부장, 우루과이 외교부 차관 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790087&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "통일부",
+    "entities": [
+      "미셸 박 스틸"
+    ],
+    "item_id": "korea-kr-156790084",
+    "posted_at_iso": "2026-11-20T06:11:33.489872+00:00",
+    "priority": "하",
+    "reason": "장관 외교 동정으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "통일부 장관, 미셸 박 스틸 주한 미국대사 접견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790084&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-20",
+    "dept": "경찰청",
+    "entities": [
+      "경찰대학"
+    ],
+    "item_id": "korea-kr-156790064",
+    "posted_at_iso": "2026-11-20T06:11:33.489880+00:00",
+    "priority": "하",
+    "reason": "경찰대학 졸업식 소식으로 또래와 무관한 기관 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "현장 대응 역량을 갖춘 준비된 경찰, 국민 곁으로",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790064&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-20&endDate=2026-11-20&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
