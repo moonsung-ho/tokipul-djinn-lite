@@ -72113,5 +72113,66 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790142&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-21",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "2026 청소년 로보틱스 챌린지"
+    ],
+    "item_id": "korea-kr-156790143",
+    "message_ts": "1795240973.433379",
+    "posted_at_iso": "2026-11-21T06:02:53.807300+00:00",
+    "priority": "상",
+    "reason": "청소년이 직접 참가 대상인 로보틱스 대회로 또래의 성취와 활동을 보여주는 당사자성 있는 사안이다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "미래의 피지컬 AI 전문가 발굴!  「2026 청소년 로보틱스 챌린지」 결선 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790143&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-21",
+    "dept": "국토교통부",
+    "entities": [
+      "경부선",
+      "소정리역"
+    ],
+    "item_id": "korea-kr-156790144",
+    "message_ts": "1795240973.925439",
+    "posted_at_iso": "2026-11-21T06:02:54.290012+00:00",
+    "priority": "상",
+    "reason": "철도 탈선 사고는 재난·안전 사안으로 또래가 알아야 할 소식이다",
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 경부선 소정리역 화물열차 탈선 사고 대응에 만전을 기하고 있습니다.",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790144&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-21",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "AI 인사이트 페스티벌"
+    ],
+    "item_id": "korea-kr-156790152",
+    "message_ts": "1795240974.390489",
+    "posted_at_iso": "2026-11-21T06:02:54.771944+00:00",
+    "priority": "중",
+    "reason": "AI를 주제로 한 사회적 토론 행사로 또래의 관심사와 닿을 수 있으나 청소년 당사자성은 뚜렷하지 않고 대상도 일반 대중이다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790152&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
   }
 ]
