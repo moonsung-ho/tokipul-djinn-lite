@@ -72174,5 +72174,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790152&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
     "관심사": "중",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-21",
+    "dept": "국토교통부",
+    "entities": [
+      "정의경"
+    ],
+    "item_id": "korea-kr-156790153",
+    "message_ts": "1795247995.404569",
+    "posted_at_iso": "2026-11-21T07:59:55.704638+00:00",
+    "priority": "중",
+    "reason": "철도 탈선 사고는 이용객 안전과 직결된 재난·안전 사안으로 또래도 관심 가질 수 있으나, 차관 현장점검 동정 보도라 구체적 취재 각도는 약하다",
+    "source": "정책브리핑(국토교통부)",
+    "title": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790153&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
   }
 ]
