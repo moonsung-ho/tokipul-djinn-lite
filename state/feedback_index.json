@@ -72252,5 +72252,394 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790154&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790198",
+    "message_ts": "1795325876.664329",
+    "posted_at_iso": "2026-11-22T05:37:56.856738+00:00",
+    "priority": "중",
+    "reason": "기후위기 대응을 표방한 연구이나 내용은 전문 농업곤충 품종개량이라 또래 연결성이 간접적이다",
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "기후 위기 대응 '더위에 강한 뒤영벌' 계통 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790198&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156790231",
+    "posted_at_iso": "2026-11-22T05:37:56.856761+00:00",
+    "priority": "하",
+    "reason": "산업현장 근로자 대상 한랭질환 점검으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "\"추위가 재해가 되기 전에\" 겨울철 한랭질환 예방 집중점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790231&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790218",
+    "posted_at_iso": "2026-11-22T05:37:56.856771+00:00",
+    "priority": "하",
+    "reason": "농업인 간담회로 또래와 무관한 성인 대상 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "\"현장에 답 있다\"…농촌진흥청, 제주 지역 선도 농업인 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790218&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "여주"
+    ],
+    "item_id": "korea-kr-156790222",
+    "posted_at_iso": "2026-11-22T05:37:56.856779+00:00",
+    "priority": "하",
+    "reason": "지역 농산물 기념행사로 또래와 연결고리가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "'제13회 고구마의 날' 기념행사 경기도 여주서 열려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790222&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156790230",
+    "posted_at_iso": "2026-11-22T05:37:56.856787+00:00",
+    "priority": "하",
+    "reason": "성인 노동시장의 자격증 대여 단속으로 청소년과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "국가기술자격증 불법 대여, 정부 합동단속으로 뿌리 뽑는다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790230&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "성운대학교"
+    ],
+    "item_id": "korea-kr-156790210",
+    "posted_at_iso": "2026-11-22T05:37:56.856795+00:00",
+    "priority": "하",
+    "reason": "대학-연구기관 업무협약으로 대상이 성인 산업계다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "국립축산과학원–성운대학교, 국산 열풍건초 이용 확대 업무협약",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790210&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790220",
+    "posted_at_iso": "2026-11-22T05:37:56.856810+00:00",
+    "priority": "하",
+    "reason": "농업 품종 경쟁력 강화로 성인 농업인 대상 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "국산 감귤·차 품종 확산, 제주 농업 경쟁력 높인다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790220&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790228",
+    "posted_at_iso": "2026-11-22T05:37:56.856819+00:00",
+    "priority": "하",
+    "reason": "농업인 대상 기상재해 대응으로 또래 일상과 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "기상 변동성 큰 올겨울, 농업 기상재해 선제 대응한다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790228&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790226",
+    "posted_at_iso": "2026-11-22T05:37:56.856827+00:00",
+    "priority": "하",
+    "reason": "축산 가공·유통 산업화 방안으로 성인 산업 종사자 대상이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, '우리흑돈' 가공·유통 산업화 확대 방안 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790226&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "함양"
+    ],
+    "item_id": "korea-kr-156790206",
+    "posted_at_iso": "2026-11-22T05:37:56.856834+00:00",
+    "priority": "하",
+    "reason": "농가 현장 점검으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 경남 함양 양파 모종 아주심기 상황 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790206&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790202",
+    "posted_at_iso": "2026-11-22T05:37:56.856851+00:00",
+    "priority": "하",
+    "reason": "나물용 콩 생산기반 확충은 농업 산업 정책으로 또래와 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 국산 나물용 콩 생산 기반 확충한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790202&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790200",
+    "posted_at_iso": "2026-11-22T05:37:56.856858+00:00",
+    "priority": "하",
+    "reason": "가루쌀 신품종 개발은 농업기술 성과로 또래의 과학 관심사와는 거리가 있다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 재배 쉽고 수발아 강한 '바로미4' 개발… 가루쌀 안정 생산 기반 확보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790200&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790212",
+    "posted_at_iso": "2026-11-22T05:37:56.856865+00:00",
+    "priority": "하",
+    "reason": "축산 농가 대상 한파 대비 기술지원으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 젖소농장 한파 대비 점검·케토시스 관리 기술지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790212&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790204",
+    "posted_at_iso": "2026-11-22T05:37:56.856872+00:00",
+    "priority": "하",
+    "reason": "한우농가 사료비 절감 기술 확산으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "농촌진흥청, 제주 한우농가 찾아 사료비 절감 기술 확산 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790204&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790208",
+    "posted_at_iso": "2026-11-22T05:37:56.856879+00:00",
+    "priority": "하",
+    "reason": "농업 품질 향상 논의로 또래와 무관한 성인 농업 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "제주 애플망고 품질 향상·재배 다양화 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790208&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790224",
+    "posted_at_iso": "2026-11-22T05:37:56.856885+00:00",
+    "priority": "하",
+    "reason": "청년농업인 지원이지만 대상이 농업 종사 성인이라 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "제주 청년농업인과 영농 정착 위한 기술 지원 방향 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790224&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790214",
+    "posted_at_iso": "2026-11-22T05:37:56.856891+00:00",
+    "priority": "하",
+    "reason": "농산물 가공 우수상품 선정은 산업 지원 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "지역 농산물의 맛있는 변신! 농산물종합가공센터 우수 상품 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790214&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790216",
+    "posted_at_iso": "2026-11-22T05:37:56.856898+00:00",
+    "priority": "하",
+    "reason": "식품 소재 산업 기술 개발로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "쫄깃함 살린 '버섯 기반 단백질 식품 소재' 시장 경쟁력 확인",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790216&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790196",
+    "posted_at_iso": "2026-11-22T05:37:56.856904+00:00",
+    "priority": "하",
+    "reason": "농가 손실보상 및 방역 기준으로 성인 농업인 대상 행정 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "토마토갈색주름과실바이러스 피해 농가 손실보상 강화… 재정식 허용 기준 등 사후관리 방안 의결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790196&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "농촌진흥청",
+    "entities": [
+      "농촌진흥청"
+    ],
+    "item_id": "korea-kr-156790194",
+    "posted_at_iso": "2026-11-22T05:37:56.856911+00:00",
+    "priority": "하",
+    "reason": "작물 바이러스 확산 차단 대응으로 농가 대상 방제 조치이며 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농촌진흥청)",
+    "title": "토마토갈색주름과실바이러스 확산 차단 총력…관계기관 합동 대응 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790194&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
