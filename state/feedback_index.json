@@ -72680,5 +72680,101 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790262&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-23",
+    "dept": "교육부",
+    "entities": [
+      "대입 허위 원서접수 신고센터"
+    ],
+    "item_id": "korea-kr-156790263",
+    "message_ts": "1795389330.842309",
+    "posted_at_iso": "2026-11-22T23:15:31.083241+00:00",
+    "priority": "중",
+    "reason": "대입 원서접수 비리 신고센터는 고등학생 대입과 관련되지만 지금 중학생에게는 간접적이고 절차성 공지에 가깝다.",
+    "source": "정책브리핑(교육부)",
+    "title": "교육부, 「대입 허위 원서접수 신고센터 」 설치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790263&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156790267",
+    "posted_at_iso": "2026-11-22T23:15:31.083275+00:00",
+    "priority": "하",
+    "reason": "일반 국민 대상 공공외교 강연으로 청소년 대상 여부나 참여 단서가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "K-컬쳐와 공공외교, 국민들과 함께하는 외교정책 강연",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790267&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156790265",
+    "posted_at_iso": "2026-11-22T23:15:31.083284+00:00",
+    "priority": "하",
+    "reason": "바이오의약품 인허가 워크숍은 업계 종사자 대상 행사로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 바이오의약품 인허가 지원 워크숍 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790265&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156790266",
+    "posted_at_iso": "2026-11-22T23:15:31.083292+00:00",
+    "priority": "하",
+    "reason": "특사경 직무교육은 기관 내부 역량강화 활동으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 식약처, 식·의약 분야 특사경 수사역량 강화 직무교육 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790266&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156790264",
+    "posted_at_iso": "2026-11-22T23:15:31.083300+00:00",
+    "priority": "하",
+    "reason": "AI 반도체 업계 현안 점검은 산업·기업 대상 정책으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 인공지능 반도체 업계 현안 점검...국제 협력·공급망 대응 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790264&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
