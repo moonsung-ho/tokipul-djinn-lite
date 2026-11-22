@@ -72194,5 +72194,63 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790153&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-21&endDate=2026-11-21&srchWord=&period=",
     "관심사": "중",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "국가보훈부",
+    "entities": [
+      "대구보훈병원"
+    ],
+    "item_id": "korea-kr-156790155",
+    "posted_at_iso": "2026-11-22T01:56:34.594379+00:00",
+    "priority": "하",
+    "reason": "보훈병원 시설 증축 공사로 청소년의 권리·일상이나 또래 관심사와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790155&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "국토교통부",
+    "entities": [
+      "베트남",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156790156",
+    "posted_at_iso": "2026-11-22T01:56:34.594405+00:00",
+    "priority": "하",
+    "reason": "해외 철도 인프라 수주라는 산업·통상 사안으로 또래의 일상이나 관심사와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[참고] 케이(K)-철도, 95조 원 베트남 고속철도 사업 진출 첫발",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790156&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "교육부",
+    "entities": [
+      "영유아보육법"
+    ],
+    "item_id": "korea-kr-156790154",
+    "posted_at_iso": "2026-11-22T01:56:34.594413+00:00",
+    "priority": "하",
+    "reason": "영유아 보육 분야 규제 개정으로 대상이 영유아여서 중학생 당사자성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790154&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
