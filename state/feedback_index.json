@@ -72641,5 +72641,44 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790194&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "K-ODA"
+    ],
+    "item_id": "korea-kr-156790261",
+    "posted_at_iso": "2026-11-22T17:38:54.742815+00:00",
+    "priority": "하",
+    "reason": "개발협력주간은 전문가·성인 대상 국제협력 행사로 청소년의 일상이나 권리와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "K-ODA로 함께 여는 상생의 미래 '2026년 개발협력주간' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790261&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-22",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156790262",
+    "posted_at_iso": "2026-11-22T17:38:54.742837+00:00",
+    "priority": "하",
+    "reason": "재정경제부의 시장 점검 회의로 구체적 내용이 드러나지 않고 성인 대상 경제 정책 사안이라 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "긴급 시장상황점검회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790262&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
