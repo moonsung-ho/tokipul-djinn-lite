@@ -72776,5 +72776,391 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790264&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-23",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청",
+      "기후보건영향평가"
+    ],
+    "item_id": "korea-kr-156790367",
+    "message_ts": "1795412517.262429",
+    "posted_at_iso": "2026-11-23T05:41:57.655080+00:00",
+    "priority": "상",
+    "reason": "기후변화가 건강에 미치는 영향은 규칙으로 닿지 않아도 또래가 알아야 할 환경·건강 사안이다.",
+    "source": "정책브리핑(질병관리청)",
+    "title": "기후변화가 국민건강에 미치는 영향, 각계 의견 듣는다(11.23.월)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790367&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "산업통상부"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-23",
+    "dept": "외교부",
+    "entities": [
+      "유엔기후변화협약",
+      "제31차 당사국총회"
+    ],
+    "item_id": "korea-kr-156790364",
+    "message_ts": "1795412517.749839",
+    "posted_at_iso": "2026-11-23T05:41:58.111815+00:00",
+    "priority": "상",
+    "reason": "유엔기후변화협약 총회 결과는 기후위기를 다루는 국제 사안으로 또래가 알아야 할 소식이다.",
+    "source": "정책브리핑(외교부)",
+    "title": "제31차 유엔기후변화협약 당사국총회 폐막",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790364&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-23",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부",
+      "생계급여"
+    ],
+    "item_id": "korea-kr-156790363",
+    "message_ts": "1795412518.209719",
+    "posted_at_iso": "2026-11-23T05:41:58.666414+00:00",
+    "priority": "중",
+    "reason": "생계급여·부양의무자 기준 변경은 저소득·장애인 가정의 학생에게 간접적으로 영향을 줄 수 있는 복지 정책이다.",
+    "source": "정책브리핑(보건복지부)",
+    "title": "생계급여 선정기준 2030년까지 35%로 인상 및 중증장애인 가구 부양의무자 기준 폐지 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790363&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790362",
+    "posted_at_iso": "2026-11-23T05:41:58.666450+00:00",
+    "priority": "하",
+    "reason": "지역 산업 투자 유치 정책으로 성인 산업계 대상이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "1.5조원 투자 + 8,200억원 상생금융으로 우주항공·방산 동남권 지역거점 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790362&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "행정관리담당관",
+    "entities": [],
+    "item_id": "sen-notice-20261123090556963",
+    "posted_at_iso": "2026-11-23T05:41:58.666463+00:00",
+    "priority": "하",
+    "reason": "법률고문 채용 공고로 학생의 권리·일상과 무관한 행정 절차성 공고다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2027년 서울시교육청 법률고문 모집 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261123090556963",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "통일부",
+    "entities": [
+      "통일부"
+    ],
+    "item_id": "korea-kr-156790354",
+    "posted_at_iso": "2026-11-23T05:41:58.666472+00:00",
+    "priority": "하",
+    "reason": "고속철도 국제세미나는 전문가 대상 인프라 논의로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "「한중 고속철도 구상 국제세미나」 개최(11.30.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790354&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "통일부",
+    "entities": [
+      "통일부"
+    ],
+    "item_id": "korea-kr-156790355",
+    "posted_at_iso": "2026-11-23T05:41:58.666480+00:00",
+    "priority": "하",
+    "reason": "성인 학계·전문가 대상 통일 관련 국제학술회의로 또래 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "「홍익 플랫폼과 평화·통일 시민대화」 국제학술회의 개최(11.24.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790355&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156790372",
+    "posted_at_iso": "2026-11-23T05:41:58.666488+00:00",
+    "priority": "하",
+    "reason": "경찰·소방 전문인력 대상 장비 워크숍으로 학생 안전과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "경찰·소방 공동, 증가하는 유류 방화 잡는 첨단 '기체포집장치' 활용 합동 공동연수(워크숍) 및 챌린지 대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790372&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "한국경영자총협회"
+    ],
+    "item_id": "korea-kr-156790373",
+    "posted_at_iso": "2026-11-23T05:41:58.666496+00:00",
+    "priority": "하",
+    "reason": "사업장 안전보건 공시 설명회로 대상이 기업과 노동자이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "고용노동부, 한국경영자총협회와 공동으로 안전보건 현황 공시가이드(안) 설명회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790373&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "과학기술정보통신부",
+    "entities": [],
+    "item_id": "korea-kr-156790376",
+    "posted_at_iso": "2026-11-23T05:41:58.666503+00:00",
+    "priority": "하",
+    "reason": "국가 AI 연구 전략 발표로 구체적 성과나 학생 접점이 없는 추상적 정책 자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790376&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "새만금개발청",
+    "entities": [
+      "새만금개발청",
+      "투그린피오텍"
+    ],
+    "item_id": "korea-kr-156790368",
+    "posted_at_iso": "2026-11-23T05:41:58.666509+00:00",
+    "priority": "하",
+    "reason": "기업 투자협약 체결로 청소년과 무관한 경제 보도자료다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(새만금개발청)",
+    "title": "새만금개발청, ㈜투그린피오텍과 335억 규모 투자협약 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790368&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "교육부",
+    "entities": [
+      "국가장학금"
+    ],
+    "item_id": "korea-kr-156790348",
+    "posted_at_iso": "2026-11-23T05:41:58.666516+00:00",
+    "priority": "하",
+    "reason": "국가장학금은 대학생 대상 제도로 중학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "신청은 미리! 등록금 걱정은 멀리! 2027학년도 1학기 국가장학금 신청하세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790348&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회"
+    ],
+    "item_id": "korea-kr-156790370",
+    "posted_at_iso": "2026-11-23T05:41:58.666524+00:00",
+    "priority": "하",
+    "reason": "지역주민 대상 원전 소통 행사로 대상이 성인 주민이며 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "원안위, 지역주민과 소통의 장(場) 마련",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790370&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "인사혁신처",
+    "entities": [
+      "인사혁신처"
+    ],
+    "item_id": "korea-kr-156790356",
+    "posted_at_iso": "2026-11-23T05:41:58.666530+00:00",
+    "priority": "하",
+    "reason": "공무원 연구모임 포상으로 내부 행정 성과이며 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(인사혁신처)",
+    "title": "인공지능 활용 난기류 탐지 등 우수 연구성과 포상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790356&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청"
+    ],
+    "item_id": "korea-kr-156790366",
+    "posted_at_iso": "2026-11-23T05:41:58.666537+00:00",
+    "priority": "하",
+    "reason": "성인 대상 연탄 나눔 봉사 행사로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "재외동포청, \"받는 도움에서 나누는 온정으로\" 국내동포와 함께 사랑의 연탄 나눔",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790366&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "교육부",
+    "entities": [],
+    "item_id": "korea-kr-156790349",
+    "posted_at_iso": "2026-11-23T05:41:58.666544+00:00",
+    "priority": "하",
+    "reason": "교육 ODA 학술대회는 전문가·학계 대상 행사로 국내 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(교육부)",
+    "title": "제13회 교육 공적개발원조(ODA) 학술대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790349&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "외교부",
+    "entities": [
+      "카타르"
+    ],
+    "item_id": "korea-kr-156790365",
+    "posted_at_iso": "2026-11-23T05:41:58.666551+00:00",
+    "priority": "하",
+    "reason": "국가 간 외교 정책협의회로 또래와 직접 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제2차 한-카타르 정책협의회 개최(11.22.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790365&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156790359",
+    "posted_at_iso": "2026-11-23T05:41:58.666557+00:00",
+    "priority": "하",
+    "reason": "직장어린이집 영유아 기부 활동으로 대상이 중학생이 아닌 영유아다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "직장어린이집 아이들이 모은 따뜻한 마음, 이웃에게 전해지다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790359&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "산업통상부",
+    "entities": [
+      "카타르",
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790360",
+    "posted_at_iso": "2026-11-23T05:41:58.666564+00:00",
+    "priority": "하",
+    "reason": "LNG·플랜트 산업 협력 논의로 청소년과 무관한 경제 외교 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "카타르와 LNG 공급망 안정화 및  플랜트・조선 분야 협력 확대 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790360&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "햇빛소득마을"
+    ],
+    "item_id": "korea-kr-156790371",
+    "posted_at_iso": "2026-11-23T05:41:58.666571+00:00",
+    "priority": "하",
+    "reason": "농촌 태양광 수익공유 정책으로 대상이 농가·주민이며 청소년 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "현장의 걸림돌 걷어내고 '햇빛소득마을' 안착 속도 낸다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790371&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
