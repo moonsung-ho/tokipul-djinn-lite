@@ -73162,5 +73162,136 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790371&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "재정경제부",
+    "entities": [
+      "청년일자리팀"
+    ],
+    "item_id": "korea-kr-156790389",
+    "posted_at_iso": "2026-11-23T06:18:41.834303+00:00",
+    "priority": "하",
+    "reason": "청년 고용 정책 포상 소식으로 내부 포상 성격이며 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "'쉬었음' 청년을 다시 내:일로… 청년일자리팀, 제2회 '국민 체감 대상'",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790389&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "경제사회노동위원회",
+    "entities": [
+      "경제사회노동위원회"
+    ],
+    "item_id": "korea-kr-156790381",
+    "posted_at_iso": "2026-11-23T06:18:41.834329+00:00",
+    "priority": "하",
+    "reason": "청년이 포함되지만 노동시장 성인 대상 간담회로 중학생과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경제사회노동위원회)",
+    "title": "[보도자료] 청년·여성·비정규직 계층별위원회-정부부처 1차 공동 정책간담회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790381&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790384",
+    "posted_at_iso": "2026-11-23T06:18:41.834340+00:00",
+    "priority": "하",
+    "reason": "산업 구조개편 논의는 성인 산업계 실무 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "구조개편 완수를 위해 사업재편 이행과 진행 중인 사업재편 논의에 박차를 가해야",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790384&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "기본사회위원회",
+    "entities": [
+      "기본사회위원회"
+    ],
+    "item_id": "korea-kr-156790385",
+    "posted_at_iso": "2026-11-23T06:18:41.834348+00:00",
+    "priority": "하",
+    "reason": "주민참여 활성화 방안 논의로 성인 주민 대상 정책이며 청소년 당사자성이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기본사회위원회)",
+    "title": "기본사회위원회, 기본사회 실현을 위한 주민참여 활성화 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790385&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "보건복지부",
+    "entities": [],
+    "item_id": "korea-kr-156790386",
+    "posted_at_iso": "2026-11-23T06:18:41.834354+00:00",
+    "priority": "하",
+    "reason": "발달장애인 형사사법 절차 개선이나 대상이 성인 중심이고 청소년이 직접 등장하지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "발달장애인의 형사·사법절차 권리 보장 강화한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790386&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "보건복지부",
+    "entities": [
+      "그냥드림"
+    ],
+    "item_id": "korea-kr-156790380",
+    "posted_at_iso": "2026-11-23T06:18:41.834360+00:00",
+    "priority": "하",
+    "reason": "생계위기 이웃 지원 복지사업은 일반 국민 대상으로 학생 당사자성이나 또래 관심사로 보기 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "추운 겨울 생계 위기 이웃 돕는 '그냥드림', 꼭 필요한 국민께 닿도록 현장 운영 살핀다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790380&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-23",
+    "dept": "행정안전부",
+    "entities": [
+      "KT"
+    ],
+    "item_id": "korea-kr-156790388",
+    "posted_at_iso": "2026-11-23T06:18:41.834367+00:00",
+    "priority": "하",
+    "reason": "지역사회연대경제 AI 협업은 성인·지역사회 대상 사업으로 또래와 연결점이 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "행안부-KT 손잡고 사회연대경제 현장에 AI 접목, 지역문제 함께 푼다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790388&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-23&endDate=2026-11-23&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
