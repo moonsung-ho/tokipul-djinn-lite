@@ -74129,5 +74129,408 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790510&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "국가시험 공정성 확보 TF"
+    ],
+    "item_id": "korea-kr-156790594",
+    "message_ts": "1795510449.908269",
+    "posted_at_iso": "2026-11-24T08:54:10.047482+00:00",
+    "priority": "상",
+    "reason": "국가시험 공정성 확보 TF는 수능 등 학생이 치르는 국가시험의 신뢰성에 직결되는 사안이다.",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 국가시험 공정성 확보 TF 회의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790594&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "국무조정실",
+    "entities": [
+      "한성숙",
+      "미세먼지특별대책위원회"
+    ],
+    "item_id": "korea-kr-156790606",
+    "message_ts": "1795510450.077899",
+    "posted_at_iso": "2026-11-24T08:54:10.215418+00:00",
+    "priority": "상",
+    "reason": "미세먼지는 학교 실외활동·등하교에 직결되는 환경·안전 사안으로 또래가 알아야 할 소식이다.",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리 주재 미세먼지특별대책위원회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790606&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "국방부",
+    "entities": [
+      "러시아",
+      "KADIZ",
+      "울릉도"
+    ],
+    "item_id": "korea-kr-156790588",
+    "message_ts": "1795510450.247079",
+    "posted_at_iso": "2026-11-24T08:54:10.383780+00:00",
+    "priority": "상",
+    "reason": "러시아 군용기의 영공 근접비행 항의는 안보·국제 사안으로 또래가 알아야 할 뉴스다.",
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, 러시아 군용기 방공식별구역(KADIZ) 무단진입 및 울릉도 영공 근접비행 관련 엄중 항의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790588&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156790597",
+    "message_ts": "1795510450.419009",
+    "posted_at_iso": "2026-11-24T08:54:10.561673+00:00",
+    "priority": "중",
+    "reason": "이메일 사칭 피해예방 수칙은 청소년도 겪을 수 있는 일반적 보안 주의 사안이다.",
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "'개인정보 유출 통지' 사칭 악성메일 주의 개인정보위, 피해예방 수칙 안내",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790597&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "한성숙",
+      "기후에너지환경부"
+    ],
+    "item_id": "korea-kr-156790605",
+    "message_ts": "1795510450.596019",
+    "posted_at_iso": "2026-11-24T08:54:10.731269+00:00",
+    "priority": "중",
+    "reason": "미세먼지특별대책위원회 관련 총리 발언으로 같은 사안의 부차적 보도자료라 간접적이다.",
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "한 총리, \"맑고 깨끗한 공기와 푸른 하늘, 국민의 삶에 꼭 필요\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790605&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "고용노동부",
+    "entities": [
+      "초광역특구법",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156790600",
+    "posted_at_iso": "2026-11-24T08:54:10.731302+00:00",
+    "priority": "하",
+    "reason": "초광역특구법 관련 노동계 실무협의체로 성인 노동 현안이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 「(약칭) 초광역특구법 관련 원포인트 사회적 대화」제10차 실무협의체 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790600&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "산림청",
+    "entities": [
+      "국가숲길 중앙협의회"
+    ],
+    "item_id": "korea-kr-156790584",
+    "posted_at_iso": "2026-11-24T08:54:10.731314+00:00",
+    "priority": "하",
+    "reason": "국가숲길 운영 협의회 정기회의로 행정 실무성 내용이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "2026년 국가숲길 중앙협의회 하반기 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790584&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "특수교육과",
+    "entities": [
+      "늘봄허브"
+    ],
+    "item_id": "sen-notice-20261124160358499",
+    "posted_at_iso": "2026-11-24T08:54:10.731322+00:00",
+    "priority": "하",
+    "reason": "특수교육 방과후 프로그램 강사 모집 절차 공고로 학생 대상 내용 변경이나 사건성이 없다.",
+    "slack_skipped": true,
+    "source": "서울시교육청 공지사항",
+    "title": "2027. 특수교육대상학생 「방과후·돌봄」맞춤형교실 프로그램 강사 인력풀 구성 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261124160358499",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부",
+      "다자개발은행"
+    ],
+    "item_id": "korea-kr-156790589",
+    "posted_at_iso": "2026-11-24T08:54:10.731329+00:00",
+    "priority": "하",
+    "reason": "기업의 해외 조달시장 진출 지원 행사로 성인 산업계 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "「2026 다자개발은행(MDB) 프로젝트 플라자」 개최, 우리 기업의 해외 조달 시장 진출 지원한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790589&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "고용노동부",
+    "entities": [
+      "전국상공회의소"
+    ],
+    "item_id": "korea-kr-156790579",
+    "posted_at_iso": "2026-11-24T08:54:10.731336+00:00",
+    "priority": "하",
+    "reason": "청년 일자리 창출 협력은 성인(청년) 고용 정책으로 중학생과는 간접적이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "고용노동부와 전국 상공회의소, 일자리 창출과 청년 일할 기회 확대를 위해 힘 모으기로!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790579&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "국민권익위원회",
+    "entities": [
+      "국민권익위원회",
+      "한국외국어대학교"
+    ],
+    "item_id": "korea-kr-156790591",
+    "posted_at_iso": "2026-11-24T08:54:10.731342+00:00",
+    "priority": "하",
+    "reason": "대학과의 청렴교육 협력 MOU로 대상이 대학(생) 수준이라 중학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민권익위원회)",
+    "title": "국민권익위-한국외국어대학교, \"미래세대를 위한 청렴교육 협력\"",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790591&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "국방부",
+    "entities": [
+      "무궁화 회의"
+    ],
+    "item_id": "korea-kr-156790578",
+    "posted_at_iso": "2026-11-24T08:54:10.731347+00:00",
+    "priority": "하",
+    "reason": "국방부 내부 회의로 학생 안전이나 일상과 무관한 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부, '26-2차 무궁화 회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790578&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "법무부",
+    "entities": [
+      "법무부",
+      "범죄피해자 인권대회"
+    ],
+    "item_id": "korea-kr-156790587",
+    "posted_at_iso": "2026-11-24T08:54:10.731352+00:00",
+    "priority": "하",
+    "reason": "범죄피해자 인권대회는 일반 성인 대상 행사로 청소년 특정 내용이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "법무부, 「제19회 범죄피해자 인권대회」개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790587&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "병무청",
+    "entities": [
+      "병무청",
+      "군인공제회C&C"
+    ],
+    "item_id": "korea-kr-156790599",
+    "posted_at_iso": "2026-11-24T08:54:10.731358+00:00",
+    "priority": "하",
+    "reason": "병역의무자 대상 기부 약정식으로 성인 대상 행사이며 학생과 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(병무청)",
+    "title": "병무청-군인공제회C&C,  병역의무자 전자도서관 기부 약정식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790599&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "산림청",
+    "entities": [
+      "송광사",
+      "사찰림"
+    ],
+    "item_id": "korea-kr-156790582",
+    "posted_at_iso": "2026-11-24T08:54:10.731364+00:00",
+    "priority": "하",
+    "reason": "사찰림 병해충 대응체계 구축은 특정 산림 보호 사안으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 소나무재선충병 등 산림재난 대비 보전가치 높은 사찰림 선제적 대응체계 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790582&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "국토교통부",
+    "entities": [
+      "전주",
+      "창원",
+      "도심융합특구"
+    ],
+    "item_id": "korea-kr-156790595",
+    "posted_at_iso": "2026-11-24T08:54:10.731370+00:00",
+    "priority": "하",
+    "reason": "도심융합특구 조성은 지역 경제·도시계획 사안으로 학생 일상과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "새로운 도심융합특구 선도모델…  전주·창원 도심에 혁신거점 조성 추진",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790595&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "수액제"
+    ],
+    "item_id": "korea-kr-156790590",
+    "posted_at_iso": "2026-11-24T08:54:10.731376+00:00",
+    "priority": "하",
+    "reason": "의약품 수액제 공급 현장 점검으로 성인 의료 공급망 이슈이며 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "식약처장, 매개변수기반 출하 현장 살펴… 수액제 안정 공급 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790590&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "산림청",
+    "entities": [
+      "울진국유림관리소"
+    ],
+    "item_id": "korea-kr-156790586",
+    "posted_at_iso": "2026-11-24T08:54:10.731394+00:00",
+    "priority": "하",
+    "reason": "지역 주민·임업인 대상 땔감 나누기 행사로 학생과 연결점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "울진국유림관리소, '땔감 나누기' 행사서 현장소통 및 규제합리화 사례 홍보",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790586&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국토교통부"
+    ],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "기후에너지환경부",
+    "entities": [
+      "기후에너지환경부",
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156790604",
+    "posted_at_iso": "2026-11-24T08:54:10.731402+00:00",
+    "priority": "하",
+    "reason": "전기택시 전환은 택시업계·기후정책 사안으로 청소년과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(기후에너지환경부)",
+    "title": "전기택시 전환 활성화 위해 기후부-국토부-택시업계 맞손",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790604&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "우주항공청",
+    "entities": [
+      "우주항공청",
+      "우주개발진흥실무위원회"
+    ],
+    "item_id": "korea-kr-156790596",
+    "posted_at_iso": "2026-11-24T08:54:10.731409+00:00",
+    "priority": "하",
+    "reason": "우주개발 실무위원회 개최 자체는 구체적 과학 성과 없이 행정 회의성 내용이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(우주항공청)",
+    "title": "제11회 우주개발진흥실무위원회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790596&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
