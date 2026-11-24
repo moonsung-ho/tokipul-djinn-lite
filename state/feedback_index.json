@@ -74532,5 +74532,157 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790596&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "",
+    "entities": [
+      "농촌유학",
+      "경남"
+    ],
+    "item_id": "sen-press-192632",
+    "message_ts": "1795530815.660229",
+    "posted_at_iso": "2026-11-24T14:33:35.951214+00:00",
+    "priority": "상",
+    "reason": "서울 학생이 직접 신청·참여하는 농촌유학 프로그램의 지역 확대와 신청 방식 변경이라 당사자성이 뚜렷하다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 2027학년도 1학기 농촌유학 참가자 모집... 경남까지 지역 확대하고 웹 안내 체계 도입",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192632&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "상"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-24",
+    "dept": "",
+    "entities": [
+      "교육연구정보원",
+      "2027학년도 대입 정시"
+    ],
+    "item_id": "sen-press-192631",
+    "message_ts": "1795530816.016119",
+    "posted_at_iso": "2026-11-24T14:33:36.304263+00:00",
+    "priority": "중",
+    "reason": "입시 지원 서비스이지만 대상이 현재 고3 수험생이라 중학생에게는 간접적이다.",
+    "source": "서울시교육청 보도자료",
+    "title": "서울시교육청, 2027 대입 정시 대비 진학지원 본격 가동",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192631&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "법무부",
+    "entities": [
+      "친일반민족행위자재산조사위원회"
+    ],
+    "item_id": "korea-kr-156790607",
+    "posted_at_iso": "2026-11-24T14:33:36.304293+00:00",
+    "priority": "하",
+    "reason": "위원회 위원 인선 절차로 성인 대상 행정 사안이며 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "'친일반민족행위자재산조사위원회' 위원 9명 인선 작업 마무리…국회 임명동의 절차 진행 예정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790607&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "산업통상부",
+    "entities": [
+      "EU"
+    ],
+    "item_id": "korea-kr-156790630",
+    "posted_at_iso": "2026-11-24T14:33:36.304303+00:00",
+    "priority": "하",
+    "reason": "EU의 자동차 통상 조치는 기업·성인 경제 사안으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "(참고자료)EU, 수입 하이브리드 자동차에 대한 글로벌 세이프가드 잠정조치 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790630&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "국무조정실",
+    "entities": [],
+    "item_id": "korea-kr-156790633",
+    "posted_at_iso": "2026-11-24T14:33:36.304310+00:00",
+    "priority": "하",
+    "reason": "국가 간 외교 의전으로 청소년의 권리·관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 한성숙 국무총리, 알 부사이디 오만 외교장관 접견",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790633&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "고용노동부",
+    "entities": [
+      "케이프라이드"
+    ],
+    "item_id": "korea-kr-156790608",
+    "posted_at_iso": "2026-11-24T14:33:36.304325+00:00",
+    "priority": "하",
+    "reason": "기업의 상생파트너십 수상 소식으로 청소년과 무관한 성인 노동 행정 홍보다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "㈜케이프라이드, 2026년 상생파트너십 우수사례 경진대회 최우수상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790608&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "외교부",
+    "entities": [
+      "중동"
+    ],
+    "item_id": "korea-kr-156790609",
+    "posted_at_iso": "2026-11-24T14:33:36.304333+00:00",
+    "priority": "하",
+    "reason": "중동 재외국민 대상 안전 점검으로 구체적 사건 없이 절차성 공고에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 중동 지역 공관과 재외국민 안전대책 점검(11.24.)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790609&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-24",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156790632",
+    "posted_at_iso": "2026-11-24T14:33:36.304339+00:00",
+    "priority": "하",
+    "reason": "중앙행정기관 이전 고시는 성인 행정 사안으로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "중앙행정기관 등의 이전계획 변경안 확정 고시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790632&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-24&endDate=2026-11-24&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
