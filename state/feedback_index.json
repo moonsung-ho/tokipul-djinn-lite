@@ -75148,5 +75148,200 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790800&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-25",
+    "dept": "학생맞춤지원담당관",
+    "entities": [
+      "대안교육기관"
+    ],
+    "item_id": "sen-notice-20261125161247304",
+    "message_ts": "1795591869.206169",
+    "posted_at_iso": "2026-11-25T07:31:09.597197+00:00",
+    "priority": "중",
+    "reason": "대안교육기관으로 등록된 특정 기관들이 학생들의 학력 인정과 연결되지만 절차적 공고라 구체적 각도가 약하다",
+    "source": "서울시교육청 공지사항",
+    "title": "제11차 서울특별시교육청 대안교육기관 등록 및 변경등록 공고",
+    "url": "https://www.sen.go.kr/user/bbs/BD_selectBbs.do?q_bbsSn=1100&q_bbsDocNo=20261125161247304",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "법무부",
+    "entities": [
+      "법무부"
+    ],
+    "item_id": "korea-kr-156790816",
+    "posted_at_iso": "2026-11-25T07:31:09.597223+00:00",
+    "priority": "하",
+    "reason": "성인 대상 시상식으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "2026 범죄예방대상 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790816&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부"
+    ],
+    "item_id": "korea-kr-156790812",
+    "posted_at_iso": "2026-11-25T07:31:09.597233+00:00",
+    "priority": "하",
+    "reason": "농촌 봉사자 포상은 성인 대상 행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "농촌 재능나눔 우수 활동자 포상·격려",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790812&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156790819",
+    "posted_at_iso": "2026-11-25T07:31:09.597241+00:00",
+    "priority": "하",
+    "reason": "민관 전문가 협의체 구성은 성인 전문가 대상 절차성 행사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "민관 전문가 머리 맞대고 '정부혁신 청사진' 그린다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790819&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "조달청",
+    "entities": [
+      "조달청",
+      "백승보"
+    ],
+    "item_id": "korea-kr-156790811",
+    "posted_at_iso": "2026-11-25T07:31:09.597248+00:00",
+    "priority": "하",
+    "reason": "조달청장의 외교 동정 보도자료로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(조달청)",
+    "title": "백승보 조달청장, 에밀리아 가토  주한 이탈리아 대사 조달시장 활성화 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790811&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "외교부",
+    "entities": [
+      "붉은악마",
+      "외교부"
+    ],
+    "item_id": "korea-kr-156790825",
+    "posted_at_iso": "2026-11-25T07:31:09.597256+00:00",
+    "priority": "하",
+    "reason": "정부합동팀에 대한 감사패 전달은 성인 행정 의전 행사로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "붉은악마, 북중미 월드컵 정부합동 신속대응팀에 대한 감사패 전달",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790825&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "농림축산식품부",
+    "entities": [
+      "농림축산식품부",
+      "송미령"
+    ],
+    "item_id": "korea-kr-156790813",
+    "posted_at_iso": "2026-11-25T07:31:09.597270+00:00",
+    "priority": "하",
+    "reason": "장관 차담회 동정 보도자료로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "송미령 농식품부 장관, 콩기름 등 국산 콩 소비 확대 주제로 선재스님과 함께하는 차담회 참석",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790813&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "산림청",
+    "entities": [
+      "영암국유림관리소",
+      "강진군"
+    ],
+    "item_id": "korea-kr-156790815",
+    "posted_at_iso": "2026-11-25T07:31:09.597280+00:00",
+    "priority": "하",
+    "reason": "지역 농가 대상 산불 예방 활동으로 청소년 국제산림협력 사례와 달리 또래와 연결고리가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영암국유림관리소, 산불 예방 총력… '찾아가는 영농부산물 파쇄' 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790815&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "인도"
+    ],
+    "item_id": "korea-kr-156790817",
+    "posted_at_iso": "2026-11-25T07:31:09.597287+00:00",
+    "priority": "하",
+    "reason": "기업 간담회는 성인 경제 주체 대상으로 학생과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "외교부, 제6차 인도 진출 우리 기업 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790817&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "경찰청",
+    "entities": [
+      "경찰청",
+      "인터폴"
+    ],
+    "item_id": "korea-kr-156790820",
+    "posted_at_iso": "2026-11-25T07:31:09.597294+00:00",
+    "priority": "하",
+    "reason": "해외도피사범 범정부 공조는 성인 형사사법 사안으로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(경찰청)",
+    "title": "해외로 달아나도 끝까지 쫓는다...인터폴 추적망, 이제 범정부가 함께",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790820&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
