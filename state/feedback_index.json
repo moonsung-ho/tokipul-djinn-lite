@@ -75343,5 +75343,329 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790820&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-25&endDate=2026-11-25&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-25",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156790826",
+    "message_ts": "1795629155.331819",
+    "posted_at_iso": "2026-11-25T17:52:35.864158+00:00",
+    "priority": "중",
+    "reason": "방송 규제기관의 위원회 의결 결과로 언론 자유와 연관될 가능성이 있어 구체 안건 확인이 필요하다.",
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "2026년 제52차 위원회 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790826&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-25",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처",
+      "향미유"
+    ],
+    "item_id": "korea-kr-156790830",
+    "message_ts": "1795629156.015519",
+    "posted_at_iso": "2026-11-25T17:52:36.542085+00:00",
+    "priority": "중",
+    "reason": "발암물질 초과 검출 식품 회수 조치로 학교급식 연계 여부 확인이 필요한 식품안전 사안이다.",
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] 벤조피렌 초과 검출된 '향미유' 회수 조치",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790830&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-25",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156790834",
+    "message_ts": "1795629156.702109",
+    "posted_at_iso": "2026-11-25T17:52:37.281794+00:00",
+    "priority": "중",
+    "reason": "터널 화재 대응 재난훈련으로 안전 관심사이지만 정부 자체 모의훈련이라 또래 일상 변화는 간접적이다.",
+    "source": "정책브리핑(행정안전부)",
+    "title": "도로 살얼음으로 터널 안 연쇄 추돌·화재 올해 네 번째 레디 코리아 훈련 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790834&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "고용노동부",
+    "entities": [
+      "경기청"
+    ],
+    "item_id": "korea-kr-156790871",
+    "posted_at_iso": "2026-11-25T17:52:37.281830+00:00",
+    "priority": "하",
+    "reason": "성인 노동자 임금체불·사업주 구속 사건으로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 24년의 도피, 그 끝은 구속이었다! (경기청)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790871&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "국무조정실",
+    "entities": [
+      "국무조정실"
+    ],
+    "item_id": "korea-kr-156790844",
+    "posted_at_iso": "2026-11-25T17:52:37.281853+00:00",
+    "priority": "하",
+    "reason": "국토 정책 포럼으로 성인 전문가 대상 행사이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제3회 국토대전환 미래전략 포럼",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790844&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "재외동포청",
+    "entities": [
+      "재외동포청"
+    ],
+    "item_id": "korea-kr-156790835",
+    "posted_at_iso": "2026-11-25T17:52:37.281864+00:00",
+    "priority": "하",
+    "reason": "고려인동포 가정 지원 사업으로 대상이 성인 가정이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재외동포청)",
+    "title": "고국에서 맞는 겨울, 고려인동포 가정에 온정 전한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790835&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "고령",
+      "밀양"
+    ],
+    "item_id": "korea-kr-156790847",
+    "posted_at_iso": "2026-11-25T17:52:37.281873+00:00",
+    "priority": "하",
+    "reason": "지역경제특구 지정으로 대상이 지역 산업·농업 종사자이며 청소년과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "고령·밀양 지역특화특구 신규지정… 역사문화·스마트농산업 거점 육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790847&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "행정중심복합도시건설청",
+    "entities": [
+      "세종"
+    ],
+    "item_id": "korea-kr-156790831",
+    "posted_at_iso": "2026-11-25T17:52:37.281882+00:00",
+    "priority": "하",
+    "reason": "세종 지역 홍보 숏폼 공모로 대상과 지역이 한정적이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정중심복합도시건설청)",
+    "title": "국민이 그리는 세종 국가상징구역, 짧은 영상(숏폼)에 담다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790831&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "농림축산식품부",
+    "entities": [
+      "남원시"
+    ],
+    "item_id": "korea-kr-156790836",
+    "posted_at_iso": "2026-11-25T17:52:37.281890+00:00",
+    "priority": "하",
+    "reason": "그린바이오 산업화 협력 사안으로 성인 산업계 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "그린바이오, 화장품 기업과 손잡고 소재 산업화에 속도 낸다!",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790836&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "외교부",
+    "entities": [
+      "김진아",
+      "한국국제교류재단",
+      "제주"
+    ],
+    "item_id": "korea-kr-156790869",
+    "posted_at_iso": "2026-11-25T17:52:37.281911+00:00",
+    "priority": "하",
+    "reason": "차관의 기관 방문 동정성 기사로 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "김진아 외교부 제2차관, 한국국제교류재단 제주 본부 방문",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790869&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "고용노동부",
+    "entities": [],
+    "item_id": "korea-kr-156790843",
+    "posted_at_iso": "2026-11-25T17:52:37.281919+00:00",
+    "priority": "하",
+    "reason": "노사·지역사회 안전문화 캠페인으로 구체 내용이 성인 노동현장 중심이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "노사와 지역사회가 함께 만드는 안전문화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790843&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156790838",
+    "posted_at_iso": "2026-11-25T17:52:37.281926+00:00",
+    "priority": "하",
+    "reason": "기업·공공기관 대상 산림 ESG 공모전 시상식으로 청소년 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청, 기업·공공기관과 산림 ESG 성공사례 공유",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790838&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "행정중심복합도시건설청",
+    "entities": [
+      "행정중심복합도시건설청"
+    ],
+    "item_id": "korea-kr-156790832",
+    "posted_at_iso": "2026-11-25T17:52:37.281934+00:00",
+    "priority": "하",
+    "reason": "내부 인사발령으로 공공 관심 사안이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정중심복합도시건설청)",
+    "title": "인사발령(3급 승진)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790832&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156790840",
+    "posted_at_iso": "2026-11-25T17:52:37.281942+00:00",
+    "priority": "하",
+    "reason": "임도 관계자 실무 행사로 학생과 무관한 산림 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "전국 임도 관계자 한자리에···우수사례 공유 및 정책 발전 모색",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790840&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "외교부",
+    "entities": [],
+    "item_id": "korea-kr-156790845",
+    "posted_at_iso": "2026-11-25T17:52:37.281950+00:00",
+    "priority": "하",
+    "reason": "중미 지역 외교 라운드테이블로 또래와 연결고리가 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "제6차 한-중미 특별라운드테이블 개최 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790845&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "중소벤처기업부",
+    "entities": [
+      "한경협"
+    ],
+    "item_id": "korea-kr-156790846",
+    "posted_at_iso": "2026-11-25T17:52:37.281957+00:00",
+    "priority": "하",
+    "reason": "중견기업 지원 정책 현장 방문으로 성인 기업 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(중소벤처기업부)",
+    "title": "중기부, 한경협과 함께  '도약(Jump-up) 기업' 현장 찾아  중견기업으로 도약 지원 의지 밝혀",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790846&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "외교부",
+    "entities": [
+      "오만"
+    ],
+    "item_id": "korea-kr-156790870",
+    "posted_at_iso": "2026-11-25T17:52:37.281966+00:00",
+    "priority": "하",
+    "reason": "일반 외교장관회담 결과로 또래 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-오만 외교장관회담(11.25.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790870&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
