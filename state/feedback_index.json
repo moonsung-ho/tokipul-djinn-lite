@@ -76730,5 +76730,87 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791066&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부",
+      "광섬유 지진 관측"
+    ],
+    "item_id": "korea-kr-156791097",
+    "message_ts": "1795723287.412799",
+    "posted_at_iso": "2026-11-26T20:01:27.569739+00:00",
+    "priority": "상",
+    "reason": "지진 관측 기술이라는 과학 성과이자 재난·안전과 맞닿은 소식으로 또래의 관심사에 해당한다",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "땅속 광섬유로 '작은 지진'의 파열 순간을 1000분의 1초 단위로 포착",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791097&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "상",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "고용노동부",
+    "entities": [
+      "대구서부지청",
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156791096",
+    "posted_at_iso": "2026-11-26T20:01:27.569765+00:00",
+    "priority": "하",
+    "reason": "임금체불·구속 사건은 성인 노동자 대상 사안으로 청소년과 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고)노동자 74명의 임금·퇴직급여 등  11억 4천만원 체불한 제조업체 대표 구속 (대구서부지청)",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791096&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "국립산림과학원",
+      "산청"
+    ],
+    "item_id": "korea-kr-156791095",
+    "posted_at_iso": "2026-11-26T20:01:27.569776+00:00",
+    "priority": "하",
+    "reason": "감 가공 산업 현장설명회로 학생의 일상이나 사회적 관심사와 무관한 농림 실무 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "감의 새로운 가치, 푸드테크로 찾는다 - 국립산림과학원, 산청 숲푸드 현장설명회서 감 고부가가치  활용 방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791095&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청",
+      "방태산",
+      "비수구미"
+    ],
+    "item_id": "korea-kr-156791093",
+    "posted_at_iso": "2026-11-26T20:01:27.569784+00:00",
+    "priority": "하",
+    "reason": "산림유전자원보호구역 확대 지정은 행정구역 지정 사안으로 또래의 삶이나 관심사와 직접 이어지지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 산림유전자원보호구역 확대 지정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791093&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
