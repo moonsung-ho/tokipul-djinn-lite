@@ -76433,5 +76433,302 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791028&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [
+      "국가기후위기대응위원회"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "국무조정실",
+    "entities": [
+      "경기",
+      "국가기후위기대응위원회"
+    ],
+    "item_id": "korea-kr-156791059",
+    "message_ts": "1795688882.761089",
+    "posted_at_iso": "2026-11-26T10:28:03.054626+00:00",
+    "priority": "중",
+    "reason": "기후위기대응 지역 포럼 개최는 기후 관심사와 닿지만 참여 대상과 내용이 구체화되지 않아 추가 취재가 필요하다",
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 기후위기대응 권역별(경기) 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791059&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "동북아"
+    ],
+    "item_id": "korea-kr-156791070",
+    "message_ts": "1795688883.121189",
+    "posted_at_iso": "2026-11-26T10:28:03.400168+00:00",
+    "priority": "중",
+    "reason": "동북아 환경 공동대응 강화는 기후·환경 관심사이나 구체적 정책 변화나 수치가 없어 배경 취재가 더 필요하다",
+    "source": "정책브리핑(외교부)",
+    "title": "대기오염과 해양보호 등 환경 도전에 대한 동북아 공동 대응 강화",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791070&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "우주항공청",
+    "entities": [
+      "2026 스페이스 해커톤",
+      "우주항공청"
+    ],
+    "item_id": "korea-kr-156791069",
+    "message_ts": "1795688883.458669",
+    "posted_at_iso": "2026-11-26T10:28:03.759595+00:00",
+    "priority": "중",
+    "reason": "위성정보 해커톤 결선은 과학 경진대회로 또래 관심사가 될 수 있으나 참가 대상이 학생인지 불명확해 확인이 필요하다",
+    "source": "정책브리핑(우주항공청)",
+    "title": "위성정보로 미래를 여는 도전 「2026 스페이스 해커톤」 결선 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791069&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "기본사회위원회",
+    "entities": [
+      "기본사회위원회"
+    ],
+    "item_id": "korea-kr-156791065",
+    "posted_at_iso": "2026-11-26T10:28:03.759633+00:00",
+    "priority": "하",
+    "reason": "국민 대상 정책아이디어 공모전 시상식으로 대상이 특정되지 않고 성인 중심 행사로 보인다",
+    "slack_skipped": true,
+    "source": "정책브리핑(기본사회위원회)",
+    "title": "\"국민의 생각이 기본사회 정책으로!\" 기본사회위원회, 정책아이디어 공모전 최종 시상식 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791065&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국세청",
+    "entities": [
+      "종합부동산세"
+    ],
+    "item_id": "korea-kr-156791055",
+    "posted_at_iso": "2026-11-26T10:28:03.759643+00:00",
+    "priority": "하",
+    "reason": "종합부동산세 납부 안내는 성인 납세자 대상 실무 공지로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국세청)",
+    "title": "2026년 종합부동산세, 12월 15일까지 납부하세요",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791055&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국무조정실",
+    "entities": [
+      "부동산 불법행위 대응협의회"
+    ],
+    "item_id": "korea-kr-156791058",
+    "posted_at_iso": "2026-11-26T10:28:03.759651+00:00",
+    "priority": "하",
+    "reason": "부동산 불법행위 대응협의회는 성인 부동산 시장 규제 사안으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국무조정실)",
+    "title": "[보도자료] 제23차 부동산 불법행위 대응협의회",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791058&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156791057",
+    "posted_at_iso": "2026-11-26T10:28:03.759657+00:00",
+    "priority": "하",
+    "reason": "부처 내부 적극행정 경진대회 수상 소식으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "과기정통부, 2026년 적극 행정 우수사례 경진대회 대상(대통령상) 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791057&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국방부",
+    "entities": [
+      "외국사관학교"
+    ],
+    "item_id": "korea-kr-156791056",
+    "posted_at_iso": "2026-11-26T10:28:03.759663+00:00",
+    "priority": "하",
+    "reason": "국방부장관과 현역장교 간담회는 성인 군 인사 사안으로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관, 외국사관학교 졸업 현역장교 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791056&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "박윤주",
+      "온두라스",
+      "과테말라"
+    ],
+    "item_id": "korea-kr-156791050",
+    "posted_at_iso": "2026-11-26T10:28:03.759668+00:00",
+    "priority": "하",
+    "reason": "외교차관 면담은 외교 실무로 또래와 직접 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "박윤주 외교부 제1차관, 온두라스·과테말라 외교차관 면담",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791050&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "농림축산식품부",
+    "entities": [
+      "송미령",
+      "토마토갈색주름과실바이러스"
+    ],
+    "item_id": "korea-kr-156791062",
+    "posted_at_iso": "2026-11-26T10:28:03.759674+00:00",
+    "priority": "하",
+    "reason": "토마토 바이러스 피해농가 현장방문은 농업 실무 지원으로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(농림축산식품부)",
+    "title": "송미령 농림축산식품부 장관, 토마토갈색주름과실바이러스(ToBRFV) 피해농가 현장 방문 및 총력대응 요청",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791062&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "영주국유림관리소",
+      "김석문",
+      "봉화군"
+    ],
+    "item_id": "korea-kr-156791049",
+    "posted_at_iso": "2026-11-26T10:28:03.759679+00:00",
+    "priority": "하",
+    "reason": "임업인 대상 규제합리화 사례 홍보로 성인 임업 종사자 대상 실무 소식이라 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "영주국유림관리소, 산림현장 찾아  임가소통 및 규제합리화 사례 적극홍보 - 임업인 대상 애로사항 청취 및 산림 규제합리화 사례 홍보 등 -",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791049&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "재외공관"
+    ],
+    "item_id": "korea-kr-156791067",
+    "posted_at_iso": "2026-11-26T10:28:03.759688+00:00",
+    "priority": "하",
+    "reason": "재외공관 직원 포상금 지급은 내부 행정 성과로 또래와 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "재외공관 역할 재창조 이행 특별성과 포상금 지급",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791067&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "중부지방산림청"
+    ],
+    "item_id": "korea-kr-156791064",
+    "posted_at_iso": "2026-11-26T10:28:03.759711+00:00",
+    "priority": "하",
+    "reason": "영농부산물 파쇄 지원은 농업인 대상 산불예방 실무로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "중부지방산림청, 영농부산물 파쇄 지원으로 산불 예방 총력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791064&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "이라크"
+    ],
+    "item_id": "korea-kr-156791071",
+    "posted_at_iso": "2026-11-26T10:28:03.759717+00:00",
+    "priority": "하",
+    "reason": "이라크 진출 기업 간담회로 성인 경제 외교 사안이라 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "차관보, 이라크 방문 및 현지 진출 우리 기업 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791071&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "김진아"
+    ],
+    "item_id": "korea-kr-156791066",
+    "posted_at_iso": "2026-11-26T10:28:03.759722+00:00",
+    "priority": "하",
+    "reason": "청년 대상 무상원조 비전 행사로 대상이 청년층(대학생 이상)이라 중학생과 직접 닿지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "청년과 함께 만들어가는 대한민국 무상원조의 미래",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791066&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
