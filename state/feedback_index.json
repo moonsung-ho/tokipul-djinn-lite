@@ -76048,5 +76048,390 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790918&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "해외직구"
+    ],
+    "item_id": "korea-kr-156791029",
+    "message_ts": "1795677586.595089",
+    "posted_at_iso": "2026-11-26T07:19:47.000452+00:00",
+    "priority": "중",
+    "reason": "전기찜질기 등 겨울용품 안전기준 부적합은 또래도 구매·사용하는 소비자 안전 이슈다.",
+    "source": "정책브리핑(산업통상부)",
+    "title": "해외직구 겨울용 섬유제품, 전기찜질기 등 31개 제품 안전기준 부적합",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791029&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156791015",
+    "posted_at_iso": "2026-11-26T07:19:47.000480+00:00",
+    "priority": "하",
+    "reason": "자활사업 설명회는 성인 저소득층 대상 복지 사업이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "\"참여자의 의지와 역량에 맞게\" 맞춤형 자활 2차 시범사업 설명회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791015&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국토교통부",
+    "entities": [
+      "국토교통부"
+    ],
+    "item_id": "korea-kr-156791038",
+    "posted_at_iso": "2026-11-26T07:19:47.000489+00:00",
+    "priority": "하",
+    "reason": "전세사기 기획조사는 성인 임차인 대상 수사로 중학생의 일상 규칙과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "'26년 전세사기 기획조사 실시 결과 전세사기 의심 88건 적발… 22명 수사의뢰",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791038&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156791019",
+    "posted_at_iso": "2026-11-26T07:19:47.000498+00:00",
+    "priority": "하",
+    "reason": "학술 심포지엄 개최 소식으로 또래의 일상이나 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2026 라틴아메리카 협력센터 심포지엄 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791019&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "외교부"
+    ],
+    "item_id": "korea-kr-156791017",
+    "posted_at_iso": "2026-11-26T07:19:47.000506+00:00",
+    "priority": "하",
+    "reason": "재외공관장회의는 외교부 내부 행정 행사로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "2026년도 재외공관장회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791017&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156791035",
+    "posted_at_iso": "2026-11-26T07:19:47.000513+00:00",
+    "priority": "하",
+    "reason": "의료비 비급여 공개제도는 전국민 대상이나 또래의 일상 규칙과 직접 닿지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "2027년 비급여 보고·공개항목 확대 등 비급여 관리방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791035&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국토교통부",
+    "entities": [
+      "홍지선",
+      "용인"
+    ],
+    "item_id": "korea-kr-156791016",
+    "posted_at_iso": "2026-11-26T07:19:47.000526+00:00",
+    "priority": "하",
+    "reason": "장관 동정성 현장점검 기사로 절차성 보도에 그친다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국토교통부)",
+    "title": "[장관동정] 홍지선 장관, 용인 반도체 국가산단 및 공공주택지구 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791016&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156791021",
+    "posted_at_iso": "2026-11-26T07:19:47.000535+00:00",
+    "priority": "하",
+    "reason": "전문가 중심 포럼 회의로 내용이 구체적이지 않고 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "「2026 개인정보 미래포럼」 제5차 전체회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791021&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156791020",
+    "posted_at_iso": "2026-11-26T07:19:47.000543+00:00",
+    "priority": "하",
+    "reason": "내부 적극행정 수상 소식으로 실제 정책 변화나 서비스 시행이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 인공지능 기반 보이스피싱 탐지 서비스로 적극행정 우수사례 경진대회 대상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791020&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "관세청",
+    "entities": [
+      "관세청"
+    ],
+    "item_id": "korea-kr-156791042",
+    "posted_at_iso": "2026-11-26T07:19:47.000550+00:00",
+    "priority": "하",
+    "reason": "무역기반 금융범죄 단속은 성인 경제사범 대상으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(관세청)",
+    "title": "관세청, 무역기반 재정·금융 편취 범죄(TBFC)근절 협업을 위해 6개 기관과 양해각서(MOU) 체결",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791042&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국가데이터처",
+    "entities": [
+      "국가데이터처"
+    ],
+    "item_id": "korea-kr-156791022",
+    "posted_at_iso": "2026-11-26T07:19:47.000557+00:00",
+    "priority": "하",
+    "reason": "통계 전문가 대상 컨퍼런스로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가데이터처)",
+    "title": "국가데이터처, 실용통계교육 컨퍼런스 개최 보도자료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791022&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "법제처",
+    "entities": [
+      "법제처"
+    ],
+    "item_id": "korea-kr-156791034",
+    "posted_at_iso": "2026-11-26T07:19:47.000562+00:00",
+    "priority": "하",
+    "reason": "일반적 법령정비 캠페인 홍보성 자료로 구체적 대상이나 변화가 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법제처)",
+    "title": "국민의 아이디어를 통해 불편·불합리한 법령을 정비합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791034&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "무역위원회"
+    ],
+    "item_id": "korea-kr-156791030",
+    "posted_at_iso": "2026-11-26T07:19:47.000582+00:00",
+    "priority": "하",
+    "reason": "무역구제 덤핑조사 예비판정은 산업 실무 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "무역위, 중국산 폴리염화비닐 서스펜션 수지, 석도강판 덤핑조사 예비판정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791030&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "북부지방산림청"
+    ],
+    "item_id": "korea-kr-156791040",
+    "posted_at_iso": "2026-11-26T07:19:47.000588+00:00",
+    "priority": "하",
+    "reason": "취약계층 겨울나기 행사로 학생과 직접 연결되지 않는 지역 복지 행사다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 따뜻한 겨울 나기 '사랑의 땔감 나누기' 행사 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791040&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "산림항공본부"
+    ],
+    "item_id": "korea-kr-156791033",
+    "posted_at_iso": "2026-11-26T07:19:47.000594+00:00",
+    "priority": "하",
+    "reason": "산림청 내부 연구모임 수상 소식으로 또래와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청 항공연구회, 공무원 우수 연구모임 4년 연속 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791033&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "체코"
+    ],
+    "item_id": "korea-kr-156791027",
+    "posted_at_iso": "2026-11-26T07:19:47.000600+00:00",
+    "priority": "하",
+    "reason": "체코 원전사업 점검은 성인 산업·외교 사안으로 또래와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "산업부 장관, 체코 원전사업 계획의 철저한 이행과 체코와의 신뢰 공고화 방안 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791027&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "보건복지부",
+    "entities": [
+      "정은경"
+    ],
+    "item_id": "korea-kr-156791036",
+    "posted_at_iso": "2026-11-26T07:19:47.000606+00:00",
+    "priority": "하",
+    "reason": "취약계층 찾아가는 복지서비스 점검으로 학생 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "정은경 장관, 그냥드림과 우체국 협업한 찾아가는 서비스 운영 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791036&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국민통합위원회",
+    "entities": [
+      "국민통합위원회",
+      "김포공항",
+      "제주공항"
+    ],
+    "item_id": "korea-kr-156791014",
+    "posted_at_iso": "2026-11-26T07:19:47.000611+00:00",
+    "priority": "하",
+    "reason": "공항 행사 개최 소식으로 또래의 규칙이나 관심사와 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국민통합위원회)",
+    "title": "통합위, 김포공항 1차 행사에 이어 제주공항에서 두 번째 행사 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791014&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "이란"
+    ],
+    "item_id": "korea-kr-156791037",
+    "posted_at_iso": "2026-11-26T07:19:47.000617+00:00",
+    "priority": "하",
+    "reason": "통상적 외교장관 통화로 특별한 사건성이나 또래 연관성이 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "한-이란 외교장관 통화(11.26.) 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791037&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156791028",
+    "posted_at_iso": "2026-11-26T07:19:47.000623+00:00",
+    "priority": "하",
+    "reason": "한일 반도체·AI 산업협력 논의는 성인 산업정책으로 또래와 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한-일 정부와 민간, 반도체·AI 등 미래성장 협력 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791028&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
