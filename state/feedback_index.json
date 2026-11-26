@@ -75667,5 +75667,386 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790870&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156790903",
+    "message_ts": "1795656929.694779",
+    "posted_at_iso": "2026-11-26T01:35:30.104632+00:00",
+    "priority": "중",
+    "reason": "통학버스를 포함한 전국 시내·광역버스 와이파이 고도화로 학생 통학 환경에 간접적으로 영향을 준다.",
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "국민 가계통신비 부담 덜고 속도와 안정성은 높이고... 전국 시내·광역버스 약 3.3만 대 와이파이 7 고도화 완료",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790903&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156790913",
+    "posted_at_iso": "2026-11-26T01:35:30.104664+00:00",
+    "priority": "하",
+    "reason": "기업 상표 보호 행정 성과를 다루는 내용으로 청소년과 접점이 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "'가짜 K-상표' 정부가 직접 막는다! 범정부 적극행정 우수상 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790913&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "질병관리청",
+    "entities": [
+      "질병관리청"
+    ],
+    "item_id": "korea-kr-156790904",
+    "posted_at_iso": "2026-11-26T01:35:30.104674+00:00",
+    "priority": "하",
+    "reason": "감염병 전문 콘퍼런스로 보건 전문가 대상 행사이며 학생 대상 정책 변화는 없다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(질병관리청)",
+    "title": "[11.26.행사시작(10시)이후] 현장과 함께 만드는 감염병 대응의 미래, 「2026 감염병관리 콘퍼런스」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790904&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "식품의약품안전처",
+    "entities": [
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156790907",
+    "posted_at_iso": "2026-11-26T01:35:30.104682+00:00",
+    "priority": "하",
+    "reason": "식품산업 성장 관련 보도참고로 학교 급식 등 학생 접점이 드러나지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(식품의약품안전처)",
+    "title": "[보도참고] K-FIND, 건강한 일상과 식품산업 성장을 이끈다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790907&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156790910",
+    "posted_at_iso": "2026-11-26T01:35:30.104690+00:00",
+    "priority": "하",
+    "reason": "기업결합 관련 개인정보 실태점검으로 기업 대상 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "개인정보위, 기업결합 관련 사전 실태점검 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790910&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156790919",
+    "posted_at_iso": "2026-11-26T01:35:30.104697+00:00",
+    "priority": "하",
+    "reason": "개인투자용 국채 발행 중단 안내로 성인 투자자 대상 금융 공고다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "개인투자용 국채 12월 발행 미실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790919&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "행정안전부",
+    "entities": [],
+    "item_id": "korea-kr-156790916",
+    "posted_at_iso": "2026-11-26T01:35:30.104713+00:00",
+    "priority": "하",
+    "reason": "행안부 내부 조직문화·공간혁신 우수기관 선정으로 공직 내부 행정 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(행정안전부)",
+    "title": "공직사회에 새로운 변화를 불어넣다! 행안부, 조직문화 개선·공간혁신 우수기관 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790916&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "국립수목원"
+    ],
+    "item_id": "korea-kr-156790900",
+    "posted_at_iso": "2026-11-26T01:35:30.104721+00:00",
+    "priority": "하",
+    "reason": "국립수목원의 월간 정원식물 선정 소식으로 과학적 성과나 참여 기회가 아닌 단순 홍보다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립수목원, 11월 '우리의 정원식물'로 비자나무 선정",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790900&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "소방청",
+    "entities": [
+      "소방청"
+    ],
+    "item_id": "korea-kr-156790917",
+    "posted_at_iso": "2026-11-26T01:35:30.104728+00:00",
+    "priority": "하",
+    "reason": "소방 현장 종사자의 안전 발명 아이디어 공모로 청소년과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(소방청)",
+    "title": "국민안전 지키는 현장의 아이디어, 최고의 발명품은?",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790917&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156790911",
+    "posted_at_iso": "2026-11-26T01:35:30.104735+00:00",
+    "priority": "하",
+    "reason": "현장 안전 관련 발명 경진대회로 성인 현장 종사자 대상이라 학생과 무관하다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "국민의 생명과 안전을 지키는 현장 최고의 발명은",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790911&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "법무부",
+    "entities": [
+      "법무부"
+    ],
+    "item_id": "korea-kr-156790908",
+    "posted_at_iso": "2026-11-26T01:35:30.104741+00:00",
+    "priority": "하",
+    "reason": "동포·지역주민 대상 김장 체험 행사로 청소년 특정 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(법무부)",
+    "title": "동포는 전국에서 김장 중, 동포와 지역주민이 함께하는 김장 체험",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790908&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "국가보훈부",
+    "entities": [
+      "국가보훈부"
+    ],
+    "item_id": "korea-kr-156790902",
+    "posted_at_iso": "2026-11-26T01:35:30.104748+00:00",
+    "priority": "하",
+    "reason": "보훈대상자 증명서 발급 서비스로 청소년과 무관한 행정 편의 조치다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(국가보훈부)",
+    "title": "보훈증명서 10종， 전국 무인민원발급기에서 무료 발급 시행",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790902&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156790906",
+    "posted_at_iso": "2026-11-26T01:35:30.104754+00:00",
+    "priority": "하",
+    "reason": "산림복지시설의 동절기 안전사고 예방 조치로 대상이 특정되지 않아 학생과 직접 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "북부지방산림청, 산림복지시설 동절기 안전사고 제로화 총력",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790906&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "개인정보보호위원회",
+    "entities": [
+      "개인정보보호위원회"
+    ],
+    "item_id": "korea-kr-156790909",
+    "posted_at_iso": "2026-11-26T01:35:30.104759+00:00",
+    "priority": "하",
+    "reason": "기업의 개인정보 활용 사전적정성 검토제로 성인·기업 대상 정책이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(개인정보보호위원회)",
+    "title": "사전적정성 검토제, 사전 협의에 그치지 않고 현장까지 챙긴다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790909&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처"
+    ],
+    "item_id": "korea-kr-156790912",
+    "posted_at_iso": "2026-11-26T01:35:30.104766+00:00",
+    "priority": "하",
+    "reason": "기업의 해외 특허 지원 정책으로 청소년 대상이 아니다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "우리 기업의 국제 특허경쟁력 강화, 「해외특허 길잡이」가 함께합니다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790912&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "외교부",
+    "entities": [
+      "외교부",
+      "튀르키예"
+    ],
+    "item_id": "korea-kr-156790901",
+    "posted_at_iso": "2026-11-26T01:35:30.104772+00:00",
+    "priority": "하",
+    "reason": "외교부 유럽국장의 튀르키예 방문 결과로 외교 실무 사안이라 또래 관심사와 거리가 있다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "유럽국장 튀르키예 방문 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790901&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790893",
+    "posted_at_iso": "2026-11-26T01:35:30.104779+00:00",
+    "priority": "하",
+    "reason": "산업 AI 표준화 정책으로 기업·산업계 대상 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "인공지능(AI), 기술 진화에서 산업 대전환까지 표준이 함께 한다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790893&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "지식재산처",
+    "entities": [
+      "지식재산처",
+      "경찰청"
+    ],
+    "item_id": "korea-kr-156790914",
+    "posted_at_iso": "2026-11-26T01:35:30.104785+00:00",
+    "priority": "하",
+    "reason": "지식재산처와 경찰청의 수사협력 간담회로 학생과 무관한 기관 간 업무 협의다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(지식재산처)",
+    "title": "지식재산처-경찰청 수사협력 간담회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790914&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "산업통상부",
+    "entities": [
+      "산업통상부"
+    ],
+    "item_id": "korea-kr-156790892",
+    "posted_at_iso": "2026-11-26T01:35:30.104792+00:00",
+    "priority": "하",
+    "reason": "한국-아세안 싱크탱크의 통상 협력 논의로 성인 경제 정책 사안이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(산업통상부)",
+    "title": "한국과 아세안 싱크탱크, 미래 경제 통상 협력방안 논의",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790892&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-26",
+    "dept": "고용노동부",
+    "entities": [
+      "한국산업인력공단"
+    ],
+    "item_id": "korea-kr-156790918",
+    "posted_at_iso": "2026-11-26T01:35:30.104797+00:00",
+    "priority": "하",
+    "reason": "직업훈련기관의 AI 훈련 우수사례 경진대회로 성인 훈련생·기관 대상이다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "한국산업인력공단, '인공지능(AI) 훈련 우수사례 경진대회' 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790918&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-26&endDate=2026-11-26&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
