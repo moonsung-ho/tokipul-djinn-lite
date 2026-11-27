@@ -77191,5 +77191,441 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791154&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-26",
+    "dept": "",
+    "entities": [
+      "정근식",
+      "피스앤파크컨벤션"
+    ],
+    "item_id": "sen-press-192683",
+    "message_ts": "1795763765.256299",
+    "posted_at_iso": "2026-11-27T07:16:05.648705+00:00",
+    "priority": "중",
+    "reason": "고등학생 AI 개발 성과발표회로 또래의 성취를 보여주지만 특정 17개교 참가자에 한정돼 대상이 좁다",
+    "source": "서울시교육청 보도자료",
+    "title": "“탐구 역량으로 AI를 만들다” 서울시교육청, 학생 AI 개발 성과발표회 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192683&step1=3&step2=1",
+    "관심사": "중",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [
+      "식품의약품안전처"
+    ],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-27",
+    "dept": "보건복지부",
+    "entities": [
+      "보건복지부",
+      "식품의약품안전처"
+    ],
+    "item_id": "korea-kr-156791214",
+    "message_ts": "1795763765.741859",
+    "posted_at_iso": "2026-11-27T07:16:06.124944+00:00",
+    "priority": "중",
+    "reason": "필수의약품 공급은 전 국민 보건 안전과 관련된 사회적 관심사이지만 청소년이 직접 등장하지는 않는다",
+    "source": "정책브리핑(보건복지부)",
+    "title": "정부, 국가필수의약품 안정공급 강화 위해 민·관 협력 체계 구축",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791214&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "중",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "channel_id": "C0BRLQBLGR3",
+    "collected": false,
+    "date": "2026-11-25",
+    "dept": "",
+    "entities": [
+      "정근식",
+      "학생맞춤통합지원"
+    ],
+    "item_id": "sen-press-192681",
+    "message_ts": "1795763766.221429",
+    "posted_at_iso": "2026-11-27T07:16:06.592877+00:00",
+    "priority": "중",
+    "reason": "학생맞춤통합지원 체계는 위기학생 지원과 관련된 제도이지만 이 행사는 교직원·관계자 대상 성과공유회로 학생이 직접 등장하지 않는다",
+    "source": "서울시교육청 보도자료",
+    "title": "“실천하며 성장해 온 서울의 학맞통!” 2026 서울 학생맞춤통합지원 비전·성장 이룸 마당 개최",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192681&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "중"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부"
+    ],
+    "item_id": "korea-kr-156791202",
+    "posted_at_iso": "2026-11-27T07:16:06.592912+00:00",
+    "priority": "하",
+    "reason": "국가자격시험 부정행위 방지대책으로 대상이 성인 응시자다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "(참고) 국가자격시험 부정행위 방지대책, 시험 전·중·후 단계별로 빈틈없이 점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791202&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "방위사업청",
+    "entities": [
+      "국방과학연구소",
+      "방위사업청"
+    ],
+    "item_id": "korea-kr-156791212",
+    "posted_at_iso": "2026-11-27T07:16:06.592922+00:00",
+    "priority": "하",
+    "reason": "국방과학연구소의 내부통제 수상 소식으로 기관 동정성 기사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "[국과연] 국방과학연구소, 대한민국 내부통제경영대상에서 '대상' 수상",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791212&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "통일부",
+    "entities": [
+      "통일부"
+    ],
+    "item_id": "korea-kr-156791215",
+    "posted_at_iso": "2026-11-27T07:16:06.592929+00:00",
+    "priority": "하",
+    "reason": "남북 물 협력 대토론회로 전문가 대상 토론 행사이며 구체적 정책 변화가 없다",
+    "slack_skipped": true,
+    "source": "정책브리핑(통일부)",
+    "title": "「물로 여는 평화 한반도 상생협력 대토론회」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791215&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회",
+      "한국규제학회"
+    ],
+    "item_id": "korea-kr-156791207",
+    "posted_at_iso": "2026-11-27T07:16:06.592936+00:00",
+    "priority": "하",
+    "reason": "공정위-학회 공동 학술대회로 대상이 전문가·학계에 한정된다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "공정거래위원회-한국공정거래조정원-한국규제학회 공동 학술대회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791207&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "공정거래위원회",
+    "entities": [
+      "공정거래위원회",
+      "한국공정거래조정원"
+    ],
+    "item_id": "korea-kr-156791206",
+    "posted_at_iso": "2026-11-27T07:16:06.592942+00:00",
+    "priority": "하",
+    "reason": "상생협력·하도급대금 우수사례 발표회로 대상이 기업 성인층이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(공정거래위원회)",
+    "title": "공정위·조정원, 상생협력 모범사례 및 하도급대금 연동 우수사례 발표회 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791206&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "국군사관학교"
+    ],
+    "item_id": "korea-kr-156791208",
+    "posted_at_iso": "2026-11-27T07:16:06.592949+00:00",
+    "priority": "하",
+    "reason": "국군사관학교창설추진단 신설은 조직 신설 행정 단계로 학생 진로에 직접 닿기엔 이르다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국군사관학교창설추진단 신설",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791208&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "산림청",
+    "entities": [
+      "산림청",
+      "신시도자연휴양림",
+      "전북대학교"
+    ],
+    "item_id": "korea-kr-156791205",
+    "posted_at_iso": "2026-11-27T07:16:06.592956+00:00",
+    "priority": "하",
+    "reason": "대학생이 참여한 지방 휴양림 해안 정화활동으로 서울 중학생과 무관하다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "국립신시도자연휴양림, 전북대학교와 함께 해안 정화활동 실시",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791205&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "고용노동부",
+    "entities": [
+      "고용노동부",
+      "고용24"
+    ],
+    "item_id": "korea-kr-156791216",
+    "posted_at_iso": "2026-11-27T07:16:06.592962+00:00",
+    "priority": "하",
+    "reason": "고용서비스 해커톤으로 국민참여형이지만 대상이 구직 성인층이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(고용노동부)",
+    "title": "국민이 체감하고 제안하는 인공지능(AI) 고용서비스 발굴,  「고용24 국민참여 인공지능(AI) 고용서비스 발굴 온라인 해커톤」 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791216&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "국방부",
+    "entities": [
+      "국방부",
+      "육군 동원사단"
+    ],
+    "item_id": "korea-kr-156791221",
+    "posted_at_iso": "2026-11-27T07:16:06.592969+00:00",
+    "priority": "하",
+    "reason": "국방부장관의 드론부대 현장점검으로 군사 행정 동정 성격의 기사다",
+    "slack_skipped": true,
+    "source": "정책브리핑(국방부)",
+    "title": "국방부장관, 육군 동원사단 드론실증부대 현장점검",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791221&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "병무청",
+    "entities": [
+      "병무청",
+      "한국생명존중희망재단"
+    ],
+    "item_id": "korea-kr-156791201",
+    "posted_at_iso": "2026-11-27T07:16:06.592975+00:00",
+    "priority": "하",
+    "reason": "청년 병역의무자 대상 정신건강 지원으로 대상이 성인이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(병무청)",
+    "title": "병무청, 한국생명존중희망재단과 협력으로 청년 병역의무자 정신건강 지원",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791201&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "산림청",
+    "entities": [
+      "산림청"
+    ],
+    "item_id": "korea-kr-156791199",
+    "posted_at_iso": "2026-11-27T07:16:06.592981+00:00",
+    "priority": "하",
+    "reason": "산림분야 NDC 관련 지방정부 협의회로 행정 간 협력 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(산림청)",
+    "title": "산림청-지방정부, 산림분야 NDC 실행력 강화에 뜻 모아",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791199&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "재정경제부",
+    "entities": [
+      "재정경제부"
+    ],
+    "item_id": "korea-kr-156791203",
+    "posted_at_iso": "2026-11-27T07:16:06.593000+00:00",
+    "priority": "하",
+    "reason": "시장상황점검회의는 경제 실무 행정 자료로 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(재정경제부)",
+    "title": "시장상황점검회의 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791203&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156791209",
+    "posted_at_iso": "2026-11-27T07:16:06.593006+00:00",
+    "priority": "하",
+    "reason": "긴급구조 위치정보 민관협의체 '구성'은 실제 처분이 아닌 절차성 공고다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "신속하고 정확한 국민안전 긴급구조를 위한 민관협의체 구성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791209&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "원자력안전위원회",
+    "entities": [
+      "원자력안전위원회"
+    ],
+    "item_id": "korea-kr-156791224",
+    "posted_at_iso": "2026-11-27T07:16:06.593013+00:00",
+    "priority": "하",
+    "reason": "방사선안전관리자 전문 포럼으로 대상이 전문가에 한정된다",
+    "slack_skipped": true,
+    "source": "정책브리핑(원자력안전위원회)",
+    "title": "원안위, 2026년 하반기 방사선안전관리자 전국 포럼 개최",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791224&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "방위사업청",
+    "entities": [
+      "방위사업청"
+    ],
+    "item_id": "korea-kr-156791211",
+    "posted_at_iso": "2026-11-27T07:16:06.593020+00:00",
+    "priority": "하",
+    "reason": "국방사업관리사 국가자격검정 결과로 성인 전문자격시험 사안이다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방위사업청)",
+    "title": "제8회 국방사업관리사  국가자격검정 결과 발표",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791211&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "보건복지부",
+    "entities": [
+      "국립재활원",
+      "보건복지부"
+    ],
+    "item_id": "korea-kr-156791220",
+    "posted_at_iso": "2026-11-27T07:16:06.593025+00:00",
+    "priority": "하",
+    "reason": "퇴원환자 재활 연계 사업으로 대상이 성인 의료 영역이라 또래와 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "퇴원환자 77.2% 재활 위해 지역사회 연계, 국립재활원, 사후관리 지원사업 결과 공유",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791220&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156791196",
+    "posted_at_iso": "2026-11-27T07:16:06.593031+00:00",
+    "priority": "하",
+    "reason": "연구장비 공동활용 성과는 연구기관 대상 실무 자료다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "함께 쓰는 연구 장비, 함께 여는 연구개발 미래 공동활용 우수성과 한자리에",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791196&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "방송미디어통신위원회",
+    "entities": [
+      "방송미디어통신위원회"
+    ],
+    "item_id": "korea-kr-156791222",
+    "posted_at_iso": "2026-11-27T07:16:06.593037+00:00",
+    "priority": "하",
+    "reason": "AI 이용자 보호 토론회로 구체적 처분이나 정책 변화 없이 논의 단계에 그친다",
+    "slack_skipped": true,
+    "source": "정책브리핑(방송미디어통신위원회)",
+    "title": "행동하는 인공지능 시대, 이용자 보호 방안은?",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791222&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-27&endDate=2026-11-27&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-25",
+    "dept": "",
+    "entities": [
+      "협업마일리지"
+    ],
+    "item_id": "sen-press-192682",
+    "posted_at_iso": "2026-11-27T07:16:06.593043+00:00",
+    "priority": "하",
+    "reason": "부서 간 협업마일리지 제도 운영 성과로 교육청 내부 행정 사안이라 학생과 연결되지 않는다",
+    "slack_skipped": true,
+    "source": "서울시교육청 보도자료",
+    "title": "“함께하는 서울교육”, 협업의 가치 커졌다... 서울시교육청, 우수 협업사례 선정",
+    "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192682&step1=3&step2=1",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
