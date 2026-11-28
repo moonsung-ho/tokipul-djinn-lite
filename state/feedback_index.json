@@ -78119,5 +78119,25 @@
     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791248&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-28&endDate=2026-11-28&srchWord=&period=",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-28",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "동해",
+      "과학기술정보통신부"
+    ],
+    "item_id": "korea-kr-156791260",
+    "posted_at_iso": "2026-11-28T06:48:53.709620+00:00",
+    "priority": "하",
+    "reason": "AI 데이터센터 건립은 산업·인프라 투자 사안으로 청소년의 권리·일상에 직접 닿지 않고 과학 성과로 보기도 어렵다",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "[보도참고] 초대형 사업 인공지능 데이터센터, 동해에서 떠오르다",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791260&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-28&endDate=2026-11-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
