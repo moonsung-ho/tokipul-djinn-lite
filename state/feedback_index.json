@@ -78061,5 +78061,63 @@
     "url": "https://enews.sen.go.kr/news/view.do?bbsSn=192702&step1=3&step2=1",
     "관심사": "하",
     "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-28",
+    "dept": "외교부",
+    "entities": [
+      "독일",
+      "하르트만"
+    ],
+    "item_id": "korea-kr-156791249",
+    "posted_at_iso": "2026-11-28T03:08:20.967662+00:00",
+    "priority": "하",
+    "reason": "외교부 유럽국장의 독일 방문은 외교 실무 동향으로 또래의 일상이나 관심사와 연결되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(외교부)",
+    "title": "유럽국장, 독일 방문 결과",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791249&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-28&endDate=2026-11-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-28",
+    "dept": "보건복지부",
+    "entities": [
+      "정은경"
+    ],
+    "item_id": "korea-kr-156791251",
+    "posted_at_iso": "2026-11-28T03:08:20.967685+00:00",
+    "priority": "하",
+    "reason": "보건복지부 국가시험(의료·보건 자격시험)은 전문직 응시자 대상으로 중학생과 직접 연관되지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(보건복지부)",
+    "title": "정은경 장관, 국가시험 현장 점검, 첨단기기 부정행위 빈틈없이 차단 강조",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791251&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-28&endDate=2026-11-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
+  },
+  {
+    "also_from": [],
+    "collected": true,
+    "date": "2026-11-27",
+    "dept": "과학기술정보통신부",
+    "entities": [
+      "K-디지털 그랜드 챔피언십"
+    ],
+    "item_id": "korea-kr-156791248",
+    "posted_at_iso": "2026-11-28T03:08:20.967690+00:00",
+    "priority": "하",
+    "reason": "AI 창업 초기 기업 발굴·육성 행사로 대상이 스타트업·성인 창업자이며 청소년 당사자성이나 관심사로 이어지지 않는다.",
+    "slack_skipped": true,
+    "source": "정책브리핑(과학기술정보통신부)",
+    "title": "제5회 K-디지털 그랜드 챔피언십 개최… 대한민국 대표 인공지능 창업 초기 기업 발굴·육성",
+    "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791248&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-28&endDate=2026-11-28&srchWord=&period=",
+    "관심사": "하",
+    "당사자성": "하"
   }
 ]
